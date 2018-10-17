@@ -2,23 +2,37 @@
 
 // Add our lists.
 $lists = array(
-	// Mobile Ads
-	'AdguardMobileAds' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt',
 
-	// Mobile Tracking + Spyware
-	'AdguardMobileSpyware' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt',
+	// ABP China
+	'ABP-CN' => 'https://easylist-downloads.adblockplus.org/easylistchina.txt',
 
-	// Adguard Apps
-	'AdguardApps' => 'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt',
+	// ABP Russia
+	'ABP-RU' => 'https://easylist-downloads.adblockplus.org/advblock.txt',
 
-	// Adguard DNS
-	'AdguardDNS' => 'https://filters.adtidy.org/extension/chromium/filters/15.txt',
+	// Adguard Annoyance
+	'AdguardAnnoyance' => 'https://filters.adtidy.org/extension/chromium/filters/14.txt',
 
-	// EasyPrivacy Specific
-	'EasyPrivacySpecific' => 'https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt',
+	// AdGuard Russian
+	'AdGuardRussian' => 'https://filters.adtidy.org/extension/chromium/filters/1.txt',
 
-	// EasyPrivacy Third-Party
-	'EasyPrivacy3rdParty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt'
+	// AdGuard Spyware
+	'AdguardSpyware' => 'https://filters.adtidy.org/extension/chromium/filters/3.txt',
+
+	// Disconnect Malvertising
+	'DisconnectMalvertising' => 'https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt',
+
+	// Easylist Privacy
+	'EasyPrivacy' => 'https://easylist.to/easylist/easyprivacy.txt',
+	
+	// Fanboy Enhanced Tracking
+	'FanboyEnhancedTracking' => 'https://www.fanboy.co.nz/enhancedstats.txt',
+
+	// Spam404
+	'Spam404' => 'https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt',
+
+	// xinggsf
+	'xinggsf' => 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt'
+
 );
 
 foreach ( $lists as $name => $list ) {
@@ -56,15 +70,13 @@ foreach ( $lists as $name => $list ) {
 		if ( false !== strpos( $filter, ' ' ) ) {
 			continue;
 		}
-
 		// Skip exception rules.
 		if ( false !== strpos( $filter, '@@' ) ) {
 			continue;
 		}
-
 		// Replace filter syntax with HOSTS syntax.
 		// @todo Perhaps skip $third-party, $image and $popup?
-		$filter = str_replace( array( '||', '^', '$third-party', ',third-party', '$image', ',image', ',important', '$script', ',script', ',object', '$popup', '$empty' ), '', $filter );
+		$filter = str_replace( array( '||', '^', '$third-party', ',third-party', '$image', ',image', '$important', ',important', '$script', ',script', '$object-subrequest', '$object',',object', '$popup', ',popup','$empty', '$subdocument', ',subdocument', '-subrequest', '$websocket', '$media', ',stylesheet', '|' ), '', $filter );
 
 		// Skip rules matching 'xmlhttprequest' for now.
 		if ( false !== strpos( $filter, 'xmlhttprequest' ) ) {
@@ -81,11 +93,87 @@ foreach ( $lists as $name => $list ) {
 			continue;
 		}
 
+		// Skip commented rules
+		if ( false !== strpos( $filter, '!' ) ) {
+			continue;
+		}
+		
+		// If starting or ending with ; Custom array
+		if ( '_' === substr( $filter, 0, 1 ) || '.' === substr( $filter, -1 ) ) {
+			continue;
+		}
+		if ( ';' === substr( $filter, 0, 1 ) || '.' === substr( $filter, -1 ) ) {
+			continue;
+		}
+		if ( '-' === substr( $filter, 0, 1 ) || '.' === substr( $filter, -1 ) ) {
+			continue;
+		}
+		if ( '' === substr( $filter, 0, 1 ) || '-' === substr( $filter, -1 ) ) {
+			continue;
+		}
+
+		// Skip weird leftover filtering rules in adguardRU filter
+		if ( false !== strpos( $filter, '120x600.' ) ) {
+			continue;
+		}
+		if ( false !== strpos( $filter, '160x600.' ) ) {
+			continue;
+		}
+		if ( false !== strpos( $filter, '468x15.h' ) ) {
+			continue;
+		}
+		if ( false !== strpos( $filter, '468x60a.' ) ) {
+			continue;
+		}
+		if ( false !== strpos( $filter, '468x60.g' ) ) {
+			continue;
+		}
+		if ( false !== strpos( $filter, '468x60.h' ) ) {
+			continue;
+		}
+		if ( false !== strpos( $filter, '468x60.j' ) ) {
+			continue;
+		}
+		if ( false !== strpos( $filter, '468x60.s' ) ) {
+			continue;
+		}
+		if ( false !== strpos( $filter, '728x90.g' ) ) {
+			continue;
+		}
+		if ( false !== strpos( $filter, '728x90.h' ) ) {
+			continue;
+		}
+		if ( false !== strpos( $filter, '728x90.j' ) ) {
+			continue;
+		}
+		if ( false !== strpos( $filter, '728x90.p' ) ) {
+			continue;
+		}
+		if ( false !== strpos( $filter, '728x90.s' ) ) {
+			continue;
+		}
+		if ( false !== strpos( $filter, '768x60.gif' ) ) {
+			continue;
+		}
+		if ( false !== strpos( $filter, 'ban100x100.swf' ) ) {
+			continue;
+		}
+
 		$hosts .= "0.0.0.0 {$filter}\n";
 	}
-
-	// Output the file.
-	file_put_contents( "{$name}.txt", $hosts );
+	// Set output directory 
+	$dir = './hosts-list/';
+	
+	// Create folder 'hosts-list'
+    if(!is_dir($dir)){
+        $dir_p = explode('/',$dir);
+        for($a = 1 ; $a <= count($dir_p) ; $a++){
+            @mkdir(implode('/',array_slice($dir_p,0,$a)));  
+        }
+    }
+	
+	// Put generated content in 'hosts-list' folder
+	file_put_contents( $dir . "{$name}.txt", $hosts );
 
 	echo "{$name} converted to HOSTS file - see {$name}.txt\n";
 }
