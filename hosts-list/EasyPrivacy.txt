@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Wed, 17 Oct 2018 20:23:40 +0800
+# Last converted - Sat, 20 Oct 2018 23:04:22 +0800
 #
 
 0.0.0.0 0emm.com
@@ -775,6 +775,7 @@
 0.0.0.0 fast-thinking.co.uk
 0.0.0.0 fastanalytic.com
 0.0.0.0 fastly-analytics.com
+0.0.0.0 fastly-insights.com
 0.0.0.0 fastonlineusers.com
 0.0.0.0 fastwebcounter.com
 0.0.0.0 fathomseo.com
@@ -967,6 +968,7 @@
 0.0.0.0 hlserve.com
 0.0.0.0 homechader.com
 0.0.0.0 hopurl.org
+0.0.0.0 hospitality-optimizer.com
 0.0.0.0 host-tracker.com
 0.0.0.0 hostip.info
 0.0.0.0 hoststats.info
@@ -1323,6 +1325,7 @@
 0.0.0.0 mtracking.com
 0.0.0.0 mtrics.cdc.gov
 0.0.0.0 mucocutaneousmyrmecophaga.com
+0.0.0.0 murdoog.com
 0.0.0.0 musthird.com
 0.0.0.0 mvilivestats.com
 0.0.0.0 mvtracker.com
@@ -2145,6 +2148,7 @@
 0.0.0.0 tynt.com
 0.0.0.0 tyxo.com
 0.0.0.0 tz284.com
+0.0.0.0 u5c93.com
 0.0.0.0 u5e.com
 0.0.0.0 uadx.com
 0.0.0.0 ubertags.com
@@ -5245,6 +5249,7 @@
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.nuskin.com
 0.0.0.0 beacon.search.yahoo.com
+0.0.0.0 beacon.shazam.com
 0.0.0.0 beacon.toyota.co.jp
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
