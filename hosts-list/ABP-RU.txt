@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Wed, 17 Oct 2018 20:23:37 +0800
+# Last converted - Sat, 20 Oct 2018 23:04:19 +0800
 #
 
 0.0.0.0 welcomegames.net
@@ -2896,6 +2896,7 @@
 0.0.0.0 daffydack.info
 0.0.0.0 dagecisaxeze.cf
 0.0.0.0 dagradu.ru
+0.0.0.0 dalmspb.top
 0.0.0.0 daopz.top
 0.0.0.0 daredac.com
 0.0.0.0 dartimyl.com
@@ -3254,6 +3255,7 @@
 0.0.0.0 findfor.net
 0.0.0.0 findpre.net
 0.0.0.0 fingoty.com
+0.0.0.0 finimini.ru
 0.0.0.0 fireb1.com
 0.0.0.0 fireb2.com
 0.0.0.0 firsttex.ru
@@ -4491,6 +4493,7 @@
 0.0.0.0 molyk.ru
 0.0.0.0 monbonsai.info
 0.0.0.0 moneytrap.ru
+0.0.0.0 monstarhistory.ru
 0.0.0.0 moonhappy.ru
 0.0.0.0 mooo.com
 0.0.0.0 morar.biz
@@ -5131,6 +5134,7 @@
 0.0.0.0 purecash.ru
 0.0.0.0 purige.ru
 0.0.0.0 purplegrasscolour.xyz
+0.0.0.0 push.exchange
 0.0.0.0 pushmobilenews.com
 0.0.0.0 pushprofit.ru
 0.0.0.0 pustgovorjat.ru
@@ -5298,6 +5302,7 @@
 0.0.0.0 robjusrew.com
 0.0.0.0 rofhathe.com
 0.0.0.0 rofufupo.ru
+0.0.0.0 rofunseve.ru
 0.0.0.0 rofurekika.com
 0.0.0.0 rogahn.net
 0.0.0.0 rohlita.ru
@@ -5698,6 +5703,7 @@
 0.0.0.0 superrdomain.info
 0.0.0.0 superrstar.services
 0.0.0.0 supertura.com
+0.0.0.0 supinatio.ru
 0.0.0.0 sutgof.ru
 0.0.0.0 suuut.com
 0.0.0.0 sv-pr.ru
@@ -6541,12 +6547,14 @@
 0.0.0.0 ydbsmpnt.mobi
 0.0.0.0 ydjak.com
 0.0.0.0 ydsts.ru
+0.0.0.0 ydxmtr.ru
 0.0.0.0 ydxsr.ru
 0.0.0.0 ydxst.ru
 0.0.0.0 yidop.com
 0.0.0.0 yiudy.com
 0.0.0.0 yjmvx.space
 0.0.0.0 yjuqi.top
+0.0.0.0 ylik.top
 0.0.0.0 ylkkp.com
 0.0.0.0 yluvo.com
 0.0.0.0 yndxstat.ru
