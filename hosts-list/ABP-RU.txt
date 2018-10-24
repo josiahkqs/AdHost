@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Sat, 20 Oct 2018 23:04:19 +0800
+# Last converted - Wed, 24 Oct 2018 09:45:51 +0800
 #
 
 0.0.0.0 welcomegames.net
@@ -2248,6 +2248,7 @@
 0.0.0.0 anniers.com
 0.0.0.0 anokhi.ru
 0.0.0.0 anomeni.ru
+0.0.0.0 antibronhit.ru
 0.0.0.0 aoodw.top
 0.0.0.0 api-adver.ru
 0.0.0.0 api-keks.com
@@ -2759,6 +2760,7 @@
 0.0.0.0 coinmakler.ru
 0.0.0.0 coinnebula.com
 0.0.0.0 coixan.com
+0.0.0.0 coldigloo.com
 0.0.0.0 coldtonight.ru
 0.0.0.0 coldtovarka.ru
 0.0.0.0 coldtreads.com
@@ -2799,6 +2801,7 @@
 0.0.0.0 corpore.ru
 0.0.0.0 corulka.net
 0.0.0.0 corulu.com
+0.0.0.0 counterpartonline.ru
 0.0.0.0 counterparttv.ru
 0.0.0.0 coupleglassesofmilk.ru
 0.0.0.0 cpa-system.ru
@@ -2900,6 +2903,7 @@
 0.0.0.0 daopz.top
 0.0.0.0 daredac.com
 0.0.0.0 dartimyl.com
+0.0.0.0 dashslesh.com
 0.0.0.0 dasterx.ru
 0.0.0.0 datamind.ru
 0.0.0.0 datariver.ru
@@ -3295,6 +3299,7 @@
 0.0.0.0 fotrento.com
 0.0.0.0 foulsa.com
 0.0.0.0 foundtr.com
+0.0.0.0 fouoh.com
 0.0.0.0 four8city.in
 0.0.0.0 foxylinks.ru
 0.0.0.0 foxyscripts.ru
@@ -3319,6 +3324,7 @@
 0.0.0.0 fseed.ru
 0.0.0.0 fsibs.top
 0.0.0.0 fstredirr.com
+0.0.0.0 ftphost.ru
 0.0.0.0 ftrnum.club
 0.0.0.0 ftrnwcewum.club
 0.0.0.0 fuckfff.top
@@ -3371,6 +3377,7 @@
 0.0.0.0 gdeslon.ru
 0.0.0.0 gdsln.ru
 0.0.0.0 gearnews.info
+0.0.0.0 geegbicgcfiehejdgec.ru
 0.0.0.0 gefetot.com
 0.0.0.0 gegmanu.info
 0.0.0.0 gena.io
@@ -3602,6 +3609,7 @@
 0.0.0.0 hotpartner.ru
 0.0.0.0 hottod.info
 0.0.0.0 houmekredit.ru
+0.0.0.0 howrinwassed.ru
 0.0.0.0 hpcyk.com
 0.0.0.0 hpkgqhmp.biz
 0.0.0.0 hromasoma.com
@@ -3833,6 +3841,7 @@
 0.0.0.0 jmk56rtfove.info
 0.0.0.0 jnu1usxpndz0.pro
 0.0.0.0 jnu9uwxlprf.online
+0.0.0.0 jo0kfb10xr.ru
 0.0.0.0 job-info2015.ru
 0.0.0.0 jofbu.com
 0.0.0.0 johnlactal.com
@@ -4214,6 +4223,7 @@
 0.0.0.0 lorhamnvukws.bid
 0.0.0.0 lostfilmer.ru
 0.0.0.0 lostfilmik.ru
+0.0.0.0 lostplanetcdn.com
 0.0.0.0 lostrklm.ru
 0.0.0.0 lotomoney.biz
 0.0.0.0 lotraden.online
@@ -4994,6 +5004,7 @@
 0.0.0.0 pleasedonotban.ru
 0.0.0.0 plomihy.com
 0.0.0.0 ploxogonet.ru
+0.0.0.0 plpromos.com
 0.0.0.0 plsdontban.ru
 0.0.0.0 pluginsjquery.com
 0.0.0.0 pluralismus.ru
@@ -5273,6 +5284,7 @@
 0.0.0.0 rettik.ru
 0.0.0.0 returso.com
 0.0.0.0 reunice.com
+0.0.0.0 rewalt.ru
 0.0.0.0 rewdinghes.com
 0.0.0.0 rfity.com
 0.0.0.0 rich-adv-code.net
@@ -6279,6 +6291,7 @@
 0.0.0.0 vmkxcsss.ru
 0.0.0.0 vn-chk123.com
 0.0.0.0 vn-chk777.com
+0.0.0.0 vne56qxpovf.info
 0.0.0.0 vnhhg.com
 0.0.0.0 vnlxijwb6yu1w.ru
 0.0.0.0 vogo-vogo.ru
@@ -6557,6 +6570,9 @@
 0.0.0.0 ylik.top
 0.0.0.0 ylkkp.com
 0.0.0.0 yluvo.com
+0.0.0.0 yndmtcs.ru
+0.0.0.0 yndxmetric.ru
+0.0.0.0 yndxmtrc.ru
 0.0.0.0 yndxstat.ru
 0.0.0.0 ynwia.com
 0.0.0.0 yohioo.com
@@ -7385,8 +7401,6 @@
 0.0.0.0 showbiz.mail.ru
 0.0.0.0 naruto-base.su
 0.0.0.0 narutobase.3dn.ru
-0.0.0.0 rustorka.com
-0.0.0.0 rustorka.net
 0.0.0.0 vkbutton.com
 0.0.0.0 vkmus.com
 0.0.0.0 an.yandex.ru
