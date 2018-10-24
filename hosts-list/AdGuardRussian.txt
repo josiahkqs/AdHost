@@ -1,9 +1,23 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sat, 20 Oct 2018 23:04:20 +0800
+# Last converted - Wed, 24 Oct 2018 09:45:52 +0800
 #
 
+0.0.0.0 7offers.ru
+0.0.0.0 cqhciif9bjtplrc.ru
+0.0.0.0 trevoltas.pro
+0.0.0.0 dounwil.ru
+0.0.0.0 forum.globusevent.ru
+0.0.0.0 bgclck.me
+0.0.0.0 prnhpe.pro
+0.0.0.0 byeej.com
+0.0.0.0 adbidgo.com
+0.0.0.0 gfjhgfjfebhccgafaed.ru
+0.0.0.0 mpay69.com
+0.0.0.0 teasers.mobi
+0.0.0.0 ceespc.biz
+0.0.0.0 yqkpt.com
 0.0.0.0 chygam.ru
 0.0.0.0 rbrxg.com
 0.0.0.0 leuxq.com
@@ -3361,6 +3375,9 @@
 0.0.0.0 zxrtn.com
 0.0.0.0 zycvyudt.com
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 isi-tracking.eventim.com
+0.0.0.0 js.newrutor.eu.org
+0.0.0.0 vw.onlinia.net
 0.0.0.0 partners.a24.biz
 0.0.0.0 e.60sk.ru
 0.0.0.0 honey.briefly.ru
@@ -3483,6 +3500,7 @@
 0.0.0.0 ru-novocti.com
 0.0.0.0 ukrmedia.center
 0.0.0.0 bux4gm.ru
+0.0.0.0 fa242957c982754.com
 0.0.0.0 vidikua.legfilm.ru
 0.0.0.0 inwin.pw
 0.0.0.0 apicay.ru
