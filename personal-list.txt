@@ -219,3 +219,4 @@
 0.0.0.0 actuallysnake.com # mangarock.com
 0.0.0.0 track.superfastmediation.com # mangarock app
 0.0.0.0 exchange.superfastmediation.com # mangarock app
+0.0.0.0 tracking.feedpress.it # RSS Feed Analytics
