@@ -1,9 +1,10 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Wed, 24 Oct 2018 09:45:52 +0800
+# Last converted - Thu, 25 Oct 2018 19:07:11 +0800
 #
 
+0.0.0.0 cbgunpz3aoayscg.ru
 0.0.0.0 7offers.ru
 0.0.0.0 cqhciif9bjtplrc.ru
 0.0.0.0 trevoltas.pro
