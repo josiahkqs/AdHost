@@ -1,9 +1,13 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Wed, 24 Oct 2018 09:45:52 +0800
+# Last converted - Thu, 25 Oct 2018 19:07:11 +0800
 #
 
+0.0.0.0 nxcount.com
+0.0.0.0 t.seesaa.net
+0.0.0.0 pfx.sma-clsystem.info
+0.0.0.0 tangankanan.net
 0.0.0.0 smpl.hit.ppdb.pl
 0.0.0.0 topiz.ru
 0.0.0.0 hit.interia.pl
