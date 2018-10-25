@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Wed, 24 Oct 2018 09:45:51 +0800
+# Last converted - Thu, 25 Oct 2018 19:07:11 +0800
 #
 
 0.0.0.0 welcomegames.net
@@ -1813,6 +1813,7 @@
 0.0.0.0 0d763f0f5efbaacbe773.date
 0.0.0.0 0d94fcb5af4707682181.date
 0.0.0.0 0efa2b1d897a8f3bcc60.date
+0.0.0.0 0f694b34ccc1b4a.com
 0.0.0.0 0fbbi6mx.space
 0.0.0.0 0hspzyl31sv15.ru
 0.0.0.0 0ux.ru
@@ -1912,6 +1913,7 @@
 0.0.0.0 4smi.ru
 0.0.0.0 5.101.115.170
 0.0.0.0 5.101.117.198
+0.0.0.0 51db27feff.com
 0.0.0.0 5393418948.com
 0.0.0.0 5423987a8b8335ff3839.date
 0.0.0.0 568636080ec8fab13041.date
@@ -1933,6 +1935,7 @@
 0.0.0.0 62.109.18.206
 0.0.0.0 62.210.94.26
 0.0.0.0 6287a14fb6205e46df99.date
+0.0.0.0 674b06de9c3.com
 0.0.0.0 6b43901d27852f19b677.date
 0.0.0.0 6c6580635061ded7.com
 0.0.0.0 6glass1.info
@@ -1940,6 +1943,7 @@
 0.0.0.0 6zzua.gdn
 0.0.0.0 7-link.ru
 0.0.0.0 70417a828db359b26f1b.date
+0.0.0.0 7147d64a2ab4.com
 0.0.0.0 71d8dad67ed2531d980d.date
 0.0.0.0 71e748fd324cfd24e9be.date
 0.0.0.0 74782c1f5fb74af5.com
@@ -1957,6 +1961,7 @@
 0.0.0.0 887b7dad669c94d37839.date
 0.0.0.0 891itfe1.space
 0.0.0.0 89eb01f7f8503aef.com
+0.0.0.0 8df70f78f303a5.com
 0.0.0.0 8fc0c5dbf0cbae3b1fdb.date
 0.0.0.0 8k0l2mpmvl1q.ru
 0.0.0.0 8nr2bisa.ru
@@ -2392,6 +2397,7 @@
 0.0.0.0 bazilhan.com
 0.0.0.0 baztors.com
 0.0.0.0 bbeljxm2dvwnfib.ru
+0.0.0.0 bbf26c5373c67.com
 0.0.0.0 bbfggzd3duxpsmo.ru
 0.0.0.0 bbtrf.info
 0.0.0.0 bbtyup.com
@@ -2461,6 +2467,7 @@
 0.0.0.0 biper1.ru
 0.0.0.0 bistr3.ru
 0.0.0.0 bistroduy.ru
+0.0.0.0 bitorent.ru
 0.0.0.0 bitvene.ru
 0.0.0.0 bixmarketing.ru
 0.0.0.0 bizaes.ru
@@ -2475,6 +2482,7 @@
 0.0.0.0 blef11.ru
 0.0.0.0 blendac.com
 0.0.0.0 blessdi.com
+0.0.0.0 bloglive.ru
 0.0.0.0 blogsdas.ru
 0.0.0.0 blueandyellow.xyz
 0.0.0.0 bluebright.xyz
@@ -2608,6 +2616,7 @@
 0.0.0.0 castellol.com
 0.0.0.0 catcut.net
 0.0.0.0 catsflownblow.ru
+0.0.0.0 cc6d2cd48a.com
 0.0.0.0 cccpkinocom.ru
 0.0.0.0 cccpkinonet.ru
 0.0.0.0 cclaf.top
@@ -2814,6 +2823,7 @@
 0.0.0.0 cpiyz.com
 0.0.0.0 cppgf.com
 0.0.0.0 cpvsoler.com
+0.0.0.0 cqhciif9bjtplrc.ru
 0.0.0.0 crackac.com
 0.0.0.0 craftmine-2.ru
 0.0.0.0 cranberrypalette.xyz
@@ -3167,6 +3177,7 @@
 0.0.0.0 estoniaanna.ru
 0.0.0.0 et-cod.com
 0.0.0.0 et-code.ru
+0.0.0.0 et-pu.com
 0.0.0.0 etarg.ru
 0.0.0.0 etcodes.com
 0.0.0.0 etfory.info
@@ -3208,7 +3219,9 @@
 0.0.0.0 ezaste.ru
 0.0.0.0 eznagi.ru
 0.0.0.0 f166d08ccce8e77b.com
+0.0.0.0 f3f9cbaddc5.com
 0.0.0.0 f73d9995d7077722feb6.date
+0.0.0.0 fa242957c982754.com
 0.0.0.0 faceblum.ru
 0.0.0.0 faddgetdo.ru
 0.0.0.0 fae5ret.top
@@ -3287,6 +3300,7 @@
 0.0.0.0 for-ladies-oy.ru
 0.0.0.0 foreshis.ru
 0.0.0.0 foreverseed.ru
+0.0.0.0 foricq.ru
 0.0.0.0 forretres.ru
 0.0.0.0 forsupwron.pro
 0.0.0.0 fortbegother.ru
@@ -3794,6 +3808,7 @@
 0.0.0.0 itisanime.ru
 0.0.0.0 itpodol.ru
 0.0.0.0 itsurta.ru
+0.0.0.0 itunestore.ru
 0.0.0.0 iuiyeje4qmbe.ru
 0.0.0.0 ivancept.com
 0.0.0.0 ivances.com
@@ -4522,6 +4537,7 @@
 0.0.0.0 movdec.com
 0.0.0.0 movemken.space
 0.0.0.0 mow2rye.agency
+0.0.0.0 mowronsparhis.ru
 0.0.0.0 mozgup.ru
 0.0.0.0 mp-a.info
 0.0.0.0 mp-b.info
@@ -4736,6 +4752,7 @@
 0.0.0.0 novwolf.com
 0.0.0.0 now09.ru
 0.0.0.0 nowda.info
+0.0.0.0 npykocy.ru
 0.0.0.0 nqvlw.com
 0.0.0.0 nrged.com
 0.0.0.0 nrzcj.top
@@ -5824,6 +5841,7 @@
 0.0.0.0 thefoxads.ru
 0.0.0.0 thefoxm.com
 0.0.0.0 thegrap.ru
+0.0.0.0 theirsvendor.com
 0.0.0.0 thekupdom.com
 0.0.0.0 thekupidom.ru
 0.0.0.0 themoneyes.ru
@@ -6573,6 +6591,7 @@
 0.0.0.0 yndmtcs.ru
 0.0.0.0 yndxmetric.ru
 0.0.0.0 yndxmtrc.ru
+0.0.0.0 yndxst.ru
 0.0.0.0 yndxstat.ru
 0.0.0.0 ynwia.com
 0.0.0.0 yohioo.com
