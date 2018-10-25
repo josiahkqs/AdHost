@@ -1,9 +1,10 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Wed, 24 Oct 2018 09:45:48 +0800
+# Last converted - Thu, 25 Oct 2018 19:07:02 +0800
 #
 
+0.0.0.0 whale123.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0082tv.net
 0.0.0.0 00880808.com
@@ -79,6 +80,7 @@
 0.0.0.0 175bar.com
 0.0.0.0 176um.com
 0.0.0.0 178bx.cn
+0.0.0.0 17tuozhai.com
 0.0.0.0 17un.co
 0.0.0.0 17zhaole.com
 0.0.0.0 180.76.171.28
@@ -2957,12 +2959,8 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
-0.0.0.0 okshishi.com
-0.0.0.0 hchig.com
-0.0.0.0 aiyyu.com
-0.0.0.0 kz8tr2.cn
-0.0.0.0 countersys.cn
-0.0.0.0 zlauk.cn
+0.0.0.0 uchij.com
+0.0.0.0 fgzba.com
 0.0.0.0 03196688.com
 0.0.0.0 0fwg.cn
 0.0.0.0 0z5jn.cn
@@ -3007,6 +3005,7 @@
 0.0.0.0 aiode.cn
 0.0.0.0 aishake.cn
 0.0.0.0 aishowbger.com
+0.0.0.0 aiyyu.com
 0.0.0.0 anmeilai.net
 0.0.0.0 anyysz.com
 0.0.0.0 aomde.com
@@ -3077,6 +3076,7 @@
 0.0.0.0 comesgo.com
 0.0.0.0 continuedsys.cn
 0.0.0.0 couas.com
+0.0.0.0 countersys.cn
 0.0.0.0 coveredsys.cn
 0.0.0.0 cpxkvc.com
 0.0.0.0 cqgya.com
@@ -3183,6 +3183,7 @@
 0.0.0.0 hbnygj.com
 0.0.0.0 hbttcc.com
 0.0.0.0 hbyyzm.com
+0.0.0.0 hchig.com
 0.0.0.0 hdfdm.com
 0.0.0.0 hdswgc.com
 0.0.0.0 headwell.cn
@@ -3283,6 +3284,7 @@
 0.0.0.0 ktzte.cn
 0.0.0.0 kwjkd.com
 0.0.0.0 kxhie.com
+0.0.0.0 kz8tr2.cn
 0.0.0.0 lanhouhou.cn
 0.0.0.0 laojiayoufang.com
 0.0.0.0 layyi.com
@@ -3343,6 +3345,7 @@
 0.0.0.0 nyhnx.com
 0.0.0.0 nykps.com
 0.0.0.0 oesnw.com
+0.0.0.0 okshishi.com
 0.0.0.0 okwan.cn
 0.0.0.0 oomyv.com
 0.0.0.0 opqsr.com
@@ -3588,6 +3591,7 @@
 0.0.0.0 zjkdaikuan.com
 0.0.0.0 zjuwjdc.com
 0.0.0.0 zkwsdf.com
+0.0.0.0 zlauk.cn
 0.0.0.0 zmlfk.com
 0.0.0.0 zmyuer.com
 0.0.0.0 zougg.com
