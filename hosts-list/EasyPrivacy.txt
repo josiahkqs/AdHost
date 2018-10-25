@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Wed, 24 Oct 2018 09:45:54 +0800
+# Last converted - Thu, 25 Oct 2018 19:07:13 +0800
 #
 
 0.0.0.0 0emm.com
@@ -711,6 +711,7 @@
 0.0.0.0 eperfectdata.com
 0.0.0.0 epilot.com
 0.0.0.0 epiodata.com
+0.0.0.0 episerver.net
 0.0.0.0 epitrack.com
 0.0.0.0 eproof.com
 0.0.0.0 eps-analyzer.de
@@ -1925,6 +1926,7 @@
 0.0.0.0 statistiche-web.com
 0.0.0.0 statistx.com
 0.0.0.0 statowl.com
+0.0.0.0 statpipe.ru
 0.0.0.0 stats-analytics.info
 0.0.0.0 stats.cz
 0.0.0.0 stats2.com
@@ -2354,6 +2356,7 @@
 0.0.0.0 yieldify.com
 0.0.0.0 yieldsoftware.com
 0.0.0.0 yjtag.jp
+0.0.0.0 yldr.io
 0.0.0.0 ymetrica1.com
 0.0.0.0 youbora.com
 0.0.0.0 youboranqs01.com
@@ -4110,7 +4113,6 @@
 0.0.0.0 d2so4705rl485y.cloudfront.net
 0.0.0.0 d2tcg4i9q4js4a.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
-0.0.0.0 d2wzl9lnvjz3bh.cloudfront.net
 0.0.0.0 d2xgf76oeu9pbh.cloudfront.net
 0.0.0.0 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 0.0.0.0 d3135glefggiep.cloudfront.net
@@ -4171,6 +4173,7 @@
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 dt.sellpoint.net
+0.0.0.0 du4rq1xqh3i1k.cloudfront.net
 0.0.0.0 du8783wkf05yr.cloudfront.net
 0.0.0.0 dufue2m4sondk.cloudfront.net
 0.0.0.0 duu8lzqdm8tsz.cloudfront.net
@@ -5712,6 +5715,7 @@
 0.0.0.0 sidebar.issuu.com
 0.0.0.0 sitelife.ehow.com
 0.0.0.0 sixpack.udimg.com
+0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 smetrics.att.com
 0.0.0.0 smetrics.delta.com
 0.0.0.0 snowplow-collector.sugarops.com
