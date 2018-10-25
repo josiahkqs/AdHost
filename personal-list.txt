@@ -9,9 +9,11 @@
 0.0.0.0 atas.io
 0.0.0.0 bingmob.offerstrack.net
 0.0.0.0 bit-system.org
+0.0.0.0 boudja.com
 0.0.0.0 brainfitness.us
 0.0.0.0 brainphotos.us
 0.0.0.0 catfly.com
+0.0.0.0 chinesean.com
 0.0.0.0 chinesemov.com
 0.0.0.0 colleduny.info
 0.0.0.0 dsp.agency
@@ -22,16 +24,20 @@
 0.0.0.0 gold-equities.us
 0.0.0.0 gothrgh.pro
 0.0.0.0 hexcan.com
+0.0.0.0 ikoh6ie.top
 0.0.0.0 injuredcandy.com
 0.0.0.0 inplayable.com
 0.0.0.0 issuetracking.us
 0.0.0.0 jackettrain.com
 0.0.0.0 lignorange.com
+0.0.0.0 letmacworkfaster.site
+0.0.0.0 macdamaged.tech
 0.0.0.0 meet.viasexcams.com
 0.0.0.0 metal-band.us
 0.0.0.0 metalcontainers.us
 0.0.0.0 mobismarter.com
 0.0.0.0 mobotrkr.com
+0.0.0.0 netmng.com
 0.0.0.0 performancecentral.mobi
 0.0.0.0 pimmuter.com
 0.0.0.0 pricetrends.us
@@ -56,6 +62,7 @@
 0.0.0.0 supprene.com
 0.0.0.0 shellcat.ru
 0.0.0.0 theses.com
+0.0.0.0 thewhizmarketing.com
 0.0.0.0 track.iontap.io
 0.0.0.0 traftds.ru
 0.0.0.0 www.boctopus.com
@@ -184,37 +191,47 @@
 0.0.0.0 analytics.aimtell.com
 0.0.0.0 ialaddin.genieesspv.jp
 0.0.0.0 pixel.advertising.com
-0.0.0.0 n0-r2d2.amgload.net
-0.0.0.0 n1-r2d2.amgload.net
-0.0.0.0 n2-r2d2.amgload.net
-0.0.0.0 n3-r2d2.amgload.net
-0.0.0.0 n4-r2d2.amgload.net
-0.0.0.0 n5-r2d2.amgload.net
-0.0.0.0 n6-r2d2.amgload.net
-0.0.0.0 n7-r2d2.amgload.net
-0.0.0.0 n9-r2d2.amgload.net
-0.0.0.0 n0-r1d2.piguiqproxy.com
-0.0.0.0 n1-r2d2.piguiqproxy.com
-0.0.0.0 n2-r1d2.piguiqproxy.com
-0.0.0.0 n3-r2d2.piguiqproxy.com
-0.0.0.0 n4-r1d2.piguiqproxy.com
-0.0.0.0 n5-r2d2.piguiqproxy.com
-0.0.0.0 n6-r2d2.piguiqproxy.com
-0.0.0.0 n7-r1d2.piguiqproxy.com
-0.0.0.0 n5-r1d2.piguiqproxy.com
-0.0.0.0 xk1o.amgload.net # gogoanime.sh
-0.0.0.0 xk6o.amgload.net # gogoanime.sh
-0.0.0.0 n2-r1d2.amgload.net # gogoanime.sh
-0.0.0.0 n1-r1d2.amgload.net # gogoanime.sh
-0.0.0.0 n4-r1d2.amgload.net # gogoanime.sh
-0.0.0.0 n8-r1d2.amgload.net # gogoanime.sh
-0.0.0.0 n0-r1d2.amgload.net # gogoanime.sh
-0.0.0.0 n0-r2d2.piguiqproxy.com # gogoanime.sh
-0.0.0.0 n2-r2d2.piguiqproxy.com # gogoanime.sh
-0.0.0.0 kz1d.piguiqproxy.com # gogoanime.sh
-0.0.0.0 kz9d.piguiqproxy.com # gogoanime.sh
-0.0.0.0 kz6d.piguiqproxy.com # gogoanime.sh
-0.0.0.0 kz1c.piguiqproxy.com # gogoanime.sh
+0.0.0.0 n0-r1d2.amgload.net # gogoanime
+0.0.0.0 n1-r1d2.amgload.net # gogoanime
+0.0.0.0 n2-r1d2.amgload.net # gogoanime
+0.0.0.0 n4-r1d2.amgload.net # gogoanime
+0.0.0.0 n8-r1d2.amgload.net # gogoanime
+0.0.0.0 n0-r2d2.amgload.net # gogoanime
+0.0.0.0 n1-r2d2.amgload.net # gogoanime
+0.0.0.0 n2-r2d2.amgload.net # gogoanime
+0.0.0.0 n3-r2d2.amgload.net # gogoanime
+0.0.0.0 n4-r2d2.amgload.net # gogoanime
+0.0.0.0 n5-r2d2.amgload.net # gogoanime
+0.0.0.0 n6-r2d2.amgload.net # gogoanime
+0.0.0.0 n7-r2d2.amgload.net # gogoanime
+0.0.0.0 n9-r2d2.amgload.net # gogoanime
+0.0.0.0 xk1o.amgload.net # gogoanime
+0.0.0.0 xk6o.amgload.net # gogoanime
+0.0.0.0 xk9o.amgload.net # gogoanime
+0.0.0.0 xk9n.amgload.net # gogoanime
+0.0.0.0 n0-r1d2.piguiqproxy.com # gogoanime
+0.0.0.0 n1-r2d2.piguiqproxy.com # gogoanime
+0.0.0.0 n2-r1d2.piguiqproxy.com # gogoanime
+0.0.0.0 n3-r2d2.piguiqproxy.com # gogoanime
+0.0.0.0 n4-r1d2.piguiqproxy.com # gogoanime
+0.0.0.0 n0-r2d2.piguiqproxy.com # gogoanime
+0.0.0.0 n2-r2d2.piguiqproxy.com # gogoanime
+0.0.0.0 n5-r2d2.piguiqproxy.com # gogoanime
+0.0.0.0 n6-r2d2.piguiqproxy.com # gogoanime
+0.0.0.0 n7-r1d2.piguiqproxy.com # gogoanime
+0.0.0.0 n5-r1d2.piguiqproxy.com # gogoanime
+0.0.0.0 kz1d.piguiqproxy.com # gogoanime
+0.0.0.0 kz9d.piguiqproxy.com # gogoanime
+0.0.0.0 kz6d.piguiqproxy.com # gogoanime
+0.0.0.0 kz1c.piguiqproxy.com # gogoanime
+0.0.0.0 kz9c.piguiqproxy.com # gogoanime
+0.0.0.0 piguiqproxy.com # gogoanime
+0.0.0.0 host1.piguiqproxy.com # gogoanime
+0.0.0.0 a1089.d.akamai.net # gogoanime
+0.0.0.0 a151.g.akamai.net # gogoanime
+0.0.0.0 zx1s.smcheck.org # gogoanime
+0.0.0.0 zx6s.smcheck.org # gogoanime
+0.0.0.0 zx9s.smcheck.org # gogoanime
 0.0.0.0 usage.readdle.com # Readdle apps analytics
 0.0.0.0 actuallysnake.com # mangarock.com
 0.0.0.0 track.superfastmediation.com # mangarock app
