@@ -16,6 +16,7 @@
 0.0.0.0 chinesean.com
 0.0.0.0 chinesemov.com
 0.0.0.0 colleduny.info
+0.0.0.0 coinads.offerstrack.net # Spam
 0.0.0.0 dsp.agency
 0.0.0.0 easylinkweb.today
 0.0.0.0 echo-ice.com
