@@ -1,10 +1,11 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Thu, 25 Oct 2018 19:07:02 +0800
+# Last converted - Mon, 29 Oct 2018 16:24:28 +0800
 #
 
-0.0.0.0 whale123.com
+0.0.0.0 bedhdig.cn
+0.0.0.0 szapp22.cc
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0082tv.net
 0.0.0.0 00880808.com
@@ -400,6 +401,7 @@
 0.0.0.0 anastasiaana.com
 0.0.0.0 andmejs.com
 0.0.0.0 anioscp.com
+0.0.0.0 anquanzhuomian.cn
 0.0.0.0 anreson.net
 0.0.0.0 anzhuocpm.com
 0.0.0.0 aomeng.net
@@ -525,6 +527,7 @@
 0.0.0.0 chromc.com
 0.0.0.0 chucity.com
 0.0.0.0 chushoushijian.cn
+0.0.0.0 chuzushijian.cn
 0.0.0.0 ciajingman.com
 0.0.0.0 cifenqi.com
 0.0.0.0 cj-cy.com
@@ -560,6 +563,7 @@
 0.0.0.0 cpms.cc
 0.0.0.0 cpro.baidu.com
 0.0.0.0 cpro.baidustatic.com
+0.0.0.0 cpshwl.cn
 0.0.0.0 cpv6.com
 0.0.0.0 cpva.cc
 0.0.0.0 cqfangduan.com
@@ -766,6 +770,7 @@
 0.0.0.0 gaoxiaocup.com
 0.0.0.0 gclick.cn
 0.0.0.0 gdbly.com
+0.0.0.0 gdgy56.com
 0.0.0.0 gdskywings.com
 0.0.0.0 gdxxb.com
 0.0.0.0 ge95.com
@@ -1452,6 +1457,7 @@
 0.0.0.0 sums.suning.com
 0.0.0.0 superfastcdn.com
 0.0.0.0 superfish.com
+0.0.0.0 swzhaohuo.com.cn
 0.0.0.0 sxbhzs.net
 0.0.0.0 sxdyrq.com
 0.0.0.0 sxz67.com
@@ -1593,6 +1599,7 @@
 0.0.0.0 vamaker.com
 0.0.0.0 vbtrax.com
 0.0.0.0 vdazz.net
+0.0.0.0 ve001nz.com
 0.0.0.0 vedeh.com
 0.0.0.0 vegent.cn
 0.0.0.0 velocecdn.com
@@ -1636,6 +1643,7 @@
 0.0.0.0 wgnlz.com
 0.0.0.0 wgnmp.com
 0.0.0.0 whafwl.com
+0.0.0.0 whale123.com
 0.0.0.0 whpxy.com
 0.0.0.0 whytoss.com
 0.0.0.0 widget.ezprice.com.tw
@@ -1821,6 +1829,7 @@
 0.0.0.0 yqcy988.com
 0.0.0.0 yqw88.com
 0.0.0.0 ysdhe.com
+0.0.0.0 ysgsq.cn
 0.0.0.0 ysjwj.com
 0.0.0.0 ysm.ezprice.net
 0.0.0.0 yuanhsu.com
@@ -1921,6 +1930,7 @@
 0.0.0.0 1.hao123.com
 0.0.0.0 100.admin5.com
 0.0.0.0 100.pncdn.cn
+0.0.0.0 104.149.15.130
 0.0.0.0 104.201.27.131
 0.0.0.0 104.37.245.11
 0.0.0.0 108.171.248.234
@@ -2565,6 +2575,7 @@
 0.0.0.0 dm.wenshenxiu.com
 0.0.0.0 dm.ws8.org
 0.0.0.0 dm.zuowenku.net
+0.0.0.0 dm1.3199.cn
 0.0.0.0 dm1.3328.cn
 0.0.0.0 dm1.yongkao.com
 0.0.0.0 dm1.zjydt.com
@@ -2735,7 +2746,6 @@
 0.0.0.0 nyhpyq.com
 0.0.0.0 o.phb123.com
 0.0.0.0 okkkk.com
-0.0.0.0 one.88dus.com
 0.0.0.0 p1.zhumengwl.com
 0.0.0.0 pb.shuxigua.com
 0.0.0.0 pingbi.diudou.com
@@ -2959,8 +2969,6 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
-0.0.0.0 uchij.com
-0.0.0.0 fgzba.com
 0.0.0.0 03196688.com
 0.0.0.0 0fwg.cn
 0.0.0.0 0z5jn.cn
@@ -3027,6 +3035,7 @@
 0.0.0.0 beifmu.com
 0.0.0.0 beigedi.com
 0.0.0.0 bentengcn.com
+0.0.0.0 bgcse.cn
 0.0.0.0 bingdiantao.com
 0.0.0.0 bjbrtc.com
 0.0.0.0 bjdianyue.com
@@ -3050,6 +3059,7 @@
 0.0.0.0 ccunf.com
 0.0.0.0 cdfzcz.com
 0.0.0.0 cdgxq.com
+0.0.0.0 cdiah.com
 0.0.0.0 cdqjmc.com
 0.0.0.0 ceiyo.com
 0.0.0.0 cfdanet.com
@@ -3095,6 +3105,7 @@
 0.0.0.0 dajean.com
 0.0.0.0 daskm.com
 0.0.0.0 dbwmjj.com
+0.0.0.0 dcaij.com
 0.0.0.0 ddanq.com
 0.0.0.0 ddg1277.com
 0.0.0.0 ddhuangchao.com
@@ -3131,6 +3142,7 @@
 0.0.0.0 fcuit.com
 0.0.0.0 feifish66.com
 0.0.0.0 ffychb.com
+0.0.0.0 fgzba.com
 0.0.0.0 fj95560.com
 0.0.0.0 fjtzjy.com
 0.0.0.0 fjxyo.com
@@ -3288,6 +3300,7 @@
 0.0.0.0 lanhouhou.cn
 0.0.0.0 laojiayoufang.com
 0.0.0.0 layyi.com
+0.0.0.0 lchar.com
 0.0.0.0 legozu.com
 0.0.0.0 lfdydk.com
 0.0.0.0 lifuzhubao.com
@@ -3322,6 +3335,7 @@
 0.0.0.0 morningpiggy.com
 0.0.0.0 mouaa.com
 0.0.0.0 mubite.cn
+0.0.0.0 mwjpk.com
 0.0.0.0 myycrw.com
 0.0.0.0 nbaob.com
 0.0.0.0 nduop.com
@@ -3449,6 +3463,7 @@
 0.0.0.0 tabwl.com
 0.0.0.0 tajxgs.com
 0.0.0.0 tatahn.com
+0.0.0.0 tbieq.com
 0.0.0.0 tbinq.com
 0.0.0.0 tcnmf.com
 0.0.0.0 thuyki.cn
@@ -3467,11 +3482,13 @@
 0.0.0.0 txtxr.com
 0.0.0.0 tymsyx.com
 0.0.0.0 tyyjzs.cn
+0.0.0.0 uchij.com
 0.0.0.0 uissm.com
 0.0.0.0 umm6.cn
 0.0.0.0 umyai.com
 0.0.0.0 uuopp.com
 0.0.0.0 uzhaj.com
+0.0.0.0 v44i.cn
 0.0.0.0 vbaiu.com
 0.0.0.0 vbaou.com
 0.0.0.0 vbieu.com
@@ -3540,12 +3557,14 @@
 0.0.0.0 xznykf.org
 0.0.0.0 xztms.com
 0.0.0.0 y12f.com
+0.0.0.0 ybeih.com
 0.0.0.0 ybhypt.com
 0.0.0.0 ybtianxi.com
 0.0.0.0 ychap.com
 0.0.0.0 ydfz.org
 0.0.0.0 yexfes.com
 0.0.0.0 ygqczh.com
+0.0.0.0 yguap.com
 0.0.0.0 yicang8.com
 0.0.0.0 yijieweizf.com
 0.0.0.0 yinzantouzi.com
