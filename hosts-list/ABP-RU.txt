@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Thu, 25 Oct 2018 19:07:11 +0800
+# Last converted - Mon, 29 Oct 2018 16:24:33 +0800
 #
 
 0.0.0.0 welcomegames.net
@@ -37,6 +37,7 @@
 0.0.0.0 ads2rtb.com
 0.0.0.0 adservone.com
 0.0.0.0 adsmedia-provider.com
+0.0.0.0 adtrak.org
 0.0.0.0 advert-content.com
 0.0.0.0 advertclick.ru
 0.0.0.0 advjump.com
@@ -172,6 +173,7 @@
 0.0.0.0 lepubs.com
 0.0.0.0 lightcoffee.ru
 0.0.0.0 like-shop24.ru
+0.0.0.0 link-fes.ru
 0.0.0.0 linkmyc.com
 0.0.0.0 linoleictanzaniatitanic.com
 0.0.0.0 liveeblog.ru
@@ -1175,6 +1177,7 @@
 0.0.0.0 fairlink.ru
 0.0.0.0 fanat.kz
 0.0.0.0 fast-anime.ru
+0.0.0.0 favorit.com.ua
 0.0.0.0 fbs.for-ua.org.ua
 0.0.0.0 feed.teasermaster.ru
 0.0.0.0 fermasosedi.ru
@@ -1360,7 +1363,6 @@
 0.0.0.0 med.finsecret.ru
 0.0.0.0 mediaget.com
 0.0.0.0 mediarealtor.ru
-0.0.0.0 mediarepost.ru
 0.0.0.0 mediatraffic.com.ua
 0.0.0.0 mega-cash.net
 0.0.0.0 megaban.com.ua
@@ -2030,7 +2032,7 @@
 0.0.0.0 ad1.ru
 0.0.0.0 ad1game.ru
 0.0.0.0 ad4sell.com
-0.0.0.0 adbetnet.com
+0.0.0.0 adbean.ru
 0.0.0.0 adbix.tv
 0.0.0.0 adblade.com
 0.0.0.0 adblender.ru
@@ -3288,6 +3290,7 @@
 0.0.0.0 flascom.com
 0.0.0.0 flashteaser.com
 0.0.0.0 fleshyourlight.com
+0.0.0.0 flightsy.win
 0.0.0.0 flipdigital.ru
 0.0.0.0 float-l.ru
 0.0.0.0 floornotalava.com
@@ -3697,6 +3700,7 @@
 0.0.0.0 ignorelist.com
 0.0.0.0 igraemroli.ru
 0.0.0.0 igronas.ru
+0.0.0.0 igvuw.com
 0.0.0.0 ihlasbe.ru
 0.0.0.0 iholot.ru
 0.0.0.0 ihqht.com
@@ -4109,6 +4113,7 @@
 0.0.0.0 ledsitat.ru
 0.0.0.0 ledsitling.pro
 0.0.0.0 leforma.com
+0.0.0.0 leftaxi.ru
 0.0.0.0 leftherla.pro
 0.0.0.0 legalidioms.com
 0.0.0.0 legandruk.com
@@ -4213,6 +4218,7 @@
 0.0.0.0 lmcuba.us
 0.0.0.0 lnico.ru
 0.0.0.0 loadercdn.com
+0.0.0.0 loaderr.ru
 0.0.0.0 locallchicks-here.com
 0.0.0.0 locandito.com
 0.0.0.0 locoday.com
@@ -4458,6 +4464,7 @@
 0.0.0.0 midlemee.ru
 0.0.0.0 mikas.win
 0.0.0.0 milkpaint.xyz
+0.0.0.0 mimi-lady18.ru
 0.0.0.0 minemytraffic.com
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 miner.pr0gramm.com
@@ -6589,6 +6596,7 @@
 0.0.0.0 ylkkp.com
 0.0.0.0 yluvo.com
 0.0.0.0 yndmtcs.ru
+0.0.0.0 yndstatis.ru
 0.0.0.0 yndxmetric.ru
 0.0.0.0 yndxmtrc.ru
 0.0.0.0 yndxst.ru
@@ -6612,6 +6620,7 @@
 0.0.0.0 youtuibes.com
 0.0.0.0 ypfdp.com
 0.0.0.0 yplan.ru
+0.0.0.0 yqkpt.com
 0.0.0.0 yrsfs.com
 0.0.0.0 ysowy.com
 0.0.0.0 ytimgg.com
@@ -6651,6 +6660,7 @@
 0.0.0.0 zedinfo.info
 0.0.0.0 zee1qzzfnr.site
 0.0.0.0 zeldl.top
+0.0.0.0 zemanty.ru
 0.0.0.0 zendmin.com
 0.0.0.0 zeojd.com
 0.0.0.0 zereditiberet.com
@@ -6665,6 +6675,7 @@
 0.0.0.0 zhazha.ru
 0.0.0.0 zherva.ru
 0.0.0.0 zhitkise.info
+0.0.0.0 zhkzt.com
 0.0.0.0 zhyefedo.info
 0.0.0.0 zilabi.ru
 0.0.0.0 zinutay.com
