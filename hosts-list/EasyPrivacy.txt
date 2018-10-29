@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Thu, 25 Oct 2018 19:07:13 +0800
+# Last converted - Mon, 29 Oct 2018 16:24:37 +0800
 #
 
 0.0.0.0 0emm.com
@@ -125,6 +125,7 @@
 0.0.0.0 adobetag.com
 0.0.0.0 adoftheyear.com
 0.0.0.0 adoric-om.com
+0.0.0.0 adpaths.com
 0.0.0.0 adpies.com
 0.0.0.0 adprotraffic.com
 0.0.0.0 adrizer.com
@@ -142,6 +143,7 @@
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advconversion.com
 0.0.0.0 advertising.com
+0.0.0.0 adwstats.com
 0.0.0.0 adyapper.com
 0.0.0.0 afairweb.com
 0.0.0.0 affilae.com
@@ -1779,7 +1781,6 @@
 0.0.0.0 selipuquoe.com
 0.0.0.0 sellebrity.com
 0.0.0.0 sellpoints.com
-0.0.0.0 sellsy.com
 0.0.0.0 semantic-finder.com
 0.0.0.0 semanticverses.com
 0.0.0.0 semasio.net
@@ -2838,6 +2839,7 @@
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 thewhizproducts.com
 0.0.0.0 thewise.com
+0.0.0.0 tmmp.io
 0.0.0.0 toftofcal.com
 0.0.0.0 tokyodrift.ga
 0.0.0.0 traffic.tc-clicks.com
@@ -3553,8 +3555,12 @@
 0.0.0.0 ukw.jp
 0.0.0.0 wonder-ma.com
 0.0.0.0 ziyu.net
+0.0.0.0 adpick.co.kr
+0.0.0.0 adtive.com
 0.0.0.0 contentsfeed.com
 0.0.0.0 logger.co.kr
+0.0.0.0 oevery.com
+0.0.0.0 tenping.kr
 0.0.0.0 cms.lv
 0.0.0.0 erotop.lv
 0.0.0.0 on-line.lv
@@ -5438,6 +5444,7 @@
 0.0.0.0 dw.cnet.com
 0.0.0.0 ec2-prod-tracker.babelgum.com
 0.0.0.0 edw.edmunds.com
+0.0.0.0 ekg.riotgames.com
 0.0.0.0 emarketing.rmauctions.com
 0.0.0.0 enlightenment.secureshoppingbasket.com
 0.0.0.0 entry-stats.huffingtonpost.com
@@ -5632,6 +5639,7 @@
 0.0.0.0 pclick.yahoo.com
 0.0.0.0 performances.bestofmedia.com
 0.0.0.0 pf.newegg.com
+0.0.0.0 phar.gu-web.net
 0.0.0.0 pi.feedsportal.com
 0.0.0.0 pictures.zooplus.com
 0.0.0.0 ping.buto.tv
@@ -5689,7 +5697,6 @@
 0.0.0.0 roll.bankofamerica.com
 0.0.0.0 rs.mail.ru
 0.0.0.0 rt.prnewswire.com
-0.0.0.0 rt.rakuten.co.jp
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rtn.thestar.com
