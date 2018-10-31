@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 29 Oct 2018 16:24:37 +0800
+# Last converted - Wed, 31 Oct 2018 08:58:45 +0800
 #
 
 0.0.0.0 0emm.com
@@ -67,6 +67,7 @@
 0.0.0.0 a8ww.net
 0.0.0.0 aaddzz.com
 0.0.0.0 aamsitecertifier.com
+0.0.0.0 aaxdetect.com
 0.0.0.0 abcstats.com
 0.0.0.0 ablsrv.com
 0.0.0.0 abmr.net
