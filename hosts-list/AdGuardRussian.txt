@@ -1,9 +1,14 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Mon, 29 Oct 2018 16:24:35 +0800
+# Last converted - Wed, 31 Oct 2018 08:58:43 +0800
 #
 
+0.0.0.0 pbcde.com
+0.0.0.0 zurgerya.ru
+0.0.0.0 doptik.ru
+0.0.0.0 apiyandex.site
+0.0.0.0 adverdata.net
 0.0.0.0 her-ber.top
 0.0.0.0 blablabla.pp.ua
 0.0.0.0 look-reklama.ru
