@@ -1,7 +1,7 @@
 # DisconnectMalvertising
 #
 # Converted from - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Last converted - Wed, 17 Oct 2018 20:23:40 +0800
+# Last converted - Tue, 06 Nov 2018 11:37:23 +0800
 #
 
 0.0.0.0 amo122.com
@@ -13,6 +13,7 @@
 0.0.0.0 royalair.koom.ma
 0.0.0.0 8883448.com
 0.0.0.0 bjhmt.com
+0.0.0.0 8883448.com
 0.0.0.0 023scw.gotoip55.com
 0.0.0.0 daizheha.com
 0.0.0.0 ya-googl.ws
@@ -38,6 +39,7 @@
 0.0.0.0 drteachme.com
 0.0.0.0 mandarin.aquamarineku.com
 0.0.0.0 gsimon.edu.free.fr
+0.0.0.0 mandarin.aquamarineku.com
 0.0.0.0 dtstesting.com
 0.0.0.0 www.yserch.com
 0.0.0.0 hostiraj.info
@@ -99,11 +101,11 @@
 0.0.0.0 sicken.cede.cl
 0.0.0.0 981718.cn
 0.0.0.0 lavoixdesmots.free.fr
-0.0.0.0 ktoooo.com
+0.0.0.0 981718.cn
 0.0.0.0 12directions.com
 0.0.0.0 img.securesoft.info
-0.0.0.0 lectscalimertdr43.land.ru
 0.0.0.0 lem-computers.net
+0.0.0.0 lectscalimertdr43.land.ru
 0.0.0.0 pcbangv.com
 0.0.0.0 gjysjl.com
 0.0.0.0 sgruber.com.br
@@ -121,7 +123,7 @@
 0.0.0.0 510w.com
 0.0.0.0 faloge.com
 0.0.0.0 wypromuj.nazwa.pl
-0.0.0.0 gallerycrush.com
+0.0.0.0 faloge.com
 0.0.0.0 fffddd11.cn
 0.0.0.0 czmlfc.sxtm30.badudns.cc
 0.0.0.0 818tl.com
@@ -195,10 +197,10 @@
 0.0.0.0 bestpons.net
 0.0.0.0 arouersobesite.free.fr
 0.0.0.0 stoneb.cn
-0.0.0.0 orange.bageriethornslet.dk
+0.0.0.0 941jz.cn
 0.0.0.0 unionavenue.net
 0.0.0.0 tracking.checkmygirlfriend.net
-0.0.0.0 xcl168.s37.jjisp.com
+0.0.0.0 xajcgs.com
 0.0.0.0 blushing.findgutterhelmet.com
 0.0.0.0 xingqibaile.com
 0.0.0.0 yserch.com
@@ -216,16 +218,16 @@
 0.0.0.0 redinvestor.com
 0.0.0.0 bxzxw.net
 0.0.0.0 benstock.free.fr
-0.0.0.0 jienoo.com
-0.0.0.0 bjpgqsc.com
+0.0.0.0 hntldgk.com
+0.0.0.0 filmschoolsforum.com
 0.0.0.0 hsbarbershop.co.uk
 0.0.0.0 check-updates.net
 0.0.0.0 gclabrelscon.net
 0.0.0.0 b.l-a-c.cn
 0.0.0.0 admisoft.com
 0.0.0.0 evasive.expertwitnessautomaticdoor.net
-0.0.0.0 bayansayfasi.com
-0.0.0.0 mybuzzmonitor.com
+0.0.0.0 orange.bageriethornslet.dk
+0.0.0.0 sam-sdelai.blogspot.com
 0.0.0.0 banana.automaxcenter.ro
 0.0.0.0 reflexonature.free.fr
 0.0.0.0 user.fileserver.co.kr
@@ -238,6 +240,7 @@
 0.0.0.0 191gm.com
 0.0.0.0 ideamasale.com
 0.0.0.0 cow.gutterheaters.org
+0.0.0.0 prefer.gutterhelment.com
 0.0.0.0 ecdlszczecin.eu
 0.0.0.0 prefer.gutterhelment.com
 0.0.0.0 interfere.marionunezcampusano.com
@@ -279,7 +282,7 @@
 0.0.0.0 rick.nirmallife.co.in
 0.0.0.0 tablet.gutterhelment.net
 0.0.0.0 throne.thehelpbiz.com
-0.0.0.0 mobuna.com
+0.0.0.0 rick.nirmallife.co.in
 0.0.0.0 sznaucer-figa.nd.e-wro.pl
 0.0.0.0 uci.securesoft.info
 0.0.0.0 malware-check.disconnect.me
