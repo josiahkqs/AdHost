@@ -1,9 +1,14 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Wed, 31 Oct 2018 08:58:43 +0800
+# Last converted - Tue, 06 Nov 2018 11:37:21 +0800
 #
 
+0.0.0.0 bashirian.biz
+0.0.0.0 ecadikenaz.com
+0.0.0.0 ubfhq.top
+0.0.0.0 rinwasmahis.ru
+0.0.0.0 money-in-net.ru
 0.0.0.0 pbcde.com
 0.0.0.0 zurgerya.ru
 0.0.0.0 doptik.ru
@@ -3496,6 +3501,7 @@
 0.0.0.0 svitnews.com
 0.0.0.0 adwile.com
 0.0.0.0 api.rnet.plus
+0.0.0.0 ex.newsland.com
 0.0.0.0 inshocking.ru
 0.0.0.0 jsn.24smi.net
 0.0.0.0 lentainform.com
