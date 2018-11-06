@@ -1,12 +1,13 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Wed, 31 Oct 2018 08:58:43 +0800
+# Last converted - Tue, 06 Nov 2018 11:37:20 +0800
 #
 
 0.0.0.0 ext-stat.ru
 0.0.0.0 mystatext.ru
 0.0.0.0 wb.whatsbroadcast.com
+0.0.0.0 referdriving.com
 0.0.0.0 butterburst.com
 0.0.0.0 82o9v830.com
 0.0.0.0 screechingfurniture.com
@@ -135,7 +136,7 @@
 0.0.0.0 widgets.digitalmediacommunications.com
 0.0.0.0 widget.manychat.com
 0.0.0.0 widget-static.com
-0.0.0.0 cloud.lexprofit.su
+0.0.0.0 cloud.lexprofit.
 0.0.0.0 plus20.ru
 0.0.0.0 clloudia.com
 0.0.0.0 livechat.chat2desk.com
