@@ -1,9 +1,10 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Wed, 31 Oct 2018 08:58:41 +0800
+# Last converted - Tue, 06 Nov 2018 11:37:17 +0800
 #
 
+0.0.0.0 adxxx.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0082tv.net
 0.0.0.0 00880808.com
@@ -141,6 +142,7 @@
 0.0.0.0 366safego.com
 0.0.0.0 36pn.com
 0.0.0.0 376zf.com
+0.0.0.0 3798.com
 0.0.0.0 37cs.com
 0.0.0.0 37pk49.com
 0.0.0.0 3839168.com
@@ -347,6 +349,7 @@
 0.0.0.0 admaji.com
 0.0.0.0 admartzone.com
 0.0.0.0 admin6.com
+0.0.0.0 adnex.tech
 0.0.0.0 adnow.cc
 0.0.0.0 adomv.com
 0.0.0.0 adpro.cn
@@ -578,6 +581,7 @@
 0.0.0.0 cs.37see.com
 0.0.0.0 csad.cc
 0.0.0.0 csbew.com
+0.0.0.0 csgtfruit.com
 0.0.0.0 csqiulong.com
 0.0.0.0 cssdiv.club
 0.0.0.0 cstoa.com
@@ -592,6 +596,7 @@
 0.0.0.0 czjiuding.cn
 0.0.0.0 czpush.com
 0.0.0.0 czpwm.com
+0.0.0.0 cztanchao.com
 0.0.0.0 d15cjcet1djbmv.cloudfront.net
 0.0.0.0 d1ad.com
 0.0.0.0 d8360.com
@@ -909,6 +914,7 @@
 0.0.0.0 hyz86.com
 0.0.0.0 hz3137.com
 0.0.0.0 hzaibi.com
+0.0.0.0 hzxma.com
 0.0.0.0 i.zhuoyaju.com
 0.0.0.0 i000o.com
 0.0.0.0 i3818.com
@@ -1164,6 +1170,7 @@
 0.0.0.0 mengyuanwei.com
 0.0.0.0 mgwcn.com
 0.0.0.0 mgwl668.com
+0.0.0.0 mh9dskj8jg.com
 0.0.0.0 miaozhen.com
 0.0.0.0 mingxianshanghang.cn
 0.0.0.0 mingysh.com
@@ -1280,6 +1287,7 @@
 0.0.0.0 pnhfc.com
 0.0.0.0 pnxs.com
 0.0.0.0 pofang.com
+0.0.0.0 poke88.com
 0.0.0.0 polkoa.com
 0.0.0.0 popin.cc
 0.0.0.0 pos.baidu.com
@@ -1556,6 +1564,7 @@
 0.0.0.0 twzui6.com
 0.0.0.0 txdwc.cn
 0.0.0.0 txkjad.com
+0.0.0.0 txt2017.com
 0.0.0.0 ty229.com
 0.0.0.0 tylll.com
 0.0.0.0 tz-dsp.com
@@ -1865,6 +1874,7 @@
 0.0.0.0 zgc66.com
 0.0.0.0 zgczjw.com
 0.0.0.0 zgksb.com
+0.0.0.0 zgktxx.com
 0.0.0.0 zgunion.cn
 0.0.0.0 zgyemy.com
 0.0.0.0 zgyiyi.com
@@ -1906,7 +1916,6 @@
 0.0.0.0 zzbaowen.com
 0.0.0.0 zzrcz.com
 0.0.0.0 zzyonghao.com
-0.0.0.0 1024wanzhai.xyz
 0.0.0.0 133gp.com
 0.0.0.0 415.net
 0.0.0.0 7866593178.com
@@ -1952,7 +1961,6 @@
 0.0.0.0 20150930.cf
 0.0.0.0 2016.bkill.net
 0.0.0.0 205.209.138.102
-0.0.0.0 33.autohome.com.cn
 0.0.0.0 33405.com
 0.0.0.0 360safego.com
 0.0.0.0 3boys2girls.com
@@ -2122,8 +2130,6 @@
 0.0.0.0 hdad.baike.com
 0.0.0.0 henghost.com
 0.0.0.0 hiad.vmall.com
-0.0.0.0 hxjs.tool.hexun.com
-0.0.0.0 hxsame.hexun.com
 0.0.0.0 hz.shouyoutv.com
 0.0.0.0 hzhyhm.com
 0.0.0.0 i.syasn.com
@@ -2403,6 +2409,8 @@
 0.0.0.0 a.ut8d8.com
 0.0.0.0 a.wifi33.com
 0.0.0.0 a.xixiyishu.com
+0.0.0.0 a.xuezizhai.com
+0.0.0.0 a.xxdy8.cn
 0.0.0.0 a.yangshengtang123.com
 0.0.0.0 a.yixie8.com
 0.0.0.0 a.yl-taikang.com
@@ -2600,6 +2608,7 @@
 0.0.0.0 f1.06ps.com
 0.0.0.0 f1.lutouwang.net
 0.0.0.0 f1.pig66.com
+0.0.0.0 f1.zaojv.com
 0.0.0.0 fan.9939.com
 0.0.0.0 fanyi100.com.cn
 0.0.0.0 fbmjc.39yst.com
@@ -2740,6 +2749,7 @@
 0.0.0.0 mpb1.iteye.com
 0.0.0.0 mxitie.com
 0.0.0.0 mxpwx.com
+0.0.0.0 my.gz2010.cn
 0.0.0.0 myunion1.qm120.com
 0.0.0.0 myunion1.tupians.com
 0.0.0.0 mzcsdf.com
@@ -2750,6 +2760,7 @@
 0.0.0.0 o.phb123.com
 0.0.0.0 okkkk.com
 0.0.0.0 p1.zhumengwl.com
+0.0.0.0 pb.okk123.com
 0.0.0.0 pb.shuxigua.com
 0.0.0.0 pingbi.diudou.com
 0.0.0.0 pjcn.org
@@ -2915,6 +2926,7 @@
 0.0.0.0 hgo7r.cn
 0.0.0.0 hulemedia.com
 0.0.0.0 ip.hivps.xyz
+0.0.0.0 jjqyk.com
 0.0.0.0 jlhygy.com
 0.0.0.0 juren0.com
 0.0.0.0 kuangtuiguoo18888.com
@@ -3142,6 +3154,7 @@
 0.0.0.0 fangzi2.top
 0.0.0.0 fbaot.com
 0.0.0.0 fcaot.com
+0.0.0.0 fchio.com
 0.0.0.0 fcrdb.com
 0.0.0.0 fcuit.com
 0.0.0.0 feifish66.com
@@ -3301,6 +3314,7 @@
 0.0.0.0 ktzte.cn
 0.0.0.0 kwjkd.com
 0.0.0.0 kxhie.com
+0.0.0.0 kyxnz.cn
 0.0.0.0 kz8tr2.cn
 0.0.0.0 lanhouhou.cn
 0.0.0.0 laojiayoufang.com
@@ -3391,6 +3405,7 @@
 0.0.0.0 pptte.com
 0.0.0.0 prazpf.cn
 0.0.0.0 pwjhg.com
+0.0.0.0 pxyvb.cn
 0.0.0.0 pyerc.com
 0.0.0.0 qaqact.cn
 0.0.0.0 qhdop.com
@@ -3489,6 +3504,7 @@
 0.0.0.0 txtxr.com
 0.0.0.0 tymsyx.com
 0.0.0.0 tyyjzs.cn
+0.0.0.0 ucaii.com
 0.0.0.0 uchij.com
 0.0.0.0 uissm.com
 0.0.0.0 umm6.cn
@@ -3501,6 +3517,7 @@
 0.0.0.0 vbieu.com
 0.0.0.0 vbinu.com
 0.0.0.0 vers80.com
+0.0.0.0 vf5yb4.cn
 0.0.0.0 vichc.com
 0.0.0.0 viiqx.com
 0.0.0.0 vouky.com
@@ -3550,6 +3567,7 @@
 0.0.0.0 xinterface.cn
 0.0.0.0 xjtxcj.com
 0.0.0.0 xkanf.com
+0.0.0.0 xkena.com
 0.0.0.0 xkqpco.com
 0.0.0.0 xmcxz.com
 0.0.0.0 xmgysweb.com
@@ -3564,6 +3582,7 @@
 0.0.0.0 xznykf.org
 0.0.0.0 xztms.com
 0.0.0.0 y12f.com
+0.0.0.0 ybaoh.com
 0.0.0.0 ybeih.com
 0.0.0.0 ybhypt.com
 0.0.0.0 ybtianxi.com
