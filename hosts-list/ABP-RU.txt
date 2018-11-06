@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Wed, 31 Oct 2018 08:58:43 +0800
+# Last converted - Tue, 06 Nov 2018 11:37:19 +0800
 #
 
 0.0.0.0 welcomegames.net
@@ -1436,7 +1436,6 @@
 0.0.0.0 onban.ru
 0.0.0.0 only4men.ru
 0.0.0.0 onlyrichgames.com
-0.0.0.0 onvix.tv
 0.0.0.0 openlinks.ru
 0.0.0.0 opershop.ru
 0.0.0.0 oru.ru
@@ -1958,6 +1957,7 @@
 0.0.0.0 7k39lprupvfc83kxbhor.com
 0.0.0.0 7out.ru
 0.0.0.0 7window7.info
+0.0.0.0 800083be77.com
 0.0.0.0 833xoxo.ru
 0.0.0.0 8722085b25.com
 0.0.0.0 87joojin3fb.ru
@@ -4981,6 +4981,7 @@
 0.0.0.0 partnerna5.ru
 0.0.0.0 parusdon.ru
 0.0.0.0 parviz.ehost.tj
+0.0.0.0 pasekerit.ru
 0.0.0.0 pastilon.com
 0.0.0.0 pautina.mobi
 0.0.0.0 payandpray.ru
@@ -5331,7 +5332,9 @@
 0.0.0.0 riibl.com
 0.0.0.0 rikolet.ru
 0.0.0.0 rimeyer.ru
+0.0.0.0 rinlohedtron.ru
 0.0.0.0 rintinwa.com
+0.0.0.0 rinwasmahis.ru
 0.0.0.0 rinwisi.pro
 0.0.0.0 rioaffiliates.com
 0.0.0.0 ripemember.com
@@ -5704,6 +5707,7 @@
 0.0.0.0 ssvim.com
 0.0.0.0 sszru.ru
 0.0.0.0 st-wp.ru
+0.0.0.0 st.astraone.io
 0.0.0.0 stablemoney.ru
 0.0.0.0 stableprofit4you.com
 0.0.0.0 standadv.com
@@ -6247,6 +6251,7 @@
 0.0.0.0 video103.ru
 0.0.0.0 video1132.com
 0.0.0.0 videoaugust.ru
+0.0.0.0 videoblock.co.il
 0.0.0.0 videobrain.org
 0.0.0.0 videoburner2015.com
 0.0.0.0 videocap.org
@@ -6303,6 +6308,7 @@
 0.0.0.0 vip-click.biz
 0.0.0.0 viparchive1.ru
 0.0.0.0 vipteaser.net
+0.0.0.0 vir70n.news
 0.0.0.0 viral-cdn.ru
 0.0.0.0 viruntek.ru
 0.0.0.0 vis19.com
