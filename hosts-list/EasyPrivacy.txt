@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Wed, 31 Oct 2018 08:58:45 +0800
+# Last converted - Tue, 06 Nov 2018 11:37:23 +0800
 #
 
 0.0.0.0 0emm.com
@@ -94,6 +94,7 @@
 0.0.0.0 acxiom-online.com
 0.0.0.0 acxiomapac.com
 0.0.0.0 ad-score.com
+0.0.0.0 ad.gt
 0.0.0.0 adabra.com
 0.0.0.0 adalyser.com
 0.0.0.0 adblade.com
@@ -121,7 +122,6 @@
 0.0.0.0 admaster.com.cn
 0.0.0.0 admitad.com
 0.0.0.0 admother.com
-0.0.0.0 adnxs.com
 0.0.0.0 adobedtm.com
 0.0.0.0 adobetag.com
 0.0.0.0 adoftheyear.com
@@ -427,6 +427,7 @@
 0.0.0.0 cetrk.com
 0.0.0.0 cformanalytics.com
 0.0.0.0 cftrack.com
+0.0.0.0 cguru.ga
 0.0.0.0 chardneave.info
 0.0.0.0 chartaca.com
 0.0.0.0 chartbeat.com
@@ -4167,7 +4168,6 @@
 0.0.0.0 detect.ergebnis-dienst.de
 0.0.0.0 dfanalytics.dealerfire.com
 0.0.0.0 dfdbz2tdq3k01.cloudfront.net
-0.0.0.0 dig.ultimedia.com
 0.0.0.0 dirt.dennis.co.uk
 0.0.0.0 distillery.wistia.com
 0.0.0.0 djibeacon.djns.com
@@ -6060,6 +6060,7 @@
 0.0.0.0 whoson.smcorp.com
 0.0.0.0 winter.metacafe.com
 0.0.0.0 ws.yellowpages.ca
+0.0.0.0 wstats.e-wok.tv
 0.0.0.0 wtk.db.com
 0.0.0.0 wusstrack.wunderground.com
 0.0.0.0 wzus.askkids.com
