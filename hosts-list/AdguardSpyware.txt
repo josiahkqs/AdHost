@@ -1,9 +1,11 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Thu, 25 Oct 2018 19:07:11 +0800
+# Last converted - Tue, 06 Nov 2018 11:37:21 +0800
 #
 
+0.0.0.0 xl-trk.com
+0.0.0.0 168logger.com
 0.0.0.0 nxcount.com
 0.0.0.0 t.seesaa.net
 0.0.0.0 pfx.sma-clsystem.info
@@ -93,7 +95,6 @@
 0.0.0.0 medialogger.ru
 0.0.0.0 rtbanalytics.com
 0.0.0.0 waust.at
-0.0.0.0 168logger.com
 0.0.0.0 isterra.ru
 0.0.0.0 user-clicks.com
 0.0.0.0 mediapixelnet.com
@@ -2890,6 +2891,8 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 referdriving.com
+0.0.0.0 innocentinvention.com
 0.0.0.0 stickssheep.com
 0.0.0.0 tranquilside.com
 0.0.0.0 screechingfurniture.com
@@ -3037,6 +3040,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 api.logmatic.io
 0.0.0.0 adc.9news.com.au
 0.0.0.0 adc.api.nine.com.au
 0.0.0.0 adc.nine.com.au
@@ -4319,6 +4323,7 @@
 0.0.0.0 xtag.autotrader.com
 0.0.0.0 xtag.kbb.com
 0.0.0.0 zdlogs.sphereup.com
+0.0.0.0 sonar.semantiqo.com
 0.0.0.0 spycounter.net
 0.0.0.0 nbalive.pw
 0.0.0.0 tag.aumago.com
