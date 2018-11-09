@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 06 Nov 2018 11:37:23 +0800
+# Last converted - Fri, 09 Nov 2018 09:50:30 +0800
 #
 
 0.0.0.0 0emm.com
@@ -575,6 +575,7 @@
 0.0.0.0 customerconversio.com
 0.0.0.0 customerdiscoverytrack.com
 0.0.0.0 cux.io
+0.0.0.0 cvtr.io
 0.0.0.0 cxense.com
 0.0.0.0 cxt.ms
 0.0.0.0 cya2.net
@@ -1405,6 +1406,7 @@
 0.0.0.0 nicewii.com
 0.0.0.0 niftymaps.com
 0.0.0.0 nik.io
+0.0.0.0 nile.works
 0.0.0.0 noowho.com
 0.0.0.0 nordicresearch.com
 0.0.0.0 notifyvisitors.com
@@ -4108,6 +4110,7 @@
 0.0.0.0 d21o24qxwf7uku.cloudfront.net
 0.0.0.0 d22v2nmahyeg2a.cloudfront.net
 0.0.0.0 d23p9gffjvre9v.cloudfront.net
+0.0.0.0 d23pi6hvdpcc5i.cloudfront.net
 0.0.0.0 d25ezbwokoefx6.cloudfront.net
 0.0.0.0 d28g9g3vb08y70.cloudfront.net
 0.0.0.0 d2gfdmu30u15x7.cloudfront.net
@@ -4820,6 +4823,7 @@
 0.0.0.0 upt.graphiq.com
 0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 userlog.synapseip.tv
+0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 vertical-stats.huffpost.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 visit.geocities.com
@@ -5094,6 +5098,7 @@
 0.0.0.0 fcstats.altervista.org
 0.0.0.0 livestats.matrix.it
 0.0.0.0 log.superweb.ws
+0.0.0.0 logger.kataweb.it
 0.0.0.0 nanostats.nanopress.it
 0.0.0.0 rcsmetrics.it
 0.0.0.0 rd.alice.it
