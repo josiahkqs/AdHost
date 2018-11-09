@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Tue, 06 Nov 2018 11:37:19 +0800
+# Last converted - Fri, 09 Nov 2018 09:50:27 +0800
 #
 
 0.0.0.0 welcomegames.net
@@ -754,8 +754,6 @@
 0.0.0.0 plsva.ru
 0.0.0.0 pochistit.ru
 0.0.0.0 pogodis.ru
-0.0.0.0 politfox.ru
-0.0.0.0 politinfox.ru
 0.0.0.0 pop-bloggz.com
 0.0.0.0 pop-blogs.com
 0.0.0.0 pop-blogz.com
@@ -782,9 +780,6 @@
 0.0.0.0 ribnadzo.ru
 0.0.0.0 rightroundark.ru
 0.0.0.0 rosguards.date
-0.0.0.0 rosinfonews.ru
-0.0.0.0 rossinfonews.ru
-0.0.0.0 rossinfonewsrf.ru
 0.0.0.0 ru-tor.biz
 0.0.0.0 ruinfoblog.com
 0.0.0.0 runews-time.xyz
@@ -2235,6 +2230,7 @@
 0.0.0.0 amazingcl.ru
 0.0.0.0 amazingomgnews.ru
 0.0.0.0 amenop.com
+0.0.0.0 amgload.net
 0.0.0.0 amiok.org
 0.0.0.0 amperse.info
 0.0.0.0 amuseer.com
@@ -3307,6 +3303,7 @@
 0.0.0.0 fmich.ru
 0.0.0.0 fmu1qrtjoamc.pro
 0.0.0.0 fmusive.ru
+0.0.0.0 fne9ez3lpqt.info
 0.0.0.0 fobise.ru
 0.0.0.0 foganonura.com
 0.0.0.0 for-ladies-oy.ru
@@ -3387,6 +3384,7 @@
 0.0.0.0 gameleads.ru
 0.0.0.0 gameorakul.ru
 0.0.0.0 gamesfortuna.com
+0.0.0.0 garatrelitt.ru
 0.0.0.0 garewuld.com
 0.0.0.0 gate-cdn.ru
 0.0.0.0 gateway-02.com
@@ -3633,6 +3631,7 @@
 0.0.0.0 hommunit.com
 0.0.0.0 honeypoet.com
 0.0.0.0 hopedac.com
+0.0.0.0 hotpartner.biz
 0.0.0.0 hotpartner.ru
 0.0.0.0 hottod.info
 0.0.0.0 houmekredit.ru
@@ -4774,6 +4773,7 @@
 0.0.0.0 npykocy.ru
 0.0.0.0 nqvlw.com
 0.0.0.0 nrged.com
+0.0.0.0 nrjprice.com
 0.0.0.0 nrzcj.top
 0.0.0.0 nsx3g.ru
 0.0.0.0 ntfhglciig.bid
@@ -5023,6 +5023,7 @@
 0.0.0.0 pidarunki.ru
 0.0.0.0 pidorg.ru
 0.0.0.0 pifvfovy.biz
+0.0.0.0 piguiqproxy.com
 0.0.0.0 pikachun.ru
 0.0.0.0 pikalop.com
 0.0.0.0 pillowinthewoods.ru
@@ -5270,6 +5271,7 @@
 0.0.0.0 rbzyi.com
 0.0.0.0 rc7pf.ru
 0.0.0.0 rcacase.ru
+0.0.0.0 rcdn.pro
 0.0.0.0 rd09ettvoemc.pro
 0.0.0.0 reacten.com
 0.0.0.0 reactor.wiki
@@ -6692,6 +6694,7 @@
 0.0.0.0 zeroparking.ru
 0.0.0.0 zersai.ru
 0.0.0.0 zeures.ru
+0.0.0.0 zewkj.com
 0.0.0.0 zfvklk.ru
 0.0.0.0 zgvvx.com
 0.0.0.0 zhalobpa.ru
@@ -6708,6 +6711,7 @@
 0.0.0.0 zivkatsa.ru
 0.0.0.0 zlmoh.com
 0.0.0.0 zlobazik.ru
+0.0.0.0 zmctrack.net
 0.0.0.0 znatokionline.com
 0.0.0.0 znbdr.com
 0.0.0.0 zne1esxpove.info
@@ -7149,8 +7153,6 @@
 0.0.0.0 plsva.ru
 0.0.0.0 pochistit.ru
 0.0.0.0 pogodis.ru
-0.0.0.0 politfox.ru
-0.0.0.0 politinfox.ru
 0.0.0.0 pop-bloggz.com
 0.0.0.0 pop-blogs.com
 0.0.0.0 pop-blogz.com
@@ -7178,9 +7180,6 @@
 0.0.0.0 ribnadzo.ru
 0.0.0.0 rightroundark.ru
 0.0.0.0 rosguards.date
-0.0.0.0 rosinfonews.ru
-0.0.0.0 rossinfonews.ru
-0.0.0.0 rossinfonewsrf.ru
 0.0.0.0 ru-tor.biz
 0.0.0.0 ruinfoblog.com
 0.0.0.0 runews-time.xyz
