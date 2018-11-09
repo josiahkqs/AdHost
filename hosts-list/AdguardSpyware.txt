@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Tue, 06 Nov 2018 11:37:21 +0800
+# Last converted - Fri, 09 Nov 2018 09:50:28 +0800
 #
 
 0.0.0.0 xl-trk.com
@@ -2891,6 +2891,8 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 actuallysnake.com
+0.0.0.0 bulbbait.com
 0.0.0.0 referdriving.com
 0.0.0.0 innocentinvention.com
 0.0.0.0 stickssheep.com
