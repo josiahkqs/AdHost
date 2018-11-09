@@ -1,7 +1,7 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 06 Nov 2018 11:37:21 +0800
+# Last converted - Fri, 09 Nov 2018 09:50:28 +0800
 #
 
 0.0.0.0 bashirian.biz
@@ -150,14 +150,12 @@
 0.0.0.0 dhygr.com
 0.0.0.0 ocatdog.today
 0.0.0.0 fer-ta.com
-0.0.0.0 oblivki.biz
 0.0.0.0 ocatdog.live
 0.0.0.0 qeyps.com
 0.0.0.0 fkehg.com
 0.0.0.0 fsfrz.xyz
 0.0.0.0 mobi-bobi.info
 0.0.0.0 zdorovmagazine.ru
-0.0.0.0 mrelko.com
 0.0.0.0 prosmazke.ru
 0.0.0.0 hkbpt.com
 0.0.0.0 rjjtf.biz
@@ -205,9 +203,9 @@
 0.0.0.0 native.ext.media
 0.0.0.0 tle.ru
 0.0.0.0 bearsandfish.com
-0.0.0.0 pelicansource.com
 0.0.0.0 adsgid.com
 0.0.0.0 adfill.me
+0.0.0.0 pelicansource.com
 0.0.0.0 osdoma.xyz
 0.0.0.0 1177ea804fbd7d1430c4.date
 0.0.0.0 buawdshes.ru
@@ -254,12 +252,12 @@
 0.0.0.0 node.market-place.su
 0.0.0.0 mipwm.com
 0.0.0.0 well365.ru
-0.0.0.0 omasovizac.com
 0.0.0.0 ypfdp.com
 0.0.0.0 qoheo.com
 0.0.0.0 metertna.ru
 0.0.0.0 nitsano.ru
 0.0.0.0 turmene.ru
+0.0.0.0 omasovizac.com
 0.0.0.0 foganonura.com
 0.0.0.0 livesurf.ru
 0.0.0.0 adblender.ru
@@ -271,13 +269,13 @@
 0.0.0.0 vucovorise.com
 0.0.0.0 ajx130.online
 0.0.0.0 vidroll.ru
-0.0.0.0 sandensi.ru
 0.0.0.0 kriteriatika.ru
 0.0.0.0 block.s2blosh.com
 0.0.0.0 haa66855mo.club
 0.0.0.0 aliru4.ru
 0.0.0.0 reytata.ru
 0.0.0.0 a.ruporn.me
+0.0.0.0 sandensi.ru
 0.0.0.0 oznibal.ru
 0.0.0.0 vadideo.com
 0.0.0.0 aymcsx.ru
@@ -746,6 +744,7 @@
 0.0.0.0 pabrashu.info
 0.0.0.0 anobufefig.com
 0.0.0.0 clicktoclick.ru
+0.0.0.0 mrelko.com
 0.0.0.0 wom8day.ru
 0.0.0.0 puxrotate.ru
 0.0.0.0 95.213.231.34
@@ -2314,6 +2313,7 @@
 0.0.0.0 obigre.ru
 0.0.0.0 obislame.ru
 0.0.0.0 obkatra.ru
+0.0.0.0 oblivki.biz
 0.0.0.0 oblivochki.biz
 0.0.0.0 obmen.starstudio.org.ua
 0.0.0.0 obmnt.com
