@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Fri, 09 Nov 2018 09:50:28 +0800
+# Last converted - Sun, 11 Nov 2018 00:23:57 +0800
 #
 
 0.0.0.0 xl-trk.com
@@ -3042,6 +3042,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 smetrics.marriott.com
 0.0.0.0 api.logmatic.io
 0.0.0.0 adc.9news.com.au
 0.0.0.0 adc.api.nine.com.au
@@ -4219,7 +4220,6 @@
 0.0.0.0 analytics.vadio.com
 0.0.0.0 analytics.xyscdn.com
 0.0.0.0 app.adjust.io
-0.0.0.0 ascstats.iobit.com
 0.0.0.0 b-aws.aol.com
 0.0.0.0 b-aws.huffingtonpost.com
 0.0.0.0 b.huffingtonpost.com
