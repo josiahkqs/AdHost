@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Fri, 09 Nov 2018 09:50:27 +0800
+# Last converted - Sun, 11 Nov 2018 00:23:57 +0800
 #
 
 0.0.0.0 welcomegames.net
@@ -3342,6 +3342,7 @@
 0.0.0.0 fresh-video.com
 0.0.0.0 frmsafe.com
 0.0.0.0 frostedcaramilk.com
+0.0.0.0 frvid.ru
 0.0.0.0 frzaj.com
 0.0.0.0 fsafemi.info
 0.0.0.0 fseed.ru
@@ -3648,6 +3649,7 @@
 0.0.0.0 hushodo.com
 0.0.0.0 hw4mm.ru
 0.0.0.0 hwmgcurmtkxk.bid
+0.0.0.0 hxmtwz3cffemjy.ru
 0.0.0.0 hydr.work
 0.0.0.0 hymona.ru
 0.0.0.0 hyndir.com
@@ -4997,6 +4999,7 @@
 0.0.0.0 pcx-qgh2-wit.ru
 0.0.0.0 pdmayt.com
 0.0.0.0 pe5avnvi81ed.ru
+0.0.0.0 peettold.ru
 0.0.0.0 pelicanprogram.com
 0.0.0.0 pelicansource.com
 0.0.0.0 pentoch.com
@@ -5835,6 +5838,7 @@
 0.0.0.0 tecontx.com
 0.0.0.0 tedpasit.com
 0.0.0.0 tedpasit.net
+0.0.0.0 telacrered.ru
 0.0.0.0 televisionbomb.com
 0.0.0.0 temphilltop.net
 0.0.0.0 terapou.com
@@ -6327,6 +6331,7 @@
 0.0.0.0 vk242.ru
 0.0.0.0 vkcdn.ru
 0.0.0.0 vkkpv.com
+0.0.0.0 vklasse.info
 0.0.0.0 vkmoll.ru
 0.0.0.0 vkmonster.com
 0.0.0.0 vkout.ru
@@ -6368,6 +6373,7 @@
 0.0.0.0 vsevmedicine.ru
 0.0.0.0 vt4dlx.ru
 0.0.0.0 vtds.info
+0.0.0.0 vtexte.ru
 0.0.0.0 vtomate.biz
 0.0.0.0 vumek.club
 0.0.0.0 vuntara.com
