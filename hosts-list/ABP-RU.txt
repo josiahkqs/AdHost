@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Sun, 11 Nov 2018 00:23:57 +0800
+# Last converted - Sun, 18 Nov 2018 00:09:51 +0800
 #
 
 0.0.0.0 welcomegames.net
@@ -1902,6 +1902,8 @@
 0.0.0.0 4a5388e4cd31336b89c2.date
 0.0.0.0 4b4abb50b13fc4e01adc.date
 0.0.0.0 4broomandbrush.zone
+0.0.0.0 4d003b99956.com
+0.0.0.0 4ervtcv.com
 0.0.0.0 4f25d2074d564f5ce17d.date
 0.0.0.0 4jiqzr.ru
 0.0.0.0 4lucysu.com
@@ -1935,6 +1937,7 @@
 0.0.0.0 674b06de9c3.com
 0.0.0.0 6b43901d27852f19b677.date
 0.0.0.0 6c6580635061ded7.com
+0.0.0.0 6d2a03505168b9e.com
 0.0.0.0 6glass1.info
 0.0.0.0 6mjl94uxhppmvt.ru
 0.0.0.0 6zzua.gdn
@@ -1948,6 +1951,7 @@
 0.0.0.0 753912c2e5560d428ba2.date
 0.0.0.0 7adaabef911292de74fb.date
 0.0.0.0 7cipgmg8r6.ru
+0.0.0.0 7ec45e778b88b6.com
 0.0.0.0 7epwarvd2a.site
 0.0.0.0 7k39lprupvfc83kxbhor.com
 0.0.0.0 7out.ru
@@ -2587,6 +2591,7 @@
 0.0.0.0 bzlwe.com
 0.0.0.0 c2mix.ru
 0.0.0.0 c3itnot.ru
+0.0.0.0 c425ca36e118.com
 0.0.0.0 c4mwm.ru
 0.0.0.0 c510216b59f2.com
 0.0.0.0 c5dnrqs2vbl4.ru
@@ -3081,6 +3086,8 @@
 0.0.0.0 dzizsih.ru
 0.0.0.0 e-leads.ru
 0.0.0.0 e-publick.info
+0.0.0.0 e1e39121ca.com
+0.0.0.0 e272ab16d0c12.com
 0.0.0.0 e523a33a9ded6a7aeebb.date
 0.0.0.0 eaplay.ru
 0.0.0.0 eaqci.com
@@ -3242,6 +3249,7 @@
 0.0.0.0 fastbtc.net
 0.0.0.0 fastnewsis.net
 0.0.0.0 fastsearcher.ru
+0.0.0.0 fasyth3fqiurqq.ru
 0.0.0.0 faundop.com
 0.0.0.0 faxso.ru
 0.0.0.0 fbbamvq2fdinvtx.ru
@@ -3398,6 +3406,7 @@
 0.0.0.0 gbedccihjeajhchcaea.ru
 0.0.0.0 gcfln.top
 0.0.0.0 gcjehafhajjhcdicaeb.ru
+0.0.0.0 gcontentdelivery.info
 0.0.0.0 gddrio.com
 0.0.0.0 gdeslon.ru
 0.0.0.0 gdsln.ru
@@ -3551,6 +3560,7 @@
 0.0.0.0 guktuti.ru
 0.0.0.0 gvahh.top
 0.0.0.0 gwxpv.com
+0.0.0.0 gyfwz.com
 0.0.0.0 gyrbise.ru
 0.0.0.0 gyvjv.com
 0.0.0.0 h1summer.com
@@ -3876,6 +3886,7 @@
 0.0.0.0 jofbu.com
 0.0.0.0 johnlactal.com
 0.0.0.0 johnoftwass.ru
+0.0.0.0 johnsandsofhar.ru
 0.0.0.0 johnsitsi.pro
 0.0.0.0 jokek.ru
 0.0.0.0 jokerhaus.moskva-tv.com
@@ -4308,6 +4319,7 @@
 0.0.0.0 m-hub.info
 0.0.0.0 m-shes.ru
 0.0.0.0 m0zdeb.ru
+0.0.0.0 m1.kahoxa.ru
 0.0.0.0 m1cpl.ru
 0.0.0.0 m1xclick.ru
 0.0.0.0 m2corp.ru
@@ -4618,6 +4630,7 @@
 0.0.0.0 myloveadblock.ucoz.club
 0.0.0.0 mynagor.com
 0.0.0.0 mynaruto.at.ua
+0.0.0.0 mynikolaev.vn.ua
 0.0.0.0 mynysy.com
 0.0.0.0 myonionsoup.com
 0.0.0.0 mypictures-onlinesegodnya.info
@@ -4668,6 +4681,7 @@
 0.0.0.0 nedorogo-vkusno.ru
 0.0.0.0 nedrofu.ru
 0.0.0.0 needmorecola.com
+0.0.0.0 nek1urtfoveu.pro
 0.0.0.0 nelittte.com
 0.0.0.0 neolofting.ru
 0.0.0.0 neomion.com
@@ -4982,6 +4996,7 @@
 0.0.0.0 partnerearn.net
 0.0.0.0 partnerna5.ru
 0.0.0.0 parusdon.ru
+0.0.0.0 paruseatno.ru
 0.0.0.0 parviz.ehost.tj
 0.0.0.0 pasekerit.ru
 0.0.0.0 pastilon.com
@@ -5067,6 +5082,7 @@
 0.0.0.0 pokupkinz.ru
 0.0.0.0 pokutaf.com
 0.0.0.0 poli12.bid
+0.0.0.0 policityseriod.info
 0.0.0.0 polimadv.com
 0.0.0.0 polirtb.com
 0.0.0.0 polisrtb.com
@@ -5169,6 +5185,7 @@
 0.0.0.0 prqcratre.club
 0.0.0.0 prqcratre.online
 0.0.0.0 prqcratre.today
+0.0.0.0 prqhn.com
 0.0.0.0 prycratre.club
 0.0.0.0 prycratre.online
 0.0.0.0 prycratre.today
@@ -5225,6 +5242,7 @@
 0.0.0.0 qload.ru
 0.0.0.0 qmebelist.ru
 0.0.0.0 qoabf.top
+0.0.0.0 qocsb.com
 0.0.0.0 qoheo.com
 0.0.0.0 qooqleplay.ru
 0.0.0.0 qractv.com
@@ -5640,6 +5658,7 @@
 0.0.0.0 slavedomain48.net
 0.0.0.0 sleepac.com
 0.0.0.0 slejv.space
+0.0.0.0 sleshdash.com
 0.0.0.0 slhnj.com
 0.0.0.0 slickjump.com
 0.0.0.0 slickjump.net
@@ -5694,6 +5713,7 @@
 0.0.0.0 spechete.com
 0.0.0.0 specisez.com
 0.0.0.0 speedmydata.com
+0.0.0.0 speedteest.pro
 0.0.0.0 spetsodezhda-best.ru
 0.0.0.0 spicysales.ru
 0.0.0.0 spiderbig.info
@@ -6125,6 +6145,7 @@
 0.0.0.0 typyky.com
 0.0.0.0 tyre-trimax.com.ua
 0.0.0.0 tyupo.com
+0.0.0.0 u1tshop.ru
 0.0.0.0 uaadi.com
 0.0.0.0 ubdwc.com
 0.0.0.0 ubfhq.top
@@ -6316,6 +6337,7 @@
 0.0.0.0 vipteaser.net
 0.0.0.0 vir70n.news
 0.0.0.0 viral-cdn.ru
+0.0.0.0 virtonnews.com
 0.0.0.0 viruntek.ru
 0.0.0.0 vis19.com
 0.0.0.0 visitscounter.ru
@@ -6449,6 +6471,7 @@
 0.0.0.0 wetpussyhd.com
 0.0.0.0 wett45.ru
 0.0.0.0 wguke.com
+0.0.0.0 wgwrp7yv.ru
 0.0.0.0 wheretogo.bid
 0.0.0.0 whisla.com
 0.0.0.0 whiteknightcolour.xyz
@@ -6699,6 +6722,7 @@
 0.0.0.0 zerokom.ru
 0.0.0.0 zeroparking.ru
 0.0.0.0 zersai.ru
+0.0.0.0 zeu5esxdovg.online
 0.0.0.0 zeures.ru
 0.0.0.0 zewkj.com
 0.0.0.0 zfvklk.ru
