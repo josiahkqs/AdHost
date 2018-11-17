@@ -1,12 +1,14 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Sun, 11 Nov 2018 00:23:57 +0800
+# Last converted - Sun, 18 Nov 2018 00:09:52 +0800
 #
 
 0.0.0.0 ext-stat.ru
 0.0.0.0 mystatext.ru
 0.0.0.0 wb.whatsbroadcast.com
+0.0.0.0 jamexistence.com
+0.0.0.0 partplanes.com
 0.0.0.0 actuallysnake.com
 0.0.0.0 referdriving.com
 0.0.0.0 butterburst.com
@@ -16,6 +18,7 @@
 0.0.0.0 terriblethumb.com
 0.0.0.0 puffypull.com
 0.0.0.0 copperchickens.com
+0.0.0.0 oil.axelspringer.com
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 cookielaw.org
 0.0.0.0 cookiebot.com
@@ -66,6 +69,8 @@
 0.0.0.0 malerex.ru
 0.0.0.0 pushiki.ru
 0.0.0.0 push-money.ru
+0.0.0.0 sdk.push7.jp
+0.0.0.0 pushpushgo.com
 0.0.0.0 cdn.carrotquest.io
 0.0.0.0 notification-time.com
 0.0.0.0 push-ad.com
@@ -136,6 +141,7 @@
 0.0.0.0 dl.metabar.ru
 0.0.0.0 plista.com
 0.0.0.0 widgets.digitalmediacommunications.com
+0.0.0.0 callback.onlinepbx.ru
 0.0.0.0 widget.textback.io
 0.0.0.0 widget.manychat.com
 0.0.0.0 widget-static.com
