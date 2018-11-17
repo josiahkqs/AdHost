@@ -1,9 +1,19 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sun, 11 Nov 2018 00:23:57 +0800
+# Last converted - Sun, 18 Nov 2018 00:09:52 +0800
 #
 
+0.0.0.0 nnavigation.info
+0.0.0.0 dintsupnejec.ru
+0.0.0.0 vam-nado.ru
+0.0.0.0 impressionsme.net
+0.0.0.0 retsiti.ru
+0.0.0.0 tdstorage.site
+0.0.0.0 v0hs81ev3vepjr.ru
+0.0.0.0 paripartners.online
+0.0.0.0 u1tshop.ru
+0.0.0.0 u2tshop.ru
 0.0.0.0 amzbr.com
 0.0.0.0 wer.glib-cough.fun
 0.0.0.0 bashirian.biz
@@ -3392,6 +3402,8 @@
 0.0.0.0 zxrtn.com
 0.0.0.0 zycvyudt.com
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 sc.livetvcdn.net
+0.0.0.0 ads.livetvcdn.net
 0.0.0.0 isi-tracking.eventim.com
 0.0.0.0 js.newrutor.eu.org
 0.0.0.0 vw.onlinia.net
