@@ -1,7 +1,7 @@
 # DisconnectMalvertising
 #
 # Converted from - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Last converted - Sun, 11 Nov 2018 00:24:00 +0800
+# Last converted - Sun, 18 Nov 2018 00:09:54 +0800
 #
 
 0.0.0.0 amo122.com
@@ -239,6 +239,7 @@
 0.0.0.0 rogersandstephens.com
 0.0.0.0 yixingim.com
 0.0.0.0 pjhku.com
+0.0.0.0 ideamasale.com
 0.0.0.0 191gm.com
 0.0.0.0 ideamasale.com
 0.0.0.0 cow.gutterheaters.org
@@ -276,8 +277,8 @@
 0.0.0.0 vrot.stervapoimenialena.info
 0.0.0.0 junggomania.nefficient.co.kr
 0.0.0.0 choongmoosports.co.kr
-0.0.0.0 d4n.platformd.com
-0.0.0.0 hntldgk.com
+0.0.0.0 tablet.gutterhelment.net
+0.0.0.0 throne.thehelpbiz.com
 0.0.0.0 brave.ebod.co.uk
 0.0.0.0 rick.nirmallife.co.in
 0.0.0.0 tablet.gutterhelment.net
