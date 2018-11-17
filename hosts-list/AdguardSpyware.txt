@@ -1,9 +1,10 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sun, 11 Nov 2018 00:23:57 +0800
+# Last converted - Sun, 18 Nov 2018 00:09:52 +0800
 #
 
+0.0.0.0 i.clean.gg
 0.0.0.0 xl-trk.com
 0.0.0.0 168logger.com
 0.0.0.0 nxcount.com
@@ -2891,6 +2892,8 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 jamexistence.com
+0.0.0.0 partplanes.com
 0.0.0.0 actuallysnake.com
 0.0.0.0 bulbbait.com
 0.0.0.0 referdriving.com
@@ -3042,6 +3045,11 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 analytics.businessinsider.com
+0.0.0.0 tracking.hotel.check24.de
+0.0.0.0 stats01.20min.ch
+0.0.0.0 tracking.gj-mobile-services.de
+0.0.0.0 eventlog.outbrain.com
 0.0.0.0 smetrics.marriott.com
 0.0.0.0 api.logmatic.io
 0.0.0.0 adc.9news.com.au
