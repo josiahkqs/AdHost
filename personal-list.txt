@@ -240,3 +240,4 @@
 0.0.0.0 track.superfastmediation.com # mangarock app
 0.0.0.0 exchange.superfastmediation.com # mangarock app
 0.0.0.0 tracking.feedpress.it # RSS Feed Analytics
+0.0.0.0 bear.umtalk.net # Spam
