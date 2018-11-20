@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Sun, 18 Nov 2018 00:09:52 +0800
+# Last converted - Tue, 20 Nov 2018 11:19:36 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -141,6 +141,7 @@
 0.0.0.0 dl.metabar.ru
 0.0.0.0 plista.com
 0.0.0.0 widgets.digitalmediacommunications.com
+0.0.0.0 bazzaro.ru
 0.0.0.0 callback.onlinepbx.ru
 0.0.0.0 widget.textback.io
 0.0.0.0 widget.manychat.com
@@ -198,6 +199,7 @@
 0.0.0.0 widget.skobeeff.ru
 0.0.0.0 widget.whatsbroadcast.com
 0.0.0.0 widgets.livetex.ru
+0.0.0.0 widgets.sprinkletxt.com
 0.0.0.0 carambo.la
 0.0.0.0 sharpay.io
 0.0.0.0 app.popuparchitect.com
