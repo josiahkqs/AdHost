@@ -1,9 +1,10 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sun, 18 Nov 2018 00:09:52 +0800
+# Last converted - Tue, 20 Nov 2018 11:19:36 +0800
 #
 
+0.0.0.0 crm-analytics.imweb.ru
 0.0.0.0 i.clean.gg
 0.0.0.0 xl-trk.com
 0.0.0.0 168logger.com
@@ -1305,6 +1306,7 @@
 0.0.0.0 inboxtag.com
 0.0.0.0 incentivesnetwork.net
 0.0.0.0 index.ru
+0.0.0.0 c.index.ru
 0.0.0.0 indexstats.com
 0.0.0.0 indextools.com
 0.0.0.0 indicia.com
@@ -4008,7 +4010,6 @@
 0.0.0.0 adtm.chip.de
 0.0.0.0 a.mobify.com
 0.0.0.0 ngagement-engine.mobify.com
-0.0.0.0 c.index.ru
 0.0.0.0 pixel.carambo.la
 0.0.0.0 collect.tianya.cn
 0.0.0.0 t.dtscdn.com
