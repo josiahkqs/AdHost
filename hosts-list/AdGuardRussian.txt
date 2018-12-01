@@ -1,9 +1,14 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sun, 18 Nov 2018 00:09:52 +0800
+# Last converted - Sun, 02 Dec 2018 04:20:13 +0800
 #
 
+0.0.0.0 faktty.com
+0.0.0.0 mbzl-pro.xyz
+0.0.0.0 ad.edugram.com
+0.0.0.0 kdsk32lfa.xyz
+0.0.0.0 vrt.news
 0.0.0.0 nnavigation.info
 0.0.0.0 dintsupnejec.ru
 0.0.0.0 vam-nado.ru
@@ -15,6 +20,8 @@
 0.0.0.0 u1tshop.ru
 0.0.0.0 u2tshop.ru
 0.0.0.0 amzbr.com
+0.0.0.0 nethatriheg.ru
+0.0.0.0 allergiya-na.ru
 0.0.0.0 wer.glib-cough.fun
 0.0.0.0 bashirian.biz
 0.0.0.0 ecadikenaz.com
@@ -30,6 +37,7 @@
 0.0.0.0 blablabla.pp.ua
 0.0.0.0 look-reklama.ru
 0.0.0.0 ylkkp.com
+0.0.0.0 kak-bit-new.ru
 0.0.0.0 cbgunpz3aoayscg.ru
 0.0.0.0 7offers.ru
 0.0.0.0 cqhciif9bjtplrc.ru
@@ -325,6 +333,7 @@
 0.0.0.0 ceespc.biz
 0.0.0.0 ijldfpgu.biz
 0.0.0.0 xaxaxa.ovh
+0.0.0.0 buawdshes.ru
 0.0.0.0 adkraft.ru
 0.0.0.0 gewrrpygsd.biz
 0.0.0.0 cdn-my5.ru
@@ -3402,6 +3411,7 @@
 0.0.0.0 zxrtn.com
 0.0.0.0 zycvyudt.com
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 easy.au.ru
 0.0.0.0 sc.livetvcdn.net
 0.0.0.0 ads.livetvcdn.net
 0.0.0.0 isi-tracking.eventim.com
@@ -3573,6 +3583,7 @@
 0.0.0.0 kd.pipec.ru
 0.0.0.0 kiks.yandex.
 0.0.0.0 lenmit.com
+0.0.0.0 livedecwow.com
 0.0.0.0 log.kino-dom.org
 0.0.0.0 logger.ivi.ru
 0.0.0.0 madbanner.zvuki.ru
