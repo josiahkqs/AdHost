@@ -1,9 +1,11 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Tue, 20 Nov 2018 11:19:36 +0800
+# Last converted - Sun, 02 Dec 2018 04:20:13 +0800
 #
 
+0.0.0.0 stats.coronalabs.com
+0.0.0.0 track.special-offers.online
 0.0.0.0 crm-analytics.imweb.ru
 0.0.0.0 i.clean.gg
 0.0.0.0 xl-trk.com
@@ -97,6 +99,7 @@
 0.0.0.0 medialogger.ru
 0.0.0.0 rtbanalytics.com
 0.0.0.0 waust.at
+0.0.0.0 168logger.com
 0.0.0.0 isterra.ru
 0.0.0.0 user-clicks.com
 0.0.0.0 mediapixelnet.com
@@ -2894,6 +2897,8 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 culturedcrayon.com
+0.0.0.0 spuriousstranger.com
 0.0.0.0 jamexistence.com
 0.0.0.0 partplanes.com
 0.0.0.0 actuallysnake.com
@@ -3043,10 +3048,17 @@
 0.0.0.0 artfut.com
 0.0.0.0 ben.crxmouse.com
 0.0.0.0 api2.poperblocker.com
+0.0.0.0 yourblocksite.com
+0.0.0.0 taskapi.net
 0.0.0.0 d10vy5gom1ed53.cloudfront.net
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 stats.otempo.com.br
+0.0.0.0 banstat.nadavi.net
+0.0.0.0 pixel.4players.de
+0.0.0.0 lexip.4players.de
+0.0.0.0 monitor-targeting-failures.sqrt-5041.de
 0.0.0.0 analytics.businessinsider.com
 0.0.0.0 tracking.hotel.check24.de
 0.0.0.0 stats01.20min.ch
@@ -3139,8 +3151,6 @@
 0.0.0.0 cnt.nicemix.com
 0.0.0.0 cnt.nuvid.com
 0.0.0.0 cnt.vivatube.com
-0.0.0.0 collect.sas.com
-0.0.0.0 collect2.sas.com
 0.0.0.0 collection.theaa.com
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-medium.lightstep.com
@@ -3717,7 +3727,6 @@
 0.0.0.0 fairfaxmedia.sharedcount.com
 0.0.0.0 farmer.wego.com
 0.0.0.0 fc.webmasterpro.de
-0.0.0.0 fls-na.amazon.com
 0.0.0.0 frog.wix.com
 0.0.0.0 geoservice.curse.com
 0.0.0.0 geoip.herewetest.com
