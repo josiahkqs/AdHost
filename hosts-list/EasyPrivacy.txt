@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sun, 18 Nov 2018 00:09:55 +0800
+# Last converted - Sun, 02 Dec 2018 04:20:18 +0800
 #
 
 0.0.0.0 0emm.com
@@ -2785,7 +2785,6 @@
 0.0.0.0 onvid.club
 0.0.0.0 open-hive-server-1.pp.ua
 0.0.0.0 openguid.org
-0.0.0.0 outbrainimg.com
 0.0.0.0 oxwwoeukjispema.ru
 0.0.0.0 p2poolmining.com
 0.0.0.0 p2poolmining.net
@@ -4170,6 +4169,7 @@
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
 0.0.0.0 d3l3lkinz3f56t.cloudfront.net
 0.0.0.0 d3mskfhorhi2fb.cloudfront.net
+0.0.0.0 d3n6i6eorggdxk.cloudfront.net
 0.0.0.0 d3ojzyhbolvoi5.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3r7h55ola878c.cloudfront.net
@@ -4265,6 +4265,7 @@
 0.0.0.0 flashstats.libsyn.com
 0.0.0.0 fluidsurveys-com.fs.cm
 0.0.0.0 friends.totallynsfw.com
+0.0.0.0 future-fie-assets.co.uk
 0.0.0.0 g.delivery.net
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.kvideo.io
