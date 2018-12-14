@@ -1,9 +1,15 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sun, 02 Dec 2018 04:20:13 +0800
+# Last converted - Fri, 14 Dec 2018 11:19:12 +0800
 #
 
+0.0.0.0 2iui01.com
+0.0.0.0 target.mixi.media
+0.0.0.0 analytics.servogram.io
+0.0.0.0 checkmygeo.com
+0.0.0.0 client.perimeterx.net
+0.0.0.0 shifoagn.uk
 0.0.0.0 stats.coronalabs.com
 0.0.0.0 track.special-offers.online
 0.0.0.0 crm-analytics.imweb.ru
@@ -2897,6 +2903,8 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 noiselessplough.com
+0.0.0.0 standtrouble.com
 0.0.0.0 culturedcrayon.com
 0.0.0.0 spuriousstranger.com
 0.0.0.0 jamexistence.com
@@ -3054,6 +3062,11 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 p.gazeta.pl
+0.0.0.0 st.dynamicyield.com
+0.0.0.0 log.outbrainimg.com
+0.0.0.0 analytics-udg.netdna-ssl.com
+0.0.0.0 collecte.audience.acpm.fr
 0.0.0.0 stats.otempo.com.br
 0.0.0.0 banstat.nadavi.net
 0.0.0.0 pixel.4players.de
@@ -3607,7 +3620,6 @@
 0.0.0.0 abs.proxistore.com
 0.0.0.0 cdn.tagcommander.com
 0.0.0.0 mc.webvisor.org
-0.0.0.0 client.perimeterx.net
 0.0.0.0 phen.fabricmedia.ru
 0.0.0.0 m.dubcm.com
 0.0.0.0 a1.huiqituan.com
@@ -4344,6 +4356,7 @@
 0.0.0.0 xtag.kbb.com
 0.0.0.0 zdlogs.sphereup.com
 0.0.0.0 sonar.semantiqo.com
+0.0.0.0 growingio.com
 0.0.0.0 spycounter.net
 0.0.0.0 nbalive.pw
 0.0.0.0 tag.aumago.com
