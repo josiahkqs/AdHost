@@ -1,13 +1,15 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Sun, 02 Dec 2018 04:20:13 +0800
+# Last converted - Fri, 14 Dec 2018 11:19:11 +0800
 #
 
 0.0.0.0 ext-stat.ru
 0.0.0.0 mystatext.ru
 0.0.0.0 ipepostman.com
 0.0.0.0 wb.whatsbroadcast.com
+0.0.0.0 noiselessplough.com
+0.0.0.0 standtrouble.com
 0.0.0.0 culturedcrayon.com
 0.0.0.0 jamexistence.com
 0.0.0.0 partplanes.com
@@ -72,6 +74,7 @@
 0.0.0.0 malerex.ru
 0.0.0.0 pushiki.ru
 0.0.0.0 push-money.ru
+0.0.0.0 psh.one
 0.0.0.0 pushout.ru
 0.0.0.0 sdk.push7.jp
 0.0.0.0 pushpushgo.com
@@ -205,6 +208,7 @@
 0.0.0.0 widget.skobeeff.ru
 0.0.0.0 widget.whatsbroadcast.com
 0.0.0.0 widgets.livetex.ru
+0.0.0.0 sumo.com
 0.0.0.0 widgets.sprinkletxt.com
 0.0.0.0 carambo.la
 0.0.0.0 sharpay.io
