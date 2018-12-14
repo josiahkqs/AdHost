@@ -1,16 +1,31 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sun, 02 Dec 2018 04:20:13 +0800
+# Last converted - Fri, 14 Dec 2018 11:19:12 +0800
 #
 
+0.0.0.0 ahoff.ru
+0.0.0.0 alishop7.ru
+0.0.0.0 smpbhfiwr.com
+0.0.0.0 atshops1.ru
+0.0.0.0 mega-polza.ru
+0.0.0.0 clcktm.ru
+0.0.0.0 jeculdfores.ru
+0.0.0.0 cdn.steambets.net
+0.0.0.0 bannernetwork.net
+0.0.0.0 blckads.me
+0.0.0.0 towithdureb.ru
+0.0.0.0 rotator.promokrot.com
 0.0.0.0 faktty.com
 0.0.0.0 mbzl-pro.xyz
 0.0.0.0 ad.edugram.com
 0.0.0.0 kdsk32lfa.xyz
 0.0.0.0 vrt.news
+0.0.0.0 ehntqzv1apeizca.ru
 0.0.0.0 nnavigation.info
 0.0.0.0 dintsupnejec.ru
+0.0.0.0 cdn-my4.ru
+0.0.0.0 pgold.org
 0.0.0.0 vam-nado.ru
 0.0.0.0 impressionsme.net
 0.0.0.0 retsiti.ru
@@ -19,6 +34,9 @@
 0.0.0.0 paripartners.online
 0.0.0.0 u1tshop.ru
 0.0.0.0 u2tshop.ru
+0.0.0.0 zewkj.com
+0.0.0.0 gwxpv.com
+0.0.0.0 6a9c7d514c81589.com
 0.0.0.0 amzbr.com
 0.0.0.0 nethatriheg.ru
 0.0.0.0 allergiya-na.ru
@@ -32,11 +50,13 @@
 0.0.0.0 zurgerya.ru
 0.0.0.0 doptik.ru
 0.0.0.0 apiyandex.site
+0.0.0.0 bpyxg.com
 0.0.0.0 adverdata.net
 0.0.0.0 her-ber.top
 0.0.0.0 blablabla.pp.ua
 0.0.0.0 look-reklama.ru
 0.0.0.0 ylkkp.com
+0.0.0.0 healthynews03.ru
 0.0.0.0 kak-bit-new.ru
 0.0.0.0 cbgunpz3aoayscg.ru
 0.0.0.0 7offers.ru
@@ -1521,10 +1541,6 @@
 0.0.0.0 dskrt.net
 0.0.0.0 dunta.ru
 0.0.0.0 dvanaro.ru
-0.0.0.0 dyndns-blog.com
-0.0.0.0 dyndns-free.com
-0.0.0.0 dyndns-home.com
-0.0.0.0 dyndns.info
 0.0.0.0 dyrxq.rfskbylbsf.xyz
 0.0.0.0 dyzha.com
 0.0.0.0 e-partner.ru
@@ -1636,7 +1652,6 @@
 0.0.0.0 freddyman.com
 0.0.0.0 freeavalanche.ru
 0.0.0.0 freeexchange.ru
-0.0.0.0 freehd.com.ua
 0.0.0.0 fresh-video.com
 0.0.0.0 freshnews.su
 0.0.0.0 frfgn.xyz
@@ -3411,6 +3426,7 @@
 0.0.0.0 zxrtn.com
 0.0.0.0 zycvyudt.com
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 afbanner.kinobomber3.online
 0.0.0.0 easy.au.ru
 0.0.0.0 sc.livetvcdn.net
 0.0.0.0 ads.livetvcdn.net
@@ -3506,7 +3522,6 @@
 0.0.0.0 r.dimkriju.bget.ru
 0.0.0.0 r.topdent.ru
 0.0.0.0 r6.galya.ru
-0.0.0.0 rs.mail.ru
 0.0.0.0 server.zombie-tv.org
 0.0.0.0 showbiz.mail.ru
 0.0.0.0 statistic.imgpay.ru
