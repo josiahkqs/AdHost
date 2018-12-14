@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Sun, 02 Dec 2018 04:20:11 +0800
+# Last converted - Fri, 14 Dec 2018 11:19:10 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -678,6 +678,7 @@
 0.0.0.0 medlifestory.ru
 0.0.0.0 mednews-online.ru
 0.0.0.0 mega-game.org
+0.0.0.0 mega-pics-money.ru
 0.0.0.0 mellowblogs.com
 0.0.0.0 meycity.ru
 0.0.0.0 minportal.ru
@@ -1250,6 +1251,7 @@
 0.0.0.0 holder.com.ua
 0.0.0.0 homework.ru
 0.0.0.0 homrus.net
+0.0.0.0 hooks.slack.com
 0.0.0.0 host4media.com
 0.0.0.0 hotinga.ru
 0.0.0.0 hsm5azph84.com
@@ -1420,6 +1422,7 @@
 0.0.0.0 newclick.org
 0.0.0.0 news.mirtesen.ru
 0.0.0.0 news.rin.ru
+0.0.0.0 newsforall.biz
 0.0.0.0 ngads.com
 0.0.0.0 nimp.org
 0.0.0.0 ningres.ru
@@ -1835,6 +1838,7 @@
 0.0.0.0 11wishes.com
 0.0.0.0 123retr312.ru
 0.0.0.0 12cpm.com
+0.0.0.0 12ffa915d500a.com
 0.0.0.0 185.180.196.178
 0.0.0.0 19edbfc3b3a53aeacac8.date
 0.0.0.0 1a4ff62f79d2cb0c.com
@@ -1866,10 +1870,12 @@
 0.0.0.0 25c8ac8f04d301.com
 0.0.0.0 25cddf204bea2ed225d3.date
 0.0.0.0 2640707.ru
+0.0.0.0 2847c170742c.com
 0.0.0.0 28faeptq7.tech
 0.0.0.0 2955c8727d2814cb4224.date
 0.0.0.0 2a9zl2v9n.pro
 0.0.0.0 2af9e03fe3cbd97e.com
+0.0.0.0 2b7f60ae893.com
 0.0.0.0 2ea94ddc3e542a5d4f27.date
 0.0.0.0 2f106934890be9372e52.date
 0.0.0.0 2f3f6a0f63ef7b84f265.date
@@ -1989,6 +1995,8 @@
 0.0.0.0 99sites.biz
 0.0.0.0 9c5a2eac5dd.com
 0.0.0.0 9ed195d07dfaa063.com
+0.0.0.0 9f865e199bd942.com
+0.0.0.0 9lt1f7.ru
 0.0.0.0 9m7dj4bb.site
 0.0.0.0 9mjnolloowrj.ru
 0.0.0.0 9nktu1yr.ru
@@ -1998,6 +2006,7 @@
 0.0.0.0 a.aviabay.ru
 0.0.0.0 a.mayakinfo.ru
 0.0.0.0 a16e91bc824c8210b3b4.date
+0.0.0.0 a23ea5ea4435.com
 0.0.0.0 a562c4be7e346.com
 0.0.0.0 a71a07d7859e915c92af.date
 0.0.0.0 a8b9ba629348d4f3f4bd.date
@@ -2040,6 +2049,7 @@
 0.0.0.0 ad.hutor.ru
 0.0.0.0 ad.kaktakkk.ru
 0.0.0.0 ad.liveburst.com
+0.0.0.0 ad.mox.tv
 0.0.0.0 ad.namba.net
 0.0.0.0 ad.outstream.today
 0.0.0.0 ad.starlightmedia.ua
@@ -2177,9 +2187,11 @@
 0.0.0.0 adxgeeks.com
 0.0.0.0 adylalahb.ru
 0.0.0.0 adzos.com
+0.0.0.0 ae3f61ca6f3.com
 0.0.0.0 aegke.top
 0.0.0.0 aenjj.com
 0.0.0.0 aerontre.com
+0.0.0.0 aff.bstatic.com
 0.0.0.0 aff.mediarotate.com
 0.0.0.0 affcash.net
 0.0.0.0 afficent.com
@@ -2377,6 +2389,7 @@
 0.0.0.0 b37225ff40413593.com
 0.0.0.0 b3r4muzf.site
 0.0.0.0 b4q.ru
+0.0.0.0 b65718899e.com
 0.0.0.0 babcohem.com
 0.0.0.0 bablace.com
 0.0.0.0 bablogon.net
@@ -2438,6 +2451,7 @@
 0.0.0.0 bechtelar.link
 0.0.0.0 bednar.biz
 0.0.0.0 bedowntoft.com
+0.0.0.0 bee5eqxhpv.space
 0.0.0.0 beeblebroks.ru
 0.0.0.0 beerboms.ru
 0.0.0.0 beglorena.com
@@ -2513,6 +2527,7 @@
 0.0.0.0 bluksun.com
 0.0.0.0 bme9usxpo.tech
 0.0.0.0 bnrdom.com
+0.0.0.0 bnster.com
 0.0.0.0 bnstero.com
 0.0.0.0 bnxhe.com
 0.0.0.0 bnxkm.top
@@ -2544,11 +2559,13 @@
 0.0.0.0 bootlet.ru
 0.0.0.0 botkano.info
 0.0.0.0 bpkk.ru
+0.0.0.0 bpyxg.com
 0.0.0.0 brandarium.ru
 0.0.0.0 bratuxaborcuxa.ru
 0.0.0.0 braviration.ru
 0.0.0.0 bravo-lea.com
 0.0.0.0 bravo-mejdu.ru
+0.0.0.0 brdmin.com
 0.0.0.0 breadwinner.ru
 0.0.0.0 breathetooth.com
 0.0.0.0 breedac.com
@@ -2644,6 +2661,7 @@
 0.0.0.0 catcut.net
 0.0.0.0 catdog.today
 0.0.0.0 catsflownblow.ru
+0.0.0.0 cbbd66c6a387297.com
 0.0.0.0 cc616fb0d8ea9.com
 0.0.0.0 cc6d2cd48a.com
 0.0.0.0 cccpkinocom.ru
@@ -2662,6 +2680,7 @@
 0.0.0.0 cdn-my4.ru
 0.0.0.0 cdn-my5.ru
 0.0.0.0 cdn-rtb.sape.ru
+0.0.0.0 cdn-static.ru
 0.0.0.0 cdn-vgtrk.ru
 0.0.0.0 cdn0.at.ua
 0.0.0.0 cdn0.moy.su
@@ -2705,6 +2724,7 @@
 0.0.0.0 chajv.top
 0.0.0.0 chanluu.ru
 0.0.0.0 cheburchik.ru
+0.0.0.0 checkleads.ru
 0.0.0.0 cheff77.info
 0.0.0.0 cherryplane.com
 0.0.0.0 chickenfrutty.com
@@ -2752,6 +2772,7 @@
 0.0.0.0 clickiocdna.com
 0.0.0.0 clicknetwork.ru
 0.0.0.0 clickonmeplease.com
+0.0.0.0 clicks-cloud.ru
 0.0.0.0 clickscloud.net
 0.0.0.0 clickspay.ru
 0.0.0.0 clicktimes.net
@@ -2980,6 +3001,7 @@
 0.0.0.0 derilam.com
 0.0.0.0 derploime.com
 0.0.0.0 designedy.com
+0.0.0.0 desola.ru
 0.0.0.0 desucofuzulobiv.ru
 0.0.0.0 detaires.com
 0.0.0.0 detdove.ru
@@ -3034,6 +3056,7 @@
 0.0.0.0 djjdf.ru
 0.0.0.0 djpff.top
 0.0.0.0 dkemeli.ru
+0.0.0.0 dle-news.info
 0.0.0.0 dlfja.gdn
 0.0.0.0 dlski.space
 0.0.0.0 dlyaoblivok.ru
@@ -3071,6 +3094,7 @@
 0.0.0.0 dotscolorful.xyz
 0.0.0.0 douteure.com
 0.0.0.0 doxodnyi.ru
+0.0.0.0 dqvpww3nzoeeq.cloudfront.net
 0.0.0.0 dreadfula.ru
 0.0.0.0 dreampartners.ru
 0.0.0.0 dreimer.ru
@@ -3113,8 +3137,10 @@
 0.0.0.0 e-leads.ru
 0.0.0.0 e-publick.info
 0.0.0.0 e1e39121ca.com
+0.0.0.0 e216db4f72.com
 0.0.0.0 e272ab16d0c12.com
 0.0.0.0 e523a33a9ded6a7aeebb.date
+0.0.0.0 e968806fd491b3.com
 0.0.0.0 eaplay.ru
 0.0.0.0 eaqci.com
 0.0.0.0 eb7b77123e2bc8fe9cbe.date
@@ -3149,6 +3175,7 @@
 0.0.0.0 egpofy.com
 0.0.0.0 egzlx.com
 0.0.0.0 ehnejin.ru
+0.0.0.0 ehntqzv1apeizca.ru
 0.0.0.0 ei0mwcgu.com
 0.0.0.0 eichmann.biz
 0.0.0.0 eijwpxc.net
@@ -3227,6 +3254,7 @@
 0.0.0.0 etwinternational.ru
 0.0.0.0 etwun.com
 0.0.0.0 etyrv.ru
+0.0.0.0 eu.market-place.su
 0.0.0.0 euadw.com
 0.0.0.0 euadw.net
 0.0.0.0 eurodir.ru
@@ -3242,6 +3270,7 @@
 0.0.0.0 evsembu.com
 0.0.0.0 ewfzv.top
 0.0.0.0 ewiuw.faith
+0.0.0.0 ewplbev9bkgqqxe.ru
 0.0.0.0 ewtopas.ru
 0.0.0.0 ewutka.ru
 0.0.0.0 excalatom.com
@@ -3261,6 +3290,7 @@
 0.0.0.0 f254e1b756a.com
 0.0.0.0 f3f9cbaddc5.com
 0.0.0.0 f73d9995d7077722feb6.date
+0.0.0.0 f996a0780c4b9.com
 0.0.0.0 fa242957c982754.com
 0.0.0.0 faceblum.ru
 0.0.0.0 faddgetdo.ru
@@ -3336,6 +3366,8 @@
 0.0.0.0 floornotalava.com
 0.0.0.0 flushmviolent.org
 0.0.0.0 fmich.ru
+0.0.0.0 fmk1ezzboz.space
+0.0.0.0 fmk5eqte.top
 0.0.0.0 fmu1qrtjoamc.pro
 0.0.0.0 fmusive.ru
 0.0.0.0 fne9ez3lpqt.info
@@ -3639,6 +3671,7 @@
 0.0.0.0 herrabjec.pro
 0.0.0.0 hertugwa.pro
 0.0.0.0 hexorzloy.ru
+0.0.0.0 hgfhjjhjfcieidicafa.ru
 0.0.0.0 hgfsdzfs.com
 0.0.0.0 hgqea.top
 0.0.0.0 hgtem.com
@@ -3912,6 +3945,7 @@
 0.0.0.0 jlzebszkilcz.ru
 0.0.0.0 jmk1uttboek0.pro
 0.0.0.0 jmk56rtfove.info
+0.0.0.0 jmk5uut.info
 0.0.0.0 jnu1usxpndz0.pro
 0.0.0.0 jnu9uwxlprf.online
 0.0.0.0 jo0kfb10xr.ru
@@ -4442,6 +4476,7 @@
 0.0.0.0 medianaft.com
 0.0.0.0 medianaft.ru
 0.0.0.0 mediaoaktree.com
+0.0.0.0 mediapays.info
 0.0.0.0 mediarich-code.ru
 0.0.0.0 mediarich.cc
 0.0.0.0 mediarich.ru
@@ -4741,6 +4776,7 @@
 0.0.0.0 network-t.net
 0.0.0.0 networkandfaces.com
 0.0.0.0 neu1eqxpnrf.info
+0.0.0.0 neu5qwt0.pro
 0.0.0.0 nevernevergiveyouup.ru
 0.0.0.0 new4.me
 0.0.0.0 newanons.ru
@@ -4798,6 +4834,7 @@
 0.0.0.0 njsjpb.com
 0.0.0.0 nmk5qqtbnr.space
 0.0.0.0 nmn.pp.ua
+0.0.0.0 nmu5qrtfprf.info
 0.0.0.0 nmyby.com
 0.0.0.0 nne1uuxpna.site
 0.0.0.0 nne1uwtbnem.info
@@ -5263,6 +5300,7 @@
 0.0.0.0 pzlzv.com
 0.0.0.0 pzoifaum.info
 0.0.0.0 pzyfh.top
+0.0.0.0 q8bfdpoknn.ru
 0.0.0.0 qaadv.com
 0.0.0.0 qakhpthc.info
 0.0.0.0 qanmw.space
@@ -5360,6 +5398,7 @@
 0.0.0.0 redichat.com
 0.0.0.0 redirrtosite.com
 0.0.0.0 redsquare.rambler.ru
+0.0.0.0 ree1qrtnove.online
 0.0.0.0 ree56vxln.tech
 0.0.0.0 refpa.top
 0.0.0.0 region-media.su
@@ -5810,6 +5849,7 @@
 0.0.0.0 stringroadway.com
 0.0.0.0 stroy-sam.com
 0.0.0.0 strucewe.info
+0.0.0.0 sts-bts-td.ru
 0.0.0.0 styleload.ru
 0.0.0.0 su2lgyoeucscn.ru
 0.0.0.0 substraktor.ru
@@ -5836,6 +5876,7 @@
 0.0.0.0 sutgof.ru
 0.0.0.0 suuut.com
 0.0.0.0 sv-pr.ru
+0.0.0.0 svegt.com
 0.0.0.0 svitnews.com
 0.0.0.0 svk-native.ru
 0.0.0.0 svk100hp.ru
@@ -6315,6 +6356,7 @@
 0.0.0.0 veroui.com
 0.0.0.0 vesjolye-vedrussy.ru
 0.0.0.0 vesofich.ru
+0.0.0.0 veu9erxdnr.site
 0.0.0.0 vi.cdnvideo.ru
 0.0.0.0 vi012.com
 0.0.0.0 vidalak.com
@@ -6523,6 +6565,7 @@
 0.0.0.0 weropiy.com
 0.0.0.0 wertuip.com
 0.0.0.0 westernbubble.com
+0.0.0.0 wet-kitty.store
 0.0.0.0 wetg.ml
 0.0.0.0 wetpussyhd.com
 0.0.0.0 wett45.ru
@@ -6556,6 +6599,7 @@
 0.0.0.0 wis-his.com
 0.0.0.0 wisertb.com
 0.0.0.0 wisoky.biz
+0.0.0.0 witherty.ru
 0.0.0.0 withnewswearebest.com
 0.0.0.0 witthethim.com
 0.0.0.0 wizardmedia.org
@@ -6594,6 +6638,7 @@
 0.0.0.0 wshosting.ru
 0.0.0.0 wssdoo.com
 0.0.0.0 wtoredir.com
+0.0.0.0 wucm.ru
 0.0.0.0 wuvxr.top
 0.0.0.0 wvzhj.com
 0.0.0.0 wwclick.su
@@ -6657,6 +6702,7 @@
 0.0.0.0 xpicw.top
 0.0.0.0 xptvk.com
 0.0.0.0 xrb3w.ru
+0.0.0.0 xs-tds.com
 0.0.0.0 xstat.me
 0.0.0.0 xtkl7.ru
 0.0.0.0 xtvoh.com
@@ -6797,6 +6843,7 @@
 0.0.0.0 zivkatsa.ru
 0.0.0.0 zlmoh.com
 0.0.0.0 zlobazik.ru
+0.0.0.0 zmctrack.com
 0.0.0.0 zmctrack.net
 0.0.0.0 znatokionline.com
 0.0.0.0 znbdr.com
@@ -6885,6 +6932,7 @@
 0.0.0.0 act-news.com
 0.0.0.0 adiabetic.ru
 0.0.0.0 advgoods.com
+0.0.0.0 adwile.com
 0.0.0.0 afftraff.net
 0.0.0.0 allblog24.ru
 0.0.0.0 amigo-browser.ru
@@ -7153,6 +7201,7 @@
 0.0.0.0 medlifestory.ru
 0.0.0.0 mednews-online.ru
 0.0.0.0 mega-game.org
+0.0.0.0 mega-pics-money.ru
 0.0.0.0 mellowblogs.com
 0.0.0.0 meycity.ru
 0.0.0.0 minportal.ru
@@ -7472,7 +7521,6 @@
 0.0.0.0 loveserial.net
 0.0.0.0 mayamskiechernila.club
 0.0.0.0 medlux.com.ua
-0.0.0.0 mega-pics-money.ru
 0.0.0.0 metamarket.com.ua
 0.0.0.0 mmohelper.ru
 0.0.0.0 mobile-files.ru
