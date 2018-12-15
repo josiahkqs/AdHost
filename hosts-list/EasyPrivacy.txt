@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 14 Dec 2018 11:19:14 +0800
+# Last converted - Sun, 16 Dec 2018 01:22:01 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1685,6 +1685,7 @@
 0.0.0.0 researchnow.co.uk
 0.0.0.0 reson8.com
 0.0.0.0 responsetap.com
+0.0.0.0 resulticks.com
 0.0.0.0 retags.us
 0.0.0.0 retargetly.com
 0.0.0.0 retargettracker.com
@@ -1723,6 +1724,7 @@
 0.0.0.0 roitesting.com
 0.0.0.0 roivista.com
 0.0.0.0 rollingcounters.com
+0.0.0.0 roosterfirework.com
 0.0.0.0 rpdtrk.com
 0.0.0.0 rqtrk.eu
 0.0.0.0 rrimpl.com
@@ -1823,6 +1825,7 @@
 0.0.0.0 silvergamed.com
 0.0.0.0 silverpop.com
 0.0.0.0 silverpush.co
+0.0.0.0 simility.com
 0.0.0.0 simpleanalytics.io
 0.0.0.0 simpleheatmaps.com
 0.0.0.0 simplehitcounter.com
@@ -1870,6 +1873,7 @@
 0.0.0.0 smileyhost.net
 0.0.0.0 smrk.io
 0.0.0.0 smrtlnks.com
+0.0.0.0 snapdeal.biz
 0.0.0.0 sniperlog.ru
 0.0.0.0 sniphub.com
 0.0.0.0 snoobi.com
@@ -6061,6 +6065,7 @@
 0.0.0.0 tracker.redditmedia.com
 0.0.0.0 tracker.revip.info
 0.0.0.0 tracker.secretescapes.com
+0.0.0.0 tracker.shopclues.com
 0.0.0.0 tracker.uprinting.com
 0.0.0.0 tracker.washtimes.com
 0.0.0.0 tracker.wordstream.com
@@ -6197,6 +6202,7 @@
 0.0.0.0 log.wilmaa.com
 0.0.0.0 logging.wilmaa.com
 0.0.0.0 mm.welt.de
+0.0.0.0 mms.blick.ch
 0.0.0.0 ms.computerbild.de
 0.0.0.0 multicounter.de
 0.0.0.0 pap.zalando.de
@@ -6216,7 +6222,9 @@
 0.0.0.0 rwt.reichelt.de
 0.0.0.0 s.edeka.de
 0.0.0.0 s.fsphp.t-online.de
+0.0.0.0 statistics.raiffeisen.ch
 0.0.0.0 statistics.riskommunal.net
+0.0.0.0 stats.autoscout24.ch
 0.0.0.0 stats.bmw.de
 0.0.0.0 stats.daserste.de
 0.0.0.0 stats01.20min.ch
@@ -6243,7 +6251,9 @@
 0.0.0.0 ts.faz.net
 0.0.0.0 ts.otto.de
 0.0.0.0 ts.rtl.de
+0.0.0.0 twch.20min.ch
 0.0.0.0 vfd2dyn.vodafone.de
+0.0.0.0 vv.ricardo.ch
 0.0.0.0 wdm.map24.com
 0.0.0.0 web-track.telekom-dienste.de
 0.0.0.0 webts.adac.de
