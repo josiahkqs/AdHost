@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Fri, 14 Dec 2018 11:19:00 +0800
+# Last converted - Sun, 16 Dec 2018 01:21:56 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -3043,6 +3043,9 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
+0.0.0.0 syxsa.cn
+0.0.0.0 69yll.cn
+0.0.0.0 xhera.cn
 0.0.0.0 0234408.cn
 0.0.0.0 03196688.com
 0.0.0.0 0fwg.cn
@@ -3197,10 +3200,12 @@
 0.0.0.0 dajean.com
 0.0.0.0 daskm.com
 0.0.0.0 dbaij.com
+0.0.0.0 dbeii.com
 0.0.0.0 dbeij.com
 0.0.0.0 dbiej.com
 0.0.0.0 dbwmjj.com
 0.0.0.0 dcaij.com
+0.0.0.0 dceni.com
 0.0.0.0 ddanq.com
 0.0.0.0 ddg1277.com
 0.0.0.0 ddhuangchao.com
@@ -3285,6 +3290,7 @@
 0.0.0.0 gwdqp.com
 0.0.0.0 gxkyl.com
 0.0.0.0 gxssjz.com
+0.0.0.0 gxunj.com
 0.0.0.0 gyeet.com
 0.0.0.0 gyhzr.com
 0.0.0.0 gyrtg.com
