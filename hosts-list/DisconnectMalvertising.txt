@@ -1,7 +1,7 @@
 # DisconnectMalvertising
 #
 # Converted from - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Last converted - Fri, 14 Dec 2018 11:19:14 +0800
+# Last converted - Sun, 16 Dec 2018 01:22:01 +0800
 #
 
 0.0.0.0 amo122.com
@@ -77,8 +77,8 @@
 0.0.0.0 myfileupload.ru
 0.0.0.0 191gm.com
 0.0.0.0 cow.gutterheaters.org
-0.0.0.0 prefer.gutterhelment.com
 0.0.0.0 ecdlszczecin.eu
+0.0.0.0 prefer.gutterhelment.com
 0.0.0.0 interfere.marionunezcampusano.com
 0.0.0.0 aipp-italia.it
 0.0.0.0 centerpieces-with-feathers-for-weddi.blogspot.com
@@ -86,13 +86,12 @@
 0.0.0.0 pizzotti.net
 0.0.0.0 regis.foultier.free.fr
 0.0.0.0 vrot.stervapoimenialena.info
-0.0.0.0 choongmoosports.co.kr
-0.0.0.0 throne.thehelpbiz.com
-0.0.0.0 ladybug.gutterheatersus.com
-0.0.0.0 rick.nirmallife.co.in
-0.0.0.0 tablet.gutterhelment.net
 0.0.0.0 brave.ebod.co.uk
 0.0.0.0 ink.churchofthefreespirit.com
+0.0.0.0 ladybug.gutterheatersus.com
+0.0.0.0 tablet.gutterhelment.net
+0.0.0.0 throne.thehelpbiz.com
+0.0.0.0 rick.nirmallife.co.in
 0.0.0.0 malware-check.disconnect.me
 0.0.0.0 101order.com
 0.0.0.0 123found.com
