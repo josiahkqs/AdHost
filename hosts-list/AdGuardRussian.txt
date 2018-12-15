@@ -1,9 +1,12 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 14 Dec 2018 11:19:12 +0800
+# Last converted - Sun, 16 Dec 2018 01:22:00 +0800
 #
 
+0.0.0.0 toothsome-crook.fun
+0.0.0.0 haphiterton.ru
+0.0.0.0 brdmin.com
 0.0.0.0 ahoff.ru
 0.0.0.0 alishop7.ru
 0.0.0.0 smpbhfiwr.com
