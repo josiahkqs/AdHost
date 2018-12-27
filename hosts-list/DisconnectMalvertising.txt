@@ -1,7 +1,7 @@
 # DisconnectMalvertising
 #
 # Converted from - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Last converted - Sun, 16 Dec 2018 01:22:01 +0800
+# Last converted - Thu, 27 Dec 2018 12:40:19 +0800
 #
 
 0.0.0.0 amo122.com
@@ -34,8 +34,6 @@
 0.0.0.0 sicken.cede.cl
 0.0.0.0 lavoixdesmots.free.fr
 0.0.0.0 lectscalimertdr43.land.ru
-0.0.0.0 5-g.cn
-0.0.0.0 wypromuj.nazwa.pl
 0.0.0.0 czmlfc.sxtm30.badudns.cc
 0.0.0.0 yttestsite.com
 0.0.0.0 gqwhyjh.com
@@ -55,14 +53,13 @@
 0.0.0.0 jtti.net
 0.0.0.0 homely.gutterheaters4u.com
 0.0.0.0 bestpons.net
-0.0.0.0 arouersobesite.free.fr
 0.0.0.0 stoneb.cn
 0.0.0.0 941jz.cn
 0.0.0.0 tracking.checkmygirlfriend.net
 0.0.0.0 blushing.findgutterhelmet.com
 0.0.0.0 yserch.com
-0.0.0.0 month.nualias.com
 0.0.0.0 pear.dementiaadvocacy.com
+0.0.0.0 month.nualias.com
 0.0.0.0 trouble.cachetinvestments.com
 0.0.0.0 power.bestconstructionexpertwitness.com
 0.0.0.0 benstock.free.fr
@@ -86,12 +83,12 @@
 0.0.0.0 pizzotti.net
 0.0.0.0 regis.foultier.free.fr
 0.0.0.0 vrot.stervapoimenialena.info
-0.0.0.0 brave.ebod.co.uk
+0.0.0.0 throne.thehelpbiz.com
 0.0.0.0 ink.churchofthefreespirit.com
 0.0.0.0 ladybug.gutterheatersus.com
-0.0.0.0 tablet.gutterhelment.net
-0.0.0.0 throne.thehelpbiz.com
 0.0.0.0 rick.nirmallife.co.in
+0.0.0.0 tablet.gutterhelment.net
+0.0.0.0 brave.ebod.co.uk
 0.0.0.0 malware-check.disconnect.me
 0.0.0.0 101order.com
 0.0.0.0 123found.com
