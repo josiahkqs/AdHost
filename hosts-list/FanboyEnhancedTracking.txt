@@ -1,10 +1,11 @@
 # FanboyEnhancedTracking
 #
 # Converted from - https://www.fanboy.co.nz/enhancedstats.txt
-# Last converted - Sun, 02 Dec 2018 04:20:19 +0800
+# Last converted - Thu, 27 Dec 2018 12:40:21 +0800
 #
 
 0.0.0.0 cointent.com
+0.0.0.0 concert.io
 0.0.0.0 contentpass.net
 0.0.0.0 mediapass.com
 0.0.0.0 newsmemory.com
