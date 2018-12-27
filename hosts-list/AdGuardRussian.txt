@@ -1,9 +1,21 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sun, 16 Dec 2018 01:22:00 +0800
+# Last converted - Thu, 27 Dec 2018 12:40:17 +0800
 #
 
+0.0.0.0 92ec94d51076357.com
+0.0.0.0 cehiswasreb.ru
+0.0.0.0 hjgajfbhiefjigafafc.ru
+0.0.0.0 mtwbedsl.biz
+0.0.0.0 squalid-linen.fun
+0.0.0.0 ieuhd.com
+0.0.0.0 ed98512111bb19e5.in.net
+0.0.0.0 checkbl.ru
+0.0.0.0 tranzitstar.ru
+0.0.0.0 bshjzxt3apcciws.ru
+0.0.0.0 zhkzt.com
+0.0.0.0 lactonssofut.ru
 0.0.0.0 toothsome-crook.fun
 0.0.0.0 haphiterton.ru
 0.0.0.0 brdmin.com
@@ -3429,6 +3441,7 @@
 0.0.0.0 zxrtn.com
 0.0.0.0 zycvyudt.com
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 b.1istochnik.ru
 0.0.0.0 afbanner.kinobomber3.online
 0.0.0.0 easy.au.ru
 0.0.0.0 sc.livetvcdn.net
