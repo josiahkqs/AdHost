@@ -241,3 +241,6 @@
 0.0.0.0 exchange.superfastmediation.com # mangarock app
 0.0.0.0 tracking.feedpress.it # RSS Feed Analytics
 0.0.0.0 bear.umtalk.net # Spam
+0.0.0.0 www.shareit.com.tw # Scam
+0.0.0.0 api.clique.us # Made for AdSense sites
+0.0.0.0 edm01.icampaign.com.sg # Spam
