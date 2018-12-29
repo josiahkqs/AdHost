@@ -1,9 +1,10 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Thu, 27 Dec 2018 12:40:17 +0800
+# Last converted - Sat, 29 Dec 2018 16:51:25 +0800
 #
 
+0.0.0.0 noy90o.com
 0.0.0.0 logsss.com
 0.0.0.0 redatastore.ru
 0.0.0.0 metrics-collector.s-onetag.com
@@ -2905,6 +2906,9 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 caringzinc.com
+0.0.0.0 foregoingfowl.com
+0.0.0.0 spuriousbase.com
 0.0.0.0 2znp09oa.com
 0.0.0.0 4jnzhl0d0.com
 0.0.0.0 6ldu6qa.com
@@ -3082,6 +3086,24 @@
 0.0.0.0 zbwp6ghm.com
 0.0.0.0 yourblocksite.com
 0.0.0.0 taskapi.net
+0.0.0.0 t.sidekickopen
+0.0.0.0 t.sigopn
+0.0.0.0 t.senal
+0.0.0.0 t.signaux
+0.0.0.0 t.signauxtrois.com
+0.0.0.0 t.hsms06.com
+0.0.0.0 tracking.cirrusinsight.com
+0.0.0.0 t.yesware.com
+0.0.0.0 mailfoogae.appspot.com
+0.0.0.0 go.rjmetrics.com
+0.0.0.0 go.toutapp.com
+0.0.0.0 app.outreach.io
+0.0.0.0 emltrk.com
+0.0.0.0 trackedlink.net
+0.0.0.0 bl-1.com
+0.0.0.0 tinyletterapp.com
+0.0.0.0 welovepg.polymail.io
+0.0.0.0 yamm-track.appspot
 0.0.0.0 artfut.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 ben.crxmouse.com
