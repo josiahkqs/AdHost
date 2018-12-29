@@ -1,11 +1,9 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Thu, 27 Dec 2018 12:40:14 +0800
+# Last converted - Sat, 29 Dec 2018 16:51:20 +0800
 #
 
-0.0.0.0 xueyongbao.com
-0.0.0.0 metmt.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0082tv.net
 0.0.0.0 00880808.com
@@ -1192,6 +1190,7 @@
 0.0.0.0 menghuanzs.com
 0.0.0.0 mengmengdas.com
 0.0.0.0 mengyuanwei.com
+0.0.0.0 metmt.com
 0.0.0.0 mglvqian.com
 0.0.0.0 mgwcn.com
 0.0.0.0 mgwl668.com
@@ -1789,6 +1788,7 @@
 0.0.0.0 xtianqi.com.cn
 0.0.0.0 xtxa.net
 0.0.0.0 xuanmeiguoji.com
+0.0.0.0 xueyongbao.com
 0.0.0.0 xugsh.cn
 0.0.0.0 xul478.com
 0.0.0.0 xulizui6.com
@@ -2310,6 +2310,7 @@
 0.0.0.0 zi.kfqdf.com
 0.0.0.0 zkrdy.com
 0.0.0.0 zt2088.com
+0.0.0.0 jiejg.ifeng.com
 0.0.0.0 immedlinkum.info
 0.0.0.0 a3.jandan.net
 0.0.0.0 003store.com
@@ -3658,6 +3659,7 @@
 0.0.0.0 tick0.com
 0.0.0.0 tiojk.com
 0.0.0.0 tiwom.com
+0.0.0.0 tjiaa.com
 0.0.0.0 tmrmixer.cn
 0.0.0.0 tongjiwo.com
 0.0.0.0 travlcen.com
@@ -3678,6 +3680,7 @@
 0.0.0.0 uzhaj.com
 0.0.0.0 v44i.cn
 0.0.0.0 vbaiu.com
+0.0.0.0 vbanm.com
 0.0.0.0 vbaou.com
 0.0.0.0 vbieu.com
 0.0.0.0 vbinu.com
