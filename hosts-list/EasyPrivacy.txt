@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Thu, 27 Dec 2018 12:40:19 +0800
+# Last converted - Sat, 29 Dec 2018 16:51:27 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1565,6 +1565,7 @@
 0.0.0.0 plwosvr.net
 0.0.0.0 pm0.net
 0.0.0.0 pm14.com
+0.0.0.0 pnstat.com
 0.0.0.0 pntra.com
 0.0.0.0 pntrac.com
 0.0.0.0 pntrs.com
@@ -2142,10 +2143,12 @@
 0.0.0.0 triggertag.gorillanation.com
 0.0.0.0 triggit.com
 0.0.0.0 triptease.io
+0.0.0.0 triptease.net
 0.0.0.0 trkjmp.com
 0.0.0.0 trklvs.com
 0.0.0.0 trkn.us
 0.0.0.0 trksrv44.com
+0.0.0.0 trmnsite.com
 0.0.0.0 trovus.co.uk
 0.0.0.0 trs.cn
 0.0.0.0 trtl.ws
@@ -2218,6 +2221,7 @@
 0.0.0.0 vbanalytics.com
 0.0.0.0 vdna-assets.com
 0.0.0.0 veduy.com
+0.0.0.0 vee24.com
 0.0.0.0 veille-referencement.com
 0.0.0.0 veinteractive.com
 0.0.0.0 velaro.com
@@ -4834,6 +4838,7 @@
 0.0.0.0 tracking.allposters.com
 0.0.0.0 tracking.badgeville.com
 0.0.0.0 tracking.bidmizer.com
+0.0.0.0 tracking.brandmentions.com
 0.0.0.0 tracking.cmcigroup.com
 0.0.0.0 tracking.cmjump.com.au
 0.0.0.0 tracking.dealerwebwatcher.com
@@ -4876,6 +4881,7 @@
 0.0.0.0 tracking.tradeking.com
 0.0.0.0 tracking.waterfrontmedia.com
 0.0.0.0 tracking.worldmedia.net
+0.0.0.0 tracking1.brandmentions.com
 0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 tracking2.interweave.com
 0.0.0.0 trackingapi.cloudapp.net
@@ -5470,6 +5476,7 @@
 0.0.0.0 c.ipaddress.com
 0.0.0.0 c.microsoft.com
 0.0.0.0 c.newsinc.com
+0.0.0.0 c.paypal.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.x.oanda.com
 0.0.0.0 cbs.wondershare.com
