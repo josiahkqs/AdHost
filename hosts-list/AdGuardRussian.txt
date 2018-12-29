@@ -1,9 +1,13 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Thu, 27 Dec 2018 12:40:17 +0800
+# Last converted - Sat, 29 Dec 2018 16:51:25 +0800
 #
 
+0.0.0.0 perfmelab.com
+0.0.0.0 sedorobma.ru
+0.0.0.0 osrones.ru
+0.0.0.0 politota.ru
 0.0.0.0 92ec94d51076357.com
 0.0.0.0 cehiswasreb.ru
 0.0.0.0 hjgajfbhiefjigafafc.ru
@@ -3441,6 +3445,7 @@
 0.0.0.0 zxrtn.com
 0.0.0.0 zycvyudt.com
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 oblivki.filmy-2017.net
 0.0.0.0 b.1istochnik.ru
 0.0.0.0 afbanner.kinobomber3.online
 0.0.0.0 easy.au.ru
