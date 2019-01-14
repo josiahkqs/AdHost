@@ -1,7 +1,7 @@
 # FanboyEnhancedTracking
 #
 # Converted from - https://www.fanboy.co.nz/enhancedstats.txt
-# Last converted - Thu, 27 Dec 2018 12:40:21 +0800
+# Last converted - Mon, 14 Jan 2019 14:28:20 +0800
 #
 
 0.0.0.0 cointent.com
@@ -72,6 +72,7 @@
 0.0.0.0 smarticon.geotrust.com
 0.0.0.0 snapsurveys.com
 0.0.0.0 stats.computecmedia.de
+0.0.0.0 stormyachiever.com
 0.0.0.0 syncaccess.net
 0.0.0.0 targeting.wpdigital.net
 0.0.0.0 tracedseals.starfieldtech.com
