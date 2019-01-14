@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sat, 29 Dec 2018 16:51:25 +0800
+# Last converted - Mon, 14 Jan 2019 14:28:17 +0800
 #
 
 0.0.0.0 noy90o.com
@@ -2906,6 +2906,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 penspade.com
 0.0.0.0 caringzinc.com
 0.0.0.0 foregoingfowl.com
 0.0.0.0 spuriousbase.com
