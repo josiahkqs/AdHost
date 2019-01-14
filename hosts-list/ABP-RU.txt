@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Sat, 29 Dec 2018 16:51:24 +0800
+# Last converted - Mon, 14 Jan 2019 14:28:16 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -704,6 +704,7 @@
 0.0.0.0 mytrk.xyz
 0.0.0.0 mytvblogs.ru
 0.0.0.0 mytvblogs24.ru
+0.0.0.0 nalivali.ru
 0.0.0.0 naroda-blog.com
 0.0.0.0 narodnii-sovet.com
 0.0.0.0 neatblogs.com
@@ -1708,6 +1709,7 @@
 0.0.0.0 txtrk.com
 0.0.0.0 ua-teens.com
 0.0.0.0 uadvt.net
+0.0.0.0 ugkod.com
 0.0.0.0 ujav.net
 0.0.0.0 ukrbanner.net
 0.0.0.0 ukrmedia.center
@@ -1825,6 +1827,7 @@
 0.0.0.0 0816bvh.ru
 0.0.0.0 090051982103b828de61.date
 0.0.0.0 0916video.ru
+0.0.0.0 0aqlo2ctf.pro
 0.0.0.0 0d763f0f5efbaacbe773.date
 0.0.0.0 0d94fcb5af4707682181.date
 0.0.0.0 0efa2b1d897a8f3bcc60.date
@@ -1837,6 +1840,7 @@
 0.0.0.0 100sto.info
 0.0.0.0 105mln.ru
 0.0.0.0 109ddaae87360e799e97.date
+0.0.0.0 1124957abf.com
 0.0.0.0 11torrent.ru
 0.0.0.0 11wishes.com
 0.0.0.0 123retr312.ru
@@ -1878,6 +1882,7 @@
 0.0.0.0 289d0b7252fdb0.com
 0.0.0.0 28faeptq7.tech
 0.0.0.0 2955c8727d2814cb4224.date
+0.0.0.0 29bd088a464.com
 0.0.0.0 2a9zl2v9n.pro
 0.0.0.0 2af9e03fe3cbd97e.com
 0.0.0.0 2b7f60ae893.com
@@ -1918,6 +1923,7 @@
 0.0.0.0 3under.ru
 0.0.0.0 3wnp9.ru
 0.0.0.0 4-pdalife.ru
+0.0.0.0 400c883bf5448b1.com
 0.0.0.0 42eed1a0d9c129.com
 0.0.0.0 42own.info
 0.0.0.0 43d6cd4fc23a085e.com
@@ -1960,14 +1966,17 @@
 0.0.0.0 62.109.18.206
 0.0.0.0 62.210.94.26
 0.0.0.0 6287a14fb6205e46df99.date
+0.0.0.0 66f2b8ffb015db.com
 0.0.0.0 674b06de9c3.com
 0.0.0.0 6b43901d27852f19b677.date
 0.0.0.0 6c6580635061ded7.com
 0.0.0.0 6d2a03505168b9e.com
 0.0.0.0 6glass1.info
 0.0.0.0 6mjl94uxhppmvt.ru
+0.0.0.0 6xpdzb3lvv.site
 0.0.0.0 6zzua.gdn
 0.0.0.0 7-link.ru
+0.0.0.0 702d0e79ce717.com
 0.0.0.0 70417a828db359b26f1b.date
 0.0.0.0 7147d64a2ab4.com
 0.0.0.0 71d8dad67ed2531d980d.date
@@ -1975,6 +1984,7 @@
 0.0.0.0 74782c1f5fb74af5.com
 0.0.0.0 749d9039c2d4f6323714.date
 0.0.0.0 753912c2e5560d428ba2.date
+0.0.0.0 76bec28d1b.com
 0.0.0.0 7abd840dafd5.com
 0.0.0.0 7adaabef911292de74fb.date
 0.0.0.0 7cipgmg8r6.ru
@@ -1993,6 +2003,7 @@
 0.0.0.0 89eb01f7f8503aef.com
 0.0.0.0 8df70f78f303a5.com
 0.0.0.0 8fc0c5dbf0cbae3b1fdb.date
+0.0.0.0 8ikr3dfn.ru
 0.0.0.0 8k0l2mpmvl1q.ru
 0.0.0.0 8nr2bisa.ru
 0.0.0.0 9189316dfa8cc4235250.date
@@ -2002,6 +2013,7 @@
 0.0.0.0 95x.ru
 0.0.0.0 99sites.biz
 0.0.0.0 9c5a2eac5dd.com
+0.0.0.0 9d18f40450d.com
 0.0.0.0 9ed195d07dfaa063.com
 0.0.0.0 9f865e199bd942.com
 0.0.0.0 9lt1f7.ru
@@ -2015,7 +2027,9 @@
 0.0.0.0 a.mayakinfo.ru
 0.0.0.0 a16e91bc824c8210b3b4.date
 0.0.0.0 a23ea5ea4435.com
+0.0.0.0 a35b77d5ff0da.com
 0.0.0.0 a3963aaaa161cc.com
+0.0.0.0 a5450a6f12da21.com
 0.0.0.0 a562c4be7e346.com
 0.0.0.0 a71a07d7859e915c92af.date
 0.0.0.0 a8b9ba629348d4f3f4bd.date
@@ -2118,6 +2132,7 @@
 0.0.0.0 adproxy2.com
 0.0.0.0 adram.media
 0.0.0.0 adreaction.ru
+0.0.0.0 adrek4.ru
 0.0.0.0 adrow.ru
 0.0.0.0 ads-provider.com
 0.0.0.0 ads-upload.gazprom-media.net
@@ -2396,6 +2411,7 @@
 0.0.0.0 azvjudwr.info
 0.0.0.0 azxovat.ru
 0.0.0.0 azyi9utz.ru
+0.0.0.0 azzpbn.com
 0.0.0.0 b.digital-tv.com.ua
 0.0.0.0 b.vtomske.ru
 0.0.0.0 b280c10798.com
@@ -2456,6 +2472,7 @@
 0.0.0.0 bc-news.ru
 0.0.0.0 bce924fa02fa.ru
 0.0.0.0 bcre002.me
+0.0.0.0 bd09ertjo.tech
 0.0.0.0 bd39beb2e1d7f0a4.com
 0.0.0.0 bddd4a5dc610be077891.date
 0.0.0.0 bdzhhjnml.pw
@@ -2638,6 +2655,7 @@
 0.0.0.0 bytemedia.org
 0.0.0.0 byuop.com
 0.0.0.0 byzgoso.ru
+0.0.0.0 bzeypkk0dagcotd.ru
 0.0.0.0 bzidp.com
 0.0.0.0 bzlwe.com
 0.0.0.0 c2mix.ru
@@ -2965,8 +2983,10 @@
 0.0.0.0 d4knadd23t.ru
 0.0.0.0 d4wmt.ru
 0.0.0.0 d5466b375f1f.com
+0.0.0.0 d59309764cd.com
 0.0.0.0 d7921da5d4c24.com
 0.0.0.0 da.mybb.ru
+0.0.0.0 da083c9e32.com
 0.0.0.0 daayenetra.ml
 0.0.0.0 dabca.top
 0.0.0.0 daccroi.com
@@ -3000,9 +3020,11 @@
 0.0.0.0 dealsplus.ru
 0.0.0.0 deammer.ru
 0.0.0.0 decajo.ru
+0.0.0.0 decce2efaeca.com
 0.0.0.0 dedenye.ru
 0.0.0.0 dedicatedgroups.com
 0.0.0.0 dedmi.ru
+0.0.0.0 dee7101d4cae.com
 0.0.0.0 deenomo.com
 0.0.0.0 deepsteelsky.com
 0.0.0.0 defiques.com
@@ -3016,6 +3038,7 @@
 0.0.0.0 derderus.ru
 0.0.0.0 derilam.com
 0.0.0.0 derploime.com
+0.0.0.0 dert.pro
 0.0.0.0 designedy.com
 0.0.0.0 desola.ru
 0.0.0.0 desucofuzulobiv.ru
@@ -3037,6 +3060,7 @@
 0.0.0.0 dgulden.ru
 0.0.0.0 dhbjfjibeaajfejdgce.ru
 0.0.0.0 dhygr.com
+0.0.0.0 di5stero.com
 0.0.0.0 diabetdoc.ru
 0.0.0.0 dicki.net
 0.0.0.0 dictus.biz
@@ -3070,6 +3094,7 @@
 0.0.0.0 dizzyac.com
 0.0.0.0 djbvq.top
 0.0.0.0 djchfgacdfaaadfdc.ru
+0.0.0.0 djfbgfcdgdjgegjac.ru
 0.0.0.0 djjdf.ru
 0.0.0.0 djpff.top
 0.0.0.0 dkemeli.ru
@@ -3365,6 +3390,7 @@
 0.0.0.0 filoperd.ru
 0.0.0.0 findfor.net
 0.0.0.0 findpre.net
+0.0.0.0 fineg.pro
 0.0.0.0 fingoty.com
 0.0.0.0 finimini.ru
 0.0.0.0 fireb1.com
@@ -3455,6 +3481,7 @@
 0.0.0.0 fxhoog.com
 0.0.0.0 fyrafi.ru
 0.0.0.0 fytboti.ru
+0.0.0.0 fznpq.com
 0.0.0.0 fztff.com
 0.0.0.0 fzwoa.com
 0.0.0.0 g-content.bid
@@ -3643,6 +3670,7 @@
 0.0.0.0 guktuti.ru
 0.0.0.0 gvahh.top
 0.0.0.0 gwxpv.com
+0.0.0.0 gxxcbj.com
 0.0.0.0 gyfwz.com
 0.0.0.0 gyrbise.ru
 0.0.0.0 gyvjv.com
@@ -3706,6 +3734,7 @@
 0.0.0.0 hilll.biz
 0.0.0.0 himowith.pro
 0.0.0.0 hiopdi.com
+0.0.0.0 hisfine.ru
 0.0.0.0 hit-star.ru
 0.0.0.0 hittoadv.com
 0.0.0.0 hivideoworld.com
@@ -3813,6 +3842,7 @@
 0.0.0.0 iholot.ru
 0.0.0.0 ihqht.com
 0.0.0.0 ijdenha.ru
+0.0.0.0 ijgs5i.ru
 0.0.0.0 ijsve.com
 0.0.0.0 ikersont.com
 0.0.0.0 ikiif.com
@@ -3967,6 +3997,7 @@
 0.0.0.0 jloush.pro
 0.0.0.0 jlxzr.top
 0.0.0.0 jlzebszkilcz.ru
+0.0.0.0 jme1urtvodz.online
 0.0.0.0 jmk1uttboek0.pro
 0.0.0.0 jmk56rtfove.info
 0.0.0.0 jmk5uut.info
@@ -4027,6 +4058,7 @@
 0.0.0.0 kagortus.ru
 0.0.0.0 kaidop.com
 0.0.0.0 kak-bit.ru
+0.0.0.0 kakanas.ru
 0.0.0.0 kalistanasobachke.ru
 0.0.0.0 kamradamnaradost.ru
 0.0.0.0 kan.kanoner.com
@@ -4074,7 +4106,9 @@
 0.0.0.0 kin4ik.com
 0.0.0.0 kinak.top
 0.0.0.0 kinfly.ru
+0.0.0.0 king-ad.ru
 0.0.0.0 kingleads.pro
+0.0.0.0 kingoablc.com
 0.0.0.0 kinhenathow.ru
 0.0.0.0 kinhintont.com
 0.0.0.0 kino-serial.info
@@ -4394,7 +4428,6 @@
 0.0.0.0 luxupcdnc.com
 0.0.0.0 lvkwz.com
 0.0.0.0 lvuic.com
-0.0.0.0 lwxjg.com
 0.0.0.0 lwzbk.com
 0.0.0.0 lycodz.com
 0.0.0.0 lycosu.com
@@ -4598,6 +4631,7 @@
 0.0.0.0 mirskidok.net
 0.0.0.0 misslk.com
 0.0.0.0 mithdilinonel.ru
+0.0.0.0 mivefanulo.com
 0.0.0.0 mixadvert.com
 0.0.0.0 mixtraff.silvercdn.com
 0.0.0.0 mkavkaz.ru
@@ -4771,6 +4805,7 @@
 0.0.0.0 ncbqi.com
 0.0.0.0 nd01erxppvee.top
 0.0.0.0 nd05esxpnrfe.pro
+0.0.0.0 nd05qutfnrfv.top
 0.0.0.0 nddmcconmqsy.ru
 0.0.0.0 ndyzz.com
 0.0.0.0 nectini.ru
@@ -4868,6 +4903,7 @@
 0.0.0.0 nne9ertfore.online
 0.0.0.0 nnltp07nnq7e.ru
 0.0.0.0 nnu1eqxln.tech
+0.0.0.0 nnu1ett0.top
 0.0.0.0 nnvkh.com
 0.0.0.0 noblemagnition.com
 0.0.0.0 noblok.com
@@ -5118,6 +5154,7 @@
 0.0.0.0 pcads.ru
 0.0.0.0 pctext.ru
 0.0.0.0 pcx-qgh2-wit.ru
+0.0.0.0 pdloo.com
 0.0.0.0 pdmayt.com
 0.0.0.0 pe5avnvi81ed.ru
 0.0.0.0 peettold.ru
@@ -5131,6 +5168,7 @@
 0.0.0.0 perrest.com
 0.0.0.0 persinhi.ru
 0.0.0.0 pervoevtoroe.ru
+0.0.0.0 petsdata.ru
 0.0.0.0 pftfk.com
 0.0.0.0 pgold.info
 0.0.0.0 pgold.pro
@@ -5348,6 +5386,7 @@
 0.0.0.0 qiwicolour.xyz
 0.0.0.0 qkeyn.com
 0.0.0.0 qkffv.com
+0.0.0.0 qkurtnucn.com
 0.0.0.0 qload.ru
 0.0.0.0 qmebelist.ru
 0.0.0.0 qoabf.top
@@ -5422,6 +5461,7 @@
 0.0.0.0 recwy.com
 0.0.0.0 redavu.ru
 0.0.0.0 redclick.ru
+0.0.0.0 redel.pro
 0.0.0.0 redexchange.net
 0.0.0.0 redfikedug.ru
 0.0.0.0 redichat.com
@@ -5458,6 +5498,8 @@
 0.0.0.0 retrollitt.ru
 0.0.0.0 rettik.ru
 0.0.0.0 returso.com
+0.0.0.0 reu1ua3doqt0.top
+0.0.0.0 reu1uqtbpqt.info
 0.0.0.0 reunice.com
 0.0.0.0 rewalt.ru
 0.0.0.0 rewdinghes.com
@@ -5492,6 +5534,7 @@
 0.0.0.0 robimobi.com
 0.0.0.0 robjusrew.com
 0.0.0.0 rofhathe.com
+0.0.0.0 roft.pro
 0.0.0.0 rofufupo.ru
 0.0.0.0 rofunseve.ru
 0.0.0.0 rofurekika.com
@@ -5670,6 +5713,7 @@
 0.0.0.0 securewebboard.com
 0.0.0.0 securitypeoples.com
 0.0.0.0 see-this-domain-now.info
+0.0.0.0 seecontentdelivery.info
 0.0.0.0 seed.by
 0.0.0.0 seedeasy.ru
 0.0.0.0 seedr.com
@@ -5686,6 +5730,7 @@
 0.0.0.0 senkevich-vk.net
 0.0.0.0 seoftsup.pro
 0.0.0.0 seoha.ru
+0.0.0.0 seozubr.club
 0.0.0.0 septeefepp.club
 0.0.0.0 septemnrt.club
 0.0.0.0 septepmde.club
@@ -5798,6 +5843,7 @@
 0.0.0.0 smimarket.com
 0.0.0.0 smitham.org
 0.0.0.0 smonstr.ru
+0.0.0.0 smpbhfiwr.com
 0.0.0.0 smvhv.space
 0.0.0.0 snakeac.com
 0.0.0.0 snitchlittle.info
@@ -6275,6 +6321,7 @@
 0.0.0.0 typyky.com
 0.0.0.0 tyre-trimax.com.ua
 0.0.0.0 tyupo.com
+0.0.0.0 tyypv.com
 0.0.0.0 u1tshop.ru
 0.0.0.0 u2tshop.ru
 0.0.0.0 uaadi.com
@@ -6361,6 +6408,7 @@
 0.0.0.0 uwuyn.us
 0.0.0.0 uytichas.ru
 0.0.0.0 uznat-vse.ru
+0.0.0.0 v-biz.com.ua
 0.0.0.0 v1v.be
 0.0.0.0 v2mlemerald.com
 0.0.0.0 v2mljs.org
@@ -6523,6 +6571,7 @@
 0.0.0.0 vqfqo.us
 0.0.0.0 vqjep.com
 0.0.0.0 vrcteam.ru
+0.0.0.0 vrt.news
 0.0.0.0 vrzgn.com
 0.0.0.0 vsdjk44.ru
 0.0.0.0 vse-molitvi.ru
@@ -6796,6 +6845,7 @@
 0.0.0.0 yndstatis.ru
 0.0.0.0 yndxmetric.ru
 0.0.0.0 yndxmtrc.ru
+0.0.0.0 yndxserver.ru
 0.0.0.0 yndxst.ru
 0.0.0.0 yndxstat.ru
 0.0.0.0 ynwia.com
@@ -6866,6 +6916,7 @@
 0.0.0.0 zeroparking.ru
 0.0.0.0 zersai.ru
 0.0.0.0 zeu5esxdovg.online
+0.0.0.0 zeu5ust.online
 0.0.0.0 zeures.ru
 0.0.0.0 zewkj.com
 0.0.0.0 zfvklk.ru
@@ -6884,8 +6935,10 @@
 0.0.0.0 zivkatsa.ru
 0.0.0.0 zlmoh.com
 0.0.0.0 zlobazik.ru
+0.0.0.0 zm05qst0.pro
 0.0.0.0 zmctrack.com
 0.0.0.0 zmctrack.net
+0.0.0.0 zmu1qq.site
 0.0.0.0 znatokionline.com
 0.0.0.0 znbdr.com
 0.0.0.0 zne1esxpove.info
@@ -6994,7 +7047,6 @@
 0.0.0.0 beamigo.ru
 0.0.0.0 besplodstop.ru
 0.0.0.0 best-binary.site
-0.0.0.0 best-torrentor.ru
 0.0.0.0 best-zdorovye.ru
 0.0.0.0 best-zdrav.ru
 0.0.0.0 beststbuy.ru
@@ -7268,6 +7320,7 @@
 0.0.0.0 mytrk.xyz
 0.0.0.0 mytvblogs.ru
 0.0.0.0 mytvblogs24.ru
+0.0.0.0 nalivali.ru
 0.0.0.0 naroda-blog.com
 0.0.0.0 narodnii-sovet.com
 0.0.0.0 neatblogs.com
@@ -7550,7 +7603,6 @@
 0.0.0.0 iframecdn.ru
 0.0.0.0 img.bankoboev.ru
 0.0.0.0 inspired.com.ua
-0.0.0.0 joyreactor.ru
 0.0.0.0 kamera.glazok.km.ua
 0.0.0.0 kingoablc.com
 0.0.0.0 latino-serialo.ru
