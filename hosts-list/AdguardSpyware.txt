@@ -1,9 +1,10 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Mon, 14 Jan 2019 14:28:17 +0800
+# Last converted - Thu, 17 Jan 2019 10:57:26 +0800
 #
 
+0.0.0.0 personaclick.com
 0.0.0.0 noy90o.com
 0.0.0.0 logsss.com
 0.0.0.0 redatastore.ru
@@ -3115,6 +3116,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 logger.tv.telstra.com.au
 0.0.0.0 t.arianelab.com
 0.0.0.0 t.karte.io
 0.0.0.0 beacon.tws.toyota.jp
