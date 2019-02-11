@@ -1,7 +1,7 @@
 # FanboyEnhancedTracking
 #
 # Converted from - https://www.fanboy.co.nz/enhancedstats.txt
-# Last converted - Mon, 14 Jan 2019 14:28:20 +0800
+# Last converted - Mon, 11 Feb 2019 10:18:58 +0800
 #
 
 0.0.0.0 cointent.com
@@ -116,4 +116,5 @@
 0.0.0.0 sqweb.com
 0.0.0.0 noiselessplough.com
 0.0.0.0 adblockers-ns.servicebus.windows.net
+0.0.0.0 d.bacontent.de
 0.0.0.0 sovrnlabs.net
