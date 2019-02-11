@@ -1,13 +1,25 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sat, 29 Dec 2018 16:51:25 +0800
+# Last converted - Mon, 11 Feb 2019 10:18:55 +0800
 #
 
+0.0.0.0 xr-tds.com
+0.0.0.0 ali-crm.ru
+0.0.0.0 lostplanetcdn.com
+0.0.0.0 d30gt5larl1k8h.cloudfront.net
+0.0.0.0 kinopushka.xyz
+0.0.0.0 mirongotrof.ru
+0.0.0.0 acales.ru
+0.0.0.0 cinemahd.info
+0.0.0.0 webmasterskyi.com
+0.0.0.0 cbbvi.com
+0.0.0.0 fafc5ra5.ru
 0.0.0.0 perfmelab.com
 0.0.0.0 sedorobma.ru
 0.0.0.0 osrones.ru
 0.0.0.0 politota.ru
+0.0.0.0 loader-tor.ru
 0.0.0.0 92ec94d51076357.com
 0.0.0.0 cehiswasreb.ru
 0.0.0.0 hjgajfbhiefjigafafc.ru
@@ -2355,7 +2367,6 @@
 0.0.0.0 novoteka.ru
 0.0.0.0 now73.ru
 0.0.0.0 nrzcj.top
-0.0.0.0 nsoft-s.com
 0.0.0.0 num-link.ru
 0.0.0.0 numbers.md
 0.0.0.0 nutkaekwcm.ru
