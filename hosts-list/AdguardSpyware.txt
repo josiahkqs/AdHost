@@ -1,16 +1,30 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Thu, 17 Jan 2019 10:57:26 +0800
+# Last converted - Mon, 11 Feb 2019 10:18:55 +0800
 #
 
+0.0.0.0 meapk.com
+0.0.0.0 group-ib.ru
+0.0.0.0 vidapi.expepp.de
+0.0.0.0 builfico.de
+0.0.0.0 s24-analytics.com
+0.0.0.0 targetman.ru
+0.0.0.0 adtlgc.com
+0.0.0.0 mateti.net
+0.0.0.0 digitru.st
+0.0.0.0 s-onetag.com
 0.0.0.0 personaclick.com
 0.0.0.0 noy90o.com
 0.0.0.0 logsss.com
+0.0.0.0 tnative.ru
 0.0.0.0 redatastore.ru
-0.0.0.0 metrics-collector.s-onetag.com
 0.0.0.0 cinarra.com
+0.0.0.0 marketo.com
 0.0.0.0 2iui01.com
+0.0.0.0 bd4travel.com
+0.0.0.0 bm.adentifi.com
+0.0.0.0 prvsz4pe.micpn.com
 0.0.0.0 target.mixi.media
 0.0.0.0 analytics.servogram.io
 0.0.0.0 checkmygeo.com
@@ -1772,7 +1786,6 @@
 0.0.0.0 ntlab.org
 0.0.0.0 ntvk1.ru
 0.0.0.0 nuconomy.com
-0.0.0.0 nudatasecurity.com
 0.0.0.0 nuggad.net
 0.0.0.0 numerino.cz
 0.0.0.0 nyctrl32.com
@@ -2907,6 +2920,8 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 sicksmash.com
+0.0.0.0 squeakzinc.com
 0.0.0.0 penspade.com
 0.0.0.0 caringzinc.com
 0.0.0.0 foregoingfowl.com
@@ -3116,6 +3131,14 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 tracker.blutv.com
+0.0.0.0 metrics.infranken.de
+0.0.0.0 ophan.theguardian.com
+0.0.0.0 tracking.s24.com
+0.0.0.0 events.whisk.com
+0.0.0.0 stats.aws.rubiconproject.com
+0.0.0.0 a.ria.ru
+0.0.0.0 ipcheck.tmgrup.com.tr
 0.0.0.0 logger.tv.telstra.com.au
 0.0.0.0 t.arianelab.com
 0.0.0.0 t.karte.io
