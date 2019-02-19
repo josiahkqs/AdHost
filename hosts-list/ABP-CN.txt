@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Mon, 11 Feb 2019 10:18:50 +0800
+# Last converted - Tue, 19 Feb 2019 18:23:30 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -155,12 +155,14 @@
 0.0.0.0 3975lm.com
 0.0.0.0 39xc.net
 0.0.0.0 3alian.net
+0.0.0.0 3amall.cn
 0.0.0.0 3dwwwgame.com
 0.0.0.0 3g.990.net
 0.0.0.0 3gmtr.com
 0.0.0.0 3htai.com
 0.0.0.0 3p-link.com
 0.0.0.0 3qmh.com
+0.0.0.0 3qsys.com
 0.0.0.0 3vlm.com
 0.0.0.0 3xx.vip
 0.0.0.0 3ygww.com
@@ -281,6 +283,7 @@
 0.0.0.0 892155.com
 0.0.0.0 89h8.com
 0.0.0.0 8ao8ao.com
+0.0.0.0 8hdp.cn
 0.0.0.0 8le8le.com
 0.0.0.0 8mfty.com
 0.0.0.0 904ad.com
@@ -419,6 +422,7 @@
 0.0.0.0 alllget.com
 0.0.0.0 allxin.com
 0.0.0.0 amazingmagics.com
+0.0.0.0 amensh.cn
 0.0.0.0 anastasiaana.com
 0.0.0.0 andmejs.com
 0.0.0.0 anioscp.com
@@ -869,6 +873,7 @@
 0.0.0.0 h501.cn
 0.0.0.0 h9377c.com
 0.0.0.0 hailuoxiang.com
+0.0.0.0 haitejs.com
 0.0.0.0 haiwengji.net
 0.0.0.0 haiyunimg.com
 0.0.0.0 haiyunpush.com
@@ -919,6 +924,7 @@
 0.0.0.0 hnasd.com
 0.0.0.0 hnctsm.com
 0.0.0.0 hnfpgm.com
+0.0.0.0 hnh-hotel.com
 0.0.0.0 hntymg.com
 0.0.0.0 hnyiche3.com
 0.0.0.0 hnyny.com
@@ -1048,6 +1054,7 @@
 0.0.0.0 jossuer.net
 0.0.0.0 joyfuldoors.com
 0.0.0.0 jozee.cn
+0.0.0.0 jqsex.com
 0.0.0.0 jqz9.com
 0.0.0.0 jsadt.com
 0.0.0.0 jschuangnuo.com
@@ -1197,6 +1204,7 @@
 0.0.0.0 lyztdz.com
 0.0.0.0 lzmm8.com
 0.0.0.0 lzwla.top
+0.0.0.0 lzzqqc.com
 0.0.0.0 maibahe300cc.com
 0.0.0.0 mainbx.com
 0.0.0.0 maisoncherry.com
@@ -1284,6 +1292,7 @@
 0.0.0.0 njwxh.com
 0.0.0.0 nkeo.top
 0.0.0.0 nklwgj.com
+0.0.0.0 nkrwxf.com
 0.0.0.0 nkscdn.com
 0.0.0.0 nktwpc.com
 0.0.0.0 nmbtedu.com
@@ -1385,6 +1394,7 @@
 0.0.0.0 qoiusky.com
 0.0.0.0 qq4g.cn
 0.0.0.0 qqm98.com
+0.0.0.0 qs01.cn
 0.0.0.0 qsart.cn
 0.0.0.0 qsbz2011.com
 0.0.0.0 qshxc.com
@@ -2199,6 +2209,7 @@
 0.0.0.0 gg.blueidea.com
 0.0.0.0 gg.cs090.com
 0.0.0.0 gg.gao7.com
+0.0.0.0 gg.getbs.com
 0.0.0.0 gg.kugou.com
 0.0.0.0 gg.sonhoo.com
 0.0.0.0 gg.uuu9.com
@@ -2259,8 +2270,6 @@
 0.0.0.0 lingdian98.com
 0.0.0.0 ll.gxsky.com
 0.0.0.0 lxting.com
-0.0.0.0 ly6080.com.cn
-0.0.0.0 ly6080.com
 0.0.0.0 m.aty.sohu.com
 0.0.0.0 m2.lelemh.com
 0.0.0.0 mall0.qiyipic.com
@@ -2496,6 +2505,7 @@
 0.0.0.0 a.fengyx.com
 0.0.0.0 a.fwsir.com
 0.0.0.0 a.hsbianma.com
+0.0.0.0 a.icdol.com
 0.0.0.0 a.ihref.com
 0.0.0.0 a.imgso.cn
 0.0.0.0 a.jing55.com
@@ -2534,6 +2544,7 @@
 0.0.0.0 a1.mingyihui.net
 0.0.0.0 a1.qqjay.com
 0.0.0.0 a1.sumiaowang.com
+0.0.0.0 a1.twtym.com
 0.0.0.0 a1.vdolady.com
 0.0.0.0 a1.yuuedu.com
 0.0.0.0 a1.zhanzhang.net
@@ -2686,6 +2697,7 @@
 0.0.0.0 df888.eastday.com
 0.0.0.0 dm.388g.cc
 0.0.0.0 dm.51okc.com
+0.0.0.0 dm.66qw.net
 0.0.0.0 dm.66wenshen.com
 0.0.0.0 dm.92to.com
 0.0.0.0 dm.aizhan.com
@@ -2747,7 +2759,6 @@
 0.0.0.0 fpb.kuhou.com
 0.0.0.0 fpb1.gxfin.com
 0.0.0.0 fpbcode.onlinedown.net
-0.0.0.0 ftic.qifake.com
 0.0.0.0 fuz.cc
 0.0.0.0 fzb01.qiushibaike.com
 0.0.0.0 g.3lian.com
@@ -2858,6 +2869,7 @@
 0.0.0.0 luolikong.net
 0.0.0.0 luoshenbest.cn
 0.0.0.0 lv.myapks.com
+0.0.0.0 m1.27com.com
 0.0.0.0 m1.51kaowang.com
 0.0.0.0 m1.bitequan.net.cn
 0.0.0.0 m1.darfd.com
@@ -2911,6 +2923,7 @@
 0.0.0.0 psywed.com
 0.0.0.0 ptw.la
 0.0.0.0 qcjslm.com
+0.0.0.0 qifake.com
 0.0.0.0 qiyeb.iaskbus.com
 0.0.0.0 qizhihaotian.com
 0.0.0.0 qq167.com
@@ -2932,6 +2945,7 @@
 0.0.0.0 s1.hiapk.com
 0.0.0.0 s1.qiqutt.cn
 0.0.0.0 s1.qiqutt.com
+0.0.0.0 s1.wan1979.com
 0.0.0.0 s1.wesiedu.com
 0.0.0.0 s11.cn
 0.0.0.0 salary.xiao84.com
@@ -2960,6 +2974,7 @@
 0.0.0.0 tongj.xilu.com
 0.0.0.0 trebleperfect.com
 0.0.0.0 tt123.eastday.com
+0.0.0.0 tt123.hao0202.com
 0.0.0.0 tu.zx110.org
 0.0.0.0 tui98.cn
 0.0.0.0 ty1.263y.com
@@ -2996,6 +3011,7 @@
 0.0.0.0 wuliao.juqingba.cn
 0.0.0.0 www1.qicheyinyue.wang
 0.0.0.0 wyzq.rehuwang.com
+0.0.0.0 x.mtrend.cn
 0.0.0.0 xbtw.com
 0.0.0.0 xc.gouchezj.com
 0.0.0.0 xfyjz.cn
@@ -3151,6 +3167,8 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
+0.0.0.0 cgoul.com
+0.0.0.0 qneit.com
 0.0.0.0 0234408.cn
 0.0.0.0 03196688.com
 0.0.0.0 07kfh.cn
@@ -3401,6 +3419,7 @@
 0.0.0.0 fstaw.com
 0.0.0.0 fszhxd.com
 0.0.0.0 fuhuikang360.com
+0.0.0.0 fw.zhuaji.org
 0.0.0.0 fwjoi.com
 0.0.0.0 fyjyhm.com
 0.0.0.0 fzdfwy.com
@@ -3422,6 +3441,7 @@
 0.0.0.0 gdunt.com
 0.0.0.0 gelinboer.cn
 0.0.0.0 georgias.cn
+0.0.0.0 gerunsenbo.cn
 0.0.0.0 gjiak.com
 0.0.0.0 gjkpo.com
 0.0.0.0 gjuet.com
@@ -3464,6 +3484,7 @@
 0.0.0.0 hebzycw.com
 0.0.0.0 heib2.top
 0.0.0.0 heizundg.cn
+0.0.0.0 helpinfo.cn
 0.0.0.0 henduoqian.com
 0.0.0.0 hfyxdl.com
 0.0.0.0 hgrqp.com
@@ -3518,6 +3539,7 @@
 0.0.0.0 ienkdaccessible.cn
 0.0.0.0 ienkdago.cn
 0.0.0.0 iigushi.com
+0.0.0.0 imanchu.cn
 0.0.0.0 imiek.com
 0.0.0.0 inccnd.com
 0.0.0.0 increased.cn
@@ -3527,6 +3549,7 @@
 0.0.0.0 irkuj.com
 0.0.0.0 iruad.com
 0.0.0.0 ishowms.com
+0.0.0.0 iyaos.com
 0.0.0.0 izouo.com
 0.0.0.0 izuis.com
 0.0.0.0 jbanb.com
@@ -3602,6 +3625,7 @@
 0.0.0.0 lifuzhubao.com
 0.0.0.0 linwukui.cn
 0.0.0.0 listenother.com
+0.0.0.0 ljuer.com
 0.0.0.0 lm.xiashu.la
 0.0.0.0 lqmohun.com
 0.0.0.0 lsiwd.cn
@@ -3687,6 +3711,7 @@
 0.0.0.0 picbr.com
 0.0.0.0 pieaa.com
 0.0.0.0 piliangzhuce.cn
+0.0.0.0 pipysoft.cn
 0.0.0.0 pjbjzf.com
 0.0.0.0 pkbrxja.cn
 0.0.0.0 pkesports.cn
@@ -3699,6 +3724,7 @@
 0.0.0.0 pptte.com
 0.0.0.0 pqnlorg.cn
 0.0.0.0 prazpf.cn
+0.0.0.0 ptuoa.com
 0.0.0.0 puzwb.cn
 0.0.0.0 pwjhg.com
 0.0.0.0 pxyvb.cn
@@ -3718,6 +3744,7 @@
 0.0.0.0 qloer.com
 0.0.0.0 qlonglong.com
 0.0.0.0 qsove.com
+0.0.0.0 qtpngov.cn
 0.0.0.0 quldu.com
 0.0.0.0 qzdag.com
 0.0.0.0 qzdaren.com
