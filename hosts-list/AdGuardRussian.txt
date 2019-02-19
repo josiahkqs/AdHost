@@ -1,7 +1,7 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Mon, 11 Feb 2019 10:18:55 +0800
+# Last converted - Tue, 19 Feb 2019 18:23:42 +0800
 #
 
 0.0.0.0 xr-tds.com
@@ -14,6 +14,7 @@
 0.0.0.0 cinemahd.info
 0.0.0.0 webmasterskyi.com
 0.0.0.0 cbbvi.com
+0.0.0.0 m4clicks.com
 0.0.0.0 fafc5ra5.ru
 0.0.0.0 perfmelab.com
 0.0.0.0 sedorobma.ru
@@ -95,6 +96,8 @@
 0.0.0.0 trevoltas.pro
 0.0.0.0 dounwil.ru
 0.0.0.0 forum.globusevent.ru
+0.0.0.0 kedmuchdedi.ru
+0.0.0.0 eventlittrecet.ru
 0.0.0.0 bgclck.me
 0.0.0.0 prnhpe.pro
 0.0.0.0 byeej.com
@@ -3666,7 +3669,6 @@
 0.0.0.0 tx.letswrite.ru
 0.0.0.0 vw1.gestimnogo.net
 0.0.0.0 xxx-tracker.com
-0.0.0.0 yadirect.top.rbc.ru
 0.0.0.0 zadrb.zadrottv.ru
 0.0.0.0 zaprosbaza.pw
 0.0.0.0 go2.se9oieidu7t.ru
