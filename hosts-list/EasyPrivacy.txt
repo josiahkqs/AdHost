@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 11 Feb 2019 10:18:57 +0800
+# Last converted - Tue, 19 Feb 2019 18:23:44 +0800
 #
 
 0.0.0.0 0emm.com
@@ -220,6 +220,7 @@
 0.0.0.0 anti-cheat.info
 0.0.0.0 ape78cn2.com
 0.0.0.0 apexstats.com
+0.0.0.0 apextag.com
 0.0.0.0 apextwo.com
 0.0.0.0 apicit.net
 0.0.0.0 apollofind.com
@@ -1163,6 +1164,7 @@
 0.0.0.0 km-sea.net
 0.0.0.0 knowlead.io
 0.0.0.0 knowledgevine.net
+0.0.0.0 koddi.com
 0.0.0.0 komtrack.com
 0.0.0.0 kontagent.net
 0.0.0.0 kopsil.com
@@ -1909,6 +1911,7 @@
 0.0.0.0 smrk.io
 0.0.0.0 smrtlnks.com
 0.0.0.0 snapdeal.biz
+0.0.0.0 snapsmedia.io
 0.0.0.0 sniperlog.ru
 0.0.0.0 sniphub.com
 0.0.0.0 snoobi.com
@@ -4400,6 +4403,7 @@
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d9lq0o81skkdj.cloudfront.net
+0.0.0.0 dagda.vilynx.com
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 data.alexa.com
 0.0.0.0 data.beyond.com
@@ -5785,7 +5789,6 @@
 0.0.0.0 funn.graphiq.com
 0.0.0.0 g.deathandtaxesmag.com
 0.0.0.0 g.msn.com
-0.0.0.0 g.techweekeurope.co.uk
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
