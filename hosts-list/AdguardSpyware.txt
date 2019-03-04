@@ -1,9 +1,18 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Tue, 19 Feb 2019 18:23:42 +0800
+# Last converted - Tue, 05 Mar 2019 01:48:00 +0800
 #
 
+0.0.0.0 qoopler.ru
+0.0.0.0 s.clicktex.ru
+0.0.0.0 hitme.pw
+0.0.0.0 tracking.lqm.io
+0.0.0.0 visilabs.net
+0.0.0.0 app.shoptarget.com.br
+0.0.0.0 netdeal.com.br
+0.0.0.0 ibclick.stream
+0.0.0.0 denakop.com
 0.0.0.0 trv.upperbooking.com
 0.0.0.0 trl.upperbooking.com
 0.0.0.0 getback.ch
@@ -2350,7 +2359,6 @@
 0.0.0.0 squidanalytics.com
 0.0.0.0 srpx.net
 0.0.0.0 ssl4stats.de
-0.0.0.0 start.ru
 0.0.0.0 startstat.ru
 0.0.0.0 stat.pl
 0.0.0.0 stat08.com
@@ -2923,6 +2931,8 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 attractivecap.com
+0.0.0.0 forecasttiger.com
 0.0.0.0 sicksmash.com
 0.0.0.0 squeakzinc.com
 0.0.0.0 penspade.com
@@ -3134,6 +3144,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 analytics.cn.ru
 0.0.0.0 pa.tns-ua.com
 0.0.0.0 r.rbc.ru
 0.0.0.0 tcheck.outbrainimg.com
@@ -4373,7 +4384,6 @@
 0.0.0.0 exacttarget.api.mashery.com
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geobeacon.ign.com
-0.0.0.0 geoip.newsdev.nytimes.com
 0.0.0.0 hi.hellobar.com
 0.0.0.0 hit.mynet.com
 0.0.0.0 hitweb2.chosun.com
@@ -4424,7 +4434,6 @@
 0.0.0.0 stats2.arstechnica.com
 0.0.0.0 su.addthis.com
 0.0.0.0 sync.adap.tv
-0.0.0.0 tagx.nytimes.com
 0.0.0.0 timeslog.indiatimes.com
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 tr.datanyze.com
