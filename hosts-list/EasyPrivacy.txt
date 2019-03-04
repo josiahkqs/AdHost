@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 19 Feb 2019 18:23:44 +0800
+# Last converted - Tue, 05 Mar 2019 01:48:01 +0800
 #
 
 0.0.0.0 0emm.com
@@ -795,6 +795,7 @@
 0.0.0.0 fastonlineusers.com
 0.0.0.0 fastwebcounter.com
 0.0.0.0 fathomseo.com
+0.0.0.0 fbgpnk.com
 0.0.0.0 fcs.ovh
 0.0.0.0 fdxstats.xyz
 0.0.0.0 feathr.co
@@ -1274,7 +1275,6 @@
 0.0.0.0 marketo.net
 0.0.0.0 marketshot.com
 0.0.0.0 marketshot.fr
-0.0.0.0 markitondemand.com
 0.0.0.0 maropost.com
 0.0.0.0 martianstats.com
 0.0.0.0 maryneallynndyl.com
@@ -1316,6 +1316,7 @@
 0.0.0.0 metricsdirect.com
 0.0.0.0 meyersdalebixby.com
 0.0.0.0 mezzobit.com
+0.0.0.0 mfadsrvr.com
 0.0.0.0 mialbj6.com
 0.0.0.0 micpn.com
 0.0.0.0 midas-i.com
@@ -1444,6 +1445,7 @@
 0.0.0.0 nile.works
 0.0.0.0 noowho.com
 0.0.0.0 nordicresearch.com
+0.0.0.0 northstartravelmedia.com
 0.0.0.0 notifyvisitors.com
 0.0.0.0 novately.com
 0.0.0.0 nowinteract.com
@@ -2253,6 +2255,7 @@
 0.0.0.0 usuarios-online.com
 0.0.0.0 v12group.com
 0.0.0.0 v3cdn.net
+0.0.0.0 va-endpoint.com
 0.0.0.0 valaffiliates.com
 0.0.0.0 valuedopinions.co.uk
 0.0.0.0 vantage-media.net
@@ -3420,6 +3423,7 @@
 0.0.0.0 toplist100.org
 0.0.0.0 topstat.com
 0.0.0.0 tracdelight.com
+0.0.0.0 tracdelight.io
 0.0.0.0 trackfreundlich.de
 0.0.0.0 trafficmaxx.de
 0.0.0.0 trbo.com
@@ -3599,7 +3603,6 @@
 0.0.0.0 dotmetrics.net
 0.0.0.0 xclaimwords.net
 0.0.0.0 analights.com
-0.0.0.0 ibillboard.com
 0.0.0.0 itop.cz
 0.0.0.0 lookit.cz
 0.0.0.0 monkeytracker.cz
@@ -3995,11 +3998,14 @@
 0.0.0.0 adsettings.com
 0.0.0.0 adten.eu
 0.0.0.0 adtlgc.com
+0.0.0.0 adtr.io
 0.0.0.0 adtraction.com
 0.0.0.0 bonnieradnetwork.se
 0.0.0.0 brandmetrics.com
 0.0.0.0 citypaketet.se
+0.0.0.0 cssrvsync.com
 0.0.0.0 dep-x.com
+0.0.0.0 lwadm.com
 0.0.0.0 myvisitors.se
 0.0.0.0 prospecteye.com
 0.0.0.0 publish-int.se
@@ -4010,6 +4016,7 @@
 0.0.0.0 tns-sifo.se
 0.0.0.0 vastpaketet.se
 0.0.0.0 webserviceaward.com
+0.0.0.0 yieldbird.com
 0.0.0.0 d-stats.com
 0.0.0.0 tracker.stats.in.th
 0.0.0.0 truehits.net
@@ -4358,6 +4365,7 @@
 0.0.0.0 d23p9gffjvre9v.cloudfront.net
 0.0.0.0 d23pi6hvdpcc5i.cloudfront.net
 0.0.0.0 d24cze5sab2jwg.cloudfront.net
+0.0.0.0 d24rtvkqjwgutp.cloudfront.net
 0.0.0.0 d25ezbwokoefx6.cloudfront.net
 0.0.0.0 d28g9g3vb08y70.cloudfront.net
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
@@ -4397,6 +4405,7 @@
 0.0.0.0 d3r7h55ola878c.cloudfront.net
 0.0.0.0 d3rmnwi2tssrfx.cloudfront.net
 0.0.0.0 d3s7ggfq1s6jlj.cloudfront.net
+0.0.0.0 d3sbxpiag177w8.cloudfront.net
 0.0.0.0 d3tglifpd8whs6.cloudfront.net
 0.0.0.0 d4ax0r5detcsu.cloudfront.net
 0.0.0.0 d6jkenny8w8yo.cloudfront.net
@@ -4655,6 +4664,7 @@
 0.0.0.0 o.addthis.com
 0.0.0.0 observer.ip-label.net
 0.0.0.0 octopart-analytics.com
+0.0.0.0 oda.markitondemand.com
 0.0.0.0 offermatica.intuit.com
 0.0.0.0 offers.keynote.com
 0.0.0.0 om.1and1.co.uk
@@ -5371,6 +5381,7 @@
 0.0.0.0 videostat.index.hu
 0.0.0.0 analytics.bhaskar.com
 0.0.0.0 91.196.216.64
+0.0.0.0 analytics.competitoor.com
 0.0.0.0 analytics.digitouch.it
 0.0.0.0 analytics.ettoredelnegro.pro
 0.0.0.0 analytics.linkwelove.com
@@ -5992,6 +6003,7 @@
 0.0.0.0 pound.buzzfeed.com
 0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 proac.nationwide.com
+0.0.0.0 production.airswap.io
 0.0.0.0 proxypage.msn.com
 0.0.0.0 ps.ecosia.org
 0.0.0.0 pulse-analytics-beacon.reutersmedia.net
