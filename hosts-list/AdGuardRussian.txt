@@ -1,9 +1,17 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 05 Mar 2019 01:48:00 +0800
+# Last converted - Thu, 07 Mar 2019 10:08:21 +0800
 #
 
+0.0.0.0 rekl2.ru
+0.0.0.0 adrek4.ru
+0.0.0.0 awreert.ru
+0.0.0.0 andrectesit.ru
+0.0.0.0 paleseyi.ru
+0.0.0.0 redatastore.ru
+0.0.0.0 kewithrittit.ru
+0.0.0.0 fineg.pro
 0.0.0.0 octopusads.net
 0.0.0.0 us6odtasve.ru
 0.0.0.0 00bloggers.ru
