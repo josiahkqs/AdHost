@@ -244,3 +244,6 @@
 0.0.0.0 www.shareit.com.tw # Scam
 0.0.0.0 api.clique.us # Made for AdSense sites
 0.0.0.0 edm01.icampaign.com.sg # Spam
+0.0.0.0 cbtb.clickbank.net # Spam
+0.0.0.0 horo88.cc # Scam
+0.0.0.0 statics-wcus.onestore.ms # Phishing
