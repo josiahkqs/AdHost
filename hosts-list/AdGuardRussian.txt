@@ -1,9 +1,11 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Thu, 07 Mar 2019 10:08:21 +0800
+# Last converted - Thu, 14 Mar 2019 15:10:31 +0800
 #
 
+0.0.0.0 mahaphanin.ru
+0.0.0.0 ldkdierujjfmcn.club
 0.0.0.0 rekl2.ru
 0.0.0.0 adrek4.ru
 0.0.0.0 awreert.ru
