@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Thu, 07 Mar 2019 10:08:21 +0800
+# Last converted - Wed, 20 Mar 2019 10:23:26 +0800
 #
 
 0.0.0.0 pngme.ru
@@ -1412,7 +1412,6 @@
 0.0.0.0 iperceptions.com
 0.0.0.0 ipfingerprint.com
 0.0.0.0 ipfrom.com
-0.0.0.0 api.ipify.org
 0.0.0.0 ipinfo.info
 0.0.0.0 ipinfodb.com
 0.0.0.0 ipinyou.com.cn
@@ -2668,7 +2667,6 @@
 0.0.0.0 useronlinecounter.com
 0.0.0.0 userreport.com
 0.0.0.0 users.51.la
-0.0.0.0 userzoom.com
 0.0.0.0 usuarios-online.com
 0.0.0.0 uzrating.com
 0.0.0.0 v.shopify.com
@@ -2932,6 +2930,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 unbecominghall.com
 0.0.0.0 attractivecap.com
 0.0.0.0 forecasttiger.com
 0.0.0.0 sicksmash.com
