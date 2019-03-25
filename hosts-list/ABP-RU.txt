@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Wed, 20 Mar 2019 10:23:25 +0800
+# Last converted - Mon, 25 Mar 2019 15:16:25 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -340,6 +340,7 @@
 0.0.0.0 club-sale.ru
 0.0.0.0 clubrelaxxxx.com
 0.0.0.0 devochki.cz
+0.0.0.0 dugfoto.ru
 0.0.0.0 electbloger.com
 0.0.0.0 electblogers.com
 0.0.0.0 ero-spinula.ru
@@ -1130,6 +1131,7 @@
 0.0.0.0 clloudia.com
 0.0.0.0 clx.ru
 0.0.0.0 code.barrior.ru
+0.0.0.0 coeffir.com
 0.0.0.0 comp-ex.ru
 0.0.0.0 company.1ps.ru
 0.0.0.0 content.relax.ru
@@ -1244,6 +1246,7 @@
 0.0.0.0 grifiins.ru
 0.0.0.0 grt01.com
 0.0.0.0 hairstyles-galaxy.com
+0.0.0.0 halsehold.com
 0.0.0.0 hardprice.ru
 0.0.0.0 hata.nikolaev.ua
 0.0.0.0 hd-tube.ru
@@ -2003,6 +2006,7 @@
 0.0.0.0 5f8b67fbc1b9e04f2c17.date
 0.0.0.0 5f8d1e4bd049a4eaf9ef.date
 0.0.0.0 5ikmih8avqhcbk.com
+0.0.0.0 5impressivebc5.icu
 0.0.0.0 5ppkpf4xpxb.space
 0.0.0.0 5visions.com
 0.0.0.0 5z74awpmg7.tech
@@ -2021,6 +2025,7 @@
 0.0.0.0 691f9fd7bc.com
 0.0.0.0 69i.club
 0.0.0.0 69v.club
+0.0.0.0 6af9cc1fb3.com
 0.0.0.0 6b43901d27852f19b677.date
 0.0.0.0 6be0346979.com
 0.0.0.0 6c6580635061ded7.com
@@ -2370,6 +2375,9 @@
 0.0.0.0 alltizer.ru
 0.0.0.0 almazde.ru
 0.0.0.0 almosto.com
+0.0.0.0 alshp1.ru
+0.0.0.0 alshp2.ru
+0.0.0.0 alshp3.ru
 0.0.0.0 alslz.top
 0.0.0.0 altaer.ru
 0.0.0.0 altraf.com
@@ -3022,6 +3030,7 @@
 0.0.0.0 counterparttv.ru
 0.0.0.0 coupleglassesofmilk.ru
 0.0.0.0 covivado.club
+0.0.0.0 coweve.info
 0.0.0.0 cpa-system.ru
 0.0.0.0 cpa6.ru
 0.0.0.0 cpa600.ru
@@ -3224,6 +3233,7 @@
 0.0.0.0 disredi.ru
 0.0.0.0 disterme.com
 0.0.0.0 dizzyac.com
+0.0.0.0 djaaajcx5ngq4.cloudfront.net
 0.0.0.0 djbvq.top
 0.0.0.0 djchfgacdfaaadfdc.ru
 0.0.0.0 djfbgfcdgdjgegjac.ru
@@ -3294,6 +3304,7 @@
 0.0.0.0 dubnokhi.ru
 0.0.0.0 dubochiy.ru
 0.0.0.0 dudintrec.ru
+0.0.0.0 dugfoto.ru
 0.0.0.0 dunta.ru
 0.0.0.0 dupalet.com
 0.0.0.0 dutrmedi.ru
@@ -3322,6 +3333,7 @@
 0.0.0.0 e2e8f409861.com
 0.0.0.0 e523a33a9ded6a7aeebb.date
 0.0.0.0 e968806fd491b3.com
+0.0.0.0 ea8460bc653.com
 0.0.0.0 eab72ab21d90.com
 0.0.0.0 eaplay.ru
 0.0.0.0 eaqci.com
@@ -4072,6 +4084,7 @@
 0.0.0.0 info.howto-news.info
 0.0.0.0 info33.info
 0.0.0.0 info4park.ru
+0.0.0.0 infoguardru.info
 0.0.0.0 infomir.pw
 0.0.0.0 infortractor.site
 0.0.0.0 inghe.biz
@@ -5225,6 +5238,7 @@
 0.0.0.0 ojnaho.ru
 0.0.0.0 ojtep.com
 0.0.0.0 okcbb.top
+0.0.0.0 okezs.com
 0.0.0.0 okjsdkj.ru
 0.0.0.0 okk3ssd.com
 0.0.0.0 okuneva.biz
@@ -5477,6 +5491,7 @@
 0.0.0.0 poymiteetobespolezno.ru
 0.0.0.0 poyva.com
 0.0.0.0 ppoi.org
+0.0.0.0 ppytyk5t.ru
 0.0.0.0 pq6bdw4b2yw.space
 0.0.0.0 pqakcn.com
 0.0.0.0 pqvsm.com
@@ -5756,6 +5771,7 @@
 0.0.0.0 rmu1ezz0.top
 0.0.0.0 rmu1qtxhpve.info
 0.0.0.0 rmvjk.com
+0.0.0.0 rndnam3.xyz
 0.0.0.0 rne1uqtnnzz0.pro
 0.0.0.0 rnet.plus
 0.0.0.0 rnnuw.com
@@ -5790,6 +5806,7 @@
 0.0.0.0 rootinmyhead.ru
 0.0.0.0 rootmedia.cc
 0.0.0.0 rootmedia.ws
+0.0.0.0 rootspace.biz
 0.0.0.0 ropandhep.com
 0.0.0.0 ropedri.com
 0.0.0.0 roseemariepatterson.uk.to
@@ -5994,6 +6011,7 @@
 0.0.0.0 serving.plexop.net
 0.0.0.0 servized.com
 0.0.0.0 setads.bid
+0.0.0.0 setforconfigplease.com
 0.0.0.0 setterlistjo.link
 0.0.0.0 sexshop4ik.ru.swtest.ru
 0.0.0.0 sexshop4ik.ru
@@ -6310,6 +6328,7 @@
 0.0.0.0 thairesort.ru
 0.0.0.0 tharbadir.com
 0.0.0.0 thathislitt.ru
+0.0.0.0 the7re.com
 0.0.0.0 thefox.mobi
 0.0.0.0 thefoxads.ru
 0.0.0.0 thefoxm.com
@@ -7204,6 +7223,7 @@
 0.0.0.0 zherva.ru
 0.0.0.0 zhitkise.info
 0.0.0.0 zhkzt.com
+0.0.0.0 zhurnal-land.com
 0.0.0.0 zhyefedo.info
 0.0.0.0 zilabi.ru
 0.0.0.0 zinutay.com
@@ -7965,6 +7985,7 @@
 0.0.0.0 zen-test.yandex.ru
 0.0.0.0 zzsites.ru
 0.0.0.0 ed98512111bb19e5.in.net
+0.0.0.0 t.mail.ru
 0.0.0.0 banners.mail.ru
 0.0.0.0 showbiz.mail.ru
 0.0.0.0 vkbutton.com
