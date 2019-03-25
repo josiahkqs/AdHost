@@ -1,9 +1,10 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Wed, 20 Mar 2019 10:23:21 +0800
+# Last converted - Mon, 25 Mar 2019 15:16:13 +0800
 #
 
+0.0.0.0 ny5159.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0082tv.net
 0.0.0.0 00880808.com
@@ -291,6 +292,7 @@
 0.0.0.0 911.cc
 0.0.0.0 913h6.cn
 0.0.0.0 9158918.com
+0.0.0.0 91lmgg.com
 0.0.0.0 91xry.com
 0.0.0.0 91ysa.com
 0.0.0.0 91zgm.com
@@ -772,6 +774,7 @@
 0.0.0.0 fcsass.org.cn
 0.0.0.0 fd7c.com
 0.0.0.0 fecjf.cn
+0.0.0.0 feisia1.cn
 0.0.0.0 feitian001.com
 0.0.0.0 fembsflungod.com
 0.0.0.0 fenggejiaju.com
@@ -2920,6 +2923,7 @@
 0.0.0.0 mbjb1.girl13.com
 0.0.0.0 mc.tvzhe.com
 0.0.0.0 mc.weather.com.cn
+0.0.0.0 md.tvzhe.com
 0.0.0.0 meipinxinwen.net
 0.0.0.0 meishiba.com.cn
 0.0.0.0 meng.360zuowen.com
@@ -2978,6 +2982,7 @@
 0.0.0.0 rmcxw.net
 0.0.0.0 rs1.rensheng5.com
 0.0.0.0 ruan88.com
+0.0.0.0 s.jy135.com
 0.0.0.0 s.zixuntop.com
 0.0.0.0 s1.dapenti.com
 0.0.0.0 s1.dugoogle.com
@@ -3076,6 +3081,7 @@
 0.0.0.0 ykxwn.com
 0.0.0.0 ynzhby.com
 0.0.0.0 yong.chazidian.com
+0.0.0.0 ysx8.vip
 0.0.0.0 ysxywj.com
 0.0.0.0 yulzs.com
 0.0.0.0 yunzuowen.com
@@ -3111,11 +3117,13 @@
 0.0.0.0 711983.com
 0.0.0.0 77rog.com
 0.0.0.0 910weixin.com
+0.0.0.0 913vt.com
 0.0.0.0 93vitui.com
 0.0.0.0 aliguojw.com
 0.0.0.0 anhuilitian.net
 0.0.0.0 aodongjiaosu.com
 0.0.0.0 autoyou1678.com
+0.0.0.0 bihutg.com
 0.0.0.0 bjwwfx001.org.cn
 0.0.0.0 blossommo.com
 0.0.0.0 bycxsh.com
@@ -3214,7 +3222,7 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
-0.0.0.0 byujf.cn
+0.0.0.0 tianhelife.com
 0.0.0.0 0234408.cn
 0.0.0.0 03196688.com
 0.0.0.0 07kfh.cn
@@ -3233,6 +3241,7 @@
 0.0.0.0 2wxb5.cn
 0.0.0.0 2zm4.cn
 0.0.0.0 365yigou.cn
+0.0.0.0 4ekx.cn
 0.0.0.0 4z5o27.cn
 0.0.0.0 51gpt.com
 0.0.0.0 52tushuo.com
@@ -3250,6 +3259,7 @@
 0.0.0.0 7ia9h.cn
 0.0.0.0 81ngn1.cn
 0.0.0.0 85wa.cn
+0.0.0.0 8byu.cn
 0.0.0.0 8j24h.cn
 0.0.0.0 8v7wg.com
 0.0.0.0 91byy.cn
@@ -3337,6 +3347,7 @@
 0.0.0.0 bueson.com
 0.0.0.0 bvoer.com
 0.0.0.0 bvosv.com
+0.0.0.0 byujf.cn
 0.0.0.0 c6z85.cn
 0.0.0.0 ca88b.cn
 0.0.0.0 caduka.cn
@@ -3406,6 +3417,7 @@
 0.0.0.0 czzdf.com
 0.0.0.0 dachadu.cn
 0.0.0.0 daishuxy.com
+0.0.0.0 daizhankj.cn
 0.0.0.0 dajean.com
 0.0.0.0 dake.net.cn
 0.0.0.0 damiren.com
@@ -3426,6 +3438,7 @@
 0.0.0.0 dezfu.com
 0.0.0.0 dgaoz.com
 0.0.0.0 dgxzwj.com
+0.0.0.0 dhaof.com
 0.0.0.0 dierqingchun.com
 0.0.0.0 djhbxz.com
 0.0.0.0 djhhy.com
@@ -3448,6 +3461,7 @@
 0.0.0.0 edysn.cn
 0.0.0.0 ehxyz.com
 0.0.0.0 ejiur.com
+0.0.0.0 ejwmc.cn
 0.0.0.0 eloer.cn
 0.0.0.0 emgwq.com
 0.0.0.0 emshx.cn
@@ -3492,6 +3506,8 @@
 0.0.0.0 fuhuikang360.com
 0.0.0.0 fw.zhuaji.org
 0.0.0.0 fwjoi.com
+0.0.0.0 fxfhjs.com
+0.0.0.0 fxunn.com
 0.0.0.0 fyjyhm.com
 0.0.0.0 fzdfwy.com
 0.0.0.0 fzxrjx.com
@@ -3515,6 +3531,7 @@
 0.0.0.0 gelinboer.cn
 0.0.0.0 georgias.cn
 0.0.0.0 gerunsenbo.cn
+0.0.0.0 ggouh.com
 0.0.0.0 gjiai.com
 0.0.0.0 gjiak.com
 0.0.0.0 gjkpo.com
@@ -3609,6 +3626,7 @@
 0.0.0.0 hzxfmc.com
 0.0.0.0 hzzfan.com
 0.0.0.0 i-components.net
+0.0.0.0 i05h.cn
 0.0.0.0 ia22.com
 0.0.0.0 iangp.com
 0.0.0.0 iangs.com
@@ -3795,6 +3813,7 @@
 0.0.0.0 okshishi.com
 0.0.0.0 okuis.com
 0.0.0.0 okwan.cn
+0.0.0.0 olc0.cn
 0.0.0.0 once88.cn
 0.0.0.0 oomyv.com
 0.0.0.0 opqsr.com
@@ -3858,6 +3877,7 @@
 0.0.0.0 qzdaren.com
 0.0.0.0 raeqqe.cn
 0.0.0.0 rbywg.com
+0.0.0.0 rcynoe.cn
 0.0.0.0 renshengyiyi.com
 0.0.0.0 represented.cn
 0.0.0.0 requested.cn
@@ -3985,6 +4005,7 @@
 0.0.0.0 vers80.com
 0.0.0.0 vf5yb4.cn
 0.0.0.0 vgaom.com
+0.0.0.0 vhuay.com
 0.0.0.0 vichc.com
 0.0.0.0 viiqx.com
 0.0.0.0 vjuer.com
@@ -4095,6 +4116,7 @@
 0.0.0.0 ygqczh.com
 0.0.0.0 yguap.com
 0.0.0.0 yicang8.com
+0.0.0.0 yicixingjinkou.com
 0.0.0.0 yijieweizf.com
 0.0.0.0 yinzantouzi.com
 0.0.0.0 yisloda.com
@@ -4127,11 +4149,14 @@
 0.0.0.0 yyeks.com
 0.0.0.0 yyhqch.com
 0.0.0.0 yyjhf.com
+0.0.0.0 yymmsd.cn
 0.0.0.0 zabxb.com
+0.0.0.0 zbeic.com
 0.0.0.0 zbieo.com
 0.0.0.0 zcand.com
 0.0.0.0 zcaod.com
 0.0.0.0 zcdor.com
+0.0.0.0 zcpnq.cn
 0.0.0.0 zenffs.cn
 0.0.0.0 zenwq.com
 0.0.0.0 zfood029.com
