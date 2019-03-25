@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Wed, 20 Mar 2019 10:23:28 +0800
+# Last converted - Mon, 25 Mar 2019 15:16:27 +0800
 #
 
 0.0.0.0 0emm.com
@@ -145,6 +145,7 @@
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advconversion.com
 0.0.0.0 advertising.com
+0.0.0.0 adways.com
 0.0.0.0 adwstats.com
 0.0.0.0 adyapper.com
 0.0.0.0 afairweb.com
@@ -341,7 +342,6 @@
 0.0.0.0 blogscounter.com
 0.0.0.0 blogsontop.com
 0.0.0.0 blogtoplist.com
-0.0.0.0 bloomjoy.com
 0.0.0.0 bluecava.com
 0.0.0.0 blueconic.net
 0.0.0.0 bluekai.com
@@ -1283,6 +1283,7 @@
 0.0.0.0 masterstats.com
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathtag.com
+0.0.0.0 matomo.cloud
 0.0.0.0 maxtracker.net
 0.0.0.0 maxymiser.com
 0.0.0.0 maxymiser.net
@@ -2058,6 +2059,7 @@
 0.0.0.0 taps.io
 0.0.0.0 tapstream.com
 0.0.0.0 targetfuel.com
+0.0.0.0 taskanalytics.com
 0.0.0.0 tcactivity.net
 0.0.0.0 tcimg.com
 0.0.0.0 tctm.co
@@ -3768,6 +3770,7 @@
 0.0.0.0 rentracks.jp
 0.0.0.0 research-artisan.com
 0.0.0.0 rtoaster.jp
+0.0.0.0 seesaa.jp
 0.0.0.0 sibulla.com
 0.0.0.0 smartnews-ads.com
 0.0.0.0 socdm.com
@@ -4383,6 +4386,7 @@
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2pxb4n3f9klsc.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
+0.0.0.0 d2san7t27xb2pn.cloudfront.net
 0.0.0.0 d2so4705rl485y.cloudfront.net
 0.0.0.0 d2tcg4i9q4js4a.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
@@ -5443,6 +5447,7 @@
 0.0.0.0 imgstat.ameba.jp
 0.0.0.0 l.popin.cc
 0.0.0.0 lcs.livedoor.net
+0.0.0.0 log.nordot.jp
 0.0.0.0 omt.shinobi.jp
 0.0.0.0 rcm.shinobi.jp
 0.0.0.0 rd.rakuten.co.jp
@@ -5489,6 +5494,7 @@
 0.0.0.0 1l-hit.mail.ru
 0.0.0.0 a.tovarro.com
 0.0.0.0 awaps.yandex.ru
+0.0.0.0 banstat.nadavi.net
 0.0.0.0 c.bigmir.net
 0.0.0.0 cnstats.cdev.eu
 0.0.0.0 cnt.logoslovo.ru
@@ -5648,6 +5654,7 @@
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analyze.yahooapis.com
 0.0.0.0 analyzer52.fc2.com
+0.0.0.0 anon-stats.eff.org
 0.0.0.0 atax.gamermetrics.com
 0.0.0.0 atax.gamespy.com
 0.0.0.0 atax.gamestats.com
@@ -5709,6 +5716,7 @@
 0.0.0.0 click.jasmin.com
 0.0.0.0 click.livejasmin.com
 0.0.0.0 click.mmosite.com
+0.0.0.0 click.oneplus.com
 0.0.0.0 click.udimg.com
 0.0.0.0 click2.cafepress.com
 0.0.0.0 clicks.hurriyet.com.tr
@@ -5763,6 +5771,8 @@
 0.0.0.0 data.ryanair.com
 0.0.0.0 data.younow.com
 0.0.0.0 datacollector.coin.scribol.com
+0.0.0.0 dc.banggood.com
+0.0.0.0 dccss.banggood.com
 0.0.0.0 dcs.mattel.com
 0.0.0.0 dcs.maxthon.com
 0.0.0.0 debug-vp.webmd.com
