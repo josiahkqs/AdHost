@@ -1,36 +1,15 @@
 # DisconnectMalvertising
 #
 # Converted from - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Last converted - Mon, 25 Mar 2019 15:16:27 +0800
+# Last converted - Sun, 31 Mar 2019 00:12:20 +0800
 #
 
 0.0.0.0 royalair.koom.ma
-0.0.0.0 xcl168.s37.jjisp.com
-0.0.0.0 www.yserch.com
-0.0.0.0 hairtease.com
+0.0.0.0 sso.anbtr.com
 0.0.0.0 robinkornett.com
-0.0.0.0 jefaerosol.free.fr
-0.0.0.0 londparig.ga
-0.0.0.0 cheapness.byefelicia.fr
-0.0.0.0 prosperity.charifree.org
-0.0.0.0 sicken.cede.cl
-0.0.0.0 bjhmt.com
-0.0.0.0 kineclick.free.fr
-0.0.0.0 mandarin.aquamarineku.com
-0.0.0.0 druming.free.fr
-0.0.0.0 bestpons.net
-0.0.0.0 xsso.anbtr.com
-0.0.0.0 topresistor.gotoip2.com
-0.0.0.0 orange.bageriethornslet.dk
-0.0.0.0 reflexonature.free.fr
-0.0.0.0 remyyadan.online.fr
-0.0.0.0 tracking.checkmygirlfriend.net
-0.0.0.0 ecdlszczecin.eu
+0.0.0.0 benstock.free.fr
+0.0.0.0 myfileupload.ru
 0.0.0.0 centerpieces-with-feathers-for-weddi.blogspot.com
-0.0.0.0 pizzotti.net
-0.0.0.0 regis.foultier.free.fr
-0.0.0.0 yserch.com
-0.0.0.0 yttestsite.com
 0.0.0.0 malware-check.disconnect.me
 0.0.0.0 101order.com
 0.0.0.0 123found.com
