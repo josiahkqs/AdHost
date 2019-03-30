@@ -1,7 +1,7 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Mon, 25 Mar 2019 15:16:25 +0800
+# Last converted - Sun, 31 Mar 2019 00:12:18 +0800
 #
 
 0.0.0.0 rzviy.com
@@ -25,6 +25,8 @@
 0.0.0.0 0483bm4mlow8.xyz
 0.0.0.0 0664ic555p.com
 0.0.0.0 0816bvh.ru
+0.0.0.0 hpyue.com
+0.0.0.0 uektb.com
 0.0.0.0 0916video.ru
 0.0.0.0 1000zakazov.ru
 0.0.0.0 1001noch.net
