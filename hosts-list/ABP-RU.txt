@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Sun, 31 Mar 2019 00:12:17 +0800
+# Last converted - Mon, 01 Apr 2019 23:22:54 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -947,6 +947,7 @@
 0.0.0.0 abcfilm.org
 0.0.0.0 abs.ispsystem.com
 0.0.0.0 academy.com.ua
+0.0.0.0 accommon.info
 0.0.0.0 action.raadword.com
 0.0.0.0 activiks.ru
 0.0.0.0 ad.aorta-net.com
@@ -2232,7 +2233,6 @@
 0.0.0.0 adrow.ru
 0.0.0.0 ads-provider.com
 0.0.0.0 ads-upload.gazprom-media.net
-0.0.0.0 ads.teaserfast.ru
 0.0.0.0 ads2rtb.com
 0.0.0.0 adsactive.ru
 0.0.0.0 adsbc.pp.ua
@@ -2474,6 +2474,7 @@
 0.0.0.0 associeta.com
 0.0.0.0 astdn.ru
 0.0.0.0 astires.ru
+0.0.0.0 astralmet.ru
 0.0.0.0 asuler.ru
 0.0.0.0 asvuvox.ru
 0.0.0.0 atavas.ru
@@ -3239,6 +3240,7 @@
 0.0.0.0 diomedis.online
 0.0.0.0 dionis-um.com
 0.0.0.0 dioperu.com
+0.0.0.0 diradvert.ru
 0.0.0.0 dircont3.com
 0.0.0.0 direct-advert.org
 0.0.0.0 directerp.ru
@@ -6196,6 +6198,7 @@
 0.0.0.0 statchecker.yandex.ru
 0.0.0.0 statdynamic.com
 0.0.0.0 static.prototypes.ru
+0.0.0.0 static.wi-fi.ru
 0.0.0.0 staticsfs.host
 0.0.0.0 statredpic.ru
 0.0.0.0 stattorr.ru
@@ -6307,6 +6310,7 @@
 0.0.0.0 teaser1m.com
 0.0.0.0 teaserbar.com
 0.0.0.0 teasercpm.ru
+0.0.0.0 teaserfast.ru
 0.0.0.0 teasermedia.net
 0.0.0.0 teasermoney.com
 0.0.0.0 teasernet.com.ua
