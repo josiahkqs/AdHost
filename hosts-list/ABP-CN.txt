@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Sun, 31 Mar 2019 00:12:13 +0800
+# Last converted - Mon, 01 Apr 2019 23:22:48 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -1335,6 +1335,7 @@
 0.0.0.0 nzezn.com
 0.0.0.0 o091i.com
 0.0.0.0 oa-panther.data.aliyun.com
+0.0.0.0 oaer9.cn
 0.0.0.0 octopuspop.com
 0.0.0.0 officeme.cn
 0.0.0.0 oikxlcv.wang
@@ -1444,6 +1445,7 @@
 0.0.0.0 reliancevalve.com
 0.0.0.0 remotedu.cn
 0.0.0.0 rencai56.com
+0.0.0.0 renminben.com
 0.0.0.0 resetgey.com
 0.0.0.0 rhgyg.com
 0.0.0.0 rickysblast.cn
@@ -1789,6 +1791,7 @@
 0.0.0.0 wstztt.com
 0.0.0.0 wu65.com
 0.0.0.0 wudang05.com
+0.0.0.0 wurangxian.top
 0.0.0.0 wuwaii.com
 0.0.0.0 wuwho.cn
 0.0.0.0 wvstatic.cn
@@ -2411,9 +2414,8 @@
 0.0.0.0 zkrdy.com
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
+0.0.0.0 doubleclick.net
 0.0.0.0 immedlinkum.info
-0.0.0.0 1.32xp.com
-0.0.0.0 bd1.sosg.net
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
 0.0.0.0 06362.com
@@ -2421,6 +2423,7 @@
 0.0.0.0 1.11467.com
 0.0.0.0 1.15lu.com
 0.0.0.0 1.201980.com
+0.0.0.0 1.32xp.com
 0.0.0.0 1.51sxue.cn
 0.0.0.0 1.5646.cn
 0.0.0.0 1.66law.cn
@@ -2547,7 +2550,6 @@
 0.0.0.0 a.ihref.com
 0.0.0.0 a.imgso.cn
 0.0.0.0 a.jing55.com
-0.0.0.0 a.jy135.com
 0.0.0.0 a.kandiaoyu.com
 0.0.0.0 a.kejixun.com
 0.0.0.0 a.lz13.cn
@@ -2637,6 +2639,7 @@
 0.0.0.0 bd1.heiguang.cn
 0.0.0.0 bd1.nxing.cn
 0.0.0.0 bd1.pipaw.com
+0.0.0.0 bd1.sosg.net
 0.0.0.0 bd1.szhk.com
 0.0.0.0 bd1.wowoqq.com
 0.0.0.0 bd1.xiangha.com
@@ -2992,7 +2995,8 @@
 0.0.0.0 rmcxw.net
 0.0.0.0 rs1.rensheng5.com
 0.0.0.0 ruan88.com
-0.0.0.0 s.jy135.com
+0.0.0.0 jy135.com
+0.0.0.0 o.jy135.com
 0.0.0.0 s.zixuntop.com
 0.0.0.0 s1.dapenti.com
 0.0.0.0 s1.dugoogle.com
@@ -3116,6 +3120,7 @@
 0.0.0.0 zxw51.com
 0.0.0.0 zzc.9939.com
 0.0.0.0 0377shujuhuifu.top
+0.0.0.0 ynjkkj.com
 0.0.0.0 0531mnk.net
 0.0.0.0 18dusun.com
 0.0.0.0 2013sh.com
@@ -3232,9 +3237,20 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
-0.0.0.0 gdlbdzkj.com
-0.0.0.0 vbaof.com
-0.0.0.0 llvez.com
+0.0.0.0 ctiev.com
+0.0.0.0 vnanf.com
+0.0.0.0 goulanmeng.cn
+0.0.0.0 wuylp.com
+0.0.0.0 12381236.com
+0.0.0.0 vcaif.com
+0.0.0.0 rrrwwwa.com
+0.0.0.0 fccay.cn
+0.0.0.0 dependablewood.com
+0.0.0.0 wzn4.cn
+0.0.0.0 fshet.com
+0.0.0.0 oangm.com
+0.0.0.0 lpaoz.com
+0.0.0.0 0851ok.com
 0.0.0.0 0234408.cn
 0.0.0.0 03196688.com
 0.0.0.0 07kfh.cn
@@ -3544,6 +3560,7 @@
 0.0.0.0 gdaii.com
 0.0.0.0 gdeih.com
 0.0.0.0 gdhdfs.com
+0.0.0.0 gdlbdzkj.com
 0.0.0.0 gdsqwy.org
 0.0.0.0 gdunt.com
 0.0.0.0 gelinboer.cn
@@ -3765,6 +3782,7 @@
 0.0.0.0 linyankm.cn
 0.0.0.0 listenother.com
 0.0.0.0 ljuer.com
+0.0.0.0 llvez.com
 0.0.0.0 lnenz.com
 0.0.0.0 lqmohun.com
 0.0.0.0 lsiwd.cn
@@ -4028,6 +4046,7 @@
 0.0.0.0 v44i.cn
 0.0.0.0 vbaiu.com
 0.0.0.0 vbanm.com
+0.0.0.0 vbaof.com
 0.0.0.0 vbaou.com
 0.0.0.0 vbieu.com
 0.0.0.0 vbinu.com
