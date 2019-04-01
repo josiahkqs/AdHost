@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sun, 31 Mar 2019 00:12:20 +0800
+# Last converted - Mon, 01 Apr 2019 23:22:57 +0800
 #
 
 0.0.0.0 0emm.com
@@ -4074,6 +4074,7 @@
 0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 aksb-a.akamaihd.net
 0.0.0.0 alexandria.marfeelcdn.com
+0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 ams.addflow.ru
