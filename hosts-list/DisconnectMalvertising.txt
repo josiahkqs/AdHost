@@ -1,15 +1,9 @@
 # DisconnectMalvertising
 #
 # Converted from - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Last converted - Sun, 31 Mar 2019 00:12:20 +0800
+# Last converted - Mon, 01 Apr 2019 23:22:56 +0800
 #
 
-0.0.0.0 royalair.koom.ma
-0.0.0.0 sso.anbtr.com
-0.0.0.0 robinkornett.com
-0.0.0.0 benstock.free.fr
-0.0.0.0 myfileupload.ru
-0.0.0.0 centerpieces-with-feathers-for-weddi.blogspot.com
 0.0.0.0 malware-check.disconnect.me
 0.0.0.0 101order.com
 0.0.0.0 123found.com
