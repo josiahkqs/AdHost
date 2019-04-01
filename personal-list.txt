@@ -247,3 +247,15 @@
 0.0.0.0 cbtb.clickbank.net # Spam
 0.0.0.0 horo88.cc # Scam
 0.0.0.0 statics-wcus.onestore.ms # Phishing
+0.0.0.0 trk.klclick1.com # Spam
+0.0.0.0 files.muzli.space # Made for AdSense sites
+0.0.0.0 j.hbwcl.com # pufei.net
+0.0.0.0 e4478.a.akamaiedge.net # pufei.net
+0.0.0.0 fcsl.fcwlzh.cn # pufei.net
+0.0.0.0 tps.zhhfc.cn # pufei.net
+0.0.0.0 tfs.zhamm.cn # pufei.net
+0.0.0.0 mb.aigou023.com # pufei.net
+0.0.0.0 v.heygugu.com # pufei.net
+0.0.0.0 m3.8hdp.cn # pufei.net
+0.0.0.0 mb.12365chia.com # pufei.net
+
