@@ -264,3 +264,6 @@
 0.0.0.0 go.onelink.me # pufei.net
 0.0.0.0 pic.shen9192.cn # pufei.net
 0.0.0.0 e.feisia1.cn # pufei.net
+0.0.0.0 vip.k.15cdn.com # pufei.net
+0.0.0.0 e.zhaibei112.top # pufei.net
+0.0.0.0 c.zhaibei112.top # pufei.net
