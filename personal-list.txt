@@ -267,3 +267,6 @@
 0.0.0.0 vip.k.15cdn.com # pufei.net
 0.0.0.0 e.zhaibei112.top # pufei.net
 0.0.0.0 c.zhaibei112.top # pufei.net
+0.0.0.0 m2.8hdp.cn # pufei.net
+0.0.0.0 m.8hdp.cn # pufei.net
+
