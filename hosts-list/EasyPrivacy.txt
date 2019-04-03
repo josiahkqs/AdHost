@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 01 Apr 2019 23:22:57 +0800
+# Last converted - Thu, 04 Apr 2019 05:13:20 +0800
 #
 
 0.0.0.0 0emm.com
@@ -2397,6 +2397,7 @@
 0.0.0.0 wowanalytics.co.uk
 0.0.0.0 wp-stats.com
 0.0.0.0 wpdstat.com
+0.0.0.0 wpfc.ml
 0.0.0.0 wrating.com
 0.0.0.0 wredint.com
 0.0.0.0 wt-eu02.net
