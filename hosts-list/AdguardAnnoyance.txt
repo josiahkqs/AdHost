@@ -1,11 +1,12 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Wed, 20 Mar 2019 10:23:25 +0800
+# Last converted - Fri, 05 Apr 2019 02:58:47 +0800
 #
 
 0.0.0.0 ext-stat.ru
 0.0.0.0 mystatext.ru
+0.0.0.0 alertme.news
 0.0.0.0 ipepostman.com
 0.0.0.0 wb.whatsbroadcast.com
 0.0.0.0 puffypull.com
