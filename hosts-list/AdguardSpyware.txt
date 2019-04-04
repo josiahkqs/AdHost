@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Thu, 04 Apr 2019 05:13:16 +0800
+# Last converted - Fri, 05 Apr 2019 02:58:47 +0800
 #
 
 0.0.0.0 sb.voicefive.com
@@ -4115,7 +4115,6 @@
 0.0.0.0 trck.cyberport.de
 0.0.0.0 abc.esprit.de
 0.0.0.0 tr.outbrain.com
-0.0.0.0 tracking.epicgames.com
 0.0.0.0 analytics.shop.hisense.com
 0.0.0.0 statistics.aldi-international.com
 0.0.0.0 statistics.11880.com
