@@ -1,10 +1,9 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Fri, 05 Apr 2019 02:58:41 +0800
+# Last converted - Fri, 05 Apr 2019 20:32:12 +0800
 #
 
-0.0.0.0 adget.cn
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0082tv.net
 0.0.0.0 00880808.com
@@ -361,6 +360,7 @@
 0.0.0.0 adbxb.com
 0.0.0.0 adchina.cc
 0.0.0.0 adconfer.com
+0.0.0.0 adget.cn
 0.0.0.0 adglare.org
 0.0.0.0 adhouyi.com
 0.0.0.0 adkongjian.com
@@ -2145,6 +2145,7 @@
 0.0.0.0 adpai.thepaper.cn
 0.0.0.0 adpub.yaolan.com
 0.0.0.0 adpubs.yaolan.com
+0.0.0.0 ads-pixiv.net
 0.0.0.0 ads-union.jd.com
 0.0.0.0 ads.sohu.com
 0.0.0.0 adsc.wasu.tv
@@ -2415,7 +2416,6 @@
 0.0.0.0 zkrdy.com
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
-0.0.0.0 ads-pixiv.net
 0.0.0.0 immedlinkum.info
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
@@ -3121,13 +3121,13 @@
 0.0.0.0 zxw51.com
 0.0.0.0 zzc.9939.com
 0.0.0.0 0377shujuhuifu.top
-0.0.0.0 2pmob.com
 0.0.0.0 0531mnk.net
 0.0.0.0 18dusun.com
 0.0.0.0 2013sh.com
 0.0.0.0 210189.com
 0.0.0.0 258pct.com
 0.0.0.0 258ydh.com
+0.0.0.0 2pmob.com
 0.0.0.0 360shopping.com.cn
 0.0.0.0 60608787.com
 0.0.0.0 711983.com
@@ -3239,11 +3239,8 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
-0.0.0.0 rdxhrd.com
-0.0.0.0 fenbengpan.cn
-0.0.0.0 m72r.cn
-0.0.0.0 xurizhongguo.cn
-0.0.0.0 xmgdfb.cn
+0.0.0.0 l93stb.cn
+0.0.0.0 lfouz.com
 0.0.0.0 0234408.cn
 0.0.0.0 03196688.com
 0.0.0.0 07kfh.cn
@@ -3520,6 +3517,7 @@
 0.0.0.0 fdaoo.com
 0.0.0.0 fdoun.com
 0.0.0.0 feifish66.com
+0.0.0.0 fenbengpan.cn
 0.0.0.0 ffanq.com
 0.0.0.0 ffychb.com
 0.0.0.0 fgaon.com
@@ -3799,6 +3797,7 @@
 0.0.0.0 lzjycy.com
 0.0.0.0 lzkjsj.com
 0.0.0.0 lzytt.com
+0.0.0.0 m72r.cn
 0.0.0.0 maoyumao.net
 0.0.0.0 mbaik.com
 0.0.0.0 mbiek.com
@@ -3930,6 +3929,7 @@
 0.0.0.0 rbywg.com
 0.0.0.0 rcaiu.com
 0.0.0.0 rcynoe.cn
+0.0.0.0 rdxhrd.com
 0.0.0.0 renshengyiyi.com
 0.0.0.0 represented.cn
 0.0.0.0 requested.cn
@@ -4153,6 +4153,7 @@
 0.0.0.0 xkqpco.com
 0.0.0.0 xkunn.com
 0.0.0.0 xmcxz.com
+0.0.0.0 xmgdfb.cn
 0.0.0.0 xmgysweb.com
 0.0.0.0 xnghmc.com
 0.0.0.0 xnjzsn.com
@@ -4163,6 +4164,7 @@
 0.0.0.0 xtzxmy.com
 0.0.0.0 xujx8.com
 0.0.0.0 xunhuaji.cn
+0.0.0.0 xurizhongguo.cn
 0.0.0.0 xxkio.com
 0.0.0.0 xxlywl.cn
 0.0.0.0 xznykf.org
