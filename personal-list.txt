@@ -258,7 +258,6 @@
 0.0.0.0 v.heygugu.com # pufei.net
 0.0.0.0 m3.8hdp.cn # pufei.net
 0.0.0.0 mb.12365chia.com # pufei.net
-0.0.0.0 e673.dsce9.akamaiedge.net # pufei.net
 0.0.0.0 a-cn.duoyi.com # pufei.net
 0.0.0.0 kk78899.com # pufei.net
 0.0.0.0 go.onelink.me # pufei.net
