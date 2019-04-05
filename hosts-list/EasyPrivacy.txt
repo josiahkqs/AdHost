@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 05 Apr 2019 02:58:49 +0800
+# Last converted - Fri, 05 Apr 2019 20:32:24 +0800
 #
 
 0.0.0.0 0emm.com
@@ -5655,6 +5655,7 @@
 0.0.0.0 analytics.thenewslens.com
 0.0.0.0 analytics.thetab.com
 0.0.0.0 analytics.thevideo.me
+0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.upworthy.com
 0.0.0.0 analytics.us.archive.org
