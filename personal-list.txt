@@ -269,4 +269,22 @@
 0.0.0.0 c.zhaibei112.top # pufei.net
 0.0.0.0 m2.8hdp.cn # pufei.net
 0.0.0.0 m.8hdp.cn # pufei.net
-
+0.0.0.0 m.yzjlsb.com # dongliuxiaoshuo.com
+0.0.0.0 t.ynjkkj.com # dongliuxiaoshuo.com
+0.0.0.0 c.kuaituisss.com # dongliuxiaoshuo.com
+0.0.0.0 ocsp.dcocsp.cn # dongliuxiaoshuo.com
+0.0.0.0 m.ynjkkj.com # dongliuxiaoshuo.com
+0.0.0.0 ku87r.cn # dongliuxiaoshuo.com
+0.0.0.0 ocsp.dcocsp.cn.w.kunlunar.com # dongliuxiaoshuo.com
+0.0.0.0 apps.bdimg.jomodns.com # dongliuxiaoshuo.com
+0.0.0.0 loaphizu.com
+0.0.0.0 gepk.uxpyd.cn # m.wuyouhui.net
+0.0.0.0 cgdh.fenbengpan.cn # m.wuyouhui.net
+0.0.0.0 sjpx.allwininfo.cn # m.wuyouhui.net
+0.0.0.0 tbax.woyvk.cn # m.wuyouhui.net
+0.0.0.0 s7.qhres.com # m.wuyouhui.net
+0.0.0.0 9999.v2cx.com # m.wuyouhui.net
+0.0.0.0 lkdt.lmhfn.cn # m.wuyouhui.net
+0.0.0.0 s6.qhres.com # m.wuyouhui.net
+0.0.0.0 js.passport.qihucdn.com # m.wuyouhui.net
+0.0.0.0 bcuh.tinwong.cn # m.tohomh123.com
