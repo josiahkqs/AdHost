@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Fri, 05 Apr 2019 20:32:12 +0800
+# Last converted - Sun, 07 Apr 2019 02:35:00 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -2416,6 +2416,7 @@
 0.0.0.0 zkrdy.com
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
+0.0.0.0 ggtp-1255424916.cos.ap-chengdu.myqcloud.com
 0.0.0.0 immedlinkum.info
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
@@ -3239,8 +3240,9 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
-0.0.0.0 l93stb.cn
-0.0.0.0 lfouz.com
+0.0.0.0 ypzhwf.cn
+0.0.0.0 ybfwmm.cn
+0.0.0.0 hguac.com
 0.0.0.0 0234408.cn
 0.0.0.0 03196688.com
 0.0.0.0 07kfh.cn
@@ -3762,6 +3764,7 @@
 0.0.0.0 kxhie.com
 0.0.0.0 kyxnz.cn
 0.0.0.0 kz8tr2.cn
+0.0.0.0 l93stb.cn
 0.0.0.0 l9c4s.cn
 0.0.0.0 la71f.cn
 0.0.0.0 laksdn.com
@@ -3774,6 +3777,7 @@
 0.0.0.0 legozu.com
 0.0.0.0 let83.cn
 0.0.0.0 lfdydk.com
+0.0.0.0 lfouz.com
 0.0.0.0 lglady.cn
 0.0.0.0 lguir.com
 0.0.0.0 lianfuhuang.cn
@@ -3814,6 +3818,7 @@
 0.0.0.0 miaos11.com
 0.0.0.0 mid5in.top
 0.0.0.0 miiuv.com
+0.0.0.0 mjita.cn
 0.0.0.0 mmhhjt.com
 0.0.0.0 mmkvi.com
 0.0.0.0 mmpuh.cn
