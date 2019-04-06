@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Fri, 05 Apr 2019 02:58:47 +0800
+# Last converted - Sun, 07 Apr 2019 02:35:02 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -778,6 +778,7 @@
 0.0.0.0 rayzest.com
 0.0.0.0 rcforme.biz
 0.0.0.0 readtoday.ru
+0.0.0.0 readvesti.ru
 0.0.0.0 real-blog.name
 0.0.0.0 real-mind.com
 0.0.0.0 realblog.biz
@@ -2140,6 +2141,7 @@
 0.0.0.0 abdaubda.com
 0.0.0.0 abderob.ru
 0.0.0.0 abdmi.ru
+0.0.0.0 abgclk.club
 0.0.0.0 ableday.com
 0.0.0.0 aboola.ru
 0.0.0.0 abourselfi.com
@@ -7739,6 +7741,7 @@
 0.0.0.0 rayzest.com
 0.0.0.0 rcforme.biz
 0.0.0.0 readtoday.ru
+0.0.0.0 readvesti.ru
 0.0.0.0 real-blog.name
 0.0.0.0 real-mind.com
 0.0.0.0 realblog.biz
