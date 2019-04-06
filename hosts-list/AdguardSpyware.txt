@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Fri, 05 Apr 2019 02:58:47 +0800
+# Last converted - Sun, 07 Apr 2019 02:35:03 +0800
 #
 
 0.0.0.0 sb.voicefive.com
@@ -3147,6 +3147,8 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 tracking.linda.de
+0.0.0.0 cdn.odoscope.cloud
 0.0.0.0 sanalytics.ncaa.com
 0.0.0.0 analytics.cn.ru
 0.0.0.0 pa.tns-ua.com
