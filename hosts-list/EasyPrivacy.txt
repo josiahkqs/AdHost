@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sun, 07 Apr 2019 02:35:06 +0800
+# Last converted - Wed, 10 Apr 2019 12:05:46 +0800
 #
 
 0.0.0.0 0emm.com
@@ -817,6 +817,7 @@
 0.0.0.0 fishhoo.com
 0.0.0.0 fitanalytics.com
 0.0.0.0 flagcounter.com
+0.0.0.0 flaghit.com
 0.0.0.0 flash-counter.com
 0.0.0.0 flash-stat.com
 0.0.0.0 flashadengine.com
@@ -1240,6 +1241,7 @@
 0.0.0.0 logmatic.io
 0.0.0.0 lognormal.net
 0.0.0.0 logrocket.com
+0.0.0.0 logrocket.io
 0.0.0.0 logsss.com
 0.0.0.0 lookery.com
 0.0.0.0 loopfuse.net
@@ -1555,6 +1557,7 @@
 0.0.0.0 pclicks.com
 0.0.0.0 pcspeedup.com
 0.0.0.0 pdbu.net
+0.0.0.0 peep1alea.com
 0.0.0.0 peerius.com
 0.0.0.0 pega.com
 0.0.0.0 percentmobile.com
@@ -1736,6 +1739,7 @@
 0.0.0.0 retargetly.com
 0.0.0.0 retargettracker.com
 0.0.0.0 retentionscience.com
+0.0.0.0 rettica.com
 0.0.0.0 reussissonsensemble.fr
 0.0.0.0 revdn.net
 0.0.0.0 revenuepilot.com
@@ -2250,6 +2254,7 @@
 0.0.0.0 urlself.com
 0.0.0.0 usabilitytools.com
 0.0.0.0 usabilla.com
+0.0.0.0 useinsider.com
 0.0.0.0 useitbetter.com
 0.0.0.0 user-api.com
 0.0.0.0 user-clicks.com
@@ -4102,6 +4107,7 @@
 0.0.0.0 analytics.apnewsregistry.com
 0.0.0.0 analytics.artirix.com
 0.0.0.0 analytics.atomiconline.com
+0.0.0.0 analytics.audioeye.com
 0.0.0.0 analytics.avanser.com.au
 0.0.0.0 analytics.aweber.com
 0.0.0.0 analytics.bigcommerce.com
@@ -4489,6 +4495,7 @@
 0.0.0.0 etc.grab.com
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event.api.drift.com
+0.0.0.0 event.getblue.io
 0.0.0.0 event.loyalty.bigdoor.com
 0.0.0.0 event.previewnetworks.com
 0.0.0.0 event.trove.com
@@ -4732,6 +4739,7 @@
 0.0.0.0 pix.speedbit.com
 0.0.0.0 pixel-a.basis.net
 0.0.0.0 pixel-xpanama.netdna-ssl.com
+0.0.0.0 pixel.cdnwidget.com
 0.0.0.0 pixel.colorupmedia.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.fanbridge.com
@@ -5665,6 +5673,7 @@
 0.0.0.0 analytics.wetpaint.me
 0.0.0.0 analytics.whatculture.com
 0.0.0.0 analytics.yahoo.com
+0.0.0.0 analytics.zg-api.com
 0.0.0.0 analyze.yahooapis.com
 0.0.0.0 analyzer52.fc2.com
 0.0.0.0 anon-stats.eff.org
@@ -5779,6 +5788,7 @@
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 cpt.itv.com
 0.0.0.0 ct.buzzfeed.com
+0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 da.virginmedia.com
 0.0.0.0 data.mic.com
 0.0.0.0 data.ryanair.com
@@ -5831,6 +5841,7 @@
 0.0.0.0 frog.wix.com
 0.0.0.0 funn.graphiq.com
 0.0.0.0 g.deathandtaxesmag.com
+0.0.0.0 g.ign.com
 0.0.0.0 g.msn.com
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
@@ -6501,6 +6512,7 @@
 0.0.0.0 multicounter.de
 0.0.0.0 pap.zalando.de
 0.0.0.0 passul.t-online.de
+0.0.0.0 pi.technik3d.com
 0.0.0.0 pix.friendscout24.de
 0.0.0.0 pix.telekom.de
 0.0.0.0 pixel.1und1.de
