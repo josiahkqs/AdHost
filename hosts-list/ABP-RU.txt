@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Sun, 07 Apr 2019 02:35:02 +0800
+# Last converted - Wed, 10 Apr 2019 12:05:43 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -2028,7 +2028,6 @@
 0.0.0.0 66f2b8ffb015db.com
 0.0.0.0 674b06de9c3.com
 0.0.0.0 68af56a7f0.com
-0.0.0.0 68b2093240c2f9a.com
 0.0.0.0 691f9fd7bc.com
 0.0.0.0 69i.club
 0.0.0.0 69v.club
@@ -2657,6 +2656,7 @@
 0.0.0.0 biberukalap.com
 0.0.0.0 bid.run
 0.0.0.0 bidtraffic.ru
+0.0.0.0 big-karp.ru
 0.0.0.0 big-sovet.ru
 0.0.0.0 bigclick.me
 0.0.0.0 bigirum.ru
@@ -2971,6 +2971,7 @@
 0.0.0.0 clme.net
 0.0.0.0 clo.lv
 0.0.0.0 cloakac.com
+0.0.0.0 close7p.com
 0.0.0.0 cloud-tar.ru
 0.0.0.0 cloudsdns.net
 0.0.0.0 club-vulkano.com
@@ -3981,6 +3982,7 @@
 0.0.0.0 hugedi.com
 0.0.0.0 humanredirect.ru
 0.0.0.0 hundana.ru
+0.0.0.0 hunteryvely.com
 0.0.0.0 hupers.ru
 0.0.0.0 hushodo.com
 0.0.0.0 hvjudtzf.ru
@@ -5928,6 +5930,7 @@
 0.0.0.0 ryuosy.com
 0.0.0.0 rzhujam.com
 0.0.0.0 rzviy.com
+0.0.0.0 s-onetag.com
 0.0.0.0 s-www.ru
 0.0.0.0 s17365.org
 0.0.0.0 s1adult.com
@@ -7307,6 +7310,7 @@
 0.0.0.0 zxpxt.space
 0.0.0.0 zxrtn.com
 0.0.0.0 zyanechi.ru
+0.0.0.0 zyhi.info
 0.0.0.0 zz2017.ru
 0.0.0.0 укроп-петрушка-огурцы.рф
 0.0.0.0 eroox.ru
