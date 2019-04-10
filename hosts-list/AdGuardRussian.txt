@@ -1,9 +1,12 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 05 Apr 2019 02:58:47 +0800
+# Last converted - Wed, 10 Apr 2019 12:05:44 +0800
 #
 
+0.0.0.0 ceafdgcdfcheibdfabf.ru
+0.0.0.0 gapinubuso.com
+0.0.0.0 630e51faf9a53693.com
 0.0.0.0 zyf03k.xyz
 0.0.0.0 rzviy.com
 0.0.0.0 adbutton.net,empty
