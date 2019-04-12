@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Fri, 05 Apr 2019 02:58:47 +0800
+# Last converted - Fri, 12 Apr 2019 12:37:40 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -242,4 +242,5 @@
 0.0.0.0 purechat.com
 0.0.0.0 secure.livechatinc.com
 0.0.0.0 sge-chat.skorpik.ru
+0.0.0.0 widgets.coingecko.com
 0.0.0.0 informer.minfin.com.ua
