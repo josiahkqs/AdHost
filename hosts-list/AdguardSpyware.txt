@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Wed, 10 Apr 2019 12:05:44 +0800
+# Last converted - Fri, 12 Apr 2019 12:37:40 +0800
 #
 
 0.0.0.0 log-ird.outbrain.com
@@ -2934,6 +2934,7 @@
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
 0.0.0.0 squirrelhands.com
+0.0.0.0 unequalbrake.com
 0.0.0.0 unbecominghall.com
 0.0.0.0 attractivecap.com
 0.0.0.0 forecasttiger.com
