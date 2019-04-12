@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Wed, 10 Apr 2019 12:05:46 +0800
+# Last converted - Fri, 12 Apr 2019 12:37:43 +0800
 #
 
 0.0.0.0 0emm.com
@@ -3190,6 +3190,7 @@
 0.0.0.0 anormal-tracker.de
 0.0.0.0 atsfi.de
 0.0.0.0 audiencemanager.de
+0.0.0.0 audienzz.ch
 0.0.0.0 avencio.de
 0.0.0.0 backlink-test.de
 0.0.0.0 backlink-umsonst.de
@@ -6594,6 +6595,7 @@
 0.0.0.0 r.orange.fr
 0.0.0.0 sa.tf1.fr
 0.0.0.0 secure-stat.canal-plus.com
+0.0.0.0 stat.ouedkniss.com
 0.0.0.0 stat.webevolutis.com
 0.0.0.0 stats1x1.kapaza.be
 0.0.0.0 track.24heures.ch
@@ -6715,6 +6717,7 @@
 0.0.0.0 wl.jd.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 stat.novinky.cz
+0.0.0.0 analytics.rambla.be
 0.0.0.0 logs.ggweb.nl
 0.0.0.0 sat.sanoma.fi
 0.0.0.0 stats.fd.nl
