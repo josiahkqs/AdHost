@@ -1,9 +1,12 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Wed, 10 Apr 2019 12:05:28 +0800
+# Last converted - Fri, 12 Apr 2019 12:37:34 +0800
 #
 
+0.0.0.0 6ped2nd3yp.com
+0.0.0.0 kakayy.com
+0.0.0.0 sdjjr.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0082tv.net
 0.0.0.0 00880808.com
@@ -200,6 +203,7 @@
 0.0.0.0 52yugan.com
 0.0.0.0 52zfl.com
 0.0.0.0 5399.com
+0.0.0.0 550tg.com
 0.0.0.0 5535aibo.com
 0.0.0.0 55803.net
 0.0.0.0 565882.com
@@ -656,6 +660,7 @@
 0.0.0.0 dawwx.com
 0.0.0.0 dazhonghua.cn
 0.0.0.0 dbncp.com
+0.0.0.0 dbojetp.cn
 0.0.0.0 dcxmy.com
 0.0.0.0 dddddd.net
 0.0.0.0 ddhtek.com
@@ -971,6 +976,7 @@
 0.0.0.0 hyz86.com
 0.0.0.0 hz3137.com
 0.0.0.0 hzaibi.com
+0.0.0.0 hzmiyou.cn
 0.0.0.0 hzxma.com
 0.0.0.0 i.zhuoyaju.com
 0.0.0.0 i000o.com
@@ -1010,6 +1016,7 @@
 0.0.0.0 istreamsche.com
 0.0.0.0 italy-lottery.com
 0.0.0.0 itechwall.com
+0.0.0.0 itemccmod.com
 0.0.0.0 iuuff.com
 0.0.0.0 iwansf.com
 0.0.0.0 iyygzs.com
@@ -1098,6 +1105,7 @@
 0.0.0.0 jxwlkssb.com
 0.0.0.0 jxxiangchu.com
 0.0.0.0 jystea.com
+0.0.0.0 k12shequ.com
 0.0.0.0 k3851.com
 0.0.0.0 kaixinjiehun.com
 0.0.0.0 kawa11.space
@@ -1815,6 +1823,7 @@
 0.0.0.0 xcclzs.com
 0.0.0.0 xchgx.com
 0.0.0.0 xcjy876.com
+0.0.0.0 xcxzxc.cn
 0.0.0.0 xcy8.com
 0.0.0.0 xcycm.com
 0.0.0.0 xcyjzs.net
@@ -1871,6 +1880,7 @@
 0.0.0.0 xq12.com
 0.0.0.0 xq199.com
 0.0.0.0 xsu.cc
+0.0.0.0 xt2d.cn
 0.0.0.0 xtgreat.com
 0.0.0.0 xtianqi.com.cn
 0.0.0.0 xtxa.net
@@ -2004,6 +2014,7 @@
 0.0.0.0 zgczjw.com
 0.0.0.0 zgksb.com
 0.0.0.0 zgktxx.com
+0.0.0.0 zgrsq.cn
 0.0.0.0 zgunion.cn
 0.0.0.0 zgyemy.com
 0.0.0.0 zgyiyi.com
@@ -2544,6 +2555,7 @@
 0.0.0.0 a.bizhiku.net
 0.0.0.0 a.diaoyu.cn
 0.0.0.0 a.duanmeiwen.com
+0.0.0.0 a.duduji.com
 0.0.0.0 a.epinv.com
 0.0.0.0 a.exam58.com
 0.0.0.0 a.fengyx.com
@@ -3242,7 +3254,9 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
-0.0.0.0 bym03.cn
+0.0.0.0 tp74ym.cn
+0.0.0.0 m4ztka.cn
+0.0.0.0 1j2h31.cn
 0.0.0.0 0234408.cn
 0.0.0.0 03196688.com
 0.0.0.0 07kfh.cn
@@ -3279,6 +3293,7 @@
 0.0.0.0 6c4t5.cn
 0.0.0.0 6nzev.cn
 0.0.0.0 6yush.cn
+0.0.0.0 71mxc6.cn
 0.0.0.0 73cm.com
 0.0.0.0 7ez4.cn
 0.0.0.0 7ia9h.cn
@@ -3374,6 +3389,7 @@
 0.0.0.0 bueson.com
 0.0.0.0 bvoer.com
 0.0.0.0 bvosv.com
+0.0.0.0 bym03.cn
 0.0.0.0 byujf.cn
 0.0.0.0 c6z85.cn
 0.0.0.0 ca88b.cn
@@ -3495,6 +3511,7 @@
 0.0.0.0 e9emh.cn
 0.0.0.0 ediun.com
 0.0.0.0 edysn.cn
+0.0.0.0 egqiyw.com
 0.0.0.0 ehxyz.com
 0.0.0.0 ejiur.com
 0.0.0.0 ejwmc.cn
@@ -3751,6 +3768,7 @@
 0.0.0.0 jyhwt.cn
 0.0.0.0 jyjhkz.com
 0.0.0.0 jzntxs.com
+0.0.0.0 k859n.cn
 0.0.0.0 kafka8.com
 0.0.0.0 kbstyn.com
 0.0.0.0 kcenu.com
@@ -3772,6 +3790,7 @@
 0.0.0.0 kteyz.com
 0.0.0.0 ktzte.cn
 0.0.0.0 kuaituisss.com
+0.0.0.0 kuptmf.cn
 0.0.0.0 kwjkd.com
 0.0.0.0 kxhie.com
 0.0.0.0 kyxnz.cn
@@ -3831,6 +3850,7 @@
 0.0.0.0 mid5in.top
 0.0.0.0 miiuv.com
 0.0.0.0 mjita.cn
+0.0.0.0 mlion.cn
 0.0.0.0 mmhhjt.com
 0.0.0.0 mmkvi.com
 0.0.0.0 mmpuh.cn
@@ -3884,6 +3904,7 @@
 0.0.0.0 oomyv.com
 0.0.0.0 opqsr.com
 0.0.0.0 osaws.com
+0.0.0.0 osimym.com
 0.0.0.0 osndy.com
 0.0.0.0 ou15r.cn
 0.0.0.0 paochala.net
@@ -4083,6 +4104,7 @@
 0.0.0.0 vchim.com
 0.0.0.0 vchiy.com
 0.0.0.0 vcuor.com
+0.0.0.0 ve6j.cn
 0.0.0.0 vers80.com
 0.0.0.0 vf5yb4.cn
 0.0.0.0 vgaom.com
