@@ -1,7 +1,7 @@
 # xinggsf
 #
 # Converted from - https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
-# Last converted - Wed, 20 Mar 2019 10:23:30 +0800
+# Last converted - Mon, 15 Apr 2019 09:30:06 +0800
 #
 
 0.0.0.0 00oo00.com
@@ -70,10 +70,10 @@
 0.0.0.0 img16.diyifanwen.com
 0.0.0.0 yijiuningyia.gushiwen.org
 0.0.0.0 cgm.shicimingju.com
-0.0.0.0 afp.chinanews.com
-0.0.0.0 i8.chinanews.com
 0.0.0.0 orz.hupu.com
 0.0.0.0 33.pcpop.com
+0.0.0.0 afp.chinanews.com
+0.0.0.0 i8.chinanews.com
 0.0.0.0 pub.funshion.com
 0.0.0.0 synacast.com
 0.0.0.0 de.as.pptv.com
