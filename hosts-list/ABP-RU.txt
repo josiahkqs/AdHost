@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Fri, 12 Apr 2019 12:37:40 +0800
+# Last converted - Mon, 15 Apr 2019 09:30:01 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1183,6 +1183,7 @@
 0.0.0.0 erotraf.com
 0.0.0.0 esc-team.com
 0.0.0.0 evilfighter.ru
+0.0.0.0 ex.newsland.com
 0.0.0.0 exaccess.ru
 0.0.0.0 exo.kiev.ua
 0.0.0.0 expert-sib.ru
@@ -2215,6 +2216,7 @@
 0.0.0.0 admedia.link
 0.0.0.0 admel.ru
 0.0.0.0 admelon.ru
+0.0.0.0 admile.ru
 0.0.0.0 admilk.ru
 0.0.0.0 admitlead.ru
 0.0.0.0 admixercreatives.blob.core.windows.net
@@ -2538,7 +2540,6 @@
 0.0.0.0 b4q.ru
 0.0.0.0 b53484e55a9.com
 0.0.0.0 b65718899e.com
-0.0.0.0 b84da75135fc.com
 0.0.0.0 b8872cdad41.com
 0.0.0.0 babcohem.com
 0.0.0.0 babdgihecgaedbdfgg.ru
@@ -2746,6 +2747,7 @@
 0.0.0.0 brid.tv
 0.0.0.0 brightcobaltcolour.xyz
 0.0.0.0 brightilight.ru
+0.0.0.0 brilliantbc9.club
 0.0.0.0 brlxlpe8pmdgqv.ru
 0.0.0.0 brndrm.com
 0.0.0.0 broklam.com
@@ -2947,6 +2949,7 @@
 0.0.0.0 clctraffic.com
 0.0.0.0 cldappru.com
 0.0.0.0 cleanernow.info
+0.0.0.0 cleverjump.org
 0.0.0.0 clhko.top
 0.0.0.0 clickads.name
 0.0.0.0 clickcashmoney.com
@@ -5627,6 +5630,7 @@
 0.0.0.0 pushprofit.ru
 0.0.0.0 pustgovorjat.ru
 0.0.0.0 puttyac.com
+0.0.0.0 puwws.pro
 0.0.0.0 puzcd.top
 0.0.0.0 pvafh.com
 0.0.0.0 pvclouds.com
@@ -5919,6 +5923,7 @@
 0.0.0.0 ruunews.info
 0.0.0.0 rvzr-a.akamaihd.net
 0.0.0.0 rwhxz.space
+0.0.0.0 rx-tds.com
 0.0.0.0 rxjfh.com
 0.0.0.0 rxtbb.top
 0.0.0.0 rybkono.ru
@@ -6749,6 +6754,7 @@
 0.0.0.0 varinitconfique.ru
 0.0.0.0 various1down.biz
 0.0.0.0 varsloqt.name
+0.0.0.0 vast.videocdn.tv
 0.0.0.0 vatizon.com
 0.0.0.0 vbm2016.com
 0.0.0.0 vbmay16.com
@@ -7905,7 +7911,6 @@
 0.0.0.0 asr.dotua.org
 0.0.0.0 b.inbox.lv
 0.0.0.0 b.netall.ru
-0.0.0.0 b.nude-moon.com
 0.0.0.0 b.povarenok.ru
 0.0.0.0 balancervideo.ru
 0.0.0.0 banner.lbs.km.ru
