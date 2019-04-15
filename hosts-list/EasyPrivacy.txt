@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 12 Apr 2019 12:37:43 +0800
+# Last converted - Mon, 15 Apr 2019 09:30:04 +0800
 #
 
 0.0.0.0 0emm.com
@@ -13,6 +13,7 @@
 0.0.0.0 11nux.com
 0.0.0.0 123count.com
 0.0.0.0 149.13.65.144
+0.0.0.0 15gifts.com
 0.0.0.0 168logger.com
 0.0.0.0 195.10.245.55
 0.0.0.0 1freecounter.com
@@ -584,6 +585,7 @@
 0.0.0.0 csi-tracking.com
 0.0.0.0 ctnsnet.com
 0.0.0.0 cttracking02.com
+0.0.0.0 curalate.com
 0.0.0.0 customer.io
 0.0.0.0 customerconversio.com
 0.0.0.0 customerdiscoverytrack.com
@@ -845,7 +847,6 @@
 0.0.0.0 forkcdn.com
 0.0.0.0 formalyzer.com
 0.0.0.0 formisimo.com
-0.0.0.0 forter.com
 0.0.0.0 foundry42.com
 0.0.0.0 fout.jp
 0.0.0.0 fpctraffic2.com
@@ -1398,6 +1399,7 @@
 0.0.0.0 mysitetraffic.net
 0.0.0.0 mysocialpixel.com
 0.0.0.0 mytictac.com
+0.0.0.0 mytrack.pro
 0.0.0.0 myusersonline.com
 0.0.0.0 myvisualiq.net
 0.0.0.0 mywebstats.com.au
@@ -4097,6 +4099,7 @@
 0.0.0.0 analytic.xingcloud.com
 0.0.0.0 analyticapi.pho.fm
 0.0.0.0 analyticcdn.globalmailer.com
+0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-rhwg.rhcloud.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics-v2.anvato.com
@@ -4399,7 +4402,6 @@
 0.0.0.0 d2kmrmwhq7wkvs.cloudfront.net
 0.0.0.0 d2kyy9hvbrzkgn.cloudfront.net
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
-0.0.0.0 d2o5idwacg3gyw.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2pxb4n3f9klsc.cloudfront.net
@@ -5789,7 +5791,6 @@
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 cpt.itv.com
 0.0.0.0 ct.buzzfeed.com
-0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 da.virginmedia.com
 0.0.0.0 data.mic.com
 0.0.0.0 data.ryanair.com
