@@ -1,9 +1,14 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 12 Apr 2019 12:37:40 +0800
+# Last converted - Mon, 15 Apr 2019 09:30:01 +0800
 #
 
+0.0.0.0 clickiocdn.com
+0.0.0.0 xoor.ru
+0.0.0.0 5visions.com
+0.0.0.0 mypictures-onlinemaxpark.info
+0.0.0.0 dintronferow.ru
 0.0.0.0 jkhad.com
 0.0.0.0 ceafdgcdfcheibdfabf.ru
 0.0.0.0 gapinubuso.com
@@ -29,9 +34,11 @@
 0.0.0.0 0427d7.se
 0.0.0.0 0483bm4mlow8.xyz
 0.0.0.0 0664ic555p.com
+0.0.0.0 goldawm.xyz
 0.0.0.0 0816bvh.ru
 0.0.0.0 hpyue.com
 0.0.0.0 uektb.com
+0.0.0.0 mega-bc.info
 0.0.0.0 0916video.ru
 0.0.0.0 1000zakazov.ru
 0.0.0.0 1001noch.net
@@ -46,6 +53,7 @@
 0.0.0.0 1mint1.info
 0.0.0.0 1pop.ru
 0.0.0.0 1rtl.info
+0.0.0.0 newdomain.center
 0.0.0.0 1rtlfor.info
 0.0.0.0 1sputnik.ru
 0.0.0.0 1traf.com
@@ -53,6 +61,7 @@
 0.0.0.0 1traff.ru
 0.0.0.0 1txt.ru
 0.0.0.0 1under.ru
+0.0.0.0 lapatiya.info
 0.0.0.0 2.kaktakkk.ru
 0.0.0.0 20d625b48e.se
 0.0.0.0 24new.ru
