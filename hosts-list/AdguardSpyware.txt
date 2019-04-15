@@ -1,9 +1,10 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Fri, 12 Apr 2019 12:37:40 +0800
+# Last converted - Mon, 15 Apr 2019 09:30:01 +0800
 #
 
+0.0.0.0 logger.pw
 0.0.0.0 log-ird.outbrain.com
 0.0.0.0 sb.voicefive.com
 0.0.0.0 mrb.upapi.net
