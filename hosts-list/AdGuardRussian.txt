@@ -1,7 +1,7 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Mon, 15 Apr 2019 09:30:01 +0800
+# Last converted - Wed, 17 Apr 2019 03:13:49 +0800
 #
 
 0.0.0.0 clickiocdn.com
@@ -43,6 +43,7 @@
 0.0.0.0 1000zakazov.ru
 0.0.0.0 1001noch.net
 0.0.0.0 10cd.ru
+0.0.0.0 oderyuk.info
 0.0.0.0 10root25.website
 0.0.0.0 1177ea804fbd7d1430c4.date
 0.0.0.0 123fvd.com
@@ -51,6 +52,7 @@
 0.0.0.0 1cb4faaf56af2497ac01.date
 0.0.0.0 1invite.ru
 0.0.0.0 1mint1.info
+0.0.0.0 covivado.club
 0.0.0.0 1pop.ru
 0.0.0.0 1rtl.info
 0.0.0.0 newdomain.center
