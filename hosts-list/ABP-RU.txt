@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Mon, 15 Apr 2019 09:30:01 +0800
+# Last converted - Wed, 17 Apr 2019 03:13:48 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -8040,6 +8040,8 @@
 0.0.0.0 t.mail.ru
 0.0.0.0 banners.mail.ru
 0.0.0.0 showbiz.mail.ru
+0.0.0.0 palacesquare.rambler.ru
+0.0.0.0 paracesquare.rambler.ru
 0.0.0.0 vkbutton.com
 0.0.0.0 vkmus.com
 0.0.0.0 an.yandex.ru
