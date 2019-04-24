@@ -1,9 +1,13 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Wed, 17 Apr 2019 03:13:49 +0800
+# Last converted - Wed, 24 Apr 2019 17:27:55 +0800
 #
 
+0.0.0.0 gold-mir.com
+0.0.0.0 wp-tk.ru
+0.0.0.0 brilliantbc9.club
+0.0.0.0 ezcore.pro
 0.0.0.0 clickiocdn.com
 0.0.0.0 xoor.ru
 0.0.0.0 5visions.com
@@ -2826,7 +2830,6 @@
 0.0.0.0 techbeat.com
 0.0.0.0 techdomain01.ga
 0.0.0.0 technical-rtl.ru
-0.0.0.0 technogies.ru
 0.0.0.0 tedobe.com
 0.0.0.0 tedpasit.com
 0.0.0.0 tedverspar.com
@@ -3500,6 +3503,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 an.blogis.org
 0.0.0.0 987654321.kiev.ua
 0.0.0.0 action.evrikak.ru
 0.0.0.0 ad.4ertik.porn
@@ -3526,6 +3530,7 @@
 0.0.0.0 b.books555.com
 0.0.0.0 b.povarenok.ru
 0.0.0.0 b13.penzainform.ru
+0.0.0.0 banners.haqqin.az
 0.0.0.0 banners.prikol.ru
 0.0.0.0 banshop.gruntovik.ru
 0.0.0.0 bet.championat.com
