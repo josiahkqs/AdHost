@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Wed, 17 Apr 2019 03:13:48 +0800
+# Last converted - Wed, 24 Apr 2019 17:27:55 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -869,7 +869,6 @@
 0.0.0.0 tranzitsmi.ru
 0.0.0.0 trueblg.ru
 0.0.0.0 trutor.org.pl
-0.0.0.0 tuningkod.ru
 0.0.0.0 tvgoods.ru
 0.0.0.0 tvnotivi.ru
 0.0.0.0 u-load.ru
@@ -1618,6 +1617,7 @@
 0.0.0.0 smiar.ru
 0.0.0.0 smigid.ru
 0.0.0.0 smile32.ru
+0.0.0.0 sminewsnet.ru
 0.0.0.0 smsconvertv3.ru
 0.0.0.0 smsvcash.ru
 0.0.0.0 snyviza.ru
@@ -1630,6 +1630,7 @@
 0.0.0.0 sponsor.gazeta.ru
 0.0.0.0 sport-fitnes.ru
 0.0.0.0 sportoboz.ru
+0.0.0.0 sprosivracha.com
 0.0.0.0 sputnik1.ru
 0.0.0.0 spynigeria.com
 0.0.0.0 spytrack.tic.ru
@@ -2022,6 +2023,7 @@
 0.0.0.0 62.109.18.206
 0.0.0.0 62.210.94.26
 0.0.0.0 6287a14fb6205e46df99.date
+0.0.0.0 630e51faf9a53693.com
 0.0.0.0 638f97c8f2d.com
 0.0.0.0 643b1a992699355.com
 0.0.0.0 665d869f093dc.com
@@ -2186,6 +2188,7 @@
 0.0.0.0 adblender.ru
 0.0.0.0 adbob.ru
 0.0.0.0 adbobs.com
+0.0.0.0 adbutton.net
 0.0.0.0 adcamp.ru
 0.0.0.0 adcountry.net
 0.0.0.0 adddpc01.ru
@@ -3349,6 +3352,7 @@
 0.0.0.0 dyzha.com
 0.0.0.0 dz01rk.com
 0.0.0.0 dzizsih.ru
+0.0.0.0 dznhe.com
 0.0.0.0 e-leads.ru
 0.0.0.0 e-publick.info
 0.0.0.0 e1221f6466a.com
@@ -3442,6 +3446,7 @@
 0.0.0.0 enorkear.ru
 0.0.0.0 enrecte.com
 0.0.0.0 ensepare.com
+0.0.0.0 ensurania.com
 0.0.0.0 entimee.com
 0.0.0.0 entovoc.ru
 0.0.0.0 enwitle.com
@@ -3867,6 +3872,7 @@
 0.0.0.0 grteab.com
 0.0.0.0 gruntok.ru
 0.0.0.0 grupoli.ru
+0.0.0.0 gsasd.info
 0.0.0.0 gsd.com.ua
 0.0.0.0 gsnnx.top
 0.0.0.0 gtcrm.top
@@ -4429,6 +4435,7 @@
 0.0.0.0 kshop.biz
 0.0.0.0 kshop2.biz
 0.0.0.0 ktozabanittotkirkorov.ru
+0.0.0.0 ktyog.com
 0.0.0.0 kurberi.ru
 0.0.0.0 kuretr.ru
 0.0.0.0 kuseless.ru
@@ -4606,7 +4613,6 @@
 0.0.0.0 lmcuba.us
 0.0.0.0 lnico.ru
 0.0.0.0 loader-tor.ru
-0.0.0.0 loadercdn.com
 0.0.0.0 loaderr.ru
 0.0.0.0 locallchicks-here.com
 0.0.0.0 locandito.com
@@ -4643,6 +4649,7 @@
 0.0.0.0 lp1block.com
 0.0.0.0 lptiu.top
 0.0.0.0 lpwre.top
+0.0.0.0 lqhto.com
 0.0.0.0 lresoza.ru
 0.0.0.0 lrfjz.top
 0.0.0.0 lriver.ru
@@ -5744,7 +5751,6 @@
 0.0.0.0 redfikedug.ru
 0.0.0.0 redichat.com
 0.0.0.0 redirrtosite.com
-0.0.0.0 redsquare.rambler.ru
 0.0.0.0 ree1qrtnove.online
 0.0.0.0 ree56vxln.tech
 0.0.0.0 refpa.top
@@ -5846,6 +5852,7 @@
 0.0.0.0 rontar.com
 0.0.0.0 rontar.ru
 0.0.0.0 roofsing.com
+0.0.0.0 rootclick.biz
 0.0.0.0 rootinmyhead.ru
 0.0.0.0 rootmedia.cc
 0.0.0.0 rootmedia.ws
@@ -7287,7 +7294,6 @@
 0.0.0.0 zm01qttrnqt0.com
 0.0.0.0 zm05qst0.pro
 0.0.0.0 zmctrack.com
-0.0.0.0 zmctrack.net
 0.0.0.0 zmu1qq.site
 0.0.0.0 zmu1ust0.com
 0.0.0.0 zmu1ust0.top
@@ -7376,6 +7382,7 @@
 0.0.0.0 24-rus.info
 0.0.0.0 24onlinesmi.net
 0.0.0.0 24reporter.ru
+0.0.0.0 a-dot-kinozal-tv.appspot.com
 0.0.0.0 academyun.ru
 0.0.0.0 act-news.com
 0.0.0.0 adiabetic.ru
@@ -7567,6 +7574,8 @@
 0.0.0.0 kick.media
 0.0.0.0 kindblogs.com
 0.0.0.0 kinemathek.ru
+0.0.0.0 kinozal-me.appspot.com
+0.0.0.0 kinozal-tv.appspot.com
 0.0.0.0 kotofotto.ru
 0.0.0.0 krasota-zdorovie.com
 0.0.0.0 krutor.eu.org
@@ -7847,7 +7856,6 @@
 0.0.0.0 trtkp.ru
 0.0.0.0 trueblg.ru
 0.0.0.0 trutor.org.pl
-0.0.0.0 tuningkod.ru
 0.0.0.0 tvgoods.ru
 0.0.0.0 tvnotivi.ru
 0.0.0.0 u-load.ru
@@ -7894,6 +7902,7 @@
 0.0.0.0 zqwjpxow7boc.ru
 0.0.0.0 живи-просто.рф
 0.0.0.0 17reg.ru
+0.0.0.0 1bshop.ru
 0.0.0.0 1plus1tv.tv
 0.0.0.0 2d.windows-8.ru
 0.0.0.0 a.meteonova.ru
@@ -8040,8 +8049,6 @@
 0.0.0.0 t.mail.ru
 0.0.0.0 banners.mail.ru
 0.0.0.0 showbiz.mail.ru
-0.0.0.0 palacesquare.rambler.ru
-0.0.0.0 paracesquare.rambler.ru
 0.0.0.0 vkbutton.com
 0.0.0.0 vkmus.com
 0.0.0.0 an.yandex.ru
