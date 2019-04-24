@@ -1,7 +1,7 @@
 # xinggsf
 #
 # Converted from - https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
-# Last converted - Mon, 15 Apr 2019 09:30:06 +0800
+# Last converted - Wed, 24 Apr 2019 17:28:00 +0800
 #
 
 0.0.0.0 00oo00.com
@@ -66,6 +66,7 @@
 0.0.0.0 zhudiaosz.com
 0.0.0.0 zzbaowen.com
 0.0.0.0 gonggao.js
+0.0.0.0 img0.pcgames.com.cn
 0.0.0.0 bxwx9.org
 0.0.0.0 img16.diyifanwen.com
 0.0.0.0 yijiuningyia.gushiwen.org
@@ -263,7 +264,6 @@
 0.0.0.0 images.chinaz.com
 0.0.0.0 img.libdd.com
 0.0.0.0 img.uu1001.cn
-0.0.0.0 img0.pcgames.com.cn
 0.0.0.0 innity.net
 0.0.0.0 insenz.com
 0.0.0.0 instreet.cn
@@ -314,7 +314,6 @@
 0.0.0.0 ooss.oss.aliyuncs.com
 0.0.0.0 optaim.com
 0.0.0.0 p.inte.sogou.com
-0.0.0.0 p.zol.com.cn
 0.0.0.0 pagechoice.com
 0.0.0.0 pagechoice.net
 0.0.0.0 pangu.cc
