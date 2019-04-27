@@ -1,9 +1,11 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Wed, 24 Apr 2019 17:27:55 +0800
+# Last converted - Sun, 28 Apr 2019 00:57:07 +0800
 #
 
+0.0.0.0 tertmateruse.ru
+0.0.0.0 wsvay.com
 0.0.0.0 gold-mir.com
 0.0.0.0 wp-tk.ru
 0.0.0.0 brilliantbc9.club
