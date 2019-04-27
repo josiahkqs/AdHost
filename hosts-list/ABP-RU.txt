@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Wed, 24 Apr 2019 17:27:55 +0800
+# Last converted - Sun, 28 Apr 2019 00:57:07 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1880,6 +1880,7 @@
 0.0.0.0 1c1586768bf.com
 0.0.0.0 1commru.ru
 0.0.0.0 1dd2bb637fce.com
+0.0.0.0 1dmp.io
 0.0.0.0 1dr17vk3xnm.space
 0.0.0.0 1e6219e7c48b81a106ed.date
 0.0.0.0 1f5ba9b001ff69816dd1.date
@@ -3274,6 +3275,7 @@
 0.0.0.0 dlyaoblivok.ru
 0.0.0.0 dlyatizera.ru
 0.0.0.0 dmn2light.com
+0.0.0.0 dmnlight.com
 0.0.0.0 dmoid.top
 0.0.0.0 dmxxa.com
 0.0.0.0 dnenitsa.info
@@ -4236,6 +4238,7 @@
 0.0.0.0 jmk1uttboek0.pro
 0.0.0.0 jmk56rtfove.info
 0.0.0.0 jmk5uut.info
+0.0.0.0 jmu1eqxppr.space
 0.0.0.0 jmu5qvx.com
 0.0.0.0 jmu5qvx.info
 0.0.0.0 jnu16azvozz0.pro
@@ -6230,6 +6233,7 @@
 0.0.0.0 stattorrext.ru
 0.0.0.0 stayeda.com
 0.0.0.0 stb.eat.int.ru
+0.0.0.0 steadfastsystem.com
 0.0.0.0 steamac.com
 0.0.0.0 stf779.ru
 0.0.0.0 stiedemann.biz
@@ -7294,6 +7298,7 @@
 0.0.0.0 zm01qttrnqt0.com
 0.0.0.0 zm05qst0.pro
 0.0.0.0 zmctrack.com
+0.0.0.0 zmctrack.net
 0.0.0.0 zmu1qq.site
 0.0.0.0 zmu1ust0.com
 0.0.0.0 zmu1ust0.top
