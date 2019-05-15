@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Sun, 28 Apr 2019 00:57:07 +0800
+# Last converted - Wed, 15 May 2019 11:02:26 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1084,6 +1084,7 @@
 0.0.0.0 bigbord.net
 0.0.0.0 bistr4.ru
 0.0.0.0 bit.ly
+0.0.0.0 bither.one
 0.0.0.0 bizua.com
 0.0.0.0 blocklistme.ru
 0.0.0.0 blogun.ru
@@ -1184,6 +1185,7 @@
 0.0.0.0 evilfighter.ru
 0.0.0.0 ex.newsland.com
 0.0.0.0 exaccess.ru
+0.0.0.0 exchange.informer.ua
 0.0.0.0 exo.kiev.ua
 0.0.0.0 expert-sib.ru
 0.0.0.0 exteriormedia.ru
@@ -2184,6 +2186,7 @@
 0.0.0.0 ad1game.ru
 0.0.0.0 ad4sell.com
 0.0.0.0 adbean.ru
+0.0.0.0 adbid.biz
 0.0.0.0 adbix.tv
 0.0.0.0 adblade.com
 0.0.0.0 adblender.ru
@@ -2484,6 +2487,7 @@
 0.0.0.0 asuler.ru
 0.0.0.0 asvuvox.ru
 0.0.0.0 atavas.ru
+0.0.0.0 aterroppop.com
 0.0.0.0 ati30re4.ru
 0.0.0.0 atiredduck.com
 0.0.0.0 atiredduck.xyz
@@ -2605,6 +2609,7 @@
 0.0.0.0 bc-news.ru
 0.0.0.0 bc22addf47.com
 0.0.0.0 bce924fa02fa.ru
+0.0.0.0 bcprn.club
 0.0.0.0 bcre002.me
 0.0.0.0 bd01qz3lnqt0.pro
 0.0.0.0 bd09ertjo.tech
@@ -2739,6 +2744,7 @@
 0.0.0.0 bpyxg.com
 0.0.0.0 brandarium.ru
 0.0.0.0 bratuxaborcuxa.ru
+0.0.0.0 braun634.com
 0.0.0.0 braviration.ru
 0.0.0.0 bravo-lea.com
 0.0.0.0 bravo-mejdu.ru
@@ -3064,6 +3070,7 @@
 0.0.0.0 cpagetti.com
 0.0.0.0 cpagettio.com
 0.0.0.0 cpaggetti.com
+0.0.0.0 cpamedia.info
 0.0.0.0 cpiyz.com
 0.0.0.0 cppgf.com
 0.0.0.0 cpvsoler.com
@@ -3987,6 +3994,7 @@
 0.0.0.0 howrinwassed.ru
 0.0.0.0 hpcyk.com
 0.0.0.0 hpkgqhmp.biz
+0.0.0.0 hpyue.com
 0.0.0.0 hromasoma.com
 0.0.0.0 hstraffa.com
 0.0.0.0 huel.biz
@@ -4974,6 +4982,7 @@
 0.0.0.0 mrtok.ru
 0.0.0.0 mscictkarueuw.ru
 0.0.0.0 mscimg.com
+0.0.0.0 msk-realtor.ru
 0.0.0.0 msrv.su
 0.0.0.0 msyftmtgjf.biz
 0.0.0.0 mt-data.ru
@@ -5056,6 +5065,8 @@
 0.0.0.0 naruhap.pro
 0.0.0.0 nasdfg.com
 0.0.0.0 nasledstvo.int.ru
+0.0.0.0 nastroyka.club
+0.0.0.0 nastroyka.site
 0.0.0.0 nathetsof.com
 0.0.0.0 nativebro.com
 0.0.0.0 nativevideo.ru
@@ -7954,6 +7965,7 @@
 0.0.0.0 f.mega-porno.tv
 0.0.0.0 fastpicc.ru
 0.0.0.0 fcdesna.3dn.ru
+0.0.0.0 finlit.online
 0.0.0.0 foreign.dt00.net
 0.0.0.0 forum.adult-torrent.com
 0.0.0.0 fotooplata.ru
@@ -8001,6 +8013,7 @@
 0.0.0.0 pojrem.ru
 0.0.0.0 popup.relinka.net
 0.0.0.0 pornreactor.cc
+0.0.0.0 pravo.studio
 0.0.0.0 programmersforum.ru
 0.0.0.0 projectbase.ru
 0.0.0.0 prom.x-lime.net
@@ -8033,7 +8046,9 @@
 0.0.0.0 sysadmins.ru
 0.0.0.0 tapochek.net
 0.0.0.0 tapochek.net
+0.0.0.0 textbooks.studio
 0.0.0.0 topblock.lentainform.com
+0.0.0.0 uchebniki-besplatno.com
 0.0.0.0 v.tranzistor-harakteristiki.ru
 0.0.0.0 videodom.net
 0.0.0.0 vsatke.ru
