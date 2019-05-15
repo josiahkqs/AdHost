@@ -1,7 +1,7 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sun, 28 Apr 2019 00:57:07 +0800
+# Last converted - Wed, 15 May 2019 11:02:27 +0800
 #
 
 0.0.0.0 tertmateruse.ru
@@ -2323,7 +2323,6 @@
 0.0.0.0 prolinker.ru
 0.0.0.0 promenadd.ru
 0.0.0.0 promo-banner.ru
-0.0.0.0 promo-bc.com
 0.0.0.0 promo.md
 0.0.0.0 promo.partner.alawar.ru
 0.0.0.0 promo.rzonline.ru
@@ -3505,6 +3504,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 stat.moonwalk.co
 0.0.0.0 an.blogis.org
 0.0.0.0 987654321.kiev.ua
 0.0.0.0 action.evrikak.ru
