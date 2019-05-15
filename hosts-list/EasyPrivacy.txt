@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sun, 28 Apr 2019 00:57:09 +0800
+# Last converted - Wed, 15 May 2019 11:02:30 +0800
 #
 
 0.0.0.0 0emm.com
@@ -513,6 +513,7 @@
 0.0.0.0 cognitivematch.com
 0.0.0.0 collarity.com
 0.0.0.0 collserve.com
+0.0.0.0 colossusssp.com
 0.0.0.0 commander1.com
 0.0.0.0 company-target.com
 0.0.0.0 compteur.cc
@@ -631,6 +632,7 @@
 0.0.0.0 dejavu.mlapps.com
 0.0.0.0 demandbase.com
 0.0.0.0 demdex.net
+0.0.0.0 departapp.com
 0.0.0.0 deqwas.net
 0.0.0.0 devatics.com
 0.0.0.0 device9.com
@@ -720,6 +722,7 @@
 0.0.0.0 emediatrack.com
 0.0.0.0 emjcd.com
 0.0.0.0 emltrk.com
+0.0.0.0 emxdgt.com
 0.0.0.0 enecto.com
 0.0.0.0 enectoanalytics.com
 0.0.0.0 engageclick.com
@@ -879,7 +882,9 @@
 0.0.0.0 freshplum.com
 0.0.0.0 friendbuy.com
 0.0.0.0 fruitflan.com
+0.0.0.0 fsd2.digital
 0.0.0.0 fshka.com
+0.0.0.0 fstrk.net
 0.0.0.0 ftbpro.com
 0.0.0.0 fueldeck.com
 0.0.0.0 fugetech.com
@@ -1286,6 +1291,7 @@
 0.0.0.0 marketizator.com
 0.0.0.0 marketo.com
 0.0.0.0 marketo.net
+0.0.0.0 marketperf.com
 0.0.0.0 marketshot.com
 0.0.0.0 marketshot.fr
 0.0.0.0 maropost.com
@@ -1782,6 +1788,7 @@
 0.0.0.0 roivista.com
 0.0.0.0 rollingcounters.com
 0.0.0.0 roosterfirework.com
+0.0.0.0 rp-rep.net
 0.0.0.0 rpdtrk.com
 0.0.0.0 rqtrk.eu
 0.0.0.0 rrimpl.com
@@ -1885,6 +1892,7 @@
 0.0.0.0 silverpop.com
 0.0.0.0 silverpush.co
 0.0.0.0 simility.com
+0.0.0.0 simonsignal.com
 0.0.0.0 simpleanalytics.io
 0.0.0.0 simpleheatmaps.com
 0.0.0.0 simplehitcounter.com
@@ -1945,6 +1953,7 @@
 0.0.0.0 socialtrack.net
 0.0.0.0 sociaplus.com
 0.0.0.0 socketanalytics.com
+0.0.0.0 socketviking.net
 0.0.0.0 sodoit.com
 0.0.0.0 soflopxl.com
 0.0.0.0 softonic-analytics.net
@@ -2032,7 +2041,6 @@
 0.0.0.0 storygize.net
 0.0.0.0 streamsend.com
 0.0.0.0 streem.com.au
-0.0.0.0 stripe.network
 0.0.0.0 stripedcollar.net
 0.0.0.0 stroeerdigitalmedia.de
 0.0.0.0 strossle.it
@@ -2349,6 +2357,7 @@
 0.0.0.0 waplog.net
 0.0.0.0 waudit.cz
 0.0.0.0 waust.at
+0.0.0.0 wbdx.fr
 0.0.0.0 wbtrk.net
 0.0.0.0 web-boosting.net
 0.0.0.0 web-counter.net
@@ -3325,6 +3334,7 @@
 0.0.0.0 ipcounter.net
 0.0.0.0 iptrack.biz
 0.0.0.0 iyi.net
+0.0.0.0 kctag.net
 0.0.0.0 keytrack.de
 0.0.0.0 klamm-counter.de
 0.0.0.0 kono-research.de
@@ -4005,6 +4015,7 @@
 0.0.0.0 idot.cz
 0.0.0.0 pocitadlo.sk
 0.0.0.0 toplist.sk
+0.0.0.0 botize.com
 0.0.0.0 ccrtvi.com
 0.0.0.0 certifica.com
 0.0.0.0 contadordevisitas.es
@@ -4509,6 +4520,7 @@
 0.0.0.0 event.loyalty.bigdoor.com
 0.0.0.0 event.previewnetworks.com
 0.0.0.0 event.trove.com
+0.0.0.0 eventapi.libring.com
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 eventlog.inspsearch.com
 0.0.0.0 eventlog.inspsearchapi.com
@@ -5835,6 +5847,7 @@
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 eventlogger.soundcloud.com
+0.0.0.0 events.godaddy.com
 0.0.0.0 events.jora.com
 0.0.0.0 events.privy.com
 0.0.0.0 events.reddit.com
@@ -5931,6 +5944,7 @@
 0.0.0.0 log.data.disney.com
 0.0.0.0 log.deutschegrammophon.com
 0.0.0.0 log.go.com
+0.0.0.0 log.hypebeast.com
 0.0.0.0 log.mappy.net
 0.0.0.0 log.newsvine.com
 0.0.0.0 log.optimizely.com
@@ -6016,6 +6030,7 @@
 0.0.0.0 omniture.theglobeandmail.com
 0.0.0.0 open.mkt1397.com
 0.0.0.0 ophan.guardian.co.uk
+0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 origin-tracking.trulia.com
 0.0.0.0 origin.chron.com
@@ -6236,6 +6251,7 @@
 0.0.0.0 stat.alibaba.com
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.kbs.co.kr
+0.0.0.0 stat.pubhtml5.com
 0.0.0.0 stat.ruvr.ru
 0.0.0.0 stat.torrentbar.com
 0.0.0.0 stat.xhamsterpremium.com
@@ -6747,6 +6763,7 @@
 0.0.0.0 analytics.traderlink.com
 0.0.0.0 as.payback.it
 0.0.0.0 click.tv.repubblica.it
+0.0.0.0 compare.easyviaggio.com
 0.0.0.0 emng.libero.it
 0.0.0.0 g.techweekeurope.it
 0.0.0.0 livestats.la7.tv
@@ -6840,6 +6857,7 @@
 0.0.0.0 analytics.redlink.com.ar
 0.0.0.0 audiencies.ccma.cat
 0.0.0.0 coletor.terra.com
+0.0.0.0 compare.easyviajar.com
 0.0.0.0 estadisticas.lanacion.com.ar
 0.0.0.0 estadonline.publiguias.cl
 0.0.0.0 g.siliconweek.es
