@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Wed, 15 May 2019 11:02:24 +0800
+# Last converted - Thu, 23 May 2019 20:17:52 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -176,6 +176,7 @@
 0.0.0.0 45.34.240.72
 0.0.0.0 456juhd.com
 0.0.0.0 46cq.cn
+0.0.0.0 47.100.0.249
 0.0.0.0 47.90.50.177
 0.0.0.0 4936.cn
 0.0.0.0 49ko.com
@@ -277,6 +278,7 @@
 0.0.0.0 813690.top
 0.0.0.0 81c.cn
 0.0.0.0 825145.com
+0.0.0.0 827649.com
 0.0.0.0 8368661.com
 0.0.0.0 8521448.com
 0.0.0.0 857yx.com
@@ -481,6 +483,7 @@
 0.0.0.0 bangbang521.com
 0.0.0.0 baodaozhan.cn
 0.0.0.0 baolic.com
+0.0.0.0 bazhigu.com
 0.0.0.0 bccyyc.com
 0.0.0.0 bdpuaw.com
 0.0.0.0 bdtongfei.cn
@@ -633,6 +636,7 @@
 0.0.0.0 cs.37see.com
 0.0.0.0 csad.cc
 0.0.0.0 csbew.com
+0.0.0.0 csbthyhh.com
 0.0.0.0 csgtfruit.com
 0.0.0.0 csqiulong.com
 0.0.0.0 cssdiv.club
@@ -838,6 +842,7 @@
 0.0.0.0 gangtiebang.net
 0.0.0.0 gansha.co
 0.0.0.0 gaoxiaocup.com
+0.0.0.0 garacy.cn
 0.0.0.0 gasxf.com
 0.0.0.0 gclick.cn
 0.0.0.0 gdbly.com
@@ -888,6 +893,7 @@
 0.0.0.0 gugulonger.cn
 0.0.0.0 guidashu.com
 0.0.0.0 guoshennet.com
+0.0.0.0 gw069.com
 0.0.0.0 gwylm.com
 0.0.0.0 gxejgs.com
 0.0.0.0 gydag.com
@@ -963,6 +969,7 @@
 0.0.0.0 hqygz.com
 0.0.0.0 hr41.cn
 0.0.0.0 hr44.com
+0.0.0.0 hrcmzp.cn
 0.0.0.0 hskj.net
 0.0.0.0 hslyqs.com
 0.0.0.0 hsmkj.net
@@ -1078,6 +1085,7 @@
 0.0.0.0 jk939.com
 0.0.0.0 jkjjkj.top
 0.0.0.0 jkmxy.com
+0.0.0.0 jktopia.com
 0.0.0.0 jl027.com
 0.0.0.0 jlssbz.com
 0.0.0.0 jnrsjm.com
@@ -1288,6 +1296,7 @@
 0.0.0.0 motohelpr.com
 0.0.0.0 moutaihotel.cn
 0.0.0.0 mozist.com
+0.0.0.0 mr087.cn
 0.0.0.0 mrksys.com
 0.0.0.0 ms758.com
 0.0.0.0 mscimg.com
@@ -1466,6 +1475,7 @@
 0.0.0.0 qzkxt.com
 0.0.0.0 qzzljx.com
 0.0.0.0 r5g.cc
+0.0.0.0 rainfinemalawi.com
 0.0.0.0 rangeblessedness.men
 0.0.0.0 raonie.com
 0.0.0.0 rayli.com.cn
@@ -1514,6 +1524,7 @@
 0.0.0.0 sdhzstone.net
 0.0.0.0 sdjjr.com
 0.0.0.0 sdqoi2d.com
+0.0.0.0 sdtbhbyb.com
 0.0.0.0 sdxkdj.cn
 0.0.0.0 sdycd.com
 0.0.0.0 seaxm.com
@@ -1745,6 +1756,7 @@
 0.0.0.0 v.center
 0.0.0.0 v.xi666.com
 0.0.0.0 v707070.com
+0.0.0.0 va88p.cn
 0.0.0.0 vamaker.com
 0.0.0.0 vboo349.com
 0.0.0.0 vbtrax.com
@@ -1962,6 +1974,7 @@
 0.0.0.0 yinyuehu.cn
 0.0.0.0 yiqifa.com
 0.0.0.0 yiqiv.com
+0.0.0.0 yiran686.cn
 0.0.0.0 yiranxian.cn
 0.0.0.0 yishuifa.org
 0.0.0.0 yiwad.com
@@ -2045,6 +2058,7 @@
 0.0.0.0 zhaibei112.top
 0.0.0.0 zhandi.cc
 0.0.0.0 zhao258.com
+0.0.0.0 zhenhun.co
 0.0.0.0 zhfosenghtr.com
 0.0.0.0 zhichi08.com
 0.0.0.0 zhihei.com
@@ -2627,6 +2641,7 @@
 0.0.0.0 a1.firstgw.com
 0.0.0.0 a1.gexing.me
 0.0.0.0 a1.juzih.com
+0.0.0.0 a1.lshou.com
 0.0.0.0 a1.mingyihui.net
 0.0.0.0 a1.qqjay.com
 0.0.0.0 a1.qqtn.com
@@ -2717,6 +2732,7 @@
 0.0.0.0 bdjs.guangyuanol.cn
 0.0.0.0 bdjs.ixiumei.com
 0.0.0.0 bdjs.kaixin100.com
+0.0.0.0 bdjs.uimg.cn
 0.0.0.0 bdjs.ylq.com
 0.0.0.0 bdlmggcs1.familydoctor.com.cn
 0.0.0.0 bdm.911cha.com
@@ -3183,6 +3199,7 @@
 0.0.0.0 210189.com
 0.0.0.0 258pct.com
 0.0.0.0 258ydh.com
+0.0.0.0 265958.com
 0.0.0.0 2pmob.com
 0.0.0.0 360shopping.com.cn
 0.0.0.0 60608787.com
@@ -3216,11 +3233,13 @@
 0.0.0.0 gotourls.bid
 0.0.0.0 guangtui1999.com
 0.0.0.0 gzhctryy.com
+0.0.0.0 gzmsm.cn
 0.0.0.0 h01ce.cn
 0.0.0.0 harbinbaojia.net
 0.0.0.0 hdjxmf.com
 0.0.0.0 hechaocheng.cn
 0.0.0.0 henanfs.com
+0.0.0.0 hfxs01il.com
 0.0.0.0 hgo7r.cn
 0.0.0.0 hulemedia.com
 0.0.0.0 ip.hivps.xyz
@@ -3258,6 +3277,7 @@
 0.0.0.0 tkssw.com
 0.0.0.0 uux79.com
 0.0.0.0 wangketuan.com
+0.0.0.0 weduoke.com
 0.0.0.0 weekslw.com
 0.0.0.0 weixingshexiangji.net
 0.0.0.0 wjdjcjcm444.cn
@@ -3288,6 +3308,7 @@
 0.0.0.0 s1-a1.dnvod.tv
 0.0.0.0 s1-a2.dnvod.tv
 0.0.0.0 s1-a3.dnvod.tv
+0.0.0.0 stunninglover.com
 0.0.0.0 aa1.ifeng.com
 0.0.0.0 ae4.ifeng.com
 0.0.0.0 as.g5s.ifeng.com
@@ -3296,15 +3317,16 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
-0.0.0.0 kueofwt.cn
-0.0.0.0 0b6h.cn
+0.0.0.0 c82d5.cn
 0.0.0.0 0234408.cn
 0.0.0.0 03196688.com
 0.0.0.0 0532ci.com.cn
 0.0.0.0 0551zgz.com
 0.0.0.0 07kfh.cn
 0.0.0.0 0851ok.com
+0.0.0.0 0b6h.cn
 0.0.0.0 0fwg.cn
+0.0.0.0 0n6h.cn
 0.0.0.0 0ozo.cn
 0.0.0.0 0z5jn.cn
 0.0.0.0 114com.cc
@@ -3312,6 +3334,7 @@
 0.0.0.0 119cgpt.com
 0.0.0.0 12381236.com
 0.0.0.0 12jf3.cn
+0.0.0.0 17zheng.cn
 0.0.0.0 1j2h31.cn
 0.0.0.0 1mb034.cn
 0.0.0.0 1x26q3.cn
@@ -3319,6 +3342,7 @@
 0.0.0.0 23txt.com
 0.0.0.0 24haitao.net
 0.0.0.0 282l1.cn
+0.0.0.0 28mcw1.cn
 0.0.0.0 2fnrc.cn
 0.0.0.0 2r3485.cn
 0.0.0.0 2scjbg.com
@@ -3334,6 +3358,7 @@
 0.0.0.0 4ekx.cn
 0.0.0.0 4z5o27.cn
 0.0.0.0 51gpt.com
+0.0.0.0 51posuiji.org.cn
 0.0.0.0 52tushuo.com
 0.0.0.0 58scx.com
 0.0.0.0 58xmgys.com
@@ -3348,9 +3373,11 @@
 0.0.0.0 6c4t5.cn
 0.0.0.0 6fai2.cn
 0.0.0.0 6nzev.cn
+0.0.0.0 6o87d.cn
 0.0.0.0 6yush.cn
 0.0.0.0 71mxc6.cn
 0.0.0.0 73cm.com
+0.0.0.0 757g7g.cn
 0.0.0.0 7ez4.cn
 0.0.0.0 7ia9h.cn
 0.0.0.0 7n3e8o.com
@@ -3496,6 +3523,7 @@
 0.0.0.0 chfuw.com
 0.0.0.0 chgdf.cn
 0.0.0.0 chinaqirun.cn
+0.0.0.0 chuangxinfa.cn
 0.0.0.0 cike666.com
 0.0.0.0 cindy17club.com
 0.0.0.0 city009.com
@@ -3572,6 +3600,7 @@
 0.0.0.0 dkdlsj.com
 0.0.0.0 dldsrs.com
 0.0.0.0 dlouf.com
+0.0.0.0 dmpsj.cn
 0.0.0.0 dn189.com
 0.0.0.0 dnfeu.com
 0.0.0.0 doryhome.com
@@ -3588,6 +3617,7 @@
 0.0.0.0 dzisou.com
 0.0.0.0 e647ob.cn
 0.0.0.0 e9emh.cn
+0.0.0.0 ecuwa.cn
 0.0.0.0 ediun.com
 0.0.0.0 edysn.cn
 0.0.0.0 egqiyw.com
@@ -3649,6 +3679,7 @@
 0.0.0.0 fx6j3.cn
 0.0.0.0 fxfhjs.com
 0.0.0.0 fxunn.com
+0.0.0.0 fy4zb.cn
 0.0.0.0 fyjyhm.com
 0.0.0.0 fzdfwy.com
 0.0.0.0 fzxrjx.com
@@ -3684,6 +3715,7 @@
 0.0.0.0 gmxyorg.cn
 0.0.0.0 gnmbd.top
 0.0.0.0 gobali.cn
+0.0.0.0 googlespider1.cn
 0.0.0.0 goulanmeng.cn
 0.0.0.0 gtaih.com
 0.0.0.0 gtchong.com
@@ -3729,10 +3761,12 @@
 0.0.0.0 helpinfo.cn
 0.0.0.0 henduoqian.com
 0.0.0.0 hfyxdl.com
+0.0.0.0 hgdanbas.cn
 0.0.0.0 hgrqp.com
 0.0.0.0 hguac.com
 0.0.0.0 hguas.com
 0.0.0.0 hhslbz.cn
+0.0.0.0 hihufu.cn
 0.0.0.0 hissq.com
 0.0.0.0 hjiec.com
 0.0.0.0 hjkrlc.cn
@@ -3805,6 +3839,7 @@
 0.0.0.0 increased.cn
 0.0.0.0 infvb.com
 0.0.0.0 internerl.com
+0.0.0.0 iq24ne.cn
 0.0.0.0 irauz.com
 0.0.0.0 irkuj.com
 0.0.0.0 iruad.com
@@ -3867,6 +3902,7 @@
 0.0.0.0 k859n.cn
 0.0.0.0 k9wi2d.cn
 0.0.0.0 kafka8.com
+0.0.0.0 kanjiaqun.cn
 0.0.0.0 kbstyn.com
 0.0.0.0 kcenu.com
 0.0.0.0 kchaq.com
@@ -3887,6 +3923,7 @@
 0.0.0.0 kteyz.com
 0.0.0.0 ktzte.cn
 0.0.0.0 kuaituisss.com
+0.0.0.0 kueofwt.cn
 0.0.0.0 kuptmf.cn
 0.0.0.0 kwjkd.com
 0.0.0.0 kwp79i.cn
@@ -3928,6 +3965,7 @@
 0.0.0.0 lxind.cn
 0.0.0.0 lybczlsb.com
 0.0.0.0 lyjz001.com
+0.0.0.0 lyshengtu.cn
 0.0.0.0 lzida.com
 0.0.0.0 lzjycy.com
 0.0.0.0 lzkjsj.com
@@ -3986,6 +4024,7 @@
 0.0.0.0 nmmdzq.cn
 0.0.0.0 nmtouzi.com
 0.0.0.0 nnfiy.com
+0.0.0.0 nongshengyi.cn
 0.0.0.0 ntpddq.com
 0.0.0.0 nwwap.com
 0.0.0.0 nwxzs.com
@@ -4096,6 +4135,7 @@
 0.0.0.0 ruyiqufu.com
 0.0.0.0 rxxdq.cn
 0.0.0.0 s06th.cn
+0.0.0.0 s2mvd.cn
 0.0.0.0 sanitwealth.com
 0.0.0.0 sbenx.com
 0.0.0.0 sbiim.com
@@ -4192,6 +4232,7 @@
 0.0.0.0 txtxr.com
 0.0.0.0 tymsyx.com
 0.0.0.0 tyyjzs.cn
+0.0.0.0 u7qy3e.cn
 0.0.0.0 ubaii.com
 0.0.0.0 uc4a.cn
 0.0.0.0 ucaii.com
@@ -4219,6 +4260,7 @@
 0.0.0.0 vchim.com
 0.0.0.0 vchiy.com
 0.0.0.0 vcuor.com
+0.0.0.0 vdlha.cn
 0.0.0.0 ve6j.cn
 0.0.0.0 vers80.com
 0.0.0.0 vf5yb4.cn
@@ -4234,6 +4276,7 @@
 0.0.0.0 vsxet.com
 0.0.0.0 vvnna.com
 0.0.0.0 vvocm.com
+0.0.0.0 vweit.com
 0.0.0.0 w13qh.cn
 0.0.0.0 wagenlux.cn
 0.0.0.0 wanfcc.com
@@ -4331,6 +4374,7 @@
 0.0.0.0 xztms.com
 0.0.0.0 y12f.com
 0.0.0.0 yajiuwz.xyz
+0.0.0.0 yanjunbo.com
 0.0.0.0 ybaih.com
 0.0.0.0 ybaiu.com
 0.0.0.0 ybanj.com
@@ -4395,6 +4439,7 @@
 0.0.0.0 zenffs.cn
 0.0.0.0 zenwq.com
 0.0.0.0 zesod.cn
+0.0.0.0 zfanc.com
 0.0.0.0 zfood029.com
 0.0.0.0 zgbsny.com
 0.0.0.0 zgclmw.cn
