@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Wed, 15 May 2019 11:02:30 +0800
+# Last converted - Thu, 23 May 2019 20:18:00 +0800
 #
 
 0.0.0.0 0emm.com
@@ -150,6 +150,7 @@
 0.0.0.0 advertising.com
 0.0.0.0 adways.com
 0.0.0.0 adwstats.com
+0.0.0.0 adxadtracker.com
 0.0.0.0 adyapper.com
 0.0.0.0 afairweb.com
 0.0.0.0 affilae.com
@@ -521,6 +522,7 @@
 0.0.0.0 conductrics.com
 0.0.0.0 confirmational.com
 0.0.0.0 confirmit.com
+0.0.0.0 contactatonce.com
 0.0.0.0 contactmonkey.com
 0.0.0.0 contemporaryceremonies.ca
 0.0.0.0 content-square.net
@@ -534,6 +536,7 @@
 0.0.0.0 conversionlogic.net
 0.0.0.0 conversionly.com
 0.0.0.0 conversionruler.com
+0.0.0.0 convertcart.com
 0.0.0.0 convertexperiments.com
 0.0.0.0 convertglobal.com
 0.0.0.0 convertmarketing.net
@@ -628,6 +631,7 @@
 0.0.0.0 decibelinsight.net
 0.0.0.0 decideinteractive.com
 0.0.0.0 declaredthoughtfulness.co
+0.0.0.0 deep.bi
 0.0.0.0 deepattention.com
 0.0.0.0 dejavu.mlapps.com
 0.0.0.0 demandbase.com
@@ -945,6 +949,7 @@
 0.0.0.0 gostats.org
 0.0.0.0 gostats.ro
 0.0.0.0 govmetric.com
+0.0.0.0 granify.com
 0.0.0.0 grapheffect.com
 0.0.0.0 gravity4.com
 0.0.0.0 grepdata.com
@@ -1073,6 +1078,7 @@
 0.0.0.0 inflectionpointmedia.com
 0.0.0.0 influid.co
 0.0.0.0 infopro-insight.com
+0.0.0.0 infoprodata.com
 0.0.0.0 informz.net
 0.0.0.0 inimbus.com.au
 0.0.0.0 innomdc.com
@@ -1254,6 +1260,7 @@
 0.0.0.0 logrocket.io
 0.0.0.0 logsss.com
 0.0.0.0 lookery.com
+0.0.0.0 loopa.net.au
 0.0.0.0 loopfuse.net
 0.0.0.0 lopley.com
 0.0.0.0 losstrack.com
@@ -1665,6 +1672,7 @@
 0.0.0.0 ptrk-wn.com
 0.0.0.0 publicidees.com
 0.0.0.0 publishflow.com
+0.0.0.0 pubstack.io
 0.0.0.0 pulleymarketing.com
 0.0.0.0 pulselog.com
 0.0.0.0 pulsemaps.com
@@ -1771,6 +1779,7 @@
 0.0.0.0 richard-group.com
 0.0.0.0 richmetrics.com
 0.0.0.0 ritecounter.com
+0.0.0.0 rivrai.com
 0.0.0.0 rkdms.com
 0.0.0.0 rktu.com
 0.0.0.0 rlcdn.com
@@ -2171,6 +2180,7 @@
 0.0.0.0 tracking100.com
 0.0.0.0 tracking202.com
 0.0.0.0 trackinglabs.com
+0.0.0.0 trackingpro.pro
 0.0.0.0 trackkas.com
 0.0.0.0 trackmytarget.com
 0.0.0.0 trackmyusers.com
@@ -2226,6 +2236,7 @@
 0.0.0.0 truehits.in.th
 0.0.0.0 truehits1.gits.net.th
 0.0.0.0 truoptik.com
+0.0.0.0 trustedform.com
 0.0.0.0 tscapeplay.com
 0.0.0.0 tscounter.com
 0.0.0.0 tsk4.com
@@ -2583,6 +2594,7 @@
 0.0.0.0 bewhoyouare.gq
 0.0.0.0 bhzejltg.info
 0.0.0.0 biberukalap.com
+0.0.0.0 binarybusiness.de
 0.0.0.0 bitclub.network
 0.0.0.0 bitclubnetwork.com
 0.0.0.0 bitcoin-pay.eu
@@ -2861,6 +2873,7 @@
 0.0.0.0 lindon-pool.win
 0.0.0.0 listat.biz
 0.0.0.0 livestatsnet.services
+0.0.0.0 lmiutil.com
 0.0.0.0 lmodr.biz
 0.0.0.0 losital.ru
 0.0.0.0 m.anyfiles.ovh
@@ -3862,6 +3875,7 @@
 0.0.0.0 ngastatic.com
 0.0.0.0 nsaudience.pl
 0.0.0.0 p071qmn.com
+0.0.0.0 pushdom.co
 0.0.0.0 rejestr.org
 0.0.0.0 stat.4u.pl
 0.0.0.0 stat.pl
@@ -4215,6 +4229,7 @@
 0.0.0.0 app.insightgrit.com
 0.0.0.0 apple.www.letv.com
 0.0.0.0 aserve.directorym.com
+0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 attributiontrackingga.googlecode.com
 0.0.0.0 audience.atex.com
 0.0.0.0 audience.newscgp.com
@@ -4410,6 +4425,7 @@
 0.0.0.0 d22v2nmahyeg2a.cloudfront.net
 0.0.0.0 d23p9gffjvre9v.cloudfront.net
 0.0.0.0 d23pi6hvdpcc5i.cloudfront.net
+0.0.0.0 d241ujsiy3yht0.cloudfront.net
 0.0.0.0 d24cze5sab2jwg.cloudfront.net
 0.0.0.0 d24rtvkqjwgutp.cloudfront.net
 0.0.0.0 d25ezbwokoefx6.cloudfront.net
@@ -5327,6 +5343,7 @@
 0.0.0.0 calotag.com
 0.0.0.0 cdn-analytics.ladmedia.fr
 0.0.0.0 compteur.websiteout.net
+0.0.0.0 d3eokk6ya562p5.cloudfront.net
 0.0.0.0 e.funnymel.com
 0.0.0.0 email-reflex.com
 0.0.0.0 lepoint-stat.sdv.fr
@@ -5867,6 +5884,7 @@
 0.0.0.0 g.deathandtaxesmag.com
 0.0.0.0 g.ign.com
 0.0.0.0 g.msn.com
+0.0.0.0 g.vev.io
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
@@ -6057,6 +6075,7 @@
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.buzzfeed.com
 0.0.0.0 pixel.digitalspy.co.uk
+0.0.0.0 pixel.dorehernowi.pro
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.honestjohn.co.uk
 0.0.0.0 pixel.klout.com
