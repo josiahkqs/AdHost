@@ -290,3 +290,5 @@
 0.0.0.0 dolohen.com # Disease Vector
 0.0.0.0 lewenxiaoshuo.com # Spam
 0.0.0.0 m.lewenxiaoshuo.com # Spam
+0.0.0.0 baby.horo88.cc # Spam
+0.0.0.0 leaplunchroom.com # Spam
