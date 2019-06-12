@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Thu, 23 May 2019 20:17:56 +0800
+# Last converted - Wed, 12 Jun 2019 10:19:23 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -67,6 +67,7 @@
 0.0.0.0 bitpit.xyz
 0.0.0.0 blogfest.ru
 0.0.0.0 bonus2u.ru
+0.0.0.0 braun634.com
 0.0.0.0 brndrm.com
 0.0.0.0 bussters.com
 0.0.0.0 callmebadguy.press
@@ -277,6 +278,7 @@
 0.0.0.0 tracka58563945.com
 0.0.0.0 tracka748161782.com
 0.0.0.0 tracker.ha9.ru
+0.0.0.0 tracker.ma-static.ru
 0.0.0.0 trampam.co
 0.0.0.0 tranzitcash.ru
 0.0.0.0 trapfleyb-bs.ru
@@ -826,7 +828,6 @@
 0.0.0.0 shopblog.org
 0.0.0.0 show.novostionline.net
 0.0.0.0 smi-inform.ru
-0.0.0.0 smi.today
 0.0.0.0 smi24online.ru
 0.0.0.0 smi24x7.com
 0.0.0.0 smibooks.ru
@@ -1630,6 +1631,7 @@
 0.0.0.0 somon.tj
 0.0.0.0 sosnews.ru
 0.0.0.0 sovetnik.yandex.net
+0.0.0.0 spacepush.ru
 0.0.0.0 spitter.pauk.ru
 0.0.0.0 sponsor.gazeta.ru
 0.0.0.0 sport-fitnes.ru
@@ -2326,7 +2328,6 @@
 0.0.0.0 aegke.top
 0.0.0.0 aenjj.com
 0.0.0.0 aerontre.com
-0.0.0.0 aff.bstatic.com
 0.0.0.0 aff.mediarotate.com
 0.0.0.0 affcash.net
 0.0.0.0 afficent.com
@@ -2470,6 +2471,7 @@
 0.0.0.0 ardiver.ru
 0.0.0.0 arigami.ru
 0.0.0.0 arkeren.ru
+0.0.0.0 armi.media
 0.0.0.0 arqbl.top
 0.0.0.0 as4zjsw7.ru
 0.0.0.0 asderkil.com
@@ -2747,7 +2749,6 @@
 0.0.0.0 bpyxg.com
 0.0.0.0 brandarium.ru
 0.0.0.0 bratuxaborcuxa.ru
-0.0.0.0 braun634.com
 0.0.0.0 braviration.ru
 0.0.0.0 bravo-lea.com
 0.0.0.0 bravo-mejdu.ru
@@ -3279,8 +3280,10 @@
 0.0.0.0 djchfgacdfaaadfdc.ru
 0.0.0.0 djfbgfcdgdjgegjac.ru
 0.0.0.0 djjdf.ru
+0.0.0.0 djjrq.com
 0.0.0.0 djpff.top
 0.0.0.0 dkemeli.ru
+0.0.0.0 dl6pkf7e.ru
 0.0.0.0 dle-news.info
 0.0.0.0 dlfja.gdn
 0.0.0.0 dlski.space
@@ -4030,6 +4033,7 @@
 0.0.0.0 ibiza-court.com
 0.0.0.0 ibsecta.ru
 0.0.0.0 icelam.ru
+0.0.0.0 ichecknotifyfriends.info
 0.0.0.0 iclbodnew.pro
 0.0.0.0 iclckk.com
 0.0.0.0 icqad001.net
@@ -4395,6 +4399,7 @@
 0.0.0.0 kinqp.ru
 0.0.0.0 kinrowone.pro
 0.0.0.0 kiojet.ru
+0.0.0.0 kipyn.com
 0.0.0.0 kires.umk-spo.biz
 0.0.0.0 kirlin.link
 0.0.0.0 kisakuku.org
@@ -5026,6 +5031,7 @@
 0.0.0.0 mybasilsoup.com
 0.0.0.0 mybce.top
 0.0.0.0 mycdn.info
+0.0.0.0 myconst.net
 0.0.0.0 mycpacash.ru
 0.0.0.0 mycpm.ru
 0.0.0.0 myfishsoup.com
@@ -6164,6 +6170,7 @@
 0.0.0.0 slot-portal.com
 0.0.0.0 slotblost.com
 0.0.0.0 slotoportal.com
+0.0.0.0 slotorio.link
 0.0.0.0 slowpoker.ru
 0.0.0.0 slzix.com
 0.0.0.0 sm0tri.eu
@@ -6325,7 +6332,10 @@
 0.0.0.0 takeman.ru
 0.0.0.0 takia.ru
 0.0.0.0 takib.ru
+0.0.0.0 takibb.ru
 0.0.0.0 takic.ru
+0.0.0.0 takicc.ru
+0.0.0.0 takipp.ru
 0.0.0.0 tanlitthisdint.ru
 0.0.0.0 tare51vkh.ru
 0.0.0.0 targetan.com
@@ -6453,6 +6463,7 @@
 0.0.0.0 tiz-et.ru
 0.0.0.0 tiz.healthy2life.com
 0.0.0.0 tiz.pp.ua
+0.0.0.0 tizenoid.ru
 0.0.0.0 tizer.ws
 0.0.0.0 tizer12.net
 0.0.0.0 tizer13.net
@@ -6633,6 +6644,7 @@
 0.0.0.0 trilebas.ru
 0.0.0.0 trisol.ru
 0.0.0.0 trkg.ru
+0.0.0.0 trkleads.ru
 0.0.0.0 trklp.ru
 0.0.0.0 trmedie.ru
 0.0.0.0 trofiso.ru
@@ -6667,6 +6679,7 @@
 0.0.0.0 tuiote.com
 0.0.0.0 tulip18.com
 0.0.0.0 turbotraf.com
+0.0.0.0 turfirmy.com.ua
 0.0.0.0 turismosport.com
 0.0.0.0 turkishturkish.info
 0.0.0.0 turmene.ru
@@ -6859,6 +6872,7 @@
 0.0.0.0 vidodim.com
 0.0.0.0 vidozex.ru
 0.0.0.0 vidplah.com
+0.0.0.0 vidroll.ru
 0.0.0.0 vids63.com
 0.0.0.0 vidseed.com
 0.0.0.0 vidseed.ru
@@ -7248,6 +7262,7 @@
 0.0.0.0 ytimgg.com
 0.0.0.0 ytrwew.com
 0.0.0.0 ytsmoda3jcne.ru
+0.0.0.0 ytsoasouththeo1983.tk
 0.0.0.0 ytsyss.com
 0.0.0.0 yugaley.info
 0.0.0.0 yulinata.ru
@@ -7990,6 +8005,7 @@
 0.0.0.0 golovne.net
 0.0.0.0 goo.gl
 0.0.0.0 good73.net
+0.0.0.0 hideip.me
 0.0.0.0 hottabych.net
 0.0.0.0 hydrus.cc
 0.0.0.0 iframecdn.ru
@@ -8060,6 +8076,7 @@
 0.0.0.0 tapochek.net
 0.0.0.0 textbooks.studio
 0.0.0.0 topblock.lentainform.com
+0.0.0.0 uchebnik.online
 0.0.0.0 uchebniki-besplatno.com
 0.0.0.0 v.tranzistor-harakteristiki.ru
 0.0.0.0 videodom.net
