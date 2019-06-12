@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Thu, 23 May 2019 20:17:56 +0800
+# Last converted - Wed, 12 Jun 2019 10:19:24 +0800
 #
 
 0.0.0.0 profusesupport.com
@@ -301,18 +301,14 @@
 0.0.0.0 aaddzz.com
 0.0.0.0 aamsitecertifier.com
 0.0.0.0 abcompteur.com
-0.0.0.0 abcounter.de
 0.0.0.0 abcstats.com
 0.0.0.0 abmr.net
 0.0.0.0 absolstats.co.za
 0.0.0.0 acc-hd.de
 0.0.0.0 access-analyze.org
-0.0.0.0 access-traffic.com
 0.0.0.0 accessi.it
 0.0.0.0 accessintel.com
-0.0.0.0 accumulatorg.com
 0.0.0.0 acecounter.com
-0.0.0.0 acestats.net
 0.0.0.0 acetrk.com
 0.0.0.0 acexedge.com
 0.0.0.0 acint.net
@@ -330,7 +326,6 @@
 0.0.0.0 acxiom-online.com
 0.0.0.0 ad-score.com
 0.0.0.0 adblade.com
-0.0.0.0 adbutler.us
 0.0.0.0 adc-serv.net
 0.0.0.0 adchemix.com
 0.0.0.0 adchemy-content.com
@@ -866,7 +861,6 @@
 0.0.0.0 decibelinsight.net
 0.0.0.0 decideinteractive.com
 0.0.0.0 declaredthoughtfulness.co
-0.0.0.0 deepattention.com
 0.0.0.0 demandbase.com
 0.0.0.0 demdex.net
 0.0.0.0 deqwas.net
@@ -2934,6 +2928,8 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 symbolizebeast.com
+0.0.0.0 cannontwin.com
 0.0.0.0 lumberamount.com
 0.0.0.0 brothersbucket.com
 0.0.0.0 spottednoise.com
@@ -4434,7 +4430,6 @@
 0.0.0.0 saber.srvcs.tumblr.com
 0.0.0.0 segments.adap.tv
 0.0.0.0 smetrics.uhc.com
-0.0.0.0 ssp.rambler.ru
 0.0.0.0 stags.bluekai.com
 0.0.0.0 startrekk.flaconi.de
 0.0.0.0 stat.novostimira.com
