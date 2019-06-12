@@ -1,11 +1,34 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Thu, 23 May 2019 20:17:56 +0800
+# Last converted - Wed, 12 Jun 2019 10:19:24 +0800
 #
 
+0.0.0.0 didnrep.ru
+0.0.0.0 enmbg.com
+0.0.0.0 dqzuy.com
+0.0.0.0 aj1713.online
+0.0.0.0 0a4bcef12091ce7.com
+0.0.0.0 fqwgi.com
+0.0.0.0 admediator.ru
+0.0.0.0 dl6pkf7e.ru
+0.0.0.0 tinnaveran.ru
+0.0.0.0 cdn.hunteryvely.com
+0.0.0.0 erileni.ru
+0.0.0.0 threedrive.su
+0.0.0.0 skwstat.ru
+0.0.0.0 kinoaction.ru
+0.0.0.0 onemontay.ru
+0.0.0.0 hephedronwa.ru
+0.0.0.0 bcprn.club
+0.0.0.0 xyz0k4gfs.xyz
+0.0.0.0 dycej.com
+0.0.0.0 sm-ini.ru
+0.0.0.0 heprisitho.ru
+0.0.0.0 kipyn.com
+0.0.0.0 berentain.ru
+0.0.0.0 tantheretrec.ru
 0.0.0.0 aj1616.online
-0.0.0.0 braun634.com
 0.0.0.0 tertmateruse.ru
 0.0.0.0 wsvay.com
 0.0.0.0 gold-mir.com
@@ -48,8 +71,6 @@
 0.0.0.0 uektb.com
 0.0.0.0 mega-bc.info
 0.0.0.0 0916video.ru
-0.0.0.0 1000zakazov.ru
-0.0.0.0 1001noch.net
 0.0.0.0 10cd.ru
 0.0.0.0 oderyuk.info
 0.0.0.0 10root25.website
@@ -58,7 +79,6 @@
 0.0.0.0 1bestgoods.com
 0.0.0.0 1biznes.net
 0.0.0.0 1cb4faaf56af2497ac01.date
-0.0.0.0 1invite.ru
 0.0.0.0 1mint1.info
 0.0.0.0 covivado.club
 0.0.0.0 1pop.ru
@@ -76,7 +96,6 @@
 0.0.0.0 20d625b48e.se
 0.0.0.0 24new.ru
 0.0.0.0 2da2.ru
-0.0.0.0 2firefox.ru
 0.0.0.0 2manygirlzhere.org
 0.0.0.0 2mdn.net
 0.0.0.0 2under.ru
@@ -90,7 +109,6 @@
 0.0.0.0 37.220.26.137
 0.0.0.0 3file.info
 0.0.0.0 3lucosy.com
-0.0.0.0 3lx.ru
 0.0.0.0 3mtr.ru
 0.0.0.0 3under.ru
 0.0.0.0 468.vologdainfo.ru
@@ -116,7 +134,6 @@
 0.0.0.0 7out.ru
 0.0.0.0 7porn.ru
 0.0.0.0 7rtv.com
-0.0.0.0 7window7.info
 0.0.0.0 88.85.75.147
 0.0.0.0 88.85.77.92
 0.0.0.0 89eb01f7f8503aef.com
@@ -140,10 +157,7 @@
 0.0.0.0 aa-ds.ru
 0.0.0.0 aahvz.top
 0.0.0.0 aahvz.top
-0.0.0.0 aastob.com
-0.0.0.0 abcfilm.org
 0.0.0.0 abdmi.ru
-0.0.0.0 abrolog.ru
 0.0.0.0 abs-cdn.org
 0.0.0.0 abs-static.org
 0.0.0.0 abs.firstvds.ru
@@ -152,7 +166,6 @@
 0.0.0.0 acales.ru
 0.0.0.0 acdnpro.com
 0.0.0.0 aceadsys.net
-0.0.0.0 actexhk6fehxiun.ru
 0.0.0.0 actiflex.org
 0.0.0.0 actionads.ru
 0.0.0.0 actionpay.ru
@@ -160,7 +173,6 @@
 0.0.0.0 actionteaser.ru
 0.0.0.0 activepr.ru
 0.0.0.0 ad-ck.ru
-0.0.0.0 ad-click.ru
 0.0.0.0 ad-tizer.net
 0.0.0.0 ad-tool.com
 0.0.0.0 ad.dumedia.ru
@@ -192,9 +204,7 @@
 0.0.0.0 adcast.ru
 0.0.0.0 add.in.ua
 0.0.0.0 adddpc01.ru
-0.0.0.0 addflow.ru
 0.0.0.0 addmob.info
-0.0.0.0 addtraf.ru
 0.0.0.0 addweb.ru
 0.0.0.0 addynamo.com
 0.0.0.0 adeclc.com
@@ -213,7 +223,6 @@
 0.0.0.0 adlabsnetworks.com
 0.0.0.0 adland.ru
 0.0.0.0 adlift.ru
-0.0.0.0 adliner.ru
 0.0.0.0 adlmerge.com
 0.0.0.0 adlook.net
 0.0.0.0 admachina.com
@@ -234,14 +243,12 @@
 0.0.0.0 adpartner.pro
 0.0.0.0 adplus.io
 0.0.0.0 adpod.in
-0.0.0.0 adpos.ru
 0.0.0.0 adpremium.ru
 0.0.0.0 adpro.com.ua
 0.0.0.0 adprofy.com
 0.0.0.0 adreaction.ru
 0.0.0.0 adrecreate.com
 0.0.0.0 adregain.ru
-0.0.0.0 adrichmedia.info
 0.0.0.0 adriverm.narod2.ru
 0.0.0.0 adrock.ru
 0.0.0.0 adrock.ua
@@ -258,17 +265,14 @@
 0.0.0.0 adsmmgp.com
 0.0.0.0 adsmo.ru
 0.0.0.0 adssyscom.com
-0.0.0.0 adst.biz
 0.0.0.0 adstock.pro
 0.0.0.0 adstock.ru
-0.0.0.0 adswm.com
 0.0.0.0 adsyst.net
 0.0.0.0 adsyst.ru
 0.0.0.0 adtags.pro
 0.0.0.0 adtelligent.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 adtraff.ru
-0.0.0.0 adult-click.ru
 0.0.0.0 adultpay.net
 0.0.0.0 adulttiz.com
 0.0.0.0 adulttraffic.ru
@@ -728,14 +732,11 @@
 0.0.0.0 clickhere.ru
 0.0.0.0 clickhereforfun.org
 0.0.0.0 clickov.com
-0.0.0.0 clickprofi.com
 0.0.0.0 clickscapture.com
-0.0.0.0 clicktizer.ru
 0.0.0.0 clicktoclick.ru
 0.0.0.0 clickunderad.com
 0.0.0.0 clickvip.ru
 0.0.0.0 cliennes.com
-0.0.0.0 clievise.com
 0.0.0.0 clme.biz
 0.0.0.0 clvw.net
 0.0.0.0 cmix.org
@@ -830,7 +831,6 @@
 0.0.0.0 dafficha.com
 0.0.0.0 danilidi.ru
 0.0.0.0 daopz.top
-0.0.0.0 dariku.ru
 0.0.0.0 dartimyl.com
 0.0.0.0 dasterx.ru
 0.0.0.0 data.neosmi.ru
@@ -842,17 +842,11 @@
 0.0.0.0 dcplayeza.pw
 0.0.0.0 dcplayf.com
 0.0.0.0 dddevki4u.com
-0.0.0.0 dedenye.ru
-0.0.0.0 defiques.com
-0.0.0.0 degotmo.ru
-0.0.0.0 deguiste.com
 0.0.0.0 delightcash.com
 0.0.0.0 delivery.adrecover.com
-0.0.0.0 delo-teh.ru
 0.0.0.0 delta.mediafort.ru
 0.0.0.0 denezhnyie-rucheyki.ru
 0.0.0.0 deobp.com
-0.0.0.0 derploime.com
 0.0.0.0 deskmony.info
 0.0.0.0 dev4enki.com
 0.0.0.0 devaxi.org
@@ -896,7 +890,6 @@
 0.0.0.0 dnudg.com
 0.0.0.0 doctorsh.ru
 0.0.0.0 doichering.ru
-0.0.0.0 domaingid.ru
 0.0.0.0 domentino.ru
 0.0.0.0 domertb.com
 0.0.0.0 domvkq.net
@@ -1046,7 +1039,6 @@
 0.0.0.0 fas.catholicgreatestinterpret.xyz
 0.0.0.0 fast2load.ru
 0.0.0.0 fastcpm.ru
-0.0.0.0 fastnewsis.net
 0.0.0.0 fastpopunder.com
 0.0.0.0 fastsex.ru
 0.0.0.0 fbcjk.com
@@ -1127,8 +1119,6 @@
 0.0.0.0 gameteaser.ru
 0.0.0.0 gamingpartners.org
 0.0.0.0 gamsano.info
-0.0.0.0 gateway-02.com
-0.0.0.0 gateway-03.com
 0.0.0.0 gatewey.net
 0.0.0.0 gawxf.com
 0.0.0.0 gbaseby.ru
@@ -3508,7 +3498,6 @@
 0.0.0.0 cpm.wargaming.net
 0.0.0.0 stat.moonwalk.co
 0.0.0.0 an.blogis.org
-0.0.0.0 987654321.kiev.ua
 0.0.0.0 action.evrikak.ru
 0.0.0.0 ad.4ertik.porn
 0.0.0.0 ad.cbonds.info
@@ -3642,6 +3631,7 @@
 0.0.0.0 vi.bigmir.net
 0.0.0.0 widget.mediastealer.com
 0.0.0.0 bux4gm.ru
+0.0.0.0 brandings.kanobu.ru
 0.0.0.0 a.fileplaneta.com
 0.0.0.0 a.navi-gaming.com
 0.0.0.0 a.thefreedictionary.com
@@ -3726,4 +3716,5 @@
 0.0.0.0 0fsq1fgipb.ru
 0.0.0.0 go2.se9oieidu7t.ru
 0.0.0.0 blpovgiri0eei.ru
+0.0.0.0 ad.mail.ru
 0.0.0.0 zenadservices.net
