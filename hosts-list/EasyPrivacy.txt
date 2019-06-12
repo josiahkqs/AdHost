@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Thu, 23 May 2019 20:18:00 +0800
+# Last converted - Wed, 12 Jun 2019 10:19:27 +0800
 #
 
 0.0.0.0 0emm.com
@@ -252,6 +252,7 @@
 0.0.0.0 assoctrac.com
 0.0.0.0 astro-way.com
 0.0.0.0 atatus.com
+0.0.0.0 atgsvcs.com
 0.0.0.0 athenainstitute.biz
 0.0.0.0 atoshonetwork.com
 0.0.0.0 atticwicket.com
@@ -747,6 +748,7 @@
 0.0.0.0 eproof.com
 0.0.0.0 eps-analyzer.de
 0.0.0.0 ereportz.com
+0.0.0.0 escalated.io
 0.0.0.0 esearchvision.com
 0.0.0.0 esm1.net
 0.0.0.0 esomniture.com
@@ -974,7 +976,6 @@
 0.0.0.0 halstats.com
 0.0.0.0 haraju.co
 0.0.0.0 haveamint.com
-0.0.0.0 haymarket.com
 0.0.0.0 hdmtools.com
 0.0.0.0 heapanalytics.com
 0.0.0.0 heatmap.it
@@ -1253,6 +1254,7 @@
 0.0.0.0 logcounter.com
 0.0.0.0 logdy.com
 0.0.0.0 logentries.com
+0.0.0.0 logger.pw
 0.0.0.0 loggly.com
 0.0.0.0 logmatic.io
 0.0.0.0 lognormal.net
@@ -1292,6 +1294,7 @@
 0.0.0.0 mailstat.us
 0.0.0.0 maploco.com
 0.0.0.0 mapmyuser.com
+0.0.0.0 marfeelcache.com
 0.0.0.0 marinsm.com
 0.0.0.0 market015.com
 0.0.0.0 market2lead.com
@@ -1681,6 +1684,7 @@
 0.0.0.0 putags.com
 0.0.0.0 pxf.io
 0.0.0.0 pxi.pub
+0.0.0.0 pxlad.io
 0.0.0.0 pymx5.com
 0.0.0.0 pzkysq.pink
 0.0.0.0 q-counter.com
@@ -1900,7 +1904,6 @@
 0.0.0.0 silvergamed.com
 0.0.0.0 silverpop.com
 0.0.0.0 silverpush.co
-0.0.0.0 simility.com
 0.0.0.0 simonsignal.com
 0.0.0.0 simpleanalytics.io
 0.0.0.0 simpleheatmaps.com
@@ -2182,6 +2185,7 @@
 0.0.0.0 trackinglabs.com
 0.0.0.0 trackingpro.pro
 0.0.0.0 trackkas.com
+0.0.0.0 trackmethod.com
 0.0.0.0 trackmytarget.com
 0.0.0.0 trackmyusers.com
 0.0.0.0 trackmyweb.net
@@ -2269,6 +2273,7 @@
 0.0.0.0 uniqodo.com
 0.0.0.0 unknowntray.com
 0.0.0.0 upapi.net
+0.0.0.0 upscore.com
 0.0.0.0 upstats.ru
 0.0.0.0 uptain.de
 0.0.0.0 uptimeviewer.com
@@ -2379,6 +2384,7 @@
 0.0.0.0 webcounter.co.za
 0.0.0.0 webcounter.ws
 0.0.0.0 webengage.com
+0.0.0.0 webeyez.com
 0.0.0.0 webflowmetrics.com
 0.0.0.0 webforensics.co.uk
 0.0.0.0 webgains.com
@@ -3157,6 +3163,7 @@
 0.0.0.0 broaddoor.com
 0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
+0.0.0.0 coordinatedcub.com
 0.0.0.0 copycarpenter.com
 0.0.0.0 delegatediscussion.com
 0.0.0.0 detectdiscovery.com
@@ -3171,6 +3178,7 @@
 0.0.0.0 hammerhearing.com
 0.0.0.0 hilariouszinc.com
 0.0.0.0 importedincrease.com
+0.0.0.0 jadeitite.com
 0.0.0.0 jewelcheese.com
 0.0.0.0 lizardslaugh.com
 0.0.0.0 mowfruit.com
@@ -3181,6 +3189,7 @@
 0.0.0.0 quaintcan.com
 0.0.0.0 ritzykey.com
 0.0.0.0 scintillatingspace.com
+0.0.0.0 scrubswim.com
 0.0.0.0 selectivesummer.com
 0.0.0.0 separatesilver.com
 0.0.0.0 shallowschool.com
@@ -3190,6 +3199,7 @@
 0.0.0.0 spiffymachine.com
 0.0.0.0 spottysense.com
 0.0.0.0 spurioussteam.com
+0.0.0.0 steepsquirrel.com
 0.0.0.0 storesurprise.com
 0.0.0.0 strivesidewalk.com
 0.0.0.0 suddensidewalk.com
@@ -3795,6 +3805,7 @@
 0.0.0.0 genieedmp.com
 0.0.0.0 genieessp.jp
 0.0.0.0 gmodmp.jp
+0.0.0.0 gsspcln.jp
 0.0.0.0 hitgraph.jp
 0.0.0.0 i2ad.jp
 0.0.0.0 i2i.jp
@@ -3808,9 +3819,11 @@
 0.0.0.0 marsflag.com
 0.0.0.0 mobylog.jp
 0.0.0.0 n8s.jp
+0.0.0.0 nex8.net
 0.0.0.0 omiki.com
 0.0.0.0 owldata.com
 0.0.0.0 pagoda56.com
+0.0.0.0 pdmp.jp
 0.0.0.0 polymorphicads.jp
 0.0.0.0 r-ad.ne.jp
 0.0.0.0 rentracks.jp
@@ -4205,6 +4218,7 @@
 0.0.0.0 analytics.staticiv.com
 0.0.0.0 analytics.stg.springboardvideo.com
 0.0.0.0 analytics.strangeloopnetworks.com
+0.0.0.0 analytics.suggestv.io
 0.0.0.0 analytics.supplyframe.com
 0.0.0.0 analytics.themarketiq.com
 0.0.0.0 analytics.tout.com
@@ -4227,6 +4241,7 @@
 0.0.0.0 api.fyreball.com
 0.0.0.0 api.wipmania.com
 0.0.0.0 app.insightgrit.com
+0.0.0.0 app.link
 0.0.0.0 apple.www.letv.com
 0.0.0.0 aserve.directorym.com
 0.0.0.0 async-px.dynamicyield.com
@@ -4803,6 +4818,7 @@
 0.0.0.0 powersearch.us.com
 0.0.0.0 pr.blogflux.com
 0.0.0.0 prd-collector-anon.playbuzz.com
+0.0.0.0 prism.app-us1.com
 0.0.0.0 production-eqbc.lvp.llnw.net
 0.0.0.0 production-mcs.lvp.llnw.net
 0.0.0.0 production.mcs.delve.cust.lldns.net
@@ -5506,6 +5522,8 @@
 0.0.0.0 clickanalyzer.jp
 0.0.0.0 counter2.blog.livedoor.com
 0.0.0.0 imgstat.ameba.jp
+0.0.0.0 ip2c.landscape.co.jp
+0.0.0.0 kitchen.juicer.cc
 0.0.0.0 l.popin.cc
 0.0.0.0 lcs.livedoor.net
 0.0.0.0 log.nordot.jp
@@ -5699,6 +5717,7 @@
 0.0.0.0 analytics.shorte.st
 0.0.0.0 analytics.skyscanner.net
 0.0.0.0 analytics.slashdotmedia.com
+0.0.0.0 analytics.socialblade.com
 0.0.0.0 analytics.spankbang.com
 0.0.0.0 analytics.sportybet.com
 0.0.0.0 analytics.teespring.com
@@ -5864,6 +5883,7 @@
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 eventlogger.soundcloud.com
+0.0.0.0 events.avantisvideo.com
 0.0.0.0 events.godaddy.com
 0.0.0.0 events.jora.com
 0.0.0.0 events.privy.com
@@ -6046,6 +6066,7 @@
 0.0.0.0 omni.nine.com.au
 0.0.0.0 omniture.stuff.co.nz
 0.0.0.0 omniture.theglobeandmail.com
+0.0.0.0 oms.expedia.com
 0.0.0.0 open.mkt1397.com
 0.0.0.0 ophan.guardian.co.uk
 0.0.0.0 ophan.theguardian.com
@@ -6067,6 +6088,7 @@
 0.0.0.0 ping.buto.tv
 0.0.0.0 ping.hungama.com
 0.0.0.0 ping.tvmaze.com
+0.0.0.0 pingback.issuu.com
 0.0.0.0 pings.blip.tv
 0.0.0.0 pipeline.realtime.active.com
 0.0.0.0 pix.eads.com
@@ -6126,6 +6148,7 @@
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rtn.thestar.com
+0.0.0.0 rv.modanisa.com
 0.0.0.0 s.infogr.am
 0.0.0.0 s.infogram.com
 0.0.0.0 s.youtube.com
@@ -6267,6 +6290,7 @@
 0.0.0.0 ssc.api.bbc.com
 0.0.0.0 ssl-stats.wordpress.com
 0.0.0.0 st.arte.tv
+0.0.0.0 stan.xing.com
 0.0.0.0 stat.alibaba.com
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.kbs.co.kr
@@ -6291,7 +6315,6 @@
 0.0.0.0 stats.europe.newsweek.com
 0.0.0.0 stats.eyeviewdigital.com
 0.0.0.0 stats.farfetch.com
-0.0.0.0 stats.firedrive.com
 0.0.0.0 stats.harpercollins.com
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.ibtimes.co.uk
@@ -6348,6 +6371,7 @@
 0.0.0.0 t.cinemablend.com
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 t.eharmony.com
+0.0.0.0 t.indeed.com
 0.0.0.0 t.kck.st
 0.0.0.0 t.my.jobs
 0.0.0.0 t.paypal.com
@@ -6365,6 +6389,7 @@
 0.0.0.0 ted.metro.co.uk
 0.0.0.0 ted1.metro.co.uk
 0.0.0.0 telemetry.tradingview.com
+0.0.0.0 tempo.inc.com
 0.0.0.0 timeslogtn.timesnow.tv
 0.0.0.0 timestrends.indiatimes.com
 0.0.0.0 timestrends.timesnow.tv
@@ -6508,8 +6533,8 @@
 0.0.0.0 play.estream.to
 0.0.0.0 play.estream.xyz
 0.0.0.0 support.2giga.link
-0.0.0.0 video.videos.vidto.me
 0.0.0.0 worker.salon.com
+0.0.0.0 event-analytics.yesware.com
 0.0.0.0 abakus.freenet.de
 0.0.0.0 ac.berlinonline.de
 0.0.0.0 ac.express.de
@@ -6526,6 +6551,8 @@
 0.0.0.0 as.yomonda.de
 0.0.0.0 banner.t-online.de
 0.0.0.0 beacon.gutefrage.net
+0.0.0.0 behave.noen.at
+0.0.0.0 behave.sn.at
 0.0.0.0 boss.berlinonline.de
 0.0.0.0 bt.mediaimpact.de
 0.0.0.0 c.perlentaucher.de
@@ -6797,6 +6824,7 @@
 0.0.0.0 analyzer.fc2.com
 0.0.0.0 analyzer2.fc2.com
 0.0.0.0 cgi.tbs.co.jp
+0.0.0.0 count.upc.rakuten.co.jp
 0.0.0.0 ln.ameba.jp
 0.0.0.0 measure.ameblo.jp
 0.0.0.0 mtc.nhk.or.jp
@@ -6807,6 +6835,7 @@
 0.0.0.0 sy.ameblo.jp
 0.0.0.0 visit.geocities.jp
 0.0.0.0 wisteria-js.excite.co.jp
+0.0.0.0 x.allabout.co.jp
 0.0.0.0 yjtag.yahoo.co.jp
 0.0.0.0 count.munhwa.com
 0.0.0.0 gather.hankyung.com
