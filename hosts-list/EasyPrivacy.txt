@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Wed, 12 Jun 2019 10:19:27 +0800
+# Last converted - Mon, 17 Jun 2019 21:11:51 +0800
 #
 
 0.0.0.0 0emm.com
@@ -456,6 +456,7 @@
 0.0.0.0 ck-cdn.com
 0.0.0.0 clarifyingquack.com
 0.0.0.0 claritytag.com
+0.0.0.0 clarivoy.com
 0.0.0.0 cleananalytics.com
 0.0.0.0 clearviewstats.com
 0.0.0.0 cleveritics.com
@@ -1294,7 +1295,6 @@
 0.0.0.0 mailstat.us
 0.0.0.0 maploco.com
 0.0.0.0 mapmyuser.com
-0.0.0.0 marfeelcache.com
 0.0.0.0 marinsm.com
 0.0.0.0 market015.com
 0.0.0.0 market2lead.com
@@ -1684,7 +1684,6 @@
 0.0.0.0 putags.com
 0.0.0.0 pxf.io
 0.0.0.0 pxi.pub
-0.0.0.0 pxlad.io
 0.0.0.0 pymx5.com
 0.0.0.0 pzkysq.pink
 0.0.0.0 q-counter.com
@@ -1943,6 +1942,7 @@
 0.0.0.0 smarterhq.io
 0.0.0.0 smarterremarketer.net
 0.0.0.0 smartlook.com
+0.0.0.0 smartocto.com
 0.0.0.0 smartology.co
 0.0.0.0 smartracker.net
 0.0.0.0 smartsuppchat.com
@@ -2621,11 +2621,8 @@
 0.0.0.0 cashbeet.com
 0.0.0.0 cc.gofile.io
 0.0.0.0 ccvwtdtwyu.trade
-0.0.0.0 cdn-analytics.pl
 0.0.0.0 cdn-code.host
 0.0.0.0 cdn-jquery.host
-0.0.0.0 cdn.cloudcoins.co
-0.0.0.0 cdn.static-cnt.bid
 0.0.0.0 cdnfile.xyz
 0.0.0.0 cfcdist.gdn
 0.0.0.0 cfcdist.loan
@@ -2674,7 +2671,6 @@
 0.0.0.0 crypto-loot.com
 0.0.0.0 crypto-pool.fr
 0.0.0.0 crypto-webminer.com
-0.0.0.0 crypto.csgocpu.com
 0.0.0.0 cryptobara.com
 0.0.0.0 cryptoloot.pro
 0.0.0.0 cryptomine.pro
@@ -2755,7 +2751,6 @@
 0.0.0.0 freecontent.trade
 0.0.0.0 freecontent.win
 0.0.0.0 freshrefresher.com
-0.0.0.0 fruitice.realnetwrk.com
 0.0.0.0 g-content.bid
 0.0.0.0 g1thub.com
 0.0.0.0 gasolina.ml
@@ -2767,8 +2762,6 @@
 0.0.0.0 gitgrub.pro
 0.0.0.0 gnrdomimplementation.com
 0.0.0.0 go.bestmobiworld.com
-0.0.0.0 go.megabanners.cf
-0.0.0.0 go.megabanners.cf
 0.0.0.0 gobba.myeffect.net
 0.0.0.0 goldoffer.online
 0.0.0.0 googleanalytcs.com
@@ -3108,7 +3101,6 @@
 0.0.0.0 wasm.stream
 0.0.0.0 wasm24.ru
 0.0.0.0 wbmwss.beetv.net
-0.0.0.0 web.dle-news.pw
 0.0.0.0 webassembly.stream
 0.0.0.0 webmine.cz
 0.0.0.0 webmine.pro
@@ -3570,6 +3562,7 @@
 0.0.0.0 mmtro.com
 0.0.0.0 ncdnprorogeraie.lol
 0.0.0.0 netvigie.com
+0.0.0.0 organicfruitapps.com
 0.0.0.0 phywi.org
 0.0.0.0 reseau-pub.com
 0.0.0.0 semiocast.com
@@ -3587,6 +3580,7 @@
 0.0.0.0 wysistat.com
 0.0.0.0 x-traceur.com
 0.0.0.0 circle.am
+0.0.0.0 call-tracking.by
 0.0.0.0 trafit.com
 0.0.0.0 tyxo.bg
 0.0.0.0 50bang.org
@@ -3818,6 +3812,7 @@
 0.0.0.0 macromill.com
 0.0.0.0 marsflag.com
 0.0.0.0 mobylog.jp
+0.0.0.0 msgs.jp
 0.0.0.0 n8s.jp
 0.0.0.0 nex8.net
 0.0.0.0 omiki.com
@@ -3889,6 +3884,7 @@
 0.0.0.0 nsaudience.pl
 0.0.0.0 p071qmn.com
 0.0.0.0 pushdom.co
+0.0.0.0 quartic.pl
 0.0.0.0 rejestr.org
 0.0.0.0 stat.4u.pl
 0.0.0.0 stat.pl
@@ -3990,6 +3986,7 @@
 0.0.0.0 musiccounter.ru
 0.0.0.0 mystat-in.net
 0.0.0.0 personage.name
+0.0.0.0 pladform.ru
 0.0.0.0 pmbox.biz
 0.0.0.0 proext.com
 0.0.0.0 quick-counter.net
@@ -4448,6 +4445,7 @@
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
 0.0.0.0 d2gfdmu30u15x7.cloudfront.net
 0.0.0.0 d2gfi8ctn6kki7.cloudfront.net
+0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
 0.0.0.0 d2kmrmwhq7wkvs.cloudfront.net
 0.0.0.0 d2kyy9hvbrzkgn.cloudfront.net
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
@@ -4521,6 +4519,7 @@
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 dt.sellpoint.net
+0.0.0.0 dt1pxsve3tgas.cloudfront.net
 0.0.0.0 du4rq1xqh3i1k.cloudfront.net
 0.0.0.0 du8783wkf05yr.cloudfront.net
 0.0.0.0 dufue2m4sondk.cloudfront.net
@@ -5093,6 +5092,7 @@
 0.0.0.0 track.yieldsoftware.com
 0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker.beezup.com
+0.0.0.0 tracker.data-vp.com
 0.0.0.0 tracker.downdetector.com
 0.0.0.0 tracker.everestnutrition.com
 0.0.0.0 tracker.financialcontent.com
@@ -5210,7 +5210,6 @@
 0.0.0.0 vrp.outbrain.com
 0.0.0.0 vrt.outbrain.com
 0.0.0.0 vtracking.in.com
-0.0.0.0 w88.m.espn.go.com
 0.0.0.0 watch.teroti.com
 0.0.0.0 web1.51.la
 0.0.0.0 webcare.byside.com
@@ -5519,6 +5518,7 @@
 0.0.0.0 analysis.shinobi.jp
 0.0.0.0 analyzer51.fc2.com
 0.0.0.0 asumi.shinobi.jp
+0.0.0.0 beacon.itmedia.jp
 0.0.0.0 clickanalyzer.jp
 0.0.0.0 counter2.blog.livedoor.com
 0.0.0.0 imgstat.ameba.jp
@@ -5710,6 +5710,7 @@
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.mindjolt.com
 0.0.0.0 analytics.newsinc.com
+0.0.0.0 analytics.ngfiles.com
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics.schoolwires.com
@@ -6068,7 +6069,6 @@
 0.0.0.0 omniture.theglobeandmail.com
 0.0.0.0 oms.expedia.com
 0.0.0.0 open.mkt1397.com
-0.0.0.0 ophan.guardian.co.uk
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 origin-tracking.trulia.com
@@ -6829,6 +6829,7 @@
 0.0.0.0 measure.ameblo.jp
 0.0.0.0 mtc.nhk.or.jp
 0.0.0.0 pvtag.yahoo.co.jp
+0.0.0.0 pw.gigazine.net
 0.0.0.0 rdsig.yahoo.co.jp
 0.0.0.0 scis.tbs.co.jp
 0.0.0.0 sy.amebame.com
