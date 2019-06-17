@@ -1,10 +1,9 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Wed, 12 Jun 2019 10:19:18 +0800
+# Last converted - Mon, 17 Jun 2019 21:11:40 +0800
 #
 
-0.0.0.0 wu36n.cn
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -884,6 +883,7 @@
 0.0.0.0 googleapi.club
 0.0.0.0 googletakes.com
 0.0.0.0 gotonav.com
+0.0.0.0 gotoniubiurl.pw
 0.0.0.0 gouzhibao.cn
 0.0.0.0 govgift.com
 0.0.0.0 gowin01.com
@@ -1229,6 +1229,7 @@
 0.0.0.0 lishuanghao.com
 0.0.0.0 litlif.net
 0.0.0.0 livehapp.com
+0.0.0.0 ljqnbiogjp.com
 0.0.0.0 llqss.top
 0.0.0.0 lm.35.com
 0.0.0.0 lnctc.net
@@ -1848,6 +1849,7 @@
 0.0.0.0 ws341.com
 0.0.0.0 ws7j.com
 0.0.0.0 wstztt.com
+0.0.0.0 wu36n.cn
 0.0.0.0 wu65.com
 0.0.0.0 wudang05.com
 0.0.0.0 wuwaii.com
@@ -2551,9 +2553,11 @@
 0.0.0.0 1.zhev.com.cn
 0.0.0.0 1.zou114.com
 0.0.0.0 1.zouning.net
+0.0.0.0 1.zuowenjun.com
 0.0.0.0 1.zw3e.com
 0.0.0.0 100669.com
 0.0.0.0 1017.cn
+0.0.0.0 11.golang8.com
 0.0.0.0 11888vip.cn
 0.0.0.0 11g.yiqig.cn
 0.0.0.0 1224.dxsbb.com
@@ -2676,6 +2680,7 @@
 0.0.0.0 abc1.yszyz.com
 0.0.0.0 abcj.dooccn.com
 0.0.0.0 abds.pingpingw.com
+0.0.0.0 ac.86huoche.com
 0.0.0.0 ac1.faxingchina.com
 0.0.0.0 adbd.liuxue86.com
 0.0.0.0 adccoo.cn
@@ -2687,6 +2692,7 @@
 0.0.0.0 aoshuku.com
 0.0.0.0 as1.m.hao123.com
 0.0.0.0 as1.wenku.baidu.com
+0.0.0.0 at1.doubanio.com
 0.0.0.0 b.unjs.com
 0.0.0.0 b1.51scw.net
 0.0.0.0 b1.91jucai.com
@@ -2829,6 +2835,7 @@
 0.0.0.0 dd1.diymianmo.com
 0.0.0.0 df666.pzhttaax.cn
 0.0.0.0 df888.eastday.com
+0.0.0.0 dm.300zi.com
 0.0.0.0 dm.388g.cc
 0.0.0.0 dm.51okc.com
 0.0.0.0 dm.66qw.net
@@ -2895,6 +2902,7 @@
 0.0.0.0 fpb1.gxfin.com
 0.0.0.0 fpbcode.onlinedown.net
 0.0.0.0 fuz.cc
+0.0.0.0 fxjs.2541.com
 0.0.0.0 fzb01.qiushibaike.com
 0.0.0.0 g.3lian.com
 0.0.0.0 g.pgu.cc
@@ -2917,6 +2925,7 @@
 0.0.0.0 gzcl999.cn
 0.0.0.0 gzcl999.com
 0.0.0.0 gzm.xzbu.com
+0.0.0.0 h1.cfxinxi.cn
 0.0.0.0 h1.kukuw.com
 0.0.0.0 h1.tvhome.com
 0.0.0.0 ha.zixuekaoshi.net
@@ -2950,8 +2959,8 @@
 0.0.0.0 int.w3tong.com
 0.0.0.0 iy.com.cn
 0.0.0.0 j.baminw.cn
+0.0.0.0 j.diangon.com
 0.0.0.0 j.imdb.cn
-0.0.0.0 j1.diangon.com
 0.0.0.0 j1.piaobing.com
 0.0.0.0 jb.dianshu119.com
 0.0.0.0 jb.ecar168.cn
@@ -2970,10 +2979,10 @@
 0.0.0.0 jiyan.net
 0.0.0.0 jke1.jianke.com
 0.0.0.0 jnsz.net.cn
-0.0.0.0 js-bd.86huoche.com
 0.0.0.0 js.158pic.com
 0.0.0.0 js.51ir.cn
 0.0.0.0 js.fc090.com
+0.0.0.0 js.gdyjs.com
 0.0.0.0 js.kt250.com
 0.0.0.0 js.shangxueba.com
 0.0.0.0 js.ubaike.cn
@@ -3016,6 +3025,7 @@
 0.0.0.0 m1.bitequan.net.cn
 0.0.0.0 m1.darfd.com
 0.0.0.0 m1.jintang114.org
+0.0.0.0 m1.kuanff.com
 0.0.0.0 m1.nn670.com
 0.0.0.0 m1.vodjk.com
 0.0.0.0 m1.we556.com
@@ -3213,6 +3223,7 @@
 0.0.0.0 zxw51.com
 0.0.0.0 zzc.9939.com
 0.0.0.0 0377shujuhuifu.top
+0.0.0.0 1711811.com
 0.0.0.0 0531mnk.net
 0.0.0.0 18dusun.com
 0.0.0.0 2013sh.com
@@ -3297,6 +3308,7 @@
 0.0.0.0 tdtsd.com
 0.0.0.0 tjshuimu.com
 0.0.0.0 tkssw.com
+0.0.0.0 tuituiyoo999.com
 0.0.0.0 uux79.com
 0.0.0.0 wangketuan.com
 0.0.0.0 weduoke.com
@@ -3340,7 +3352,9 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
-0.0.0.0 tkshyp.com
+0.0.0.0 siguatv.cn
+0.0.0.0 sonsang.cn
+0.0.0.0 tiaoweiyou.cn
 0.0.0.0 0234408.cn
 0.0.0.0 03196688.com
 0.0.0.0 0532ci.com.cn
@@ -3381,9 +3395,11 @@
 0.0.0.0 38ursg.cn
 0.0.0.0 3ql1pb.cn
 0.0.0.0 3vn52l.cn
+0.0.0.0 47dx0c.cn
 0.0.0.0 47n209.com
 0.0.0.0 4a3zf.cn
 0.0.0.0 4ekx.cn
+0.0.0.0 4py3oe.cn
 0.0.0.0 4qn1k.cn
 0.0.0.0 4z5o27.cn
 0.0.0.0 51gpt.com
@@ -3422,6 +3438,7 @@
 0.0.0.0 88k73d.cn
 0.0.0.0 89tyge.top
 0.0.0.0 8byu.cn
+0.0.0.0 8fiv9a.cn
 0.0.0.0 8j24h.cn
 0.0.0.0 8p30k.cn
 0.0.0.0 8v7wg.com
@@ -3596,6 +3613,7 @@
 0.0.0.0 cwpush.com
 0.0.0.0 cxaerp.com
 0.0.0.0 cxb4.cn
+0.0.0.0 cxcxt.com
 0.0.0.0 cxrjl.cn
 0.0.0.0 cxslchkb.cn
 0.0.0.0 cyto-biotherapy.com
@@ -4094,6 +4112,7 @@
 0.0.0.0 okuis.com
 0.0.0.0 okwan.cn
 0.0.0.0 olc0.cn
+0.0.0.0 on68xf.cn
 0.0.0.0 once88.cn
 0.0.0.0 oomyv.com
 0.0.0.0 opqsr.com
@@ -4133,6 +4152,7 @@
 0.0.0.0 pwjhg.com
 0.0.0.0 pxyvb.cn
 0.0.0.0 pyerc.com
+0.0.0.0 pyhuiyu.com
 0.0.0.0 pzuth.cn
 0.0.0.0 pzvlnh.cn
 0.0.0.0 q0uz4c.cn
@@ -4269,6 +4289,7 @@
 0.0.0.0 tiojk.com
 0.0.0.0 tiwom.com
 0.0.0.0 tjiaa.com
+0.0.0.0 tkshyp.com
 0.0.0.0 tl875f.cn
 0.0.0.0 tmmjgcp.cn
 0.0.0.0 tmrmixer.cn
