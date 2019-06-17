@@ -1,9 +1,12 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Wed, 12 Jun 2019 10:19:24 +0800
+# Last converted - Mon, 17 Jun 2019 21:11:49 +0800
 #
 
+0.0.0.0 a6lxbeui.ru
+0.0.0.0 pirt.pro
+0.0.0.0 frolvid.ru
 0.0.0.0 didnrep.ru
 0.0.0.0 enmbg.com
 0.0.0.0 dqzuy.com
