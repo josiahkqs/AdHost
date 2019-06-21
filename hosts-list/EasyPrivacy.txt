@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 17 Jun 2019 21:11:51 +0800
+# Last converted - Fri, 21 Jun 2019 16:37:51 +0800
 #
 
 0.0.0.0 0emm.com
@@ -2375,6 +2375,7 @@
 0.0.0.0 waust.at
 0.0.0.0 wbdx.fr
 0.0.0.0 wbtrk.net
+0.0.0.0 we-stats.com
 0.0.0.0 web-boosting.net
 0.0.0.0 web-counter.net
 0.0.0.0 web-stat.com
@@ -5794,6 +5795,7 @@
 0.0.0.0 cl.expedia.com
 0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clck.yandex.com
+0.0.0.0 clck.yandex.ru
 0.0.0.0 click.aliexpress.com
 0.0.0.0 click.engage.xbox.com
 0.0.0.0 click.jasmin.com
