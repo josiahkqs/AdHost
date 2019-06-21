@@ -1,9 +1,14 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Mon, 17 Jun 2019 21:11:49 +0800
+# Last converted - Fri, 21 Jun 2019 16:37:49 +0800
 #
 
+0.0.0.0 mrakosy.ru
+0.0.0.0 ts-ads.icu
+0.0.0.0 parnuxi.biz
+0.0.0.0 bwbw2kje848hsmla.ru
+0.0.0.0 clicks-cloud.ru
 0.0.0.0 a6lxbeui.ru
 0.0.0.0 pirt.pro
 0.0.0.0 frolvid.ru
@@ -1214,12 +1219,10 @@
 0.0.0.0 goossb.com
 0.0.0.0 gorgasal.co
 0.0.0.0 gos-kanal.ru
-0.0.0.0 gotarget.su
 0.0.0.0 goto.astdn.ru
 0.0.0.0 gotoredr.com
 0.0.0.0 gotostat.ru
 0.0.0.0 gotraff.ru
-0.0.0.0 gottimuch.com
 0.0.0.0 gowoman.ru
 0.0.0.0 goyetteconnelly.bid
 0.0.0.0 gpjph.com
@@ -1232,7 +1235,6 @@
 0.0.0.0 grednomex.pro
 0.0.0.0 greeentea.ru
 0.0.0.0 greenfelder.link
-0.0.0.0 grey-eyes.info
 0.0.0.0 grouteg.com
 0.0.0.0 grovel.ru
 0.0.0.0 grt01.com
@@ -1293,9 +1295,7 @@
 0.0.0.0 hochu-deneg.ru
 0.0.0.0 holder.com.ua
 0.0.0.0 holm.ru
-0.0.0.0 holysts.com
 0.0.0.0 homenick.biz
-0.0.0.0 hommunit.com
 0.0.0.0 homrus.net
 0.0.0.0 host4media.com
 0.0.0.0 hotinga.ru
@@ -1341,19 +1341,14 @@
 0.0.0.0 igrayvmeste.ru
 0.0.0.0 igvuw.com
 0.0.0.0 iholot.ru
-0.0.0.0 ihqht.com
 0.0.0.0 iiutq.xyz
-0.0.0.0 ijdenha.ru
 0.0.0.0 ijldfpgu.biz
 0.0.0.0 ijnocom.ru
 0.0.0.0 ijquery11.com
 0.0.0.0 ijrah.top
 0.0.0.0 ijrah.top
-0.0.0.0 ijtozat.ru
 0.0.0.0 ikiif.com
-0.0.0.0 ikritis.ru
 0.0.0.0 ili.pp.ua
-0.0.0.0 iluzur.com
 0.0.0.0 ilysa.ru
 0.0.0.0 im6-tub.com
 0.0.0.0 imagesatlantic.com
@@ -3499,6 +3494,8 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 d10g3hyu3zeg91.cloudfront.net
+0.0.0.0 tizer2.kinogo.by
 0.0.0.0 stat.moonwalk.co
 0.0.0.0 an.blogis.org
 0.0.0.0 action.evrikak.ru
