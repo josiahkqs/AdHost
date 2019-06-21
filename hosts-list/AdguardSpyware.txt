@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Mon, 17 Jun 2019 21:11:49 +0800
+# Last converted - Fri, 21 Jun 2019 16:37:49 +0800
 #
 
 0.0.0.0 1dmp.io
@@ -1289,7 +1289,6 @@
 0.0.0.0 hitwake.com
 0.0.0.0 hitwebcounter.com
 0.0.0.0 hlserve.com
-0.0.0.0 homechader.com
 0.0.0.0 hopurl.org
 0.0.0.0 hostip.info
 0.0.0.0 hoststats.info
@@ -3730,7 +3729,6 @@
 0.0.0.0 api.amplitude.com
 0.0.0.0 mastertag.effiliation.com
 0.0.0.0 abs.proxistore.com
-0.0.0.0 cdn.tagcommander.com
 0.0.0.0 mc.webvisor.org
 0.0.0.0 phen.fabricmedia.ru
 0.0.0.0 m.dubcm.com
