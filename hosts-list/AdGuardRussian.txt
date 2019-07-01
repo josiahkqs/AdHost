@@ -1,9 +1,16 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 21 Jun 2019 16:37:49 +0800
+# Last converted - Mon, 01 Jul 2019 10:28:06 +0800
 #
 
+0.0.0.0 rbck.st3pst3p.com
+0.0.0.0 hottopnow.com
+0.0.0.0 mywinspin.ru
+0.0.0.0 championwin.ru
+0.0.0.0 advtracker.ru
+0.0.0.0 verdoledran.ru
+0.0.0.0 mosstc.pro
 0.0.0.0 mrakosy.ru
 0.0.0.0 ts-ads.icu
 0.0.0.0 parnuxi.biz
@@ -1412,7 +1419,6 @@
 0.0.0.0 iredirr.com
 0.0.0.0 irleti.com
 0.0.0.0 irozl.com
-0.0.0.0 irtula.ru
 0.0.0.0 islamclick.ru
 0.0.0.0 iso100.ru
 0.0.0.0 isonlynews.net
@@ -1480,7 +1486,6 @@
 0.0.0.0 kalooga.com
 0.0.0.0 karaokepesni.ru
 0.0.0.0 karasutanu.com
-0.0.0.0 kartinuly.ru
 0.0.0.0 katzewazup.org
 0.0.0.0 kazmedia.su
 0.0.0.0 kbllskkwvp.pw
@@ -1526,7 +1531,6 @@
 0.0.0.0 kitchenfilm.ru
 0.0.0.0 kitopr.com
 0.0.0.0 kjaay.com
-0.0.0.0 kjnsfgkjn.ru
 0.0.0.0 kkkiski4u.com
 0.0.0.0 kkpur.xyz
 0.0.0.0 kliklink.ru
@@ -1565,23 +1569,18 @@
 0.0.0.0 krolikplatit.ru
 0.0.0.0 krutilka.net
 0.0.0.0 krytilka.ru
-0.0.0.0 ksdifdd.com
-0.0.0.0 ksdnf.com
 0.0.0.0 ksjdkjh.ru
 0.0.0.0 kuhni.kuhnisiblings.ru
 0.0.0.0 kuhnisister.ru
 0.0.0.0 kuponyua.ru
 0.0.0.0 kurilo.pro
-0.0.0.0 kutabi.info
 0.0.0.0 kuveres.com
 0.0.0.0 kxqvnfcg.xyz
 0.0.0.0 kypivukypi.ru
 0.0.0.0 l0b.ru
 0.0.0.0 labadon.com
-0.0.0.0 lacemme.com
 0.0.0.0 lactonssofut.ru
 0.0.0.0 lactotof.ru
-0.0.0.0 ladiesnadosuge.com
 0.0.0.0 ladyads.ru
 0.0.0.0 ladycash.ru
 0.0.0.0 ladyclicks.ru
@@ -1589,18 +1588,13 @@
 0.0.0.0 ladyshopping.ru
 0.0.0.0 ladytizer.org
 0.0.0.0 ladyya.ru
-0.0.0.0 ladyzxxyz.com
-0.0.0.0 lagrobe.ru
 0.0.0.0 lalabla.biz
-0.0.0.0 lalagop.info
 0.0.0.0 lamise.ru
 0.0.0.0 lamma.24ex.net
 0.0.0.0 langosh.biz
 0.0.0.0 lantocha.ru
 0.0.0.0 lapeduzis.org
-0.0.0.0 lapumo.com
 0.0.0.0 lareson.com
-0.0.0.0 larotret.ru
 0.0.0.0 lasttopreg.top
 0.0.0.0 latlfa.biz
 0.0.0.0 lbbanners.com
@@ -1620,17 +1614,10 @@
 0.0.0.0 ledsitling.pro
 0.0.0.0 leforma.com
 0.0.0.0 legandruk.com
-0.0.0.0 legscare.ru
-0.0.0.0 leleorix.ru
-0.0.0.0 lemfama.ru
 0.0.0.0 lenta-novostei.com
 0.0.0.0 lenty.ru
 0.0.0.0 leoban.ru
 0.0.0.0 leokross.com
-0.0.0.0 leplena.ru
-0.0.0.0 lerester.com
-0.0.0.0 lerova.ru
-0.0.0.0 lerrex.ru
 0.0.0.0 letimsnami.ru
 0.0.0.0 letitsoft.com
 0.0.0.0 letmelook.net
@@ -1641,7 +1628,6 @@
 0.0.0.0 leuxq.com
 0.0.0.0 level1cdn.com
 0.0.0.0 levelpay.ru
-0.0.0.0 levitatsia.ru
 0.0.0.0 lfd-media.ru
 0.0.0.0 lichyela.ru
 0.0.0.0 lidicando.com
@@ -1651,15 +1637,11 @@
 0.0.0.0 likemagazine.ru
 0.0.0.0 likondok.com
 0.0.0.0 limaten.info
-0.0.0.0 limo20.ru
-0.0.0.0 limo21.ru
 0.0.0.0 limonads.net
-0.0.0.0 limonadsources.ru
 0.0.0.0 limoncash.com
 0.0.0.0 lineoflife.ru
 0.0.0.0 lingospot.com
 0.0.0.0 link.ru
-0.0.0.0 linkbuy.biz
 0.0.0.0 linkexchange.
 0.0.0.0 linkfeed.ru
 0.0.0.0 linkforyoud.com
@@ -1681,8 +1663,6 @@
 0.0.0.0 litiumo.com
 0.0.0.0 littel.biz
 0.0.0.0 littel.net
-0.0.0.0 litthecho.pro
-0.0.0.0 litthegre.com
 0.0.0.0 liveclix.net
 0.0.0.0 livedecmov.com
 0.0.0.0 livedecnow.com
@@ -1726,7 +1706,6 @@
 0.0.0.0 lrcs.info
 0.0.0.0 ltcraft.ru
 0.0.0.0 luisardo.com
-0.0.0.0 luke-forelegs0.asia
 0.0.0.0 lux-bn.com.ua
 0.0.0.0 luxads.net
 0.0.0.0 luxcash.ru
@@ -1740,12 +1719,10 @@
 0.0.0.0 lycodz.com
 0.0.0.0 lycosu.com
 0.0.0.0 lydiz.com
-0.0.0.0 lyhowtot.ru
 0.0.0.0 lylxuot.pltqbcgsq.biz
 0.0.0.0 lyryjpjof.biz
 0.0.0.0 m-shes.ru
 0.0.0.0 m0zdeb.ru
-0.0.0.0 m3gadeth.ru
 0.0.0.0 m3oxem1nip48.ru
 0.0.0.0 m4clicks.com
 0.0.0.0 m81jmqmn.ru
@@ -1977,7 +1954,6 @@
 0.0.0.0 n130adserv.com
 0.0.0.0 n161adserv.com
 0.0.0.0 n74s9.com
-0.0.0.0 namezones.ru
 0.0.0.0 namogemi.ru
 0.0.0.0 nanofantiki.edigest.ru
 0.0.0.0 narod-vrach.ru
