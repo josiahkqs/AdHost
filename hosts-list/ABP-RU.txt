@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Fri, 21 Jun 2019 16:37:49 +0800
+# Last converted - Mon, 01 Jul 2019 10:28:06 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1536,6 +1536,8 @@
 0.0.0.0 pushiki.ru
 0.0.0.0 pushington.info
 0.0.0.0 pushkah.info
+0.0.0.0 pushkov.info
+0.0.0.0 pushtora.com
 0.0.0.0 pushtun.info
 0.0.0.0 pustoty.net
 0.0.0.0 putana.cz
@@ -2338,6 +2340,8 @@
 0.0.0.0 afminer.com
 0.0.0.0 afquptvqzw.biz
 0.0.0.0 afrek.ru
+0.0.0.0 afshp1.ru
+0.0.0.0 afshp2.ru
 0.0.0.0 afshp3.ru
 0.0.0.0 afterview.ru
 0.0.0.0 afuiw.com
@@ -2921,6 +2925,7 @@
 0.0.0.0 cf9tn.ru
 0.0.0.0 chabg.top
 0.0.0.0 chajv.top
+0.0.0.0 championwin.ru
 0.0.0.0 chanluu.ru
 0.0.0.0 cheburchik.ru
 0.0.0.0 checkleads.ru
@@ -3329,6 +3334,7 @@
 0.0.0.0 douteure.com
 0.0.0.0 doxodnyi.ru
 0.0.0.0 dqvpww3nzoeeq.cloudfront.net
+0.0.0.0 dqzuy.com
 0.0.0.0 dragpro.ru
 0.0.0.0 dreadfula.ru
 0.0.0.0 dreampartners.ru
@@ -3686,6 +3692,7 @@
 0.0.0.0 fseed.ru
 0.0.0.0 fsibs.top
 0.0.0.0 fstredirr.com
+0.0.0.0 ftd.agency
 0.0.0.0 ftphost.ru
 0.0.0.0 ftrnum.club
 0.0.0.0 ftrnwcewum.club
@@ -5039,6 +5046,7 @@
 0.0.0.0 mycpacash.ru
 0.0.0.0 mycpm.ru
 0.0.0.0 myfishsoup.com
+0.0.0.0 myfreegamez.com
 0.0.0.0 myfreetopcu1.online
 0.0.0.0 myintapi.com
 0.0.0.0 mykaren.ru
@@ -5062,6 +5070,7 @@
 0.0.0.0 myvzuc8cum.site
 0.0.0.0 mywhite.ru
 0.0.0.0 mywifenok.ru
+0.0.0.0 mywinspin.ru
 0.0.0.0 n04m9b14.pro
 0.0.0.0 n1307adserv.xyz
 0.0.0.0 n1vzzp6c4ycn.ru
@@ -5391,6 +5400,7 @@
 0.0.0.0 otsarec.com
 0.0.0.0 otuweb.ru
 0.0.0.0 otvetbistros.ru
+0.0.0.0 otyso.com
 0.0.0.0 ou2ie.ru
 0.0.0.0 oupox.club
 0.0.0.0 outwitch.com
@@ -6539,6 +6549,7 @@
 0.0.0.0 toftofcal.com
 0.0.0.0 toftori.ru
 0.0.0.0 toftroprecaning.ru
+0.0.0.0 tohopes.ru
 0.0.0.0 tojinr.com
 0.0.0.0 toldundevent.com
 0.0.0.0 tolicando.com
@@ -6592,6 +6603,7 @@
 0.0.0.0 trafalz.com
 0.0.0.0 trafers.ru
 0.0.0.0 trafex.net
+0.0.0.0 traffclick.me
 0.0.0.0 traffer.biz
 0.0.0.0 traffer.net
 0.0.0.0 traffic-king.ru
@@ -6751,6 +6763,7 @@
 0.0.0.0 uoldid.ru
 0.0.0.0 upboom.ru
 0.0.0.0 updatesflashplayer.ml
+0.0.0.0 upgyu.com
 0.0.0.0 upravel.com
 0.0.0.0 uqfot.com
 0.0.0.0 ur-listok.ru
@@ -7110,6 +7123,7 @@
 0.0.0.0 wowboom2.ru
 0.0.0.0 wowlink.ru
 0.0.0.0 wowodarta.com
+0.0.0.0 wpad.farm
 0.0.0.0 wpvdt.space
 0.0.0.0 wqgkainysj.ru
 0.0.0.0 wqs7j.ru
@@ -7281,6 +7295,7 @@
 0.0.0.0 yyouut.ru
 0.0.0.0 yyredir.com
 0.0.0.0 yyuin.com
+0.0.0.0 zachaga.ru
 0.0.0.0 zachemtimeniazabanil.ru
 0.0.0.0 zamaraika.ru
 0.0.0.0 zambara.tk
@@ -8107,7 +8122,6 @@
 0.0.0.0 showbiz.mail.ru
 0.0.0.0 vkbutton.com
 0.0.0.0 vkmus.com
-0.0.0.0 an.yandex.ru
 0.0.0.0 be.vtomske.ru
 0.0.0.0 gardnet.tomsk.ru
 0.0.0.0 kompstar.tomsk.ru
