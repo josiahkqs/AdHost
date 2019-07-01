@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 21 Jun 2019 16:37:51 +0800
+# Last converted - Mon, 01 Jul 2019 10:28:09 +0800
 #
 
 0.0.0.0 0emm.com
@@ -284,6 +284,7 @@
 0.0.0.0 azalead.com
 0.0.0.0 azera-s014.com
 0.0.0.0 azointel.com
+0.0.0.0 b0e8.com
 0.0.0.0 b1img.com
 0.0.0.0 b1js.com
 0.0.0.0 b2c.com
@@ -350,6 +351,7 @@
 0.0.0.0 blogtoplist.com
 0.0.0.0 bluecava.com
 0.0.0.0 blueconic.net
+0.0.0.0 bluecore.com
 0.0.0.0 bluekai.com
 0.0.0.0 blvdstatus.com
 0.0.0.0 bm23.com
@@ -1180,6 +1182,7 @@
 0.0.0.0 keywordstrategy.org
 0.0.0.0 kieden.com
 0.0.0.0 killerwebstats.com
+0.0.0.0 kilometrix.de
 0.0.0.0 kissmetrics.com
 0.0.0.0 kisstesting.com
 0.0.0.0 kitbit.net
@@ -1752,6 +1755,7 @@
 0.0.0.0 remarketingpixel.com
 0.0.0.0 remarketstats.com
 0.0.0.0 rep0pkgr.com
+0.0.0.0 repixel.co
 0.0.0.0 report-uri.io
 0.0.0.0 res-x.com
 0.0.0.0 research-tool.com
@@ -2168,6 +2172,7 @@
 0.0.0.0 tracer.jp
 0.0.0.0 tracetracking.net
 0.0.0.0 traceworks.com
+0.0.0.0 track-re01.com
 0.0.0.0 track-server-100.com
 0.0.0.0 track-web.net
 0.0.0.0 track2.me
@@ -2431,6 +2436,7 @@
 0.0.0.0 wildxtraffic.com
 0.0.0.0 wiredminds.de
 0.0.0.0 wisetrack.net
+0.0.0.0 wishabi.net
 0.0.0.0 wishloop.com
 0.0.0.0 womtp.com
 0.0.0.0 woopra-ns.com
@@ -3016,7 +3022,6 @@
 0.0.0.0 refunevent.com
 0.0.0.0 rencohep.com
 0.0.0.0 renhertfo.com
-0.0.0.0 reservedoffers.club
 0.0.0.0 retadint.com
 0.0.0.0 rineventrec.com
 0.0.0.0 rintindown.com
@@ -3073,7 +3078,6 @@
 0.0.0.0 tidafors.xyz
 0.0.0.0 tmmp.io
 0.0.0.0 toftofcal.com
-0.0.0.0 tokyodrift.ga
 0.0.0.0 traffic.tc-clicks.com
 0.0.0.0 traviilo.com
 0.0.0.0 trk.connatix.com
@@ -3159,11 +3163,13 @@
 0.0.0.0 coordinatedcub.com
 0.0.0.0 copycarpenter.com
 0.0.0.0 delegatediscussion.com
+0.0.0.0 desiredirt.com
 0.0.0.0 detectdiscovery.com
 0.0.0.0 ejyymghi.com
 0.0.0.0 familiarfloor.com
 0.0.0.0 fearfulflag.com
 0.0.0.0 flakyfeast.com
+0.0.0.0 forecasttiger.com
 0.0.0.0 frailoffer.com
 0.0.0.0 giddycoat.com
 0.0.0.0 gorgeousground.com
@@ -3175,6 +3181,7 @@
 0.0.0.0 jewelcheese.com
 0.0.0.0 lizardslaugh.com
 0.0.0.0 mowfruit.com
+0.0.0.0 nervoussummer.com
 0.0.0.0 petiteumbrella.com
 0.0.0.0 photographpan.com
 0.0.0.0 pietexture.com
@@ -3887,6 +3894,7 @@
 0.0.0.0 pushdom.co
 0.0.0.0 quartic.pl
 0.0.0.0 rejestr.org
+0.0.0.0 spolecznosci.net
 0.0.0.0 stat.4u.pl
 0.0.0.0 stat.pl
 0.0.0.0 tagcdn.com
@@ -4429,6 +4437,7 @@
 0.0.0.0 d1rnw04e6mc22h.cloudfront.net
 0.0.0.0 d1ros97qkrwjf5.cloudfront.net
 0.0.0.0 d1ssbq1bwjg5ux.cloudfront.net
+0.0.0.0 d1t9uctetvi0tu.cloudfront.net
 0.0.0.0 d1uanozc5el74n.cloudfront.net
 0.0.0.0 d1wscoizcbxzhp.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
@@ -4812,6 +4821,7 @@
 0.0.0.0 pixel.yola.com
 0.0.0.0 pixels.youknowbest.com
 0.0.0.0 platform.communicatorcorp.com
+0.0.0.0 platform.iteratehq.com
 0.0.0.0 pmetrics.performancing.com
 0.0.0.0 pong.production.gannettdigital.com
 0.0.0.0 postpixel.vindicosuite.com
@@ -5033,6 +5043,7 @@
 0.0.0.0 thetradedesk-tags.s3.amazonaws.com
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 tm.tradetracker.net
+0.0.0.0 tm.vendemore.com
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 tower.moviepilot.com
 0.0.0.0 tr-metrics.loomia.com
@@ -5833,8 +5844,6 @@
 0.0.0.0 collector.statowl.com
 0.0.0.0 collector.tescocompare.com
 0.0.0.0 collector.trendmd.com
-0.0.0.0 collector.xhamster.com
-0.0.0.0 collector1.xhamster.com
 0.0.0.0 comms-web-tracking.uswitchinternal.com
 0.0.0.0 confirm-referer.glrsales.com
 0.0.0.0 contadores.bolsamania.com
@@ -6019,6 +6028,7 @@
 0.0.0.0 metric.inetcore.com
 0.0.0.0 metrics.apartments.com
 0.0.0.0 metrics.aws.sitepoint.com
+0.0.0.0 metrics.bangbros.com
 0.0.0.0 metrics.cbn.com
 0.0.0.0 metrics.cbslocal.com
 0.0.0.0 metrics.cnn.com
@@ -6249,6 +6259,7 @@
 0.0.0.0 sp.press-citizen.com
 0.0.0.0 sp.pressconnects.com
 0.0.0.0 sp.publicopiniononline.com
+0.0.0.0 sp.pushsquare.com
 0.0.0.0 sp.redding.com
 0.0.0.0 sp.reporternews.com
 0.0.0.0 sp.rgj.com
@@ -6397,6 +6408,7 @@
 0.0.0.0 timestrends.timesnow.tv
 0.0.0.0 tk.kargo.com
 0.0.0.0 tkpi.delta.com
+0.0.0.0 tnla.thenewslens.com
 0.0.0.0 tools.ranker.com
 0.0.0.0 top.wn.com
 0.0.0.0 total.shanghaidaily.com
@@ -6416,7 +6428,6 @@
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.netzero.net
 0.0.0.0 track.ning.com
-0.0.0.0 track.promptfile.com
 0.0.0.0 track.pushbullet.com
 0.0.0.0 track.rediff.com
 0.0.0.0 track.slideshare.net
@@ -6468,6 +6479,7 @@
 0.0.0.0 tracking.resumecompanion.com
 0.0.0.0 tracking.shoptogether.buy.com
 0.0.0.0 tracking.softwareprojects.com
+0.0.0.0 tracking.teamskeet.com
 0.0.0.0 tracking.tidalhifi.com
 0.0.0.0 tracking.times247.com
 0.0.0.0 tracking.ukwm.co.uk
@@ -6531,9 +6543,7 @@
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 piti.bplaced.net
-0.0.0.0 play.estream.nu
 0.0.0.0 play.estream.to
-0.0.0.0 play.estream.xyz
 0.0.0.0 support.2giga.link
 0.0.0.0 worker.salon.com
 0.0.0.0 event-analytics.yesware.com
@@ -6864,6 +6874,7 @@
 0.0.0.0 kropka.onet.pl
 0.0.0.0 mklik.gazeta.pl
 0.0.0.0 p.gazeta.pl
+0.0.0.0 pixel.wp.pl
 0.0.0.0 rek.www.wp.pl
 0.0.0.0 stats.teledyski.info
 0.0.0.0 audience-mostread.r7.com
