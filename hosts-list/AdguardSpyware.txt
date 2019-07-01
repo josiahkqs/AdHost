@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Fri, 21 Jun 2019 16:37:49 +0800
+# Last converted - Mon, 01 Jul 2019 10:28:06 +0800
 #
 
 0.0.0.0 1dmp.io
@@ -1376,7 +1376,6 @@
 0.0.0.0 intelimet.com
 0.0.0.0 intelli-direct.com
 0.0.0.0 intelli-tracker.com
-0.0.0.0 intelliad-tracking.com
 0.0.0.0 intelliad.de
 0.0.0.0 intelligencefocus.com
 0.0.0.0 intentmedia.net
@@ -1494,7 +1493,6 @@
 0.0.0.0 lead-123.com
 0.0.0.0 lead-converter.com
 0.0.0.0 lead-or-call.ru
-0.0.0.0 lead-tracking.biz
 0.0.0.0 leadforce1.com
 0.0.0.0 leadforensics.com
 0.0.0.0 leadformix.com
@@ -1522,7 +1520,6 @@
 0.0.0.0 link-smart.com
 0.0.0.0 linkconnector.com
 0.0.0.0 linkpulse.com
-0.0.0.0 linktausch-pagerank.de
 0.0.0.0 linktausch.li
 0.0.0.0 linkxchanger.com
 0.0.0.0 listrakbi.com
@@ -1569,7 +1566,6 @@
 0.0.0.0 lumatag.co.uk
 0.0.0.0 luminate.com
 0.0.0.0 lxtrack.com
-0.0.0.0 lymantriacypresdoctrine.biz
 0.0.0.0 lypn.com
 0.0.0.0 lypn.net
 0.0.0.0 lytics.io
@@ -3149,6 +3145,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 track.sohu.com
 0.0.0.0 pw.gigazine.net
 0.0.0.0 marketing.net.brillen.de
