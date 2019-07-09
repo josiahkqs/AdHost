@@ -1,9 +1,19 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Mon, 01 Jul 2019 10:28:06 +0800
+# Last converted - Tue, 09 Jul 2019 19:16:26 +0800
 #
 
+0.0.0.0 vyborexperta.ru
+0.0.0.0 liluwoms8.ru
+0.0.0.0 mypictures-versii.info
+0.0.0.0 obb.domohoziaka.ru
+0.0.0.0 vipblogers.ru
+0.0.0.0 190282.xyz
+0.0.0.0 virt0n.news
+0.0.0.0 oblivmt.site
+0.0.0.0 myconst.net
+0.0.0.0 roundfortred.ru
 0.0.0.0 rbck.st3pst3p.com
 0.0.0.0 hottopnow.com
 0.0.0.0 mywinspin.ru
@@ -15,6 +25,7 @@
 0.0.0.0 ts-ads.icu
 0.0.0.0 parnuxi.biz
 0.0.0.0 bwbw2kje848hsmla.ru
+0.0.0.0 5edeb195868e2195.com
 0.0.0.0 clicks-cloud.ru
 0.0.0.0 a6lxbeui.ru
 0.0.0.0 pirt.pro
@@ -3470,6 +3481,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 a.kidstaff.net
 0.0.0.0 d10g3hyu3zeg91.cloudfront.net
 0.0.0.0 tizer2.kinogo.by
 0.0.0.0 stat.moonwalk.co
