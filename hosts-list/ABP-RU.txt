@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Mon, 01 Jul 2019 10:28:06 +0800
+# Last converted - Tue, 09 Jul 2019 19:16:26 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -25,14 +25,18 @@
 0.0.0.0 10qwjy943f.com
 0.0.0.0 12place.com
 0.0.0.0 130.211.212.60
+0.0.0.0 1740f665a91b68.com
 0.0.0.0 176.114.0.131
 0.0.0.0 35.184.188.211
 0.0.0.0 42eed1a0d9c129.com
 0.0.0.0 46kdc235eh.com
+0.0.0.0 4allclick.ru
 0.0.0.0 5ikmih8avqhcbk.com
+0.0.0.0 602d76e204c032.com
 0.0.0.0 777-888.ru
 0.0.0.0 aabd.ru
 0.0.0.0 abdaubda.com
+0.0.0.0 actionpay.ru
 0.0.0.0 adbetnet.com
 0.0.0.0 adfill.me
 0.0.0.0 ads2rtb.com
@@ -127,6 +131,7 @@
 0.0.0.0 go.trafking.ru
 0.0.0.0 gobylink.info
 0.0.0.0 gocdn.ru
+0.0.0.0 gokliks.ru
 0.0.0.0 golden-playing.com
 0.0.0.0 gomakemerich1.com
 0.0.0.0 gomakemerich2.com
@@ -256,6 +261,7 @@
 0.0.0.0 shakespoint.com
 0.0.0.0 shakesspot.com
 0.0.0.0 skiles.link
+0.0.0.0 social-leads.ru
 0.0.0.0 spiderbig.info
 0.0.0.0 starcrowd.ru
 0.0.0.0 starinform.ru
@@ -326,6 +332,13 @@
 0.0.0.0 a2g-secure.com
 0.0.0.0 abourselfi.com
 0.0.0.0 actionads.ru
+0.0.0.0 adv225489.ru
+0.0.0.0 adv457895.ru
+0.0.0.0 adv481895.ru
+0.0.0.0 adv578125.ru
+0.0.0.0 adv679854.ru
+0.0.0.0 adv758968.ru
+0.0.0.0 adv859672.ru
 0.0.0.0 artluch.ru
 0.0.0.0 astaninki2.com
 0.0.0.0 astdn.ru
@@ -341,6 +354,7 @@
 0.0.0.0 clbvpurple.com
 0.0.0.0 club-sale.ru
 0.0.0.0 clubrelaxxxx.com
+0.0.0.0 contactsin.mobi
 0.0.0.0 devochki.cz
 0.0.0.0 dugfoto.ru
 0.0.0.0 electbloger.com
@@ -407,6 +421,7 @@
 0.0.0.0 gemoroy-stop.biz
 0.0.0.0 hanata.pp.ua
 0.0.0.0 intoxic.biz
+0.0.0.0 otvetes.com
 0.0.0.0 peterfarley.net
 0.0.0.0 peterjfarley.info
 0.0.0.0 plaster-orto.com
@@ -1332,6 +1347,7 @@
 0.0.0.0 leadiacloud.com
 0.0.0.0 leadobur.com
 0.0.0.0 leetero.ru
+0.0.0.0 lendvost.org
 0.0.0.0 lenty.ru
 0.0.0.0 letitbit-porno.com
 0.0.0.0 letitsoft.com
@@ -1468,6 +1484,7 @@
 0.0.0.0 owebmoney.ru
 0.0.0.0 oxysoft.ru
 0.0.0.0 pammru.net
+0.0.0.0 partishion.com
 0.0.0.0 partner.alfa.kz
 0.0.0.0 partner.allsoft.ru
 0.0.0.0 partner.cryptonet.biz
@@ -1878,6 +1895,7 @@
 0.0.0.0 12cpm.com
 0.0.0.0 12ffa915d500a.com
 0.0.0.0 164e1ca9ba.com
+0.0.0.0 1740f665a91b68.com
 0.0.0.0 178117dc924c58ec9b1c.com
 0.0.0.0 185.180.196.178
 0.0.0.0 18b6fb578b9.com
@@ -1989,6 +2007,7 @@
 0.0.0.0 48faeb9ff2ef3ee28517.date
 0.0.0.0 4a5388e4cd31336b89c2.date
 0.0.0.0 4af331ce57429b8.com
+0.0.0.0 4allclick.ru
 0.0.0.0 4b4abb50b13fc4e01adc.date
 0.0.0.0 4broomandbrush.zone
 0.0.0.0 4c47506cb9f.com
@@ -2282,6 +2301,13 @@
 0.0.0.0 adv-views.com
 0.0.0.0 adv.vz.ru
 0.0.0.0 adv01st.com
+0.0.0.0 adv225489.ru
+0.0.0.0 adv457895.ru
+0.0.0.0 adv481895.ru
+0.0.0.0 adv578125.ru
+0.0.0.0 adv679854.ru
+0.0.0.0 adv758968.ru
+0.0.0.0 adv859672.ru
 0.0.0.0 advadnetwork.me
 0.0.0.0 advagava.ru
 0.0.0.0 advancets.org
@@ -2398,6 +2424,7 @@
 0.0.0.0 alljournal.ru
 0.0.0.0 allkalisto.ru
 0.0.0.0 allmarket1.ru
+0.0.0.0 allmygreatestlife.com
 0.0.0.0 alloffs.ru
 0.0.0.0 allowac.com
 0.0.0.0 allroll.biz
@@ -2910,6 +2937,7 @@
 0.0.0.0 cdnport.ru
 0.0.0.0 cdnrefpa.com
 0.0.0.0 cdnvt.ru
+0.0.0.0 ceatwilmo.ru
 0.0.0.0 ceeglousaud.com
 0.0.0.0 ceehimur.uk
 0.0.0.0 celebhistory.ru
@@ -3043,6 +3071,7 @@
 0.0.0.0 connees.com
 0.0.0.0 const.website
 0.0.0.0 contactsin.com
+0.0.0.0 contactsin.mobi
 0.0.0.0 contactsin.ru
 0.0.0.0 contema.ru
 0.0.0.0 conteresse.com
@@ -3207,7 +3236,6 @@
 0.0.0.0 ddomb.com
 0.0.0.0 dealsplus.ru
 0.0.0.0 deammer.ru
-0.0.0.0 debitcrebit669.com
 0.0.0.0 decajo.ru
 0.0.0.0 decce2efaeca.com
 0.0.0.0 dedenye.ru
@@ -3470,6 +3498,7 @@
 0.0.0.0 enod.info
 0.0.0.0 enorkear.ru
 0.0.0.0 enrecte.com
+0.0.0.0 enrecuq2eqvbauv.ru
 0.0.0.0 ensepare.com
 0.0.0.0 ensurania.com
 0.0.0.0 entimee.com
@@ -3827,6 +3856,7 @@
 0.0.0.0 gogo4girlz.com
 0.0.0.0 gogoway.ru
 0.0.0.0 gohillgo.com
+0.0.0.0 gokliks.ru
 0.0.0.0 goldpuddle.xyz
 0.0.0.0 golfsu.date
 0.0.0.0 gomakemerich1.com
@@ -3955,6 +3985,7 @@
 0.0.0.0 hedvid.com
 0.0.0.0 heelwork.com
 0.0.0.0 helth-guarantee.ru
+0.0.0.0 henerun.com
 0.0.0.0 heprenhan.com
 0.0.0.0 hepsithert.ru
 0.0.0.0 heqop.ru
@@ -4018,6 +4049,8 @@
 0.0.0.0 hugedi.com
 0.0.0.0 humanredirect.ru
 0.0.0.0 hundana.ru
+0.0.0.0 hunterdelivery.com
+0.0.0.0 hunterycity.com
 0.0.0.0 hunteryvely.com
 0.0.0.0 hupers.ru
 0.0.0.0 hushodo.com
@@ -4464,6 +4497,7 @@
 0.0.0.0 ksdnf.com
 0.0.0.0 kshop.biz
 0.0.0.0 kshop2.biz
+0.0.0.0 kshop3.biz
 0.0.0.0 ktozabanittotkirkorov.ru
 0.0.0.0 ktyog.com
 0.0.0.0 kurberi.ru
@@ -4488,6 +4522,7 @@
 0.0.0.0 lactotof.ru
 0.0.0.0 ladiesnadosuge.com
 0.0.0.0 ladoshka.webcam
+0.0.0.0 ladsdown.com
 0.0.0.0 lady-click.com
 0.0.0.0 lady-clicks.ru
 0.0.0.0 lady-sroryz.ru
@@ -4619,6 +4654,7 @@
 0.0.0.0 lionkrit.pro
 0.0.0.0 lisakova98.ml
 0.0.0.0 lisamobile.ru
+0.0.0.0 lisrrf.info
 0.0.0.0 listat.biz
 0.0.0.0 listis.ru
 0.0.0.0 listof.mobi
@@ -4773,6 +4809,7 @@
 0.0.0.0 mateast.com
 0.0.0.0 maus77.ru
 0.0.0.0 maxforta.com
+0.0.0.0 maxtraff.com
 0.0.0.0 maxwaps.ru
 0.0.0.0 may.pp.ua
 0.0.0.0 maybachvip.ru
@@ -4830,7 +4867,9 @@
 0.0.0.0 mediateas.com
 0.0.0.0 mediateaser.biz
 0.0.0.0 mediatoday.ru
+0.0.0.0 mediaunder.info
 0.0.0.0 mediaunder.org
+0.0.0.0 mediaunder.us
 0.0.0.0 mediawayss.com
 0.0.0.0 medicinehistor.ru
 0.0.0.0 medicineteaser.ru
@@ -5048,6 +5087,7 @@
 0.0.0.0 myfishsoup.com
 0.0.0.0 myfreegamez.com
 0.0.0.0 myfreetopcu1.online
+0.0.0.0 mygoodlives.com
 0.0.0.0 myintapi.com
 0.0.0.0 mykaren.ru
 0.0.0.0 myloveadblock.ucoz.club
@@ -5067,6 +5107,7 @@
 0.0.0.0 mytizer.com
 0.0.0.0 mytochka.ru
 0.0.0.0 mytomatosoup.com
+0.0.0.0 mytraff.net
 0.0.0.0 myvzuc8cum.site
 0.0.0.0 mywhite.ru
 0.0.0.0 mywifenok.ru
@@ -5400,6 +5441,7 @@
 0.0.0.0 otsarec.com
 0.0.0.0 otuweb.ru
 0.0.0.0 otvetbistros.ru
+0.0.0.0 otvetes.com
 0.0.0.0 otyso.com
 0.0.0.0 ou2ie.ru
 0.0.0.0 oupox.club
@@ -5682,6 +5724,7 @@
 0.0.0.0 pushprofit.ru
 0.0.0.0 pustgovorjat.ru
 0.0.0.0 puttyac.com
+0.0.0.0 puu.sh
 0.0.0.0 puwws.pro
 0.0.0.0 puzcd.top
 0.0.0.0 pvafh.com
@@ -5819,6 +5862,7 @@
 0.0.0.0 rekovers.ru
 0.0.0.0 reks.club
 0.0.0.0 rekvid1.ru
+0.0.0.0 remarketingpixel.com
 0.0.0.0 renewnewss.net
 0.0.0.0 rerelep.info
 0.0.0.0 rerer6.ru
@@ -6617,6 +6661,7 @@
 0.0.0.0 trafgid.com
 0.0.0.0 trafic-media.co
 0.0.0.0 trafic-media.ru
+0.0.0.0 trafidet.ru
 0.0.0.0 trafka.ru
 0.0.0.0 trafmake.ru
 0.0.0.0 trafmaster.com
@@ -7096,6 +7141,7 @@
 0.0.0.0 witherty.ru
 0.0.0.0 withnewswearebest.com
 0.0.0.0 witthethim.com
+0.0.0.0 wizard-traffstock.com
 0.0.0.0 wizardmedia.org
 0.0.0.0 wjzvx.com
 0.0.0.0 wkrek.ru
@@ -7133,6 +7179,7 @@
 0.0.0.0 wshosting.ru
 0.0.0.0 wssdoo.com
 0.0.0.0 wtoredir.com
+0.0.0.0 wts-rotator.com
 0.0.0.0 wucm.ru
 0.0.0.0 wuvxr.top
 0.0.0.0 wvzhj.com
@@ -7189,6 +7236,7 @@
 0.0.0.0 xlog.info
 0.0.0.0 xlounge.ru
 0.0.0.0 xlrvh.top
+0.0.0.0 xltraff.net
 0.0.0.0 xmediaserve.com
 0.0.0.0 xn-----7kcnh2ac3afebiffxijf2d6a5e.xn--p1ai
 0.0.0.0 xn----etbhjdhwegjlz.xn--p1ai
@@ -7232,6 +7280,7 @@
 0.0.0.0 yap2017ura.ru
 0.0.0.0 yaprealpolza.ru
 0.0.0.0 yapspecialrequest.ru
+0.0.0.0 ybpxv.com
 0.0.0.0 ybvnx.top
 0.0.0.0 ycounter.ru
 0.0.0.0 ydare.space
@@ -8110,6 +8159,7 @@
 0.0.0.0 www.xxxsexpic.net
 0.0.0.0 xf.xyu.tv
 0.0.0.0 xjp4v.ru
+0.0.0.0 xn--80aaivjfyj3e.com
 0.0.0.0 yapfiles.com
 0.0.0.0 yarportal.ru
 0.0.0.0 youhack.ru
@@ -8117,6 +8167,7 @@
 0.0.0.0 zadrb.zadrottv.ru
 0.0.0.0 zen-test.yandex.ru
 0.0.0.0 zzsites.ru
+0.0.0.0 шпаргалки.com
 0.0.0.0 ed98512111bb19e5.in.net
 0.0.0.0 banners.mail.ru
 0.0.0.0 showbiz.mail.ru
