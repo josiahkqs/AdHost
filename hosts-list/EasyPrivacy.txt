@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 01 Jul 2019 10:28:09 +0800
+# Last converted - Tue, 09 Jul 2019 19:16:28 +0800
 #
 
 0.0.0.0 0emm.com
@@ -2304,6 +2304,7 @@
 0.0.0.0 userreplay.net
 0.0.0.0 userreport.com
 0.0.0.0 users-api.com
+0.0.0.0 userzoom.com
 0.0.0.0 usuarios-online.com
 0.0.0.0 uuxnwoevyb.com
 0.0.0.0 v12group.com
@@ -3222,6 +3223,7 @@
 0.0.0.0 adquality.ch
 0.0.0.0 adrank24.de
 0.0.0.0 adtraxx.de
+0.0.0.0 adtriba.com
 0.0.0.0 adzoe.de
 0.0.0.0 amunx.de
 0.0.0.0 analytics.rechtslupe.org
@@ -3892,7 +3894,6 @@
 0.0.0.0 nsaudience.pl
 0.0.0.0 p071qmn.com
 0.0.0.0 pushdom.co
-0.0.0.0 quartic.pl
 0.0.0.0 rejestr.org
 0.0.0.0 spolecznosci.net
 0.0.0.0 stat.4u.pl
@@ -5564,6 +5565,7 @@
 0.0.0.0 fab.interia.pl
 0.0.0.0 hit.interia.pl
 0.0.0.0 pixel.homebook.pl
+0.0.0.0 rec.quartic.pl
 0.0.0.0 scontent.services.tvn.pl
 0.0.0.0 stats.asp24.pl
 0.0.0.0 stats.media.onet.pl
@@ -6626,6 +6628,7 @@
 0.0.0.0 tdf.ringier.ch
 0.0.0.0 tp.deawm.com
 0.0.0.0 tr.werkenntwen.de
+0.0.0.0 track.bazonline.ch
 0.0.0.0 track.bernerzeitung.ch
 0.0.0.0 track.cinestar.de
 0.0.0.0 track.derbund.ch
