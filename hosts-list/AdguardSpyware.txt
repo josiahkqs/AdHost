@@ -1,9 +1,13 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Mon, 01 Jul 2019 10:28:06 +0800
+# Last converted - Tue, 09 Jul 2019 19:16:26 +0800
 #
 
+0.0.0.0 maliva-mcs.byteoversea.com
+0.0.0.0 sgali-mcs.byteoversea.com
+0.0.0.0 mcs.snssdk.com
+0.0.0.0 mcs.byted.org
 0.0.0.0 1dmp.io
 0.0.0.0 profusesupport.com
 0.0.0.0 logger.pw
@@ -3145,6 +3149,8 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 pixel.wp.pl
+0.0.0.0 dot.wp.pl
 0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 track.sohu.com
 0.0.0.0 pw.gigazine.net
@@ -3892,7 +3898,6 @@
 0.0.0.0 m.addthisedge.com
 0.0.0.0 m.trb.com
 0.0.0.0 mastertag.kpcustomer.de
-0.0.0.0 mboxedge26.tt.omtrdc.net
 0.0.0.0 met.vgwort.de
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.cnn.com
