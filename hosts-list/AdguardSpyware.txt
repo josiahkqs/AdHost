@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Tue, 09 Jul 2019 19:16:26 +0800
+# Last converted - Wed, 10 Jul 2019 09:18:39 +0800
 #
 
 0.0.0.0 maliva-mcs.byteoversea.com
@@ -9,6 +9,7 @@
 0.0.0.0 mcs.snssdk.com
 0.0.0.0 mcs.byted.org
 0.0.0.0 1dmp.io
+0.0.0.0 wheredoyoucomefrom.ovh
 0.0.0.0 profusesupport.com
 0.0.0.0 logger.pw
 0.0.0.0 log-ird.outbrain.com
@@ -1865,7 +1866,6 @@
 0.0.0.0 optimost.com
 0.0.0.0 optin-machine.com
 0.0.0.0 optorb.com
-0.0.0.0 optreadetrus.info
 0.0.0.0 oranges88.com
 0.0.0.0 orcapia.com
 0.0.0.0 org-dot-com.com
@@ -2056,7 +2056,6 @@
 0.0.0.0 r7ls.net
 0.0.0.0 radarstats.com
 0.0.0.0 radarurl.com
-0.0.0.0 radiomanlibya.com
 0.0.0.0 rampmetrics.com
 0.0.0.0 rang.com.ua
 0.0.0.0 rank-hits.com
