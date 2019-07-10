@@ -1,9 +1,11 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 09 Jul 2019 19:16:26 +0800
+# Last converted - Wed, 10 Jul 2019 09:18:39 +0800
 #
 
+0.0.0.0 eebfffjegjajjiacaci.ru
+0.0.0.0 iwqzrm.com
 0.0.0.0 vyborexperta.ru
 0.0.0.0 liluwoms8.ru
 0.0.0.0 mypictures-versii.info
@@ -2134,7 +2136,6 @@
 0.0.0.0 openx.com
 0.0.0.0 openx.net
 0.0.0.0 openx.org
-0.0.0.0 oqkuwkax.com
 0.0.0.0 oreshki-news.net
 0.0.0.0 oriondigital.ru
 0.0.0.0 ortetse.ru
@@ -2248,7 +2249,6 @@
 0.0.0.0 po-cloud.net
 0.0.0.0 pochasos.ru
 0.0.0.0 pofqm.xyz
-0.0.0.0 pointclc.com
 0.0.0.0 pokazuha.pp.ua
 0.0.0.0 pokitom.com
 0.0.0.0 pokrutim.ru
@@ -2357,7 +2357,6 @@
 0.0.0.0 qhiip.com
 0.0.0.0 qkffv.com
 0.0.0.0 qload.ru
-0.0.0.0 qnxilhyvvd.biz
 0.0.0.0 qoheo.com
 0.0.0.0 qrstes.com
 0.0.0.0 qshare.ru
