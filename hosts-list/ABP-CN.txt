@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Tue, 09 Jul 2019 19:16:23 +0800
+# Last converted - Wed, 10 Jul 2019 09:18:35 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -2405,7 +2405,6 @@
 0.0.0.0 market.duowan.com
 0.0.0.0 mini.hao123.com
 0.0.0.0 miniye.xjts.cn
-0.0.0.0 mixbig.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0 money.qz828.com
 0.0.0.0 mp3.haogeba.com
 0.0.0.0 myad.toocle.com
@@ -2500,6 +2499,7 @@
 0.0.0.0 zkrdy.com
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
+0.0.0.0 badding.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0 immedlinkum.info
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
@@ -3375,7 +3375,6 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
-0.0.0.0 519397.com
 0.0.0.0 0234408.cn
 0.0.0.0 03196688.com
 0.0.0.0 0532ci.com.cn
@@ -3424,6 +3423,7 @@
 0.0.0.0 4py3oe.cn
 0.0.0.0 4qn1k.cn
 0.0.0.0 4z5o27.cn
+0.0.0.0 519397.com
 0.0.0.0 51gpt.com
 0.0.0.0 51posuiji.org.cn
 0.0.0.0 52tushuo.com
@@ -3462,6 +3462,7 @@
 0.0.0.0 8byu.cn
 0.0.0.0 8fiv9a.cn
 0.0.0.0 8j24h.cn
+0.0.0.0 8ls3n.cn
 0.0.0.0 8p30k.cn
 0.0.0.0 8v7wg.com
 0.0.0.0 91byy.cn
@@ -3753,6 +3754,7 @@
 0.0.0.0 fipipo.cn
 0.0.0.0 fj95560.com
 0.0.0.0 fjhanmei.com
+0.0.0.0 fjmrxys.com
 0.0.0.0 fjtzjy.com
 0.0.0.0 fjxyo.com
 0.0.0.0 fkikij.cn
