@@ -293,3 +293,4 @@
 0.0.0.0 baby.horo88.cc # Spam
 0.0.0.0 leaplunchroom.com # Spam
 0.0.0.0 www.lewenxiaoshuo.com # Spam
+0.0.0.0 netflixupdate.com # Phishing
