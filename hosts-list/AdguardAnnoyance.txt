@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Tue, 09 Jul 2019 19:16:26 +0800
+# Last converted - Fri, 12 Jul 2019 23:54:54 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -16,6 +16,7 @@
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 cookielaw.org
 0.0.0.0 cookiebot.com
+0.0.0.0 privacy-center.org
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 consensu.org
 0.0.0.0 policy.cookieinformation.com
@@ -29,6 +30,9 @@
 0.0.0.0 cc.silktide.com
 0.0.0.0 2app.lk
 0.0.0.0 br.app.link
+0.0.0.0 api.cazamba.com
+0.0.0.0 cdn.pn.vg
+0.0.0.0 socialsend.ru
 0.0.0.0 trbo.com
 0.0.0.0 tradeins.ru
 0.0.0.0 panel.smartpoint.pro
@@ -72,6 +76,8 @@
 0.0.0.0 pushiki.ru
 0.0.0.0 push-money.ru
 0.0.0.0 leechiza.net
+0.0.0.0 pushtora.com
+0.0.0.0 hattepush.com
 0.0.0.0 hostpush.info
 0.0.0.0 allstat-pp.ru
 0.0.0.0 getpush.net
@@ -128,7 +134,6 @@
 0.0.0.0 emarketingsuite.net
 0.0.0.0 push.maribacaberita.com
 0.0.0.0 iopushtech.com
-0.0.0.0 widget.intercom.io
 0.0.0.0 pushpad.xyz
 0.0.0.0 foxpush.com
 0.0.0.0 accengage.net
