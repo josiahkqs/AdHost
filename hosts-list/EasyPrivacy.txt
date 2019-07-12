@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 09 Jul 2019 19:16:28 +0800
+# Last converted - Fri, 12 Jul 2019 23:54:57 +0800
 #
 
 0.0.0.0 0emm.com
@@ -5894,6 +5894,7 @@
 0.0.0.0 etui.fs.ml.com
 0.0.0.0 eulerian.sarenza.com
 0.0.0.0 ev.kck.st
+0.0.0.0 event-collector.udsrv.com
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 eventlogger.soundcloud.com
@@ -6087,6 +6088,7 @@
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 origin-tracking.trulia.com
 0.0.0.0 origin.chron.com
+0.0.0.0 page-events-ustats.udemy.com
 0.0.0.0 pageinfo.motorsport.com
 0.0.0.0 partner.worldoftanks.com
 0.0.0.0 partners.badongo.com
