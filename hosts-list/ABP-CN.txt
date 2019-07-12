@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Wed, 10 Jul 2019 09:18:35 +0800
+# Last converted - Fri, 12 Jul 2019 23:54:48 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -2163,7 +2163,7 @@
 0.0.0.0 1.hao123.com
 0.0.0.0 100.admin5.com
 0.0.0.0 100.pncdn.cn
-0.0.0.0 104.149.15.130
+0.0.0.0 23.91.3.114
 0.0.0.0 104.201.27.131
 0.0.0.0 104.37.245.11
 0.0.0.0 108.171.248.234
@@ -2256,6 +2256,7 @@
 0.0.0.0 atm.youku.com
 0.0.0.0 ax.ifeng.com
 0.0.0.0 b.tukucc.com
+0.0.0.0 badding.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0 baifen.music.baidu.com
 0.0.0.0 besc.baidustatic.com
 0.0.0.0 biz.gexing.com
@@ -2499,7 +2500,6 @@
 0.0.0.0 zkrdy.com
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
-0.0.0.0 badding.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0 immedlinkum.info
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
@@ -3375,6 +3375,8 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
+0.0.0.0 5yw4n.cn
+0.0.0.0 hjjnpx.com
 0.0.0.0 0234408.cn
 0.0.0.0 03196688.com
 0.0.0.0 0532ci.com.cn
@@ -3760,6 +3762,7 @@
 0.0.0.0 fkikij.cn
 0.0.0.0 fkkse.com
 0.0.0.0 fkogs.com
+0.0.0.0 fninin.cn
 0.0.0.0 fnxmyx.cn
 0.0.0.0 focuscat.com
 0.0.0.0 fouas.com
@@ -3851,6 +3854,7 @@
 0.0.0.0 hchig.com
 0.0.0.0 hchik.com
 0.0.0.0 hdfdm.com
+0.0.0.0 hdminfeng.com
 0.0.0.0 hdswgc.com
 0.0.0.0 hduic.com
 0.0.0.0 headwell.cn
@@ -4055,6 +4059,7 @@
 0.0.0.0 let83.cn
 0.0.0.0 lfdydk.com
 0.0.0.0 lfouz.com
+0.0.0.0 lfzxcp.com
 0.0.0.0 lglady.cn
 0.0.0.0 lglkqm.cn
 0.0.0.0 lguir.com
@@ -4112,6 +4117,7 @@
 0.0.0.0 mobiorg8.com
 0.0.0.0 morningpiggy.com
 0.0.0.0 mouaa.com
+0.0.0.0 movii-loft.cn
 0.0.0.0 mqcwr.cn
 0.0.0.0 mqies.com
 0.0.0.0 mreod.cn
@@ -4165,6 +4171,7 @@
 0.0.0.0 on68xf.cn
 0.0.0.0 once88.cn
 0.0.0.0 oomyv.com
+0.0.0.0 opengam.com
 0.0.0.0 opqsr.com
 0.0.0.0 osaws.com
 0.0.0.0 osimym.com
