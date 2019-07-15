@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 12 Jul 2019 23:54:57 +0800
+# Last converted - Tue, 16 Jul 2019 00:55:04 +0800
 #
 
 0.0.0.0 0emm.com
@@ -580,6 +580,7 @@
 0.0.0.0 craftkeys.com
 0.0.0.0 craktraffic.com
 0.0.0.0 crashfootwork.com
+0.0.0.0 crazyclickstats.com
 0.0.0.0 crazyegg.com
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
@@ -928,6 +929,7 @@
 0.0.0.0 getsmartlook.com
 0.0.0.0 getstatistics.se
 0.0.0.0 gez.io
+0.0.0.0 giddyuptrk.com
 0.0.0.0 gigcount.com
 0.0.0.0 gim.co.il
 0.0.0.0 glanceguide.com
@@ -1117,6 +1119,7 @@
 0.0.0.0 invoca.solutions
 0.0.0.0 iocnt.net
 0.0.0.0 ionmvdpifz.com
+0.0.0.0 ip-api.com
 0.0.0.0 ip-label.net
 0.0.0.0 ip2location.com
 0.0.0.0 ip2map.com
@@ -1825,6 +1828,7 @@
 0.0.0.0 rztrkr.com
 0.0.0.0 s-onetag.com
 0.0.0.0 s3s-main.net
+0.0.0.0 safe-click.net
 0.0.0.0 sageanalyst.net
 0.0.0.0 sajari.com
 0.0.0.0 salecycle.com
@@ -1903,6 +1907,7 @@
 0.0.0.0 showheroes.com
 0.0.0.0 showroomlogic.com
 0.0.0.0 siftscience.com
+0.0.0.0 signifyd.com
 0.0.0.0 signup-way.com
 0.0.0.0 silvergamed.com
 0.0.0.0 silverpop.com
@@ -2149,6 +2154,7 @@
 0.0.0.0 tnctrx.com
 0.0.0.0 tns-counter.ru
 0.0.0.0 tns-cs.net
+0.0.0.0 tooso.ai
 0.0.0.0 top100bloggers.com
 0.0.0.0 top100webshops.com
 0.0.0.0 top10sportsites.com
@@ -2488,6 +2494,7 @@
 0.0.0.0 yldr.io
 0.0.0.0 ymetrica1.com
 0.0.0.0 youbora.com
+0.0.0.0 youborafds01.com
 0.0.0.0 youboranqs01.com
 0.0.0.0 youmetrix.co.uk
 0.0.0.0 your-counter.be
@@ -3186,6 +3193,7 @@
 0.0.0.0 petiteumbrella.com
 0.0.0.0 photographpan.com
 0.0.0.0 pietexture.com
+0.0.0.0 profusesupport.com
 0.0.0.0 puffyloss.com
 0.0.0.0 quaintcan.com
 0.0.0.0 ritzykey.com
@@ -3207,6 +3215,7 @@
 0.0.0.0 sugarcurtain.com
 0.0.0.0 ticklesign.com
 0.0.0.0 truthfulturn.com
+0.0.0.0 womanear.com
 0.0.0.0 123-counter.de
 0.0.0.0 12mnkys.com
 0.0.0.0 24log.de
@@ -4045,6 +4054,7 @@
 0.0.0.0 wwgate.ru
 0.0.0.0 www.rt-ns.ru
 0.0.0.0 zero.kz
+0.0.0.0 midas-network.com
 0.0.0.0 blogtraffic.sg
 0.0.0.0 idot.cz
 0.0.0.0 pocitadlo.sk
@@ -5682,6 +5692,7 @@
 0.0.0.0 acookie.alibaba.com
 0.0.0.0 activity.frequency.com
 0.0.0.0 activity.homescape.com
+0.0.0.0 adc-js.nine.com.au
 0.0.0.0 adc.9news.com.au
 0.0.0.0 adc.api.nine.com.au
 0.0.0.0 adc.nine.com.au
@@ -6137,6 +6148,7 @@
 0.0.0.0 ps.ecosia.org
 0.0.0.0 pulse-analytics-beacon.reutersmedia.net
 0.0.0.0 pvstat.china.cn
+0.0.0.0 px.mvfglobal.com
 0.0.0.0 px.wayfair.com
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 r.my.com
@@ -6313,6 +6325,7 @@
 0.0.0.0 stat.kbs.co.kr
 0.0.0.0 stat.pubhtml5.com
 0.0.0.0 stat.ruvr.ru
+0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.torrentbar.com
 0.0.0.0 stat.xhamsterpremium.com
 0.0.0.0 statistics.crowdynews.com
@@ -6499,6 +6512,7 @@
 0.0.0.0 trk.freepik.com
 0.0.0.0 trowel.twitch.tv
 0.0.0.0 trueffect.underarmour.com
+0.0.0.0 trx.smdatalabs.com
 0.0.0.0 tw.i.hulu.com
 0.0.0.0 txn.thenewsroom.com
 0.0.0.0 unid.go.com
@@ -6835,6 +6849,7 @@
 0.0.0.0 siteinfo.libero.it
 0.0.0.0 stats.splinder.com
 0.0.0.0 track.tesiteca.it
+0.0.0.0 tracker.stileo.it
 0.0.0.0 tracking.gruppo.mps.it
 0.0.0.0 trk.m.libero.it
 0.0.0.0 analytics.cocolog-nifty.com
