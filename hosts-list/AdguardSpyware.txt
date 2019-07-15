@@ -1,9 +1,12 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Fri, 12 Jul 2019 23:54:54 +0800
+# Last converted - Tue, 16 Jul 2019 00:55:01 +0800
 #
 
+0.0.0.0 uuidksinc.net
+0.0.0.0 micpn.com
+0.0.0.0 conductrics.com
 0.0.0.0 zorosrv.com
 0.0.0.0 api.cazamba.com
 0.0.0.0 maliva-mcs.byteoversea.com
