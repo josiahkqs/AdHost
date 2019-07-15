@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Fri, 12 Jul 2019 23:54:54 +0800
+# Last converted - Tue, 16 Jul 2019 00:55:00 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1514,6 +1514,7 @@
 0.0.0.0 pickegg.com
 0.0.0.0 picturer.xyz
 0.0.0.0 pingmedia.ru
+0.0.0.0 pirastic.com
 0.0.0.0 pirojok.net
 0.0.0.0 placeoff.ru
 0.0.0.0 planetaua.net
@@ -1579,6 +1580,7 @@
 0.0.0.0 reklamist.ru
 0.0.0.0 reklamnoedelo.com
 0.0.0.0 relap.io
+0.0.0.0 relevisibly.com
 0.0.0.0 renhepharop.ru
 0.0.0.0 rich-banner.ru
 0.0.0.0 richclick.ru
@@ -3066,6 +3068,7 @@
 0.0.0.0 collegiumvita.ru
 0.0.0.0 com495.ru
 0.0.0.0 cometbetta.com
+0.0.0.0 comin.co
 0.0.0.0 commontools.net
 0.0.0.0 comoestaschuvak.online
 0.0.0.0 connection36.com
@@ -4423,6 +4426,7 @@
 0.0.0.0 kinoblock.name
 0.0.0.0 kinobol.ru
 0.0.0.0 kinoclub77.ru
+0.0.0.0 kinofilmax.com
 0.0.0.0 kinoget.tv
 0.0.0.0 kinogo.r.worldssl.net
 0.0.0.0 kinohard.com
@@ -6248,6 +6252,7 @@
 0.0.0.0 smiinform.zone
 0.0.0.0 smiinformer.com
 0.0.0.0 smiinformer1.com
+0.0.0.0 smiinformeri.online
 0.0.0.0 smimarket.com
 0.0.0.0 smitham.org
 0.0.0.0 smonstr.ru
@@ -7069,6 +7074,7 @@
 0.0.0.0 wand66.info
 0.0.0.0 waogi.com
 0.0.0.0 wap-click.bid
+0.0.0.0 wapbublik.ru
 0.0.0.0 wapratios.ru
 0.0.0.0 wapstaterpart.ru
 0.0.0.0 wasbetenhep.ru
@@ -7259,6 +7265,7 @@
 0.0.0.0 xr-tds.com
 0.0.0.0 xrb3w.ru
 0.0.0.0 xs-tds.com
+0.0.0.0 xshop3.ru
 0.0.0.0 xstat.me
 0.0.0.0 xtkl7.ru
 0.0.0.0 xtvoh.com
