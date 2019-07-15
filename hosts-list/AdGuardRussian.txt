@@ -1,9 +1,10 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 12 Jul 2019 23:54:54 +0800
+# Last converted - Tue, 16 Jul 2019 00:55:01 +0800
 #
 
+0.0.0.0 cassns.pro
 0.0.0.0 cdn.movieads.ru
 0.0.0.0 mirtrailer.ru
 0.0.0.0 vak345.com
@@ -14,9 +15,11 @@
 0.0.0.0 pushs.site
 0.0.0.0 vip-p0rtal.services
 0.0.0.0 fat1domain1.com
+0.0.0.0 zzznews.ru
 0.0.0.0 hpvvn.com
 0.0.0.0 sweetbc4.club
 0.0.0.0 eebfffjegjajjiacaci.ru
+0.0.0.0 efhabjaabgfbbegjacj.ru
 0.0.0.0 iwqzrm.com
 0.0.0.0 vyborexperta.ru
 0.0.0.0 liluwoms8.ru
@@ -3494,6 +3497,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 ad.velomania.ru
 0.0.0.0 a.kidstaff.net
 0.0.0.0 d10g3hyu3zeg91.cloudfront.net
 0.0.0.0 tizer2.kinogo.by
