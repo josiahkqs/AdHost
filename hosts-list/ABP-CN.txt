@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Fri, 12 Jul 2019 23:54:48 +0800
+# Last converted - Tue, 16 Jul 2019 00:54:55 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -358,7 +358,8 @@
 0.0.0.0 a7shun.com
 0.0.0.0 a907907.com
 0.0.0.0 a9377j.com
-0.0.0.0 aaportal.com
+0.0.0.0 134.73.54.252
+0.0.0.0 htg-x.com
 0.0.0.0 abctcqq.top
 0.0.0.0 acasys88.cn
 0.0.0.0 acgbase.com
@@ -647,7 +648,6 @@
 0.0.0.0 csqiulong.com
 0.0.0.0 cssdiv.club
 0.0.0.0 cstoa.com
-0.0.0.0 csxjys.com
 0.0.0.0 ctrhfd.top
 0.0.0.0 ctsywy.com
 0.0.0.0 cxd-ailegou.com
@@ -954,7 +954,7 @@
 0.0.0.0 heima8.com
 0.0.0.0 hejingroup.cn
 0.0.0.0 hen360.com
-0.0.0.0 hense678.com
+0.0.0.0 xing678.com
 0.0.0.0 hesxz.com
 0.0.0.0 heygugu.com
 0.0.0.0 hfjuki.com
@@ -1103,7 +1103,6 @@
 0.0.0.0 jktopia.com
 0.0.0.0 jl027.com
 0.0.0.0 jlssbz.com
-0.0.0.0 jnrsjm.com
 0.0.0.0 jntmedia.cn
 0.0.0.0 jnyngg.cn
 0.0.0.0 johtzj.com
@@ -1210,7 +1209,6 @@
 0.0.0.0 le123.cn
 0.0.0.0 le4le.com
 0.0.0.0 leamain.net
-0.0.0.0 leeyuoxs.com
 0.0.0.0 letaoxiaochi.com
 0.0.0.0 leturich.org
 0.0.0.0 leturich.org
@@ -2163,8 +2161,6 @@
 0.0.0.0 1.hao123.com
 0.0.0.0 100.admin5.com
 0.0.0.0 100.pncdn.cn
-0.0.0.0 23.91.3.114
-0.0.0.0 104.201.27.131
 0.0.0.0 104.37.245.11
 0.0.0.0 108.171.248.234
 0.0.0.0 115.29.141.121
@@ -2181,6 +2177,7 @@
 0.0.0.0 20150930.cf
 0.0.0.0 2016.bkill.net
 0.0.0.0 205.209.138.102
+0.0.0.0 23.91.3.114
 0.0.0.0 33405.com
 0.0.0.0 360safego.com
 0.0.0.0 3boys2girls.com
@@ -3375,8 +3372,6 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
-0.0.0.0 5yw4n.cn
-0.0.0.0 hjjnpx.com
 0.0.0.0 0234408.cn
 0.0.0.0 03196688.com
 0.0.0.0 0532ci.com.cn
@@ -3437,6 +3432,7 @@
 0.0.0.0 5mbd2.com
 0.0.0.0 5pb266.com
 0.0.0.0 5x0f.cn
+0.0.0.0 5yw4n.cn
 0.0.0.0 64si.com
 0.0.0.0 678sky.com
 0.0.0.0 69yll.cn
@@ -3873,6 +3869,7 @@
 0.0.0.0 hihufu.cn
 0.0.0.0 hissq.com
 0.0.0.0 hjiec.com
+0.0.0.0 hjjnpx.com
 0.0.0.0 hjkrlc.cn
 0.0.0.0 hjryl.com
 0.0.0.0 hjues.com
