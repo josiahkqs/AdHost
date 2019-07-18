@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Tue, 16 Jul 2019 00:55:01 +0800
+# Last converted - Thu, 18 Jul 2019 09:26:25 +0800
 #
 
 0.0.0.0 uuidksinc.net
@@ -3153,6 +3153,8 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 atlas1.krone.at
+0.0.0.0 spr.bild.de
 0.0.0.0 pixel.wp.pl
 0.0.0.0 dot.wp.pl
 0.0.0.0 player-feedback-v1.glomex.com
@@ -4467,6 +4469,7 @@
 0.0.0.0 xtag.autotrader.com
 0.0.0.0 xtag.kbb.com
 0.0.0.0 zdlogs.sphereup.com
+0.0.0.0 analytics.dugun.com
 0.0.0.0 sonar.semantiqo.com
 0.0.0.0 growingio.com
 0.0.0.0 spycounter.net
