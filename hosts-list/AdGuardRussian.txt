@@ -1,9 +1,17 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 16 Jul 2019 00:55:01 +0800
+# Last converted - Thu, 18 Jul 2019 09:26:25 +0800
 #
 
+0.0.0.0 meqxh.com
+0.0.0.0 69v.club
+0.0.0.0 content.mql5.com
+0.0.0.0 jojonewwss.pro
+0.0.0.0 img-perli.com
+0.0.0.0 kymirasite.pro
+0.0.0.0 thethi.ru
+0.0.0.0 krotovroman.ru
 0.0.0.0 cassns.pro
 0.0.0.0 cdn.movieads.ru
 0.0.0.0 mirtrailer.ru
@@ -16,7 +24,9 @@
 0.0.0.0 vip-p0rtal.services
 0.0.0.0 fat1domain1.com
 0.0.0.0 zzznews.ru
+0.0.0.0 gyfwz.com
 0.0.0.0 hpvvn.com
+0.0.0.0 friendlybcs.pro
 0.0.0.0 sweetbc4.club
 0.0.0.0 eebfffjegjajjiacaci.ru
 0.0.0.0 efhabjaabgfbbegjacj.ru
