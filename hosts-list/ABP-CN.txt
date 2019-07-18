@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Tue, 16 Jul 2019 00:54:55 +0800
+# Last converted - Thu, 18 Jul 2019 09:26:21 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -26,6 +26,7 @@
 0.0.0.0 0592weixin.com
 0.0.0.0 0756j.com
 0.0.0.0 0756sjlm.com.cn
+0.0.0.0 0796gou.com
 0.0.0.0 080644.com
 0.0.0.0 0937jyg.com
 0.0.0.0 0xiaoshuo.com
@@ -71,6 +72,7 @@
 0.0.0.0 123hala.com
 0.0.0.0 124.232.160.178
 0.0.0.0 12l22.net
+0.0.0.0 134.73.54.252
 0.0.0.0 138138138.top
 0.0.0.0 138lm.com
 0.0.0.0 139.159.32.82
@@ -118,6 +120,7 @@
 0.0.0.0 221.204.213.222
 0.0.0.0 222im.com
 0.0.0.0 22lm.cc
+0.0.0.0 23.244.43.212
 0.0.0.0 23.89.50.180
 0.0.0.0 23456dj.com
 0.0.0.0 235123.net
@@ -358,8 +361,6 @@
 0.0.0.0 a7shun.com
 0.0.0.0 a907907.com
 0.0.0.0 a9377j.com
-0.0.0.0 134.73.54.252
-0.0.0.0 htg-x.com
 0.0.0.0 abctcqq.top
 0.0.0.0 acasys88.cn
 0.0.0.0 acgbase.com
@@ -675,7 +676,6 @@
 0.0.0.0 dandan15.top
 0.0.0.0 danpinwu.com
 0.0.0.0 dante2007.com
-0.0.0.0 dapaogg.xyz
 0.0.0.0 dashaowu.com
 0.0.0.0 dashet.com
 0.0.0.0 datafastguru.info
@@ -954,7 +954,6 @@
 0.0.0.0 heima8.com
 0.0.0.0 hejingroup.cn
 0.0.0.0 hen360.com
-0.0.0.0 xing678.com
 0.0.0.0 hesxz.com
 0.0.0.0 heygugu.com
 0.0.0.0 hfjuki.com
@@ -986,6 +985,7 @@
 0.0.0.0 hskj.net
 0.0.0.0 hslyqs.com
 0.0.0.0 hsmkj.net
+0.0.0.0 htg-x.com
 0.0.0.0 huaerduo.com
 0.0.0.0 huanqiucaizhi.com
 0.0.0.0 huashengtai.net
@@ -1482,7 +1482,6 @@
 0.0.0.0 queene.cn
 0.0.0.0 quw18.com
 0.0.0.0 qwedcfv.com
-0.0.0.0 qwertyuiopa.co
 0.0.0.0 qxfly.com
 0.0.0.0 qxjdlf.com
 0.0.0.0 qxxys.com
@@ -1882,6 +1881,7 @@
 0.0.0.0 xcclzs.com
 0.0.0.0 xchgx.com
 0.0.0.0 xcjy876.com
+0.0.0.0 xcsaz.com
 0.0.0.0 xcxzxc.cn
 0.0.0.0 xcy8.com
 0.0.0.0 xcycm.com
@@ -1911,6 +1911,7 @@
 0.0.0.0 xilele.com
 0.0.0.0 xiliweisha.cn
 0.0.0.0 xinasiaj.com
+0.0.0.0 xing678.com
 0.0.0.0 xingjuhe.com
 0.0.0.0 xinlongrubber.com
 0.0.0.0 xinyijiasc.cn
@@ -2048,6 +2049,7 @@
 0.0.0.0 yuu360.com
 0.0.0.0 yuyue008.cn
 0.0.0.0 ywadf.cn
+0.0.0.0 ywjsgc.com
 0.0.0.0 ywjxsp168.cn
 0.0.0.0 ywxi.net
 0.0.0.0 yxdyk.com
@@ -2181,7 +2183,6 @@
 0.0.0.0 33405.com
 0.0.0.0 360safego.com
 0.0.0.0 3boys2girls.com
-0.0.0.0 52smz.com
 0.0.0.0 5y9nfpes.52pk.com
 0.0.0.0 61.147.184.18
 0.0.0.0 614514.com
@@ -3256,6 +3257,7 @@
 0.0.0.0 910weixin.com
 0.0.0.0 913vt.com
 0.0.0.0 93vitui.com
+0.0.0.0 ailiyou1999.com
 0.0.0.0 aliguojw.com
 0.0.0.0 anhuilitian.net
 0.0.0.0 aodongjiaosu.com
@@ -3353,6 +3355,7 @@
 0.0.0.0 zgdmsj.cn
 0.0.0.0 zhuyuanp.club
 0.0.0.0 zhybw88.com
+0.0.0.0 zrwhartongroup.com
 0.0.0.0 ggtg8.com
 0.0.0.0 p2.dnvod.tv
 0.0.0.0 p3.dnvod.tv
