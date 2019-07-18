@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 16 Jul 2019 00:55:04 +0800
+# Last converted - Thu, 18 Jul 2019 09:26:27 +0800
 #
 
 0.0.0.0 0emm.com
@@ -2298,6 +2298,7 @@
 0.0.0.0 usabilla.com
 0.0.0.0 useinsider.com
 0.0.0.0 useitbetter.com
+0.0.0.0 useproof.com
 0.0.0.0 user-api.com
 0.0.0.0 user-clicks.com
 0.0.0.0 user-red.com
