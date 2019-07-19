@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Thu, 18 Jul 2019 09:26:25 +0800
+# Last converted - Sat, 20 Jul 2019 00:43:41 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1239,7 +1239,6 @@
 0.0.0.0 fxcast.com
 0.0.0.0 galaxymeet.ru
 0.0.0.0 gamblingbuilder.com
-0.0.0.0 game-torrento.org
 0.0.0.0 gamebet.news
 0.0.0.0 gamebook.pw
 0.0.0.0 gamingpartners.org
@@ -3515,6 +3514,7 @@
 0.0.0.0 eprofri.info
 0.0.0.0 epsexda.ru
 0.0.0.0 eqfgc.com
+0.0.0.0 eqtaxag.ru
 0.0.0.0 eqthb.top
 0.0.0.0 er2fl22b1w.site
 0.0.0.0 erate.co.il
@@ -4599,6 +4599,7 @@
 0.0.0.0 lerester.com
 0.0.0.0 lerrex.ru
 0.0.0.0 leruanmarket.ru
+0.0.0.0 lethargic-smock.com
 0.0.0.0 letmelook.net
 0.0.0.0 letodron.ru
 0.0.0.0 letsjan.com
@@ -8246,6 +8247,7 @@
 0.0.0.0 1xikk.world
 0.0.0.0 1xool.world
 0.0.0.0 1xool.world
+0.0.0.0 1xstavka.ru
 0.0.0.0 l0iwe39iikh34bc0.ru
 0.0.0.0 l0iwe39iikh34bc0.ru
 0.0.0.0 inetlike.ru
