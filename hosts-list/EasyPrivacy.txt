@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Thu, 18 Jul 2019 09:26:27 +0800
+# Last converted - Sat, 20 Jul 2019 00:43:44 +0800
 #
 
 0.0.0.0 0emm.com
@@ -4249,6 +4249,7 @@
 0.0.0.0 analytics.websolute.it
 0.0.0.0 analytics.wildtangent.com
 0.0.0.0 analytics.witglobal.net
+0.0.0.0 analytics.worldtable.co
 0.0.0.0 analytics.yola.net
 0.0.0.0 analytics.yolacdn.net
 0.0.0.0 analytics.ziftsolutions.com
@@ -5384,6 +5385,7 @@
 0.0.0.0 compteur.websiteout.net
 0.0.0.0 d3eokk6ya562p5.cloudfront.net
 0.0.0.0 e.funnymel.com
+0.0.0.0 ea.warnerbros.fr
 0.0.0.0 email-reflex.com
 0.0.0.0 lepoint-stat.sdv.fr
 0.0.0.0 nvc.n1bus-exp.com
@@ -5874,6 +5876,7 @@
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 cpt.itv.com
 0.0.0.0 ct.buzzfeed.com
+0.0.0.0 d1.abtshield.com
 0.0.0.0 da.virginmedia.com
 0.0.0.0 data.mic.com
 0.0.0.0 data.ryanair.com
