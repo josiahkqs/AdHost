@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Thu, 18 Jul 2019 09:26:25 +0800
+# Last converted - Sat, 20 Jul 2019 00:43:42 +0800
 #
 
 0.0.0.0 uuidksinc.net
@@ -3153,6 +3153,8 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 tags.news.com.au
+0.0.0.0 trk.performanceplay.co.kr
 0.0.0.0 atlas1.krone.at
 0.0.0.0 spr.bild.de
 0.0.0.0 pixel.wp.pl
@@ -3997,7 +3999,7 @@
 0.0.0.0 try.abtasty.com
 0.0.0.0 triggertag.gorillanation.com
 0.0.0.0 trck.spoteffects.net
-0.0.0.0 in.treasuredata.com
+0.0.0.0 treasuredata.com
 0.0.0.0 trackingapi.cloudapp.net
 0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 tracking.adweb.co.kr
@@ -4040,7 +4042,6 @@
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 te.supportfreecontent.com
 0.0.0.0 tags.bluekai.com
-0.0.0.0 tags.news.com.au
 0.0.0.0 tag.aticdn.net
 0.0.0.0 tag.datariver.ru
 0.0.0.0 ta.queit.in
