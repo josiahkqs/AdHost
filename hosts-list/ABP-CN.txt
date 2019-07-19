@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Thu, 18 Jul 2019 09:26:21 +0800
+# Last converted - Sat, 20 Jul 2019 00:43:36 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -274,7 +274,6 @@
 0.0.0.0 7gg.cc
 0.0.0.0 7jiajiao.com
 0.0.0.0 7o2o.com
-0.0.0.0 7shang9xia.com
 0.0.0.0 7wen.cn
 0.0.0.0 7xi9g1.com1.z0.glb.clouddn.com
 0.0.0.0 7xz3.com
@@ -2163,7 +2162,6 @@
 0.0.0.0 1.hao123.com
 0.0.0.0 100.admin5.com
 0.0.0.0 100.pncdn.cn
-0.0.0.0 104.37.245.11
 0.0.0.0 108.171.248.234
 0.0.0.0 115.29.141.121
 0.0.0.0 115.29.46.146
@@ -3375,6 +3373,11 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
+0.0.0.0 waby66.cn
+0.0.0.0 chutangpu.cn
+0.0.0.0 nbhotpo.com
+0.0.0.0 gedus.cn
+0.0.0.0 ndusa.cn
 0.0.0.0 0234408.cn
 0.0.0.0 03196688.com
 0.0.0.0 0532ci.com.cn
@@ -3537,7 +3540,6 @@
 0.0.0.0 bdaor.com
 0.0.0.0 bdiae.com
 0.0.0.0 beifmu.com
-0.0.0.0 beigedi.com
 0.0.0.0 bentengcn.com
 0.0.0.0 bgcse.cn
 0.0.0.0 bhuak.com
@@ -3601,6 +3603,7 @@
 0.0.0.0 changhehengqi.com
 0.0.0.0 chaojilamei.cn
 0.0.0.0 chengboke.cn
+0.0.0.0 chenxiangqian.cn
 0.0.0.0 chersc.com
 0.0.0.0 chexiw.com
 0.0.0.0 chfuw.com
@@ -4009,6 +4012,7 @@
 0.0.0.0 jyhwt.cn
 0.0.0.0 jyjhkz.com
 0.0.0.0 jzntxs.com
+0.0.0.0 k5ai3c.cn
 0.0.0.0 k859n.cn
 0.0.0.0 k9wi2d.cn
 0.0.0.0 kafka8.com
@@ -4138,7 +4142,6 @@
 0.0.0.0 nickarini.com
 0.0.0.0 niegg.com
 0.0.0.0 ningbojipiao.com
-0.0.0.0 niudashu.com
 0.0.0.0 nixiclothing.com
 0.0.0.0 njguluyu.cn
 0.0.0.0 njxczy.com
@@ -4237,6 +4240,7 @@
 0.0.0.0 qsove.com
 0.0.0.0 qtpngov.cn
 0.0.0.0 quldu.com
+0.0.0.0 qzbxfs.com
 0.0.0.0 qzdag.com
 0.0.0.0 qzdaren.com
 0.0.0.0 raeqqe.cn
