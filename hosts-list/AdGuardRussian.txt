@@ -1,9 +1,11 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sat, 20 Jul 2019 00:43:42 +0800
+# Last converted - Tue, 23 Jul 2019 01:09:57 +0800
 #
 
+0.0.0.0 izrelo.ru
+0.0.0.0 hapket.ru
 0.0.0.0 orncks.pro
 0.0.0.0 grett.pro
 0.0.0.0 aj1058.online
@@ -3570,7 +3572,6 @@
 0.0.0.0 inner.newinform.com
 0.0.0.0 isi-tracking.eventim.com
 0.0.0.0 jet.zbp.ru
-0.0.0.0 js.krutor.org.pl
 0.0.0.0 js.newrutor.eu.org
 0.0.0.0 js.pornolab.eu
 0.0.0.0 js.rutor.net.pl
