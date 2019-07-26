@@ -1,9 +1,13 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 23 Jul 2019 01:09:57 +0800
+# Last converted - Fri, 26 Jul 2019 11:04:37 +0800
 #
 
+0.0.0.0 eti-code.com
+0.0.0.0 plyfoni.ru
+0.0.0.0 wpad.farm
+0.0.0.0 szimh.com
 0.0.0.0 izrelo.ru
 0.0.0.0 hapket.ru
 0.0.0.0 orncks.pro
@@ -2447,7 +2451,7 @@
 0.0.0.0 redflu.ru
 0.0.0.0 redsquare.rambler.ru
 0.0.0.0 redsurf.ru
-0.0.0.0 redtram.com
+0.0.0.0 redtram.com,empty
 0.0.0.0 redvase.bravenet.com
 0.0.0.0 refbanners.website
 0.0.0.0 refer.ru
