@@ -1,9 +1,14 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Tue, 23 Jul 2019 01:09:57 +0800
+# Last converted - Fri, 26 Jul 2019 11:04:37 +0800
 #
 
+0.0.0.0 treasuredata.com
+0.0.0.0 webtracker.jp
+0.0.0.0 ladsp.com
+0.0.0.0 pymx5.com
+0.0.0.0 ubiquitousyard.com
 0.0.0.0 i.compendium.com
 0.0.0.0 statsp.fpop.net
 0.0.0.0 uuidksinc.net
@@ -3156,6 +3161,9 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 tags.news.com.au
+0.0.0.0 beacon.itmedia.jp
+0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
+0.0.0.0 tr.snapchat.com
 0.0.0.0 trk.performanceplay.co.kr
 0.0.0.0 atlas1.krone.at
 0.0.0.0 spr.bild.de
