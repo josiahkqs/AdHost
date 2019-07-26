@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 23 Jul 2019 01:09:59 +0800
+# Last converted - Fri, 26 Jul 2019 11:04:40 +0800
 #
 
 0.0.0.0 0emm.com
@@ -705,6 +705,7 @@
 0.0.0.0 dynatrace.com
 0.0.0.0 dynatracesaas.com
 0.0.0.0 dyntrk.com
+0.0.0.0 e-contenta.com
 0.0.0.0 e-pagerank.net
 0.0.0.0 e-referrer.com
 0.0.0.0 e-webtrack.net
@@ -1048,6 +1049,7 @@
 0.0.0.0 hurterkranach.net
 0.0.0.0 hwpub.com
 0.0.0.0 hxtrack.com
+0.0.0.0 hybrid.ai
 0.0.0.0 hyfntrak.com
 0.0.0.0 hyperactivate.com
 0.0.0.0 hypestat.com
@@ -2458,11 +2460,11 @@
 0.0.0.0 wildxtraffic.com
 0.0.0.0 wiredminds.de
 0.0.0.0 wisetrack.net
-0.0.0.0 wishabi.net
 0.0.0.0 wishloop.com
 0.0.0.0 womtp.com
 0.0.0.0 woopra-ns.com
 0.0.0.0 woopra.com
+0.0.0.0 wootric.com
 0.0.0.0 worldflagcounter.com
 0.0.0.0 worldlogger.com
 0.0.0.0 wowanalytics.co.uk
@@ -3181,6 +3183,7 @@
 0.0.0.0 balancebreath.com
 0.0.0.0 bh8yx.xyz
 0.0.0.0 broaddoor.com
+0.0.0.0 carscannon.com
 0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
 0.0.0.0 coordinatedcub.com
@@ -3764,6 +3767,7 @@
 0.0.0.0 accessi.it
 0.0.0.0 avstat.it
 0.0.0.0 contatoreaccessi.com
+0.0.0.0 cpmktg.com
 0.0.0.0 cuntador.com
 0.0.0.0 digital-metric.com
 0.0.0.0 distribeo.com
@@ -4941,6 +4945,7 @@
 0.0.0.0 session.timecommerce.net
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 shared.65twenty.com
+0.0.0.0 shopnetic.com
 0.0.0.0 sig.atdmt.com
 0.0.0.0 sig.gamerdna.com
 0.0.0.0 sitereports.officelive.com
@@ -6597,6 +6602,7 @@
 0.0.0.0 weblog.strawberrynet.com
 0.0.0.0 weblogger01.data.disney.com
 0.0.0.0 webstats.perfectworld.com
+0.0.0.0 webstats.thesoul-publishing.com
 0.0.0.0 whoson.smcorp.com
 0.0.0.0 winter.metacafe.com
 0.0.0.0 wla.vivaldi.com
