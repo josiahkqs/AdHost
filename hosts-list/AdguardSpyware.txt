@@ -1,9 +1,11 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Fri, 26 Jul 2019 11:04:37 +0800
+# Last converted - Tue, 30 Jul 2019 23:40:46 +0800
 #
 
+0.0.0.0 experianmarketingservices.digital
+0.0.0.0 liod1ours.com
 0.0.0.0 treasuredata.com
 0.0.0.0 webtracker.jp
 0.0.0.0 ladsp.com
@@ -2168,8 +2170,6 @@
 0.0.0.0 roiservice.com
 0.0.0.0 roispy.com
 0.0.0.0 roitesting.com
-0.0.0.0 roitracking.net
-0.0.0.0 roivista.com
 0.0.0.0 rollingcounters.com
 0.0.0.0 royalcount.de
 0.0.0.0 rpdtrk.com
@@ -2236,7 +2236,6 @@
 0.0.0.0 segmentify.com
 0.0.0.0 seitwert.de
 0.0.0.0 selaris.com
-0.0.0.0 selipuquoe.com
 0.0.0.0 sellpoints.com
 0.0.0.0 semanticverses.com
 0.0.0.0 semasio.net
@@ -2361,7 +2360,6 @@
 0.0.0.0 sptag.com
 0.0.0.0 sptag1.com
 0.0.0.0 sptag2.com
-0.0.0.0 sptag3.com
 0.0.0.0 spylog.com
 0.0.0.0 spylog.ru
 0.0.0.0 spywords.com
@@ -2527,7 +2525,6 @@
 0.0.0.0 tl813.com
 0.0.0.0 tm.zedo.com
 0.0.0.0 tm1-001.com
-0.0.0.0 tmpjmp.com
 0.0.0.0 tmvtp.com
 0.0.0.0 tns-counter.ru
 0.0.0.0 tns-cs.net
@@ -2539,7 +2536,6 @@
 0.0.0.0 top.list.ru
 0.0.0.0 top100bloggers.com
 0.0.0.0 top100webshops.com
-0.0.0.0 top4wap.ru
 0.0.0.0 topblogarea.com
 0.0.0.0 topblogging.com
 0.0.0.0 topdepo.com
@@ -2673,7 +2669,6 @@
 0.0.0.0 userdmp.com
 0.0.0.0 userlook.com
 0.0.0.0 userneeds.dk
-0.0.0.0 useronlinecounter.com
 0.0.0.0 userreport.com
 0.0.0.0 users.51.la
 0.0.0.0 usuarios-online.com
@@ -3161,6 +3156,7 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 tags.news.com.au
+0.0.0.0 pixelappcollector.thesun.co.uk
 0.0.0.0 beacon.itmedia.jp
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
 0.0.0.0 tr.snapchat.com
@@ -3250,7 +3246,6 @@
 0.0.0.0 analytics.thenest.com
 0.0.0.0 analytics.thenewslens.com
 0.0.0.0 analytics.thetab.com
-0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.upworthy.com
 0.0.0.0 analytics.us.archive.org
 0.0.0.0 analytics.volvocars.com
