@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Sat, 20 Jul 2019 00:43:42 +0800
+# Last converted - Tue, 30 Jul 2019 23:40:46 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -77,6 +77,8 @@
 0.0.0.0 push-money.ru
 0.0.0.0 leechiza.net
 0.0.0.0 pushtora.com
+0.0.0.0 install.searchfrit.com
+0.0.0.0 notify-service.com
 0.0.0.0 push-news.net
 0.0.0.0 piranida.com
 0.0.0.0 encounts.com
