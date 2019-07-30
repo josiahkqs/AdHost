@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Fri, 26 Jul 2019 11:04:36 +0800
+# Last converted - Tue, 30 Jul 2019 23:40:45 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1348,7 +1348,6 @@
 0.0.0.0 leadiacloud.com
 0.0.0.0 leadobur.com
 0.0.0.0 leetero.ru
-0.0.0.0 lendvost.org
 0.0.0.0 lenty.ru
 0.0.0.0 letitbit-porno.com
 0.0.0.0 letitsoft.com
@@ -1372,6 +1371,7 @@
 0.0.0.0 loadpartners.com
 0.0.0.0 loadserial.ru
 0.0.0.0 loftlm.ru
+0.0.0.0 loki.hsmedia.ru
 0.0.0.0 loksly.io
 0.0.0.0 looksmile.ru
 0.0.0.0 lopuer.biz
@@ -2159,6 +2159,7 @@
 0.0.0.0 a3963aaaa161cc.com
 0.0.0.0 a5450a6f12da21.com
 0.0.0.0 a562c4be7e346.com
+0.0.0.0 a6lxbeui.ru
 0.0.0.0 a71a07d7859e915c92af.date
 0.0.0.0 a748575654.com
 0.0.0.0 a8b9ba629348d4f3f4bd.date
@@ -2295,6 +2296,7 @@
 0.0.0.0 adsteroid.pro
 0.0.0.0 adstock.pro
 0.0.0.0 adstock.ru
+0.0.0.0 adsubon.com
 0.0.0.0 adswrapme.click
 0.0.0.0 adsyst.com
 0.0.0.0 adsyst.ru
@@ -3972,6 +3974,7 @@
 0.0.0.0 hamphlete.com
 0.0.0.0 handing6.info
 0.0.0.0 hannist.com
+0.0.0.0 hapket.ru
 0.0.0.0 haproltal.com
 0.0.0.0 harrabrela.ru
 0.0.0.0 hatoleft.com
@@ -3994,6 +3997,7 @@
 0.0.0.0 heawnqbmsi.bid
 0.0.0.0 hecaningar.ru
 0.0.0.0 hedevokjwl.biz
+0.0.0.0 hedtbethole.ru
 0.0.0.0 hedtfior.pro
 0.0.0.0 hedthertsu.pro
 0.0.0.0 hedtronverhan.ru
@@ -5402,6 +5406,7 @@
 0.0.0.0 olimpbanners.info
 0.0.0.0 olivka.biz
 0.0.0.0 olizyr.com
+0.0.0.0 ologyro.ru
 0.0.0.0 olomara.ru
 0.0.0.0 oltonve.ru
 0.0.0.0 omine.org
@@ -5791,6 +5796,7 @@
 0.0.0.0 qocsb.com
 0.0.0.0 qoheo.com
 0.0.0.0 qooqleplay.ru
+0.0.0.0 qqjar.ru
 0.0.0.0 qqmilk.ru
 0.0.0.0 qractv.com
 0.0.0.0 qrdeom.com
@@ -6437,6 +6443,7 @@
 0.0.0.0 targeterra.com
 0.0.0.0 targeterra.info
 0.0.0.0 targetix.net
+0.0.0.0 targetmedicine.ru
 0.0.0.0 targetp.ru
 0.0.0.0 taril1.ru
 0.0.0.0 taril2.ru
@@ -6654,7 +6661,6 @@
 0.0.0.0 tormun.com
 0.0.0.0 toroptotrab.ru
 0.0.0.0 torr-ext.ru
-0.0.0.0 torror.ru
 0.0.0.0 torstytons.pro
 0.0.0.0 torwind.com
 0.0.0.0 totdorancaltert.club
@@ -6685,6 +6691,7 @@
 0.0.0.0 traffer.biz
 0.0.0.0 traffer.net
 0.0.0.0 traffic-king.ru
+0.0.0.0 trafficjunky.net
 0.0.0.0 traffictoadv.com
 0.0.0.0 traffim.com
 0.0.0.0 traffkin.org
@@ -7160,6 +7167,7 @@
 0.0.0.0 widget.socialmart.ru
 0.0.0.0 wildianing.ru
 0.0.0.0 wildmikky.com
+0.0.0.0 wildownload.ru
 0.0.0.0 wilpehap.pro
 0.0.0.0 win-legko.info
 0.0.0.0 win2profit1.com
@@ -8130,6 +8138,7 @@
 0.0.0.0 lawbooks.news
 0.0.0.0 livefootball.ws
 0.0.0.0 logger.ivi.ru
+0.0.0.0 loki.maximonline.ru
 0.0.0.0 lol.mta-resource.ru
 0.0.0.0 love4str.ru
 0.0.0.0 loveserial.net
@@ -8212,7 +8221,10 @@
 0.0.0.0 ed98512111bb19e5.in.net
 0.0.0.0 banners.mail.ru
 0.0.0.0 showbiz.mail.ru
+0.0.0.0 cumbersome.rambler.ru
+0.0.0.0 keenwilling.rambler.ru
 0.0.0.0 visit-monitor.yandex.ru
+0.0.0.0 zoomdecorate.rambler.ru
 0.0.0.0 vkbutton.com
 0.0.0.0 vkmus.com
 0.0.0.0 be.vtomske.ru
