@@ -1,7 +1,7 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 26 Jul 2019 11:04:37 +0800
+# Last converted - Tue, 30 Jul 2019 23:40:46 +0800
 #
 
 0.0.0.0 eti-code.com
@@ -2498,7 +2498,6 @@
 0.0.0.0 rmbn.ru
 0.0.0.0 rmvjk.com
 0.0.0.0 rnnuw.com
-0.0.0.0 rnuhavi.ru
 0.0.0.0 roagz.us
 0.0.0.0 robaduvulo.com
 0.0.0.0 robcalwith.ru
@@ -2510,11 +2509,8 @@
 0.0.0.0 roklerok.com
 0.0.0.0 rokno.com
 0.0.0.0 rollad.ru
-0.0.0.0 roninex.ru
 0.0.0.0 rontar.com
-0.0.0.0 rootmedia.ws
 0.0.0.0 rooton.in
-0.0.0.0 ropsinde.com
 0.0.0.0 rorer.ru
 0.0.0.0 rot.rusoul.ru
 0.0.0.0 rot.spotsniper.ru
@@ -2523,12 +2519,8 @@
 0.0.0.0 rotation-context.ru
 0.0.0.0 rotator.
 0.0.0.0 rotator.promokrot.com
-0.0.0.0 roukel.com
-0.0.0.0 rpmstatic.net
 0.0.0.0 rs-context.ru
-0.0.0.0 rss20.ru
 0.0.0.0 rsuuc.com
-0.0.0.0 rt-image.ru
 0.0.0.0 rt-ns.ru
 0.0.0.0 rtb-media.ru
 0.0.0.0 rtb.com.ru
@@ -2553,7 +2545,6 @@
 0.0.0.0 rusmedserv.com
 0.0.0.0 rusrestbest.
 0.0.0.0 russerials.club
-0.0.0.0 russervisbest.ru
 0.0.0.0 russian-cuties.info
 0.0.0.0 rustds.click
 0.0.0.0 rustiz.ru
@@ -2592,7 +2583,6 @@
 0.0.0.0 s2normal.com
 0.0.0.0 s37.click
 0.0.0.0 sad2tizer.ru
-0.0.0.0 sadreno.com
 0.0.0.0 saferedd.com
 0.0.0.0 saferedirrect.com
 0.0.0.0 sajtiket.ru
@@ -2618,11 +2608,9 @@
 0.0.0.0 seavideo22.com
 0.0.0.0 seclick.ru
 0.0.0.0 securee.ru
-0.0.0.0 securewebboard.com
 0.0.0.0 sedorobma.ru
 0.0.0.0 seedr.com
 0.0.0.0 seedr.ru
-0.0.0.0 seedrug.ru
 0.0.0.0 sefortme.pro
 0.0.0.0 sektorial.com
 0.0.0.0 selectornews.com
@@ -2835,19 +2823,7 @@
 0.0.0.0 teaserwin.ru
 0.0.0.0 teazzer.ru
 0.0.0.0 tebadu.com
-0.0.0.0 tech1515983.ru
-0.0.0.0 tech2648159.ru
-0.0.0.0 tech4215978.ru
-0.0.0.0 tech517283.ru
-0.0.0.0 tech547789.ru
-0.0.0.0 tech5877413.ru
-0.0.0.0 tech9638514.ru
 0.0.0.0 techbeat.com
-0.0.0.0 techdomain01.ga
-0.0.0.0 technical-rtl.ru
-0.0.0.0 tedobe.com
-0.0.0.0 tedpasit.com
-0.0.0.0 tedverspar.com
 0.0.0.0 telderi.ru
 0.0.0.0 telvanil.ru
 0.0.0.0 terapou.com
@@ -2874,7 +2850,6 @@
 0.0.0.0 thor-media.ru
 0.0.0.0 thor-z.com
 0.0.0.0 thrilling.ru
-0.0.0.0 tibrashadow.ru
 0.0.0.0 timedirect.ru
 0.0.0.0 timeophone.com
 0.0.0.0 tisagama.com
@@ -2882,11 +2857,8 @@
 0.0.0.0 tisref.com
 0.0.0.0 titanpoker.com
 0.0.0.0 tiutietur.com
-0.0.0.0 tivisla.ru
 0.0.0.0 tiz-et.ru
 0.0.0.0 tiz.neosmi.ru
-0.0.0.0 tizer-bazar.com
-0.0.0.0 tizer-click.biz
 0.0.0.0 tizer.in
 0.0.0.0 tizer.passion.ru
 0.0.0.0 tizer.ukraine-ru.net
@@ -2899,36 +2871,23 @@
 0.0.0.0 tizerbank.com
 0.0.0.0 tizerbox.ru
 0.0.0.0 tizerclik.com
-0.0.0.0 tizerda.net
-0.0.0.0 tizerelite.net
 0.0.0.0 tizerfly.net
-0.0.0.0 tizerget.net
-0.0.0.0 tizergo.net
 0.0.0.0 tizergun.net
-0.0.0.0 tizerka.info
 0.0.0.0 tizerlady.ru
 0.0.0.0 tizerlink.com
 0.0.0.0 tizermine.net
 0.0.0.0 tizermy.net
 0.0.0.0 tizernaya-reklama.ru
-0.0.0.0 tizernet.biz
 0.0.0.0 tizeroff.ru
 0.0.0.0 tizerset.net
-0.0.0.0 tizershop.ru
-0.0.0.0 tizersmaster.ru
 0.0.0.0 tizerstock.com
-0.0.0.0 tizertraf.com
 0.0.0.0 tizgo.ru
-0.0.0.0 tizinfo.ru
-0.0.0.0 tizka.ru
 0.0.0.0 tizru.com
 0.0.0.0 tizsistems.ru
 0.0.0.0 tizy.ru
 0.0.0.0 tizzer.ru
 0.0.0.0 tlafu.space
-0.0.0.0 tldredenter.com
 0.0.0.0 tle.ru
-0.0.0.0 tlr1.biz
 0.0.0.0 tm-core.net
 0.0.0.0 tmozs.com
 0.0.0.0 tmserver-2.net
@@ -2936,16 +2895,11 @@
 0.0.0.0 tn05.ru
 0.0.0.0 tnd.ecefibwja.xyz
 0.0.0.0 tnevota.ru
-0.0.0.0 to330.com
 0.0.0.0 todaymix.ru
-0.0.0.0 todaytodo.ru
 0.0.0.0 toftforcal.com
-0.0.0.0 togru.ru
 0.0.0.0 tojinr.com
 0.0.0.0 tolicando.com
 0.0.0.0 tonopole.com
-0.0.0.0 tonsperning.ru
-0.0.0.0 tonsunjo.com
 0.0.0.0 toormpc.com
 0.0.0.0 toothsome-crook.fun
 0.0.0.0 top-shop.ru
@@ -2957,8 +2911,6 @@
 0.0.0.0 tophot-news.com
 0.0.0.0 topkino.tv
 0.0.0.0 toptizer.ru
-0.0.0.0 toptrackers.ru
-0.0.0.0 toraccept.ru
 0.0.0.0 torgdom.biz
 0.0.0.0 torgnn.ru
 0.0.0.0 toroptotrab.ru
@@ -3018,11 +2970,9 @@
 0.0.0.0 trigub.ru
 0.0.0.0 trkleads.ru
 0.0.0.0 trmit.com
-0.0.0.0 tromen.ru
 0.0.0.0 tropicalos.com
 0.0.0.0 trst-st.com
 0.0.0.0 truefalsetalk.com
-0.0.0.0 trunderka.ru
 0.0.0.0 trunex.info
 0.0.0.0 trxxh.com
 0.0.0.0 ts-ads.info
@@ -3117,14 +3067,12 @@
 0.0.0.0 usr.trava.io
 0.0.0.0 usstero.com
 0.0.0.0 utarget.pro
-0.0.0.0 utilient.com
 0.0.0.0 utraff.com
 0.0.0.0 utrehter.com
 0.0.0.0 uuaoy.com
 0.0.0.0 uvcwj.com
 0.0.0.0 uwsxz.com
 0.0.0.0 uwuyn.us
-0.0.0.0 uytichas.ru
 0.0.0.0 v.ckpvz.space
 0.0.0.0 v.cuioj.com
 0.0.0.0 v.dlski.space
@@ -3165,7 +3113,6 @@
 0.0.0.0 vidalak.com
 0.0.0.0 vidasys.ru
 0.0.0.0 vidaugust.ru
-0.0.0.0 viddirect.ru
 0.0.0.0 videc10.com
 0.0.0.0 video-invest.net
 0.0.0.0 video-link.ru
@@ -3177,7 +3124,6 @@
 0.0.0.0 video.videonow.ru
 0.0.0.0 video001.com
 0.0.0.0 video1002.com
-0.0.0.0 video103.ru
 0.0.0.0 video1132.com
 0.0.0.0 videoburner2015.com
 0.0.0.0 videocap.org
@@ -3185,7 +3131,6 @@
 0.0.0.0 videoclik.
 0.0.0.0 videofan.ru
 0.0.0.0 videoframe.blue
-0.0.0.0 videojune.ru
 0.0.0.0 videoklass.ru
 0.0.0.0 videoleks.com
 0.0.0.0 videopotok.pro
@@ -3193,8 +3138,6 @@
 0.0.0.0 videoroll.net
 0.0.0.0 videorot.com
 0.0.0.0 videortb.ru
-0.0.0.0 videoseed.by
-0.0.0.0 videoselfer.com
 0.0.0.0 videosmor.com
 0.0.0.0 videotrailer.top
 0.0.0.0 videovikt.com
@@ -3202,14 +3145,10 @@
 0.0.0.0 videsjs.com
 0.0.0.0 vidgain.com
 0.0.0.0 vidigital.ru
-0.0.0.0 vidkoz.com
-0.0.0.0 vidmsc.com
-0.0.0.0 vidozex.ru
 0.0.0.0 vidplah.com
 0.0.0.0 vidroll.ru
 0.0.0.0 vids63.com
 0.0.0.0 vidseed.ru
-0.0.0.0 vidshm.com
 0.0.0.0 vidtok.ru
 0.0.0.0 vidustal.com
 0.0.0.0 vidyp.com
@@ -3350,7 +3289,6 @@
 0.0.0.0 wmip.ru
 0.0.0.0 wmirk.ru
 0.0.0.0 wmlink.ru
-0.0.0.0 wmrlinks.ru
 0.0.0.0 wmrok.com
 0.0.0.0 wmrok.net
 0.0.0.0 wmwyq.xyz
@@ -3518,6 +3456,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 up.gtorrent.ru
 0.0.0.0 ad.velomania.ru
 0.0.0.0 a.kidstaff.net
 0.0.0.0 d10g3hyu3zeg91.cloudfront.net
