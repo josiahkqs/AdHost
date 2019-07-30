@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 26 Jul 2019 11:04:40 +0800
+# Last converted - Tue, 30 Jul 2019 23:40:48 +0800
 #
 
 0.0.0.0 0emm.com
@@ -3205,6 +3205,7 @@
 0.0.0.0 importedincrease.com
 0.0.0.0 jadeitite.com
 0.0.0.0 jewelcheese.com
+0.0.0.0 leaplunchroom.com
 0.0.0.0 lizardslaugh.com
 0.0.0.0 magnetairport.com
 0.0.0.0 mowfruit.com
@@ -3224,9 +3225,11 @@
 0.0.0.0 sharppatch.com
 0.0.0.0 shelterstraw.com
 0.0.0.0 shermore.info
+0.0.0.0 sicksmash.com
 0.0.0.0 spiffymachine.com
 0.0.0.0 spottysense.com
 0.0.0.0 spurioussteam.com
+0.0.0.0 squeakzinc.com
 0.0.0.0 steepsquirrel.com
 0.0.0.0 storesurprise.com
 0.0.0.0 strivesidewalk.com
@@ -4507,6 +4510,7 @@
 0.0.0.0 d2kmrmwhq7wkvs.cloudfront.net
 0.0.0.0 d2kyy9hvbrzkgn.cloudfront.net
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
+0.0.0.0 d2o5idwacg3gyw.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2pxb4n3f9klsc.cloudfront.net
@@ -4520,6 +4524,7 @@
 0.0.0.0 d3135glefggiep.cloudfront.net
 0.0.0.0 d33im0067v833a.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
+0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
 0.0.0.0 d38nbbai6u794i.cloudfront.net
@@ -5898,6 +5903,7 @@
 0.0.0.0 collection.theaa.com
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-medium.lightstep.com
+0.0.0.0 collector.fiverr.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.ksax.com
 0.0.0.0 collector.kstptv5.com
