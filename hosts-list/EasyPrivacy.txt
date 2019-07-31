@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 30 Jul 2019 23:40:48 +0800
+# Last converted - Wed, 31 Jul 2019 23:20:48 +0800
 #
 
 0.0.0.0 0emm.com
@@ -2268,6 +2268,7 @@
 0.0.0.0 truehits1.gits.net.th
 0.0.0.0 truoptik.com
 0.0.0.0 trustedform.com
+0.0.0.0 trysera.com
 0.0.0.0 tscapeplay.com
 0.0.0.0 tscounter.com
 0.0.0.0 tsk4.com
