@@ -1,9 +1,11 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 30 Jul 2019 23:40:46 +0800
+# Last converted - Wed, 31 Jul 2019 23:20:45 +0800
 #
 
+0.0.0.0 bigdate.biz
+0.0.0.0 antiblock.info
 0.0.0.0 eti-code.com
 0.0.0.0 plyfoni.ru
 0.0.0.0 wpad.farm
@@ -3462,6 +3464,7 @@
 0.0.0.0 d10g3hyu3zeg91.cloudfront.net
 0.0.0.0 tizer2.kinogo.by
 0.0.0.0 stat.moonwalk.co
+0.0.0.0 info.kinoclub77.ru
 0.0.0.0 an.blogis.org
 0.0.0.0 action.evrikak.ru
 0.0.0.0 ad.4ertik.porn
