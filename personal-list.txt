@@ -288,6 +288,7 @@
 0.0.0.0 js.passport.qihucdn.com # m.wuyouhui.net
 0.0.0.0 bcuh.tinwong.cn # m.tohomh123.com
 0.0.0.0 dolohen.com # Disease Vector
+0.0.0.0 www.dolohen.com # Disease Vector
 0.0.0.0 lewenxiaoshuo.com # Spam
 0.0.0.0 m.lewenxiaoshuo.com # Spam
 0.0.0.0 baby.horo88.cc # Spam
