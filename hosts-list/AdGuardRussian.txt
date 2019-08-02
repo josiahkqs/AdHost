@@ -1,7 +1,7 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Wed, 31 Jul 2019 23:20:45 +0800
+# Last converted - Fri, 02 Aug 2019 14:34:39 +0800
 #
 
 0.0.0.0 bigdate.biz
@@ -3685,4 +3685,3 @@
 0.0.0.0 go2.se9oieidu7t.ru
 0.0.0.0 blpovgiri0eei.ru
 0.0.0.0 ad.mail.ru
-0.0.0.0 zenadservices.net
