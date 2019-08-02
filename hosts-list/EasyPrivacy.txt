@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Wed, 31 Jul 2019 23:20:48 +0800
+# Last converted - Fri, 02 Aug 2019 14:34:41 +0800
 #
 
 0.0.0.0 0emm.com
@@ -324,6 +324,7 @@
 0.0.0.0 betarget.com
 0.0.0.0 betarget.net
 0.0.0.0 bettermetrics.co
+0.0.0.0 beusable.net
 0.0.0.0 bfmio.com
 0.0.0.0 bfoleyinteractive.com
 0.0.0.0 bidr.io
@@ -846,6 +847,7 @@
 0.0.0.0 flash-stat.com
 0.0.0.0 flashadengine.com
 0.0.0.0 flashgamestats.com
+0.0.0.0 flashtalking.com
 0.0.0.0 flcounter.com
 0.0.0.0 flix360.com
 0.0.0.0 flixfacts.co.uk
@@ -1041,6 +1043,7 @@
 0.0.0.0 hqhrt.com
 0.0.0.0 hs-analytics.net
 0.0.0.0 hsadspixel.net
+0.0.0.0 hscta.net
 0.0.0.0 hubvisor.io
 0.0.0.0 hudb.pl
 0.0.0.0 humanclick.com
@@ -4201,6 +4204,7 @@
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-rhwg.rhcloud.com
+0.0.0.0 analytics-scripts.cablelabs.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics-v2.anvato.com
 0.0.0.0 analytics.30m.com
