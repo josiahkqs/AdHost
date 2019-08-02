@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Tue, 30 Jul 2019 23:40:45 +0800
+# Last converted - Fri, 02 Aug 2019 14:34:38 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -356,7 +356,6 @@
 0.0.0.0 clubrelaxxxx.com
 0.0.0.0 contactsin.mobi
 0.0.0.0 devochki.cz
-0.0.0.0 dugfoto.ru
 0.0.0.0 electbloger.com
 0.0.0.0 electblogers.com
 0.0.0.0 ero-spinula.ru
@@ -1284,6 +1283,7 @@
 0.0.0.0 homrus.net
 0.0.0.0 hooks.slack.com
 0.0.0.0 host4media.com
+0.0.0.0 hostpush.info
 0.0.0.0 hotinga.ru
 0.0.0.0 hsm5azph84.com
 0.0.0.0 hypernews.ru
@@ -1558,6 +1558,7 @@
 0.0.0.0 pushington.info
 0.0.0.0 pushkah.info
 0.0.0.0 pushkov.info
+0.0.0.0 pushofferpro.com
 0.0.0.0 pushtora.com
 0.0.0.0 pushtun.info
 0.0.0.0 pustoty.net
@@ -3078,6 +3079,7 @@
 0.0.0.0 comin.co
 0.0.0.0 commontools.net
 0.0.0.0 comoestaschuvak.online
+0.0.0.0 competing-stinger.site
 0.0.0.0 connection36.com
 0.0.0.0 connees.com
 0.0.0.0 const.website
@@ -3397,7 +3399,6 @@
 0.0.0.0 dubnokhi.ru
 0.0.0.0 dubochiy.ru
 0.0.0.0 dudintrec.ru
-0.0.0.0 dugfoto.ru
 0.0.0.0 dunta.ru
 0.0.0.0 dupalet.com
 0.0.0.0 dutrmedi.ru
@@ -6004,6 +6005,7 @@
 0.0.0.0 rpsehc.ru
 0.0.0.0 rq6acf4x.ru
 0.0.0.0 rrenumo.com
+0.0.0.0 rrmovh0f.ru
 0.0.0.0 rrnhb863j.tech
 0.0.0.0 rruytrooytr.tk
 0.0.0.0 rsepv.com
@@ -8221,8 +8223,11 @@
 0.0.0.0 ed98512111bb19e5.in.net
 0.0.0.0 banners.mail.ru
 0.0.0.0 showbiz.mail.ru
+0.0.0.0 concentrate.rambler.ru
 0.0.0.0 cumbersome.rambler.ru
+0.0.0.0 investigationplus.rambler.ru
 0.0.0.0 keenwilling.rambler.ru
+0.0.0.0 littlerepulsive.rambler.ru
 0.0.0.0 visit-monitor.yandex.ru
 0.0.0.0 zoomdecorate.rambler.ru
 0.0.0.0 vkbutton.com
