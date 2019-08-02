@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Wed, 31 Jul 2019 23:20:46 +0800
+# Last converted - Fri, 02 Aug 2019 14:34:40 +0800
 #
 
 0.0.0.0 t.hoood.info
@@ -3158,6 +3158,10 @@
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 tags.news.com.au
 0.0.0.0 pixelappcollector.thesun.co.uk
+0.0.0.0 candac.iridion.de
+0.0.0.0 cunda.prudsys-rde.de
+0.0.0.0 tr.junaroad.com
+0.0.0.0 tracker.shopclues.com
 0.0.0.0 beacon.itmedia.jp
 0.0.0.0 d3j1weegxvu8ns.cloudfront.net
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
