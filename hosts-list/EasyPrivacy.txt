@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 02 Aug 2019 14:34:41 +0800
+# Last converted - Wed, 07 Aug 2019 07:52:51 +0800
 #
 
 0.0.0.0 0emm.com
@@ -197,6 +197,7 @@
 0.0.0.0 amavalet.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 ambercrow.com
+0.0.0.0 ambienetics.com
 0.0.0.0 amctp.net
 0.0.0.0 amikay.com
 0.0.0.0 amilliamilli.com
@@ -1700,6 +1701,7 @@
 0.0.0.0 ptrk-wn.com
 0.0.0.0 publicidees.com
 0.0.0.0 publishflow.com
+0.0.0.0 pubplus.com
 0.0.0.0 pubstack.io
 0.0.0.0 pulleymarketing.com
 0.0.0.0 pulselog.com
@@ -1973,7 +1975,6 @@
 0.0.0.0 smartocto.com
 0.0.0.0 smartology.co
 0.0.0.0 smartracker.net
-0.0.0.0 smartsuppchat.com
 0.0.0.0 smartzonessva.com
 0.0.0.0 smct.co
 0.0.0.0 smfsvc.com
@@ -3187,6 +3188,7 @@
 0.0.0.0 balancebreath.com
 0.0.0.0 bh8yx.xyz
 0.0.0.0 broaddoor.com
+0.0.0.0 caringzinc.com
 0.0.0.0 carscannon.com
 0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
@@ -3210,10 +3212,12 @@
 0.0.0.0 jadeitite.com
 0.0.0.0 jewelcheese.com
 0.0.0.0 leaplunchroom.com
+0.0.0.0 levelbehavior.com
 0.0.0.0 lizardslaugh.com
 0.0.0.0 magnetairport.com
 0.0.0.0 mowfruit.com
 0.0.0.0 nervoussummer.com
+0.0.0.0 penspade.com
 0.0.0.0 petiteumbrella.com
 0.0.0.0 photographpan.com
 0.0.0.0 pietexture.com
@@ -3261,6 +3265,7 @@
 0.0.0.0 adtriba.com
 0.0.0.0 adzoe.de
 0.0.0.0 amunx.de
+0.0.0.0 analysis.fi
 0.0.0.0 analytics.rechtslupe.org
 0.0.0.0 andyhoppe.com
 0.0.0.0 anormal-tracker.de
@@ -3478,6 +3483,7 @@
 0.0.0.0 ranking-links.de
 0.0.0.0 rankings24.de
 0.0.0.0 ranklink.de
+0.0.0.0 rawr.at
 0.0.0.0 redretarget.com
 0.0.0.0 refinedads.com
 0.0.0.0 research.de.com
@@ -3529,6 +3535,7 @@
 0.0.0.0 trendcounter.de
 0.0.0.0 trkme.net
 0.0.0.0 txt.eu
+0.0.0.0 uniconsent.com
 0.0.0.0 universaltrackingcontainer.com
 0.0.0.0 up-rank.com
 0.0.0.0 urstats.de
@@ -3895,6 +3902,7 @@
 0.0.0.0 tenping.kr
 0.0.0.0 cms.lv
 0.0.0.0 erotop.lv
+0.0.0.0 mcloudglobal.com
 0.0.0.0 on-line.lv
 0.0.0.0 ppdb.pl
 0.0.0.0 puls.lv
@@ -4271,6 +4279,7 @@
 0.0.0.0 analytics.rogersmedia.com
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 analytics.sitewit.com
+0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.snidigital.com
 0.0.0.0 analytics.sonymusic.com
 0.0.0.0 analytics.springboardvideo.com
@@ -4476,6 +4485,7 @@
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d191y0yd6d0jy4.cloudfront.net
+0.0.0.0 d1aqhv4sn5kxtx.cloudfront.net
 0.0.0.0 d1cdnlzf6usiff.cloudfront.net
 0.0.0.0 d1cerpgff739r9.cloudfront.net
 0.0.0.0 d1clfvuu2240eh.cloudfront.net
@@ -4649,6 +4659,7 @@
 0.0.0.0 fourmtagservices.appspot.com
 0.0.0.0 friends.totallynsfw.com
 0.0.0.0 future-fie-assets.co.uk
+0.0.0.0 future-price.co.uk
 0.0.0.0 g.delivery.net
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.kvideo.io
@@ -5568,6 +5579,7 @@
 0.0.0.0 nanostats.nanopress.it
 0.0.0.0 rcsmetrics.it
 0.0.0.0 rd.alice.it
+0.0.0.0 sem.triboomedia.it
 0.0.0.0 shinystat.lvlar.com
 0.0.0.0 stat.acca.it
 0.0.0.0 stat.freetool.it
@@ -5743,7 +5755,6 @@
 0.0.0.0 counter.opinion.com.ua
 0.0.0.0 informers.sinoptik.ua
 0.0.0.0 analytics.mecloud.vn
-0.0.0.0 3rdeye.spankbang.com
 0.0.0.0 a.jango.com
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-us-iad.amazon.com
@@ -5804,7 +5815,6 @@
 0.0.0.0 analytics.skyscanner.net
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.socialblade.com
-0.0.0.0 analytics.spankbang.com
 0.0.0.0 analytics.sportybet.com
 0.0.0.0 analytics.teespring.com
 0.0.0.0 analytics.thenest.com
@@ -5934,7 +5944,6 @@
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 cpt.itv.com
 0.0.0.0 ct.buzzfeed.com
-0.0.0.0 d-engine.spankbang.com
 0.0.0.0 d1.abtshield.com
 0.0.0.0 da.virginmedia.com
 0.0.0.0 data.mic.com
@@ -6530,6 +6539,7 @@
 0.0.0.0 tracker.lolalytics.com
 0.0.0.0 tracker.mattel.com
 0.0.0.0 tracker.nbcuas.com
+0.0.0.0 tracker.pandora.com
 0.0.0.0 tracker.pinnaclesports.com
 0.0.0.0 tracker.realclearpolitics.com
 0.0.0.0 tracker.redditmedia.com
