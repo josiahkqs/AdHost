@@ -1,10 +1,18 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 02 Aug 2019 14:34:39 +0800
+# Last converted - Wed, 07 Aug 2019 07:52:49 +0800
 #
 
+0.0.0.0 s.newsportalssl1.top
+0.0.0.0 tirqeso.ru
+0.0.0.0 somuboteso.com
+0.0.0.0 369bd3a861d8c27.com
+0.0.0.0 unixfuture.com
+0.0.0.0 qqmilk.ru
+0.0.0.0 itrigra.ru
 0.0.0.0 bigdate.biz
+0.0.0.0 fadeaibgfihegegjadc.ru
 0.0.0.0 antiblock.info
 0.0.0.0 eti-code.com
 0.0.0.0 plyfoni.ru
@@ -17,8 +25,10 @@
 0.0.0.0 aj1058.online
 0.0.0.0 meqxh.com
 0.0.0.0 69v.club
+0.0.0.0 milliardytv.ru
 0.0.0.0 content.mql5.com
 0.0.0.0 jojonewwss.pro
+0.0.0.0 infoguardru.info
 0.0.0.0 img-perli.com
 0.0.0.0 kymirasite.pro
 0.0.0.0 thethi.ru
