@@ -1,9 +1,11 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Wed, 07 Aug 2019 07:52:49 +0800
+# Last converted - Fri, 09 Aug 2019 11:54:32 +0800
 #
 
+0.0.0.0 smart-tds.info
+0.0.0.0 cpamedia.info
 0.0.0.0 s.newsportalssl1.top
 0.0.0.0 tirqeso.ru
 0.0.0.0 somuboteso.com
