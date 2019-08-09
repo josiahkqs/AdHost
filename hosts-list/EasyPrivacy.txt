@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Wed, 07 Aug 2019 07:52:51 +0800
+# Last converted - Fri, 09 Aug 2019 11:54:35 +0800
 #
 
 0.0.0.0 0emm.com
@@ -393,6 +393,7 @@
 0.0.0.0 burt.io
 0.0.0.0 bux1le001.com
 0.0.0.0 buzzdeck.com
+0.0.0.0 bytedance.com
 0.0.0.0 bytemgdd.com
 0.0.0.0 c-o-u-n-t.com
 0.0.0.0 c-rings.net
@@ -505,6 +506,7 @@
 0.0.0.0 clickx.io
 0.0.0.0 clickzs.com
 0.0.0.0 clickzzs.nl
+0.0.0.0 clientgear.com
 0.0.0.0 clixcount.com
 0.0.0.0 clixpy.com
 0.0.0.0 cloud-exploration.com
@@ -1859,6 +1861,7 @@
 0.0.0.0 salesviewer.com
 0.0.0.0 salesviewer.org
 0.0.0.0 saletrack.co.uk
+0.0.0.0 san-spr-01.net
 0.0.0.0 sapha.com
 0.0.0.0 sarevtop.com
 0.0.0.0 sas15k01.com
@@ -3208,12 +3211,14 @@
 0.0.0.0 greyinstrument.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 hilariouszinc.com
+0.0.0.0 horsenectar.com
 0.0.0.0 importedincrease.com
 0.0.0.0 jadeitite.com
 0.0.0.0 jewelcheese.com
 0.0.0.0 leaplunchroom.com
 0.0.0.0 levelbehavior.com
 0.0.0.0 lizardslaugh.com
+0.0.0.0 lumberamount.com
 0.0.0.0 magnetairport.com
 0.0.0.0 mowfruit.com
 0.0.0.0 nervoussummer.com
@@ -3646,6 +3651,7 @@
 0.0.0.0 adop.cc
 0.0.0.0 adskom.com
 0.0.0.0 adxvip.com
+0.0.0.0 affclkr.com
 0.0.0.0 appier.net
 0.0.0.0 baifendian.com
 0.0.0.0 blog104.com
@@ -3700,6 +3706,7 @@
 0.0.0.0 top-bloggers.com
 0.0.0.0 topsem.com
 0.0.0.0 tovery.net
+0.0.0.0 twcouponcenter.com
 0.0.0.0 users.51.la
 0.0.0.0 vamaker.com
 0.0.0.0 vdoing.com
@@ -4485,7 +4492,6 @@
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d191y0yd6d0jy4.cloudfront.net
-0.0.0.0 d1aqhv4sn5kxtx.cloudfront.net
 0.0.0.0 d1cdnlzf6usiff.cloudfront.net
 0.0.0.0 d1cerpgff739r9.cloudfront.net
 0.0.0.0 d1clfvuu2240eh.cloudfront.net
@@ -5281,6 +5287,7 @@
 0.0.0.0 ttwbs.channelintelligence.com
 0.0.0.0 txn.grabnetworks.com
 0.0.0.0 ucounter.ucoz.net
+0.0.0.0 uid.mavencoalition.io
 0.0.0.0 uim.tifbs.net
 0.0.0.0 upt.graphiq.com
 0.0.0.0 urc.taboolasyndication.com
@@ -6842,9 +6849,12 @@
 0.0.0.0 logs.51cto.com
 0.0.0.0 logs.live.tudou.com
 0.0.0.0 logstat.caixin.com
+0.0.0.0 logx.mtime.cn
+0.0.0.0 logx.mtime.com
 0.0.0.0 mar.vip.com
 0.0.0.0 nstat.tudou.com
 0.0.0.0 p-log.ykimg.com
+0.0.0.0 pass.1688.com
 0.0.0.0 pb.i.sogou.com
 0.0.0.0 pingback.sogou.com
 0.0.0.0 pingjs.qq.com
@@ -6888,6 +6898,7 @@
 0.0.0.0 stats.autohome.com.cn
 0.0.0.0 stats.tudou.com
 0.0.0.0 stats.yinyuetai.com
+0.0.0.0 tbskip.taobao.com
 0.0.0.0 tf.360.cn
 0.0.0.0 tinglog.baidu.com
 0.0.0.0 tongji.mafengwo.cn
@@ -7027,6 +7038,8 @@
 0.0.0.0 hits.antena3.com
 0.0.0.0 pixel.europapress.net
 0.0.0.0 stats.milenio.com
+0.0.0.0 wssgmstats.vibbo.com
+0.0.0.0 wsstats.coches.net
 0.0.0.0 ai.idg.se
 0.0.0.0 ax.idg.se
 0.0.0.0 beacon.mtgx.tv
