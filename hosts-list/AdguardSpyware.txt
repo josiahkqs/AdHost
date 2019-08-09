@@ -1,9 +1,10 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Wed, 07 Aug 2019 07:52:49 +0800
+# Last converted - Fri, 09 Aug 2019 11:54:32 +0800
 #
 
+0.0.0.0 stat.enter-system.com
 0.0.0.0 t.hoood.info
 0.0.0.0 experianmarketingservices.digital
 0.0.0.0 kepler-37b.com
@@ -996,7 +997,6 @@
 0.0.0.0 enhance.com
 0.0.0.0 enquisite.com
 0.0.0.0 ensighten.com
-0.0.0.0 enter-system.com
 0.0.0.0 enticelabs.com
 0.0.0.0 eperfectdata.com
 0.0.0.0 epilot.com
