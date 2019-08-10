@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 09 Aug 2019 11:54:35 +0800
+# Last converted - Sat, 10 Aug 2019 20:06:45 +0800
 #
 
 0.0.0.0 0emm.com
@@ -294,6 +294,7 @@
 0.0.0.0 babator.com
 0.0.0.0 bam-x.com
 0.0.0.0 baptisttop1000.com
+0.0.0.0 baremetrics.com
 0.0.0.0 barilliance.net
 0.0.0.0 basicstat.com
 0.0.0.0 basilic.io
@@ -632,6 +633,7 @@
 0.0.0.0 datam.com
 0.0.0.0 datamind.ru
 0.0.0.0 dataperforma.com
+0.0.0.0 datasteam.io
 0.0.0.0 dataxpand.com
 0.0.0.0 datvantage.com
 0.0.0.0 daylife-analytics.com
@@ -1466,6 +1468,7 @@
 0.0.0.0 navigator.io
 0.0.0.0 navilytics.com
 0.0.0.0 naytev.com
+0.0.0.0 ncaudienceexchange.com
 0.0.0.0 ndf81.com
 0.0.0.0 ndg.io
 0.0.0.0 neads.delivery
