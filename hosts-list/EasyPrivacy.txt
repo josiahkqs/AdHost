@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sat, 10 Aug 2019 20:06:45 +0800
+# Last converted - Sun, 11 Aug 2019 09:25:27 +0800
 #
 
 0.0.0.0 0emm.com
@@ -2049,6 +2049,7 @@
 0.0.0.0 statcounters.info
 0.0.0.0 stathat.com
 0.0.0.0 stathound.com
+0.0.0.0 staticiv.com
 0.0.0.0 statisfy.net
 0.0.0.0 statistiche-web.com
 0.0.0.0 statistx.com
@@ -5874,7 +5875,6 @@
 0.0.0.0 beacon.search.yahoo.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacon.toyota.co.jp
-0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beacon.www.theguardian.com
 0.0.0.0 beacons.helium.com
