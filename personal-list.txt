@@ -302,6 +302,7 @@
 0.0.0.0 static.vliplatform.com # Possible Ads
 0.0.0.0 kt5850pjz0.com # Ads
 0.0.0.0 services.bilsyndication.com # Possible Ads
+0.0.0.0 media.bilsyndication.com # Possible Ads
 0.0.0.0 biltag.bilsyndication.com # Possible Ads
 0.0.0.0 stats.bilsyndication.com # Possible Ads
 0.0.0.0 assets.bilsyndication.com # Possible Ads
@@ -318,3 +319,9 @@
 0.0.0.0 cdn.steepto.com # Possible Ads
 0.0.0.0 cm.steepto.com # Possible Ads
 0.0.0.0 trahes.sites # Possible Ads
+0.0.0.0 js.genieessp.com # Possible Ads
+0.0.0.0 r6---sn-a5meknee.googlevideo.com # Possible Ads
+0.0.0.0 r3---sn-npobuxa-npoez.googlevideo.com # Possible Ads
+0.0.0.0 xmlppcbuzz.com # Possible Ads
+0.0.0.0 xml.auxml.com # Possible Ads
+0.0.0.0 cdn.connectad.io # Possible Ads
