@@ -1,25 +1,49 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 09 Aug 2019 11:54:32 +0800
+# Last converted - Tue, 20 Aug 2019 13:38:50 +0800
 #
 
+0.0.0.0 cdn.debitcrebit669.com
+0.0.0.0 refpaumckl.top
+0.0.0.0 1xredrdyg.world
+0.0.0.0 vuwgt.com
+0.0.0.0 jerredsite.pro
+0.0.0.0 4736.in
+0.0.0.0 bannerboo.com
+0.0.0.0 prelstar.ru
+0.0.0.0 dytupr.com
+0.0.0.0 r5jpkacq.ru
+0.0.0.0 sminewsnet.ru
+0.0.0.0 sveklon.com
+0.0.0.0 oblivinfo.ru
+0.0.0.0 comin.co
+0.0.0.0 pehot.pro
+0.0.0.0 nshes.ru
+0.0.0.0 mhggzg.com
+0.0.0.0 qqjar.ru
+0.0.0.0 qqshoe.ru
+0.0.0.0 rezhiv.ru
 0.0.0.0 smart-tds.info
 0.0.0.0 cpamedia.info
 0.0.0.0 s.newsportalssl1.top
 0.0.0.0 tirqeso.ru
+0.0.0.0 selectroduced.com
 0.0.0.0 somuboteso.com
+0.0.0.0 perrabritsed.ru
 0.0.0.0 369bd3a861d8c27.com
 0.0.0.0 unixfuture.com
 0.0.0.0 qqmilk.ru
 0.0.0.0 itrigra.ru
 0.0.0.0 bigdate.biz
+0.0.0.0 hunterdelivery.com
 0.0.0.0 fadeaibgfihegegjadc.ru
 0.0.0.0 antiblock.info
 0.0.0.0 eti-code.com
 0.0.0.0 plyfoni.ru
 0.0.0.0 wpad.farm
 0.0.0.0 szimh.com
+0.0.0.0 fast12g.com
 0.0.0.0 izrelo.ru
 0.0.0.0 hapket.ru
 0.0.0.0 orncks.pro
@@ -3610,7 +3634,32 @@
 0.0.0.0 ukrmedia.center
 0.0.0.0 vi.bigmir.net
 0.0.0.0 widget.mediastealer.com
+0.0.0.0 newsandpolik.ru
+0.0.0.0 blamper-news.ru
+0.0.0.0 blamper-novosti.ru
+0.0.0.0 blamper.ru
+0.0.0.0 fin-vecto.ru
+0.0.0.0 fin-vector.ru
+0.0.0.0 hotnews.rusplt.ru
+0.0.0.0 ognyvo-topnews.ru
+0.0.0.0 ognyvo.ru
+0.0.0.0 ognyvo24.ru
+0.0.0.0 polit-e-fox.ru
+0.0.0.0 polit-fox.ru
+0.0.0.0 politfox.ru
+0.0.0.0 politfoxrf.ru
+0.0.0.0 ros-infonews.ru
+0.0.0.0 rosinfonews.ru
+0.0.0.0 rossinfonews.ru
+0.0.0.0 rossinfonewsrf.ru
+0.0.0.0 rusplt.ru
+0.0.0.0 rustoria-topnews.ru
+0.0.0.0 secure.ognyvo.ru
+0.0.0.0 top-newsrustoria.ru
+0.0.0.0 topruistory.ru
+0.0.0.0 toprustory.ru
 0.0.0.0 bux4gm.ru
+0.0.0.0 torrenthost.ru
 0.0.0.0 brandings.kanobu.ru
 0.0.0.0 a.fileplaneta.com
 0.0.0.0 a.navi-gaming.com
