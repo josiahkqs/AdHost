@@ -1,9 +1,10 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sat, 10 Aug 2019 20:08:08 +0800
+# Last converted - Tue, 20 Aug 2019 13:38:50 +0800
 #
 
+0.0.0.0 ulogin-stats.ru
 0.0.0.0 stat.enter-system.com
 0.0.0.0 t.hoood.info
 0.0.0.0 experianmarketingservices.digital
@@ -2937,6 +2938,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 horsenectar.com
 0.0.0.0 symbolizebeast.com
 0.0.0.0 cannontwin.com
 0.0.0.0 lumberamount.com
@@ -3159,11 +3161,14 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 tags.news.com.au
+0.0.0.0 analytics-ingress-global.bitmovin.com
+0.0.0.0 logs.insight.rapid7.com
 0.0.0.0 count.rtl.de
 0.0.0.0 pixel.4pcdn.de
 0.0.0.0 lexip.4pcdn.de
 0.0.0.0 pebed.dm-event.net
 0.0.0.0 pixelappcollector.thesun.co.uk
+0.0.0.0 counter.pixplug.in
 0.0.0.0 analytics.webgains.io
 0.0.0.0 candac.iridion.de
 0.0.0.0 cunda.prudsys-rde.de
@@ -4488,6 +4493,7 @@
 0.0.0.0 xtag.autotrader.com
 0.0.0.0 xtag.kbb.com
 0.0.0.0 zdlogs.sphereup.com
+0.0.0.0 pjstat.com
 0.0.0.0 analytics.dugun.com
 0.0.0.0 sonar.semantiqo.com
 0.0.0.0 growingio.com
