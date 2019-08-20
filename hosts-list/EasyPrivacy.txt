@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sun, 11 Aug 2019 09:25:27 +0800
+# Last converted - Tue, 20 Aug 2019 13:38:53 +0800
 #
 
 0.0.0.0 0emm.com
@@ -301,6 +301,7 @@
 0.0.0.0 baynote.net
 0.0.0.0 bdash-cloud.com
 0.0.0.0 beacon.kmi-us.com
+0.0.0.0 beaconstreetservices.com
 0.0.0.0 beampulse.com
 0.0.0.0 beanstalkdata.com
 0.0.0.0 beanstock.com
@@ -462,6 +463,7 @@
 0.0.0.0 christmalicious.com
 0.0.0.0 chrumedia.com
 0.0.0.0 cint.com
+0.0.0.0 cintnetworks.com
 0.0.0.0 circular-counters.com
 0.0.0.0 ck-cdn.com
 0.0.0.0 clarifyingquack.com
@@ -730,6 +732,7 @@
 0.0.0.0 ecustomeropinions.com
 0.0.0.0 edgeadx.net
 0.0.0.0 edigitalsurvey.com
+0.0.0.0 eggplant.cloud
 0.0.0.0 ekmpinpoint.co.uk
 0.0.0.0 ekmpinpoint.com
 0.0.0.0 ela-3-tnk.com
@@ -1367,6 +1370,7 @@
 0.0.0.0 mediego.com
 0.0.0.0 mega-stats.com
 0.0.0.0 memecounter.com
+0.0.0.0 memo.co
 0.0.0.0 mercadoclics.com
 0.0.0.0 mercent.com
 0.0.0.0 metakeyproducer.com
@@ -1417,6 +1421,7 @@
 0.0.0.0 mplxtms.com
 0.0.0.0 mppapi.io
 0.0.0.0 mpstat.us
+0.0.0.0 mql5.com
 0.0.0.0 msecure108.com
 0.0.0.0 msgapp.com
 0.0.0.0 msgtag.com
@@ -1704,6 +1709,7 @@
 0.0.0.0 pto-slb-09.com
 0.0.0.0 ptp123.com
 0.0.0.0 ptrk-wn.com
+0.0.0.0 publicgood.com
 0.0.0.0 publicidees.com
 0.0.0.0 publishflow.com
 0.0.0.0 pubplus.com
@@ -1785,6 +1791,7 @@
 0.0.0.0 remarketstats.com
 0.0.0.0 rep0pkgr.com
 0.0.0.0 repixel.co
+0.0.0.0 report-uri.com
 0.0.0.0 report-uri.io
 0.0.0.0 res-x.com
 0.0.0.0 research-tool.com
@@ -1882,7 +1889,6 @@
 0.0.0.0 script.ag
 0.0.0.0 scripts21.com
 0.0.0.0 scriptshead.com
-0.0.0.0 scroll.com
 0.0.0.0 sddan.com
 0.0.0.0 sea-nov-1.com
 0.0.0.0 searchfeed.com
@@ -2288,6 +2294,7 @@
 0.0.0.0 tstlabs.co.uk
 0.0.0.0 tsw0.com
 0.0.0.0 tubetrafficcash.com
+0.0.0.0 tuinfra.com
 0.0.0.0 tunnl.com
 0.0.0.0 tw.cx
 0.0.0.0 twcount.com
@@ -2367,6 +2374,7 @@
 0.0.0.0 video.oms.eu
 0.0.0.0 videos.oms.eu
 0.0.0.0 videostat.com
+0.0.0.0 vilynx.com
 0.0.0.0 vinlens.com
 0.0.0.0 vinub.com
 0.0.0.0 viralninjas.com
@@ -2473,6 +2481,7 @@
 0.0.0.0 wiredminds.de
 0.0.0.0 wisetrack.net
 0.0.0.0 wishloop.com
+0.0.0.0 withcubed.com
 0.0.0.0 womtp.com
 0.0.0.0 woopra-ns.com
 0.0.0.0 woopra.com
@@ -3188,6 +3197,7 @@
 0.0.0.0 zymerget.stream
 0.0.0.0 zymerget.win
 0.0.0.0 6ldu6qa.com
+0.0.0.0 acridtwist.com
 0.0.0.0 aheadday.com
 0.0.0.0 anxiousapples.com
 0.0.0.0 awzbijw.com
@@ -3205,6 +3215,7 @@
 0.0.0.0 desiredirt.com
 0.0.0.0 detectdiscovery.com
 0.0.0.0 ejyymghi.com
+0.0.0.0 endurablecrayon.comthird-party
 0.0.0.0 familiarfloor.com
 0.0.0.0 fearfulflag.com
 0.0.0.0 flakyfeast.com
@@ -3217,6 +3228,7 @@
 0.0.0.0 hilariouszinc.com
 0.0.0.0 horsenectar.com
 0.0.0.0 importedincrease.com
+0.0.0.0 intelligentscissors.com
 0.0.0.0 jadeitite.com
 0.0.0.0 jewelcheese.com
 0.0.0.0 leaplunchroom.com
@@ -3243,6 +3255,7 @@
 0.0.0.0 shelterstraw.com
 0.0.0.0 shermore.info
 0.0.0.0 sicksmash.com
+0.0.0.0 sombersurprise.com
 0.0.0.0 spiffymachine.com
 0.0.0.0 spottysense.com
 0.0.0.0 spurioussteam.com
@@ -3254,6 +3267,7 @@
 0.0.0.0 sugarcurtain.com
 0.0.0.0 ticklesign.com
 0.0.0.0 truthfulturn.com
+0.0.0.0 untidyrice.com
 0.0.0.0 womanear.com
 0.0.0.0 123-counter.de
 0.0.0.0 12mnkys.com
@@ -3838,6 +3852,7 @@
 0.0.0.0 trick17.it
 0.0.0.0 ultrastats.it
 0.0.0.0 vivistats.com
+0.0.0.0 webads.eu
 0.0.0.0 webmeter.ws
 0.0.0.0 webmobile.ws
 0.0.0.0 webtraffstats.net
@@ -4395,6 +4410,7 @@
 0.0.0.0 carl.pubsvs.com
 0.0.0.0 caspionlog.appspot.com
 0.0.0.0 cc.swiftype.com
+0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 cdn.trafficexchangelist.com
 0.0.0.0 cdnbigdata.azureedge.net
 0.0.0.0 ce.lijit.com
@@ -4403,7 +4419,6 @@
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 chartaca.com.s3.amazonaws.com
-0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 click.appinthestore.com
 0.0.0.0 click.aristotle.net
 0.0.0.0 click.geopaysys.com
@@ -4472,6 +4487,7 @@
 0.0.0.0 counters.freewebs.com
 0.0.0.0 counters.gigya.com
 0.0.0.0 cr.loszona.com
+0.0.0.0 creator.zmags.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 csp.archant.co.uk
@@ -4987,6 +5003,7 @@
 0.0.0.0 speedtrap.shopdirect.com
 0.0.0.0 spoods.rce.veeseo.com
 0.0.0.0 st.cdnco.us
+0.0.0.0 st.dynamicyield.com
 0.0.0.0 stat.boredomtherapy.com
 0.0.0.0 stat.easydate.biz
 0.0.0.0 stat.ed.cupidplc.com
@@ -5233,6 +5250,7 @@
 0.0.0.0 tracking.interweave.com
 0.0.0.0 tracking.jotform.com
 0.0.0.0 tracking.keywee.co
+0.0.0.0 tracking.legacyoffers.com
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.listhub.net
 0.0.0.0 tracking.livingsocial.com
@@ -5279,6 +5297,7 @@
 0.0.0.0 triad.technorati.com
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 trk.bhs4.com
+0.0.0.0 trk.cloudsna.com
 0.0.0.0 trk.email.dynect.net
 0.0.0.0 trk.pswec.com
 0.0.0.0 trk.sele.co
@@ -5324,6 +5343,7 @@
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.quantcast.com
 0.0.0.0 win.staticstuff.net
+0.0.0.0 ws.audioeye.com
 0.0.0.0 wsb.aracert.com
 0.0.0.0 wstat.wibiya.com
 0.0.0.0 wunderloop.aol.co.uk
@@ -5332,6 +5352,7 @@
 0.0.0.0 ys.ddns.me
 0.0.0.0 zdlogs.sphereup.com
 0.0.0.0 zvsuhljiha-a.akamaihd.net
+0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 connatix.com
 0.0.0.0 analytics-static.unister-gmbh.de
 0.0.0.0 analytics.cnd-motionmedia.de
@@ -5788,6 +5809,7 @@
 0.0.0.0 affiliates.londonmarketing.com
 0.0.0.0 affiliates.mozy.com
 0.0.0.0 affiliates.myfax.com
+0.0.0.0 affiliates.purevpn.com
 0.0.0.0 affiliates.treasureisland.com
 0.0.0.0 affiliates.vpn.ht
 0.0.0.0 aggregator.inquisitr.com
@@ -5828,6 +5850,7 @@
 0.0.0.0 analytics.socialblade.com
 0.0.0.0 analytics.sportybet.com
 0.0.0.0 analytics.teespring.com
+0.0.0.0 analytics.thegedsection.com
 0.0.0.0 analytics.thenest.com
 0.0.0.0 analytics.thenewslens.com
 0.0.0.0 analytics.thetab.com
@@ -6204,6 +6227,7 @@
 0.0.0.0 pix.eads.com
 0.0.0.0 pix.gfycat.com
 0.0.0.0 pix.nbcuni.com
+0.0.0.0 pixel-static.spotify.com
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.buzzfeed.com
 0.0.0.0 pixel.digitalspy.co.uk
@@ -6218,6 +6242,7 @@
 0.0.0.0 pixel.propublica.org
 0.0.0.0 pixel.reddit.com
 0.0.0.0 pixel.redditmedia.com
+0.0.0.0 pixel.spotify.com
 0.0.0.0 pixel.staging.tree.com
 0.0.0.0 pixel.tuko.co.ke
 0.0.0.0 pixels.livingsocial.com
@@ -6287,6 +6312,7 @@
 0.0.0.0 smetrics.delta.com
 0.0.0.0 snowplow-collector.sugarops.com
 0.0.0.0 somniture.theglobeandmail.com
+0.0.0.0 sp-mms.weather.com
 0.0.0.0 sp.app.com
 0.0.0.0 sp.argusleader.com
 0.0.0.0 sp.azcentral.com
