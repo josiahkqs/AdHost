@@ -309,6 +309,7 @@
 0.0.0.0 runative-syndicate.com # Possible Ads
 0.0.0.0 sandroprabratm.info # Possible Ads
 0.0.0.0 forcedolphin.com # Possible Ads
+0.0.0.0 images.babyboomboomads.com # Ads
 0.0.0.0 babyboomboomads.com # Ads
 0.0.0.0 consting-hancessor.com # Possible Ads
 0.0.0.0 readcomiconline.to # Possible Ads
@@ -325,3 +326,9 @@
 0.0.0.0 xmlppcbuzz.com # Possible Ads
 0.0.0.0 xml.auxml.com # Possible Ads
 0.0.0.0 cdn.connectad.io # Possible Ads
+0.0.0.0 static.adop.co # Possible Ads
+0.0.0.0 imasdk.googleapis.com # Possible Ads
+0.0.0.0 ssp-nj.webtradehub.com # Possible Ads
+0.0.0.0 s-img.steepto.com # Ads
+0.0.0.0 www.steepto.com # Ads
+0.0.0.0 cdn.steepto.com # Ads
