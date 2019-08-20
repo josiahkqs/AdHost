@@ -298,3 +298,13 @@
 0.0.0.0 www.thehubpeople.com # Spam
 0.0.0.0 cbtb.clickbank.net # Spam
 0.0.0.0 sweeplp.com # Spam
+0.0.0.0 sync-eu.connectad.io # Possible Ads
+0.0.0.0 static.vliplatform.com # Possible Ads
+0.0.0.0 kt5850pjz0.com # Ads
+0.0.0.0 services.bilsyndication.com # Possible Ads
+0.0.0.0 biltag.bilsyndication.com # Possible Ads
+0.0.0.0 stats.bilsyndication.com # Possible Ads
+0.0.0.0 runative-syndicate.com # Possible Ads
+0.0.0.0 sandroprabratm.info # Possible Ads
+0.0.0.0 forcedolphin.com # Possible Ads
+0.0.0.0 babyboomboomads.com # Ads
