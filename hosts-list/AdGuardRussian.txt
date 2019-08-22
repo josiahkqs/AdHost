@@ -1,9 +1,13 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 20 Aug 2019 13:38:50 +0800
+# Last converted - Fri, 23 Aug 2019 01:04:35 +0800
 #
 
+0.0.0.0 rongeundhis.ru
+0.0.0.0 kira5.ru
+0.0.0.0 1bfc228b50a902db.com
+0.0.0.0 wellbc6.website
 0.0.0.0 cdn.debitcrebit669.com
 0.0.0.0 refpaumckl.top
 0.0.0.0 1xredrdyg.world
@@ -14,6 +18,7 @@
 0.0.0.0 prelstar.ru
 0.0.0.0 dytupr.com
 0.0.0.0 r5jpkacq.ru
+0.0.0.0 adprofits.ru
 0.0.0.0 sminewsnet.ru
 0.0.0.0 sveklon.com
 0.0.0.0 oblivinfo.ru
@@ -3494,6 +3499,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 info.inamo.ru
 0.0.0.0 up.gtorrent.ru
 0.0.0.0 ad.velomania.ru
 0.0.0.0 a.kidstaff.net
