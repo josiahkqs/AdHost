@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 20 Aug 2019 13:38:53 +0800
+# Last converted - Fri, 23 Aug 2019 01:04:39 +0800
 #
 
 0.0.0.0 0emm.com
@@ -4503,6 +4503,7 @@
 0.0.0.0 cts.channelintelligence.com
 0.0.0.0 cts.vresp.com
 0.0.0.0 curate.nestedmedia.com
+0.0.0.0 cws.conviva.com
 0.0.0.0 cx.atdmt.com
 0.0.0.0 d.rcmd.jp
 0.0.0.0 d.shareaholic.com
