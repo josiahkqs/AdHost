@@ -1,10 +1,9 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Tue, 20 Aug 2019 13:38:45 +0800
+# Last converted - Fri, 23 Aug 2019 01:04:31 +0800
 #
 
-0.0.0.0 xhrxb.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -222,6 +221,7 @@
 0.0.0.0 58.215.179.159
 0.0.0.0 592man.com
 0.0.0.0 59519.com
+0.0.0.0 59gt.cn
 0.0.0.0 59hi.com
 0.0.0.0 5imoney.com
 0.0.0.0 5jcom.com.cn
@@ -1777,6 +1777,7 @@
 0.0.0.0 uklyv.cn
 0.0.0.0 ulink.cc
 0.0.0.0 um29.com
+0.0.0.0 umjsik.com
 0.0.0.0 unimhk.com
 0.0.0.0 union-wifi.com
 0.0.0.0 union.zbj.com
@@ -1916,6 +1917,7 @@
 0.0.0.0 xe2c.com
 0.0.0.0 xhbqczl.com
 0.0.0.0 xhmrv.com
+0.0.0.0 xhrxb.com
 0.0.0.0 xhsxgmt.cn
 0.0.0.0 xhxnkyy.com
 0.0.0.0 xhydrs.cn
@@ -2439,6 +2441,7 @@
 0.0.0.0 p8u.hinet.net
 0.0.0.0 panda.kdnet.net
 0.0.0.0 partner.toutiao.com
+0.0.0.0 pekingpk10.com
 0.0.0.0 pfizer.com.tw
 0.0.0.0 pfp.sina.com.cn
 0.0.0.0 pg-ad-b1.nosdn.127.net
@@ -3412,7 +3415,8 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
-0.0.0.0 hehmy.cn
+0.0.0.0 dlvnxf.cn
+0.0.0.0 sincetrade.com
 0.0.0.0 0234408.cn
 0.0.0.0 03196688.com
 0.0.0.0 0532ci.com.cn
@@ -3583,6 +3587,7 @@
 0.0.0.0 beifmu.com
 0.0.0.0 bentengcn.com
 0.0.0.0 bgcse.cn
+0.0.0.0 bgj216.cn
 0.0.0.0 bgtrtv.top
 0.0.0.0 bhuak.com
 0.0.0.0 bianxianwu.com
@@ -3918,6 +3923,7 @@
 0.0.0.0 headwell.cn
 0.0.0.0 hebhec.cn
 0.0.0.0 hebzycw.com
+0.0.0.0 hehmy.cn
 0.0.0.0 heib2.top
 0.0.0.0 heizundg.cn
 0.0.0.0 helpinfo.cn
@@ -4173,6 +4179,7 @@
 0.0.0.0 miaos11.com
 0.0.0.0 mid5in.top
 0.0.0.0 miiuv.com
+0.0.0.0 mindrook.com
 0.0.0.0 mjita.cn
 0.0.0.0 ml44.cn
 0.0.0.0 mlion.cn
@@ -4186,6 +4193,7 @@
 0.0.0.0 mouaa.com
 0.0.0.0 movii-loft.cn
 0.0.0.0 mqcwr.cn
+0.0.0.0 mqgpo.com
 0.0.0.0 mqies.com
 0.0.0.0 mreod.cn
 0.0.0.0 msdfd.cn
