@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 23 Aug 2019 01:04:39 +0800
+# Last converted - Sat, 24 Aug 2019 16:54:42 +0800
 #
 
 0.0.0.0 0emm.com
@@ -65,6 +65,7 @@
 0.0.0.0 a-counters.com
 0.0.0.0 a-pagerank.net
 0.0.0.0 a013.com
+0.0.0.0 a4b-tracking.com
 0.0.0.0 a8.net
 0.0.0.0 a8ww.net
 0.0.0.0 aaddzz.com
@@ -934,6 +935,7 @@
 0.0.0.0 geni.us
 0.0.0.0 genieesspv.jp
 0.0.0.0 geobytes.com
+0.0.0.0 geoedge.be
 0.0.0.0 geoip-db.com
 0.0.0.0 geoplugin.net
 0.0.0.0 georiot.com
@@ -4898,6 +4900,7 @@
 0.0.0.0 pix.speedbit.com
 0.0.0.0 pixel-a.basis.net
 0.0.0.0 pixel-xpanama.netdna-ssl.com
+0.0.0.0 pixel.blivenyc.com
 0.0.0.0 pixel.cdnwidget.com
 0.0.0.0 pixel.colorupmedia.com
 0.0.0.0 pixel.condenastdigital.com
@@ -5289,6 +5292,7 @@
 0.0.0.0 traffic.prod.cobaltgroup.com
 0.0.0.0 traffic.shareaholic.com
 0.0.0.0 trafficfuelpixel.s3-us-west-2.amazonaws.com
+0.0.0.0 trafficmanager.anyclip.com
 0.0.0.0 trakksocial.googlecode.com
 0.0.0.0 trax.dirxion.com
 0.0.0.0 trc.pushnami.com
@@ -5817,6 +5821,7 @@
 0.0.0.0 ai.inmdata.io
 0.0.0.0 ai.iol.io
 0.0.0.0 alb.reddit.com
+0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amp.virginmedia.com
 0.0.0.0 analysis.focalprice.com
 0.0.0.0 analytic.imlive.com
