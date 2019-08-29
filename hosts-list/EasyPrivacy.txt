@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sat, 24 Aug 2019 16:54:42 +0800
+# Last converted - Thu, 29 Aug 2019 11:39:05 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1667,6 +1667,7 @@
 0.0.0.0 plwosvr.net
 0.0.0.0 pm0.net
 0.0.0.0 pm14.com
+0.0.0.0 pmdstatic.net
 0.0.0.0 pnstat.com
 0.0.0.0 pntra.com
 0.0.0.0 pntrac.com
@@ -2022,6 +2023,7 @@
 0.0.0.0 spectate.com
 0.0.0.0 speed-trap.com
 0.0.0.0 speedcurve.com
+0.0.0.0 sphereup.com
 0.0.0.0 spklw.com
 0.0.0.0 splittag.com
 0.0.0.0 splurgi.com
@@ -4133,6 +4135,7 @@
 0.0.0.0 midas-network.com
 0.0.0.0 blogtraffic.sg
 0.0.0.0 algopine.com
+0.0.0.0 data.caroda.io
 0.0.0.0 idot.cz
 0.0.0.0 pocitadlo.sk
 0.0.0.0 toplist.sk
@@ -5310,7 +5313,6 @@
 0.0.0.0 tru.webelapp.com
 0.0.0.0 try.abtasty.com
 0.0.0.0 ts.tradetracker.net
-0.0.0.0 tt.onthe.io
 0.0.0.0 ttdetect.staticimgfarm.com
 0.0.0.0 ttwbs.channelintelligence.com
 0.0.0.0 txn.grabnetworks.com
@@ -6619,6 +6621,7 @@
 0.0.0.0 tracking.tidalhifi.com
 0.0.0.0 tracking.times247.com
 0.0.0.0 tracking.ukwm.co.uk
+0.0.0.0 tracking.unitednaturals.com
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 tracking.ustream.tv
 0.0.0.0 tracking.yourfilehost.com
@@ -6628,6 +6631,7 @@
 0.0.0.0 traktr.news.com.au
 0.0.0.0 trax.tvguide.com
 0.0.0.0 trck.sixt.com
+0.0.0.0 trk.flazio.com
 0.0.0.0 trk.freepik.com
 0.0.0.0 trowel.twitch.tv
 0.0.0.0 trueffect.underarmour.com
