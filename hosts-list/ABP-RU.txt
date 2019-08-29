@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Fri, 23 Aug 2019 01:04:35 +0800
+# Last converted - Thu, 29 Aug 2019 11:39:03 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1086,6 +1086,7 @@
 0.0.0.0 base.kiwi.kz
 0.0.0.0 bashnya.ru
 0.0.0.0 basketfan.my1.ru
+0.0.0.0 bazzaro.ru
 0.0.0.0 bb.stream24.ru
 0.0.0.0 bbn.by
 0.0.0.0 bbn.img.com.ua
@@ -1246,6 +1247,7 @@
 0.0.0.0 gamebook.pw
 0.0.0.0 gamingpartners.org
 0.0.0.0 gbs.gamingmedia.ru
+0.0.0.0 geocheckmy.com
 0.0.0.0 get-click.net
 0.0.0.0 getb.7ya.ru
 0.0.0.0 getta.top
@@ -1489,6 +1491,7 @@
 0.0.0.0 oxysoft.ru
 0.0.0.0 pammru.net
 0.0.0.0 partishion.com
+0.0.0.0 partistone.com
 0.0.0.0 partner.alfa.kz
 0.0.0.0 partner.allsoft.ru
 0.0.0.0 partner.cryptonet.biz
@@ -1924,6 +1927,7 @@
 0.0.0.0 1f5ba9b001ff69816dd1.date
 0.0.0.0 1g0x09523.com
 0.0.0.0 1g2q2xfxjca.site
+0.0.0.0 1k3.com
 0.0.0.0 1oshop.ru
 0.0.0.0 1qwe2r.info
 0.0.0.0 1rtl.info
@@ -2455,6 +2459,7 @@
 0.0.0.0 alslz.top
 0.0.0.0 altaer.ru
 0.0.0.0 altraf.com
+0.0.0.0 altypo.ru
 0.0.0.0 alyakut.ru
 0.0.0.0 am17.ru
 0.0.0.0 amazingcl.ru
@@ -2597,6 +2602,7 @@
 0.0.0.0 b.digital-tv.com.ua
 0.0.0.0 b.vtomske.ru
 0.0.0.0 b076a8317149e.com
+0.0.0.0 b21ywa9a.ru
 0.0.0.0 b280c10798.com
 0.0.0.0 b37225ff40413593.com
 0.0.0.0 b3r4muzf.site
@@ -2859,6 +2865,7 @@
 0.0.0.0 bymotofyd.ru
 0.0.0.0 bynff.com
 0.0.0.0 byrgin.ru
+0.0.0.0 byri.by
 0.0.0.0 bytde.com
 0.0.0.0 bytemedia.org
 0.0.0.0 byuop.com
@@ -3193,6 +3200,7 @@
 0.0.0.0 cyhtr.com
 0.0.0.0 czihyzbul.com
 0.0.0.0 d-ughwashes.ru
+0.0.0.0 d-zeus.ru
 0.0.0.0 d.igra-prestoloff.cx
 0.0.0.0 d0wnloads.ru
 0.0.0.0 d1776dc25a.com
@@ -3310,6 +3318,7 @@
 0.0.0.0 digitalbox.ru
 0.0.0.0 digitaltarget.ru
 0.0.0.0 digitello.agency
+0.0.0.0 dik-news1.club
 0.0.0.0 dimprive.com
 0.0.0.0 dingdarop.pro
 0.0.0.0 dinglahim.pro
@@ -4358,6 +4367,7 @@
 0.0.0.0 jpqgs.com
 0.0.0.0 jqtsknmobyw.com
 0.0.0.0 jquery-uim.download
+0.0.0.0 jquerylibe.ru
 0.0.0.0 jrfced.com
 0.0.0.0 jrlne.top
 0.0.0.0 jroqvbvw.info
@@ -5778,7 +5788,6 @@
 0.0.0.0 pushprofit.ru
 0.0.0.0 pustgovorjat.ru
 0.0.0.0 puttyac.com
-0.0.0.0 puu.sh
 0.0.0.0 puwws.pro
 0.0.0.0 puzcd.top
 0.0.0.0 pvafh.com
@@ -5825,6 +5834,7 @@
 0.0.0.0 qrrgv.space
 0.0.0.0 qrstes.com
 0.0.0.0 qshare.ru
+0.0.0.0 qshmug.com
 0.0.0.0 qtymi.com
 0.0.0.0 quber.ru
 0.0.0.0 qurtol.com
@@ -6279,6 +6289,7 @@
 0.0.0.0 skyadvert.su
 0.0.0.0 skyadvideo.ru
 0.0.0.0 skycdnhost.com
+0.0.0.0 skyscrappear.com
 0.0.0.0 skyvideo1.ru
 0.0.0.0 sl1et.ru
 0.0.0.0 slartibartfast.ru
@@ -7421,6 +7432,7 @@
 0.0.0.0 yugaley.info
 0.0.0.0 yulinata.ru
 0.0.0.0 yuo5lmkcvc.site
+0.0.0.0 yurmater.info
 0.0.0.0 yuryerin.ru
 0.0.0.0 yvok.ru
 0.0.0.0 ywadk.top
