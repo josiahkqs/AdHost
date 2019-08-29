@@ -1,11 +1,14 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 23 Aug 2019 01:04:35 +0800
+# Last converted - Thu, 29 Aug 2019 11:39:03 +0800
 #
 
+0.0.0.0 jullssc.pro
+0.0.0.0 ad.1k3.com
 0.0.0.0 rongeundhis.ru
 0.0.0.0 kira5.ru
+0.0.0.0 ftd.agency
 0.0.0.0 1bfc228b50a902db.com
 0.0.0.0 wellbc6.website
 0.0.0.0 cdn.debitcrebit669.com
@@ -1224,7 +1227,6 @@
 0.0.0.0 galaxymeet.ru
 0.0.0.0 game-tester.ru
 0.0.0.0 game.vulcan-casino.com
-0.0.0.0 gamedl.ru
 0.0.0.0 gameteaser.ru
 0.0.0.0 gamingpartners.org
 0.0.0.0 gamsano.info
@@ -2867,7 +2869,6 @@
 0.0.0.0 teazzer.ru
 0.0.0.0 tebadu.com
 0.0.0.0 techbeat.com
-0.0.0.0 telderi.ru
 0.0.0.0 telvanil.ru
 0.0.0.0 terapou.com
 0.0.0.0 terhimpa.pro
