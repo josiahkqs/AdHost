@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Thu, 29 Aug 2019 11:39:03 +0800
+# Last converted - Sun, 01 Sep 2019 01:32:57 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1321,6 +1321,7 @@
 0.0.0.0 jenugolok.com
 0.0.0.0 jollywallet.com
 0.0.0.0 jsn.st02.net
+0.0.0.0 justiva.ru
 0.0.0.0 ka7co.com
 0.0.0.0 kachestvoo.ru
 0.0.0.0 kadabada.com
@@ -2251,6 +2252,7 @@
 0.0.0.0 adgamble.net
 0.0.0.0 adhelper.me
 0.0.0.0 adjarabet.com
+0.0.0.0 adjfjka.pro
 0.0.0.0 adjs.ru
 0.0.0.0 adkraft.ru
 0.0.0.0 adlabs.ru
@@ -2316,6 +2318,7 @@
 0.0.0.0 adubqazur.ru
 0.0.0.0 adulthub.ru
 0.0.0.0 adv-first.ru
+0.0.0.0 adv-fmts.in
 0.0.0.0 adv-target.ru
 0.0.0.0 adv-views.com
 0.0.0.0 adv.vz.ru
@@ -2513,6 +2516,7 @@
 0.0.0.0 aprelend.ru
 0.0.0.0 aprelite.com
 0.0.0.0 aprement.com
+0.0.0.0 apronspb.ru
 0.0.0.0 apsukho.ru
 0.0.0.0 aptexof.ru
 0.0.0.0 apycdn.com
@@ -3655,6 +3659,7 @@
 0.0.0.0 feedbackrights.com
 0.0.0.0 feefbb88a9.com
 0.0.0.0 fegmamy.ru
+0.0.0.0 fejhjhddaajibegjadf.ru
 0.0.0.0 fejla.com
 0.0.0.0 fek5erxlnale.top
 0.0.0.0 fetalli.com
@@ -5828,6 +5833,7 @@
 0.0.0.0 qooqleplay.ru
 0.0.0.0 qqdress.ru
 0.0.0.0 qqjar.ru
+0.0.0.0 qqmeat.ru
 0.0.0.0 qqmilk.ru
 0.0.0.0 qractv.com
 0.0.0.0 qrdeom.com
@@ -6562,6 +6568,7 @@
 0.0.0.0 thairesort.ru
 0.0.0.0 tharbadir.com
 0.0.0.0 thathislitt.ru
+0.0.0.0 the-kinopush.xyz
 0.0.0.0 the7re.com
 0.0.0.0 thefox.mobi
 0.0.0.0 thefoxads.ru
@@ -8144,7 +8151,6 @@
 0.0.0.0 br.kcdn.kz
 0.0.0.0 bugaga.tut.by
 0.0.0.0 bw.myjob.by
-0.0.0.0 cdn.kinozal.ga
 0.0.0.0 cdnbalancer.ru
 0.0.0.0 cdnstream1.ru
 0.0.0.0 center.bz
