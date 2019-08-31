@@ -1,9 +1,13 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Thu, 29 Aug 2019 11:39:03 +0800
+# Last converted - Sun, 01 Sep 2019 01:32:57 +0800
 #
 
+0.0.0.0 aj1913.online
+0.0.0.0 orjzy.com
+0.0.0.0 tapnetwork.ru
+0.0.0.0 tapcreatives.host
 0.0.0.0 jullssc.pro
 0.0.0.0 ad.1k3.com
 0.0.0.0 rongeundhis.ru
