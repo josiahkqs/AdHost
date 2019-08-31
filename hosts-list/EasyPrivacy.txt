@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Thu, 29 Aug 2019 11:39:05 +0800
+# Last converted - Sun, 01 Sep 2019 01:32:59 +0800
 #
 
 0.0.0.0 0emm.com
@@ -448,6 +448,7 @@
 0.0.0.0 celebrus.com
 0.0.0.0 center.io
 0.0.0.0 centraltag.com
+0.0.0.0 ceros.com
 0.0.0.0 cetrk.com
 0.0.0.0 cformanalytics.com
 0.0.0.0 cftrack.com
@@ -620,6 +621,7 @@
 0.0.0.0 cya2.net
 0.0.0.0 cybermonitor.com
 0.0.0.0 cytoclause.com
+0.0.0.0 czx5eyk0exbhwp43ya.biz
 0.0.0.0 d-1.co
 0.0.0.0 d41.co
 0.0.0.0 dable.io
@@ -720,6 +722,7 @@
 0.0.0.0 e-webtrack.net
 0.0.0.0 e-zeeinternet.com
 0.0.0.0 earnitup.com
+0.0.0.0 easy-hit-counter.com
 0.0.0.0 easy-hit-counters.com
 0.0.0.0 easycounter.com
 0.0.0.0 easyhitcounters.com
@@ -1166,6 +1169,7 @@
 0.0.0.0 iprotrk.com
 0.0.0.0 ipstat.com
 0.0.0.0 ipv6monitoring.eu
+0.0.0.0 iqdata.ai
 0.0.0.0 iqfp1.com
 0.0.0.0 irelandmetrix.ie
 0.0.0.0 ironbeast.io
@@ -1667,7 +1671,6 @@
 0.0.0.0 plwosvr.net
 0.0.0.0 pm0.net
 0.0.0.0 pm14.com
-0.0.0.0 pmdstatic.net
 0.0.0.0 pnstat.com
 0.0.0.0 pntra.com
 0.0.0.0 pntrac.com
@@ -1899,6 +1902,7 @@
 0.0.0.0 searchplow.com
 0.0.0.0 secure-pixel.com
 0.0.0.0 securepaths.com
+0.0.0.0 securitytrfx.com
 0.0.0.0 sedotracker.com
 0.0.0.0 seehits.com
 0.0.0.0 seewhy.com
@@ -5159,6 +5163,8 @@
 0.0.0.0 tr.interlake.net
 0.0.0.0 tr.webantenna.info
 0.0.0.0 tr1.mailperformance.com
+0.0.0.0 tra.pmdstatic.net
+0.0.0.0 tra.scds.pmdstatic.net
 0.0.0.0 trace.qq.com
 0.0.0.0 track.99acres.com
 0.0.0.0 track.addevent.com
@@ -5235,6 +5241,7 @@
 0.0.0.0 trackerapi.truste.com
 0.0.0.0 trackicollect.ibase.fr
 0.0.0.0 tracking.adalyser.com
+0.0.0.0 tracking.aegpresents.com
 0.0.0.0 tracking.allposters.com
 0.0.0.0 tracking.badgeville.com
 0.0.0.0 tracking.bidmizer.com
@@ -5500,7 +5507,6 @@
 0.0.0.0 t.planvip.fr
 0.0.0.0 tag.leadplace.fr
 0.0.0.0 tmgr.ccmbg.com
-0.0.0.0 tra.pmdstatic.net
 0.0.0.0 track.byzon.swelen.net
 0.0.0.0 track.laredoute.fr
 0.0.0.0 trackcustomer.laredoute.com
@@ -5832,6 +5838,7 @@
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.bloomberg.com
 0.0.0.0 analytics.brave.com
+0.0.0.0 analytics.chase.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.eip.telegraph.co.uk
 0.0.0.0 analytics.femalefirst.co.uk
@@ -6456,6 +6463,7 @@
 0.0.0.0 stats.blogg.se
 0.0.0.0 stats.break.com
 0.0.0.0 stats.cardschat.com
+0.0.0.0 stats.cheddar.com
 0.0.0.0 stats.christianpost.com
 0.0.0.0 stats.clear-media.com
 0.0.0.0 stats.dnaindia.com
