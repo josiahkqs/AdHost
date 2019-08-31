@@ -1,9 +1,12 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Tue, 20 Aug 2019 13:38:50 +0800
+# Last converted - Sun, 01 Sep 2019 01:32:57 +0800
 #
 
+0.0.0.0 px.staticfiles.at
+0.0.0.0 vast.videocdn.tv
+0.0.0.0 chali.info
 0.0.0.0 ulogin-stats.ru
 0.0.0.0 stat.enter-system.com
 0.0.0.0 t.hoood.info
@@ -3160,7 +3163,6 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
-0.0.0.0 tags.news.com.au
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 logs.insight.rapid7.com
 0.0.0.0 count.rtl.de
