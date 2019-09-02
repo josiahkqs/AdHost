@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sun, 01 Sep 2019 01:32:59 +0800
+# Last converted - Mon, 02 Sep 2019 10:56:09 +0800
 #
 
 0.0.0.0 0emm.com
@@ -5010,6 +5010,7 @@
 0.0.0.0 slidedeck.com
 0.0.0.0 smrt.as
 0.0.0.0 snaps.vidiemi.com
+0.0.0.0 snowplow.swm.digital
 0.0.0.0 spacedust.netmediaeurope.com
 0.0.0.0 speedtrap.shopdirect.com
 0.0.0.0 spoods.rce.veeseo.com
