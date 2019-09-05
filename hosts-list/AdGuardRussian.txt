@@ -1,9 +1,12 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sun, 01 Sep 2019 01:32:57 +0800
+# Last converted - Fri, 06 Sep 2019 00:09:40 +0800
 #
 
+0.0.0.0 freshis.ru
+0.0.0.0 aliru5.ru
+0.0.0.0 fafc5ra6.ru
 0.0.0.0 aj1913.online
 0.0.0.0 orjzy.com
 0.0.0.0 tapnetwork.ru
@@ -3651,7 +3654,6 @@
 0.0.0.0 blamper.ru
 0.0.0.0 fin-vecto.ru
 0.0.0.0 fin-vector.ru
-0.0.0.0 hotnews.rusplt.ru
 0.0.0.0 ognyvo-topnews.ru
 0.0.0.0 ognyvo.ru
 0.0.0.0 ognyvo24.ru
@@ -3663,7 +3665,6 @@
 0.0.0.0 rosinfonews.ru
 0.0.0.0 rossinfonews.ru
 0.0.0.0 rossinfonewsrf.ru
-0.0.0.0 rusplt.ru
 0.0.0.0 rustoria-topnews.ru
 0.0.0.0 secure.ognyvo.ru
 0.0.0.0 top-newsrustoria.ru
