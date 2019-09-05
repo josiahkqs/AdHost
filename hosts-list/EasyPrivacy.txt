@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 02 Sep 2019 10:56:09 +0800
+# Last converted - Fri, 06 Sep 2019 00:09:42 +0800
 #
 
 0.0.0.0 0emm.com
@@ -820,6 +820,7 @@
 0.0.0.0 extole.com
 0.0.0.0 extole.io
 0.0.0.0 extreme-dm.com
+0.0.0.0 extreme-ip-lookup.com
 0.0.0.0 eyein.com
 0.0.0.0 eyereturn.com
 0.0.0.0 ezec.co.uk
@@ -1127,6 +1128,7 @@
 0.0.0.0 inspectlet.com
 0.0.0.0 instadia.net
 0.0.0.0 instana.io
+0.0.0.0 instant.page
 0.0.0.0 instore.biz
 0.0.0.0 integritystat.com
 0.0.0.0 intelevance.com
@@ -4397,7 +4399,6 @@
 0.0.0.0 bonsai.internetbrands.com
 0.0.0.0 brain.foresee.com
 0.0.0.0 bright.bncnt.com
-0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 bs.yandex.ru
 0.0.0.0 btn.clickability.com
 0.0.0.0 btrace.video.qq.com
