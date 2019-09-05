@@ -1,11 +1,11 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Mon, 02 Sep 2019 10:56:00 +0800
+# Last converted - Fri, 06 Sep 2019 00:09:34 +0800
 #
 
-0.0.0.0 qqtx.me
-0.0.0.0 uc138.com
+0.0.0.0 scfrwo.cn
+0.0.0.0 letaojuan68.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -47,7 +47,6 @@
 0.0.0.0 106.187.95.251
 0.0.0.0 107.187.255.178
 0.0.0.0 110160.com
-0.0.0.0 111.73.45.147
 0.0.0.0 111111qb.com
 0.0.0.0 112.74.95.46
 0.0.0.0 1133.cc
@@ -1019,6 +1018,7 @@
 0.0.0.0 hxadt.com
 0.0.0.0 hxgccl.cn
 0.0.0.0 hxlif.com
+0.0.0.0 hxnzyy.com
 0.0.0.0 hxqu.com
 0.0.0.0 hxscba.com
 0.0.0.0 hxtwl.cn
@@ -1159,6 +1159,7 @@
 0.0.0.0 juxiangyou.com
 0.0.0.0 juyiqiche.com.cn
 0.0.0.0 jwqj.net
+0.0.0.0 jx118114.net
 0.0.0.0 jxabp.com.cn
 0.0.0.0 jxbjt.com
 0.0.0.0 jxjzny.com
@@ -1500,6 +1501,7 @@
 0.0.0.0 qoiusky.com
 0.0.0.0 qq4g.cn
 0.0.0.0 qqm98.com
+0.0.0.0 qqtx.me
 0.0.0.0 qs01.cn
 0.0.0.0 qsart.cn
 0.0.0.0 qsbz2011.com
@@ -1777,6 +1779,7 @@
 0.0.0.0 ubalh.com
 0.0.0.0 ubcpm.com
 0.0.0.0 ubmcvideo.baidustatic.com
+0.0.0.0 uc138.com
 0.0.0.0 uc610.com
 0.0.0.0 ucaliyun.cn
 0.0.0.0 ucrzgcs.cn
@@ -2545,6 +2548,7 @@
 0.0.0.0 zkrdy.com
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
+0.0.0.0 assp.sohu.com
 0.0.0.0 immedlinkum.info
 0.0.0.0 xayah.date
 0.0.0.0 003store.com
