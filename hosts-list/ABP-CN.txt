@@ -1,11 +1,9 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Fri, 06 Sep 2019 00:09:34 +0800
+# Last converted - Sun, 08 Sep 2019 01:27:54 +0800
 #
 
-0.0.0.0 scfrwo.cn
-0.0.0.0 letaojuan68.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -1234,10 +1232,12 @@
 0.0.0.0 laolinow.com
 0.0.0.0 lashou1000.com
 0.0.0.0 last2.cn
+0.0.0.0 lc1b2.cn
 0.0.0.0 ldgjhd.net
 0.0.0.0 le123.cn
 0.0.0.0 le4le.com
 0.0.0.0 leamain.net
+0.0.0.0 letaojuan68.com
 0.0.0.0 letaoxiaochi.com
 0.0.0.0 leturich.org
 0.0.0.0 leturich.org
@@ -1573,6 +1573,7 @@
 0.0.0.0 sbrqp.com
 0.0.0.0 scenepass.com
 0.0.0.0 scfatao.com
+0.0.0.0 scfrwo.cn
 0.0.0.0 sciencelolb.com
 0.0.0.0 scize.com
 0.0.0.0 sclizhong.com
@@ -2265,6 +2266,7 @@
 0.0.0.0 adf.dahe.cn
 0.0.0.0 adhome.1fangchan.com
 0.0.0.0 adm.265g.com
+0.0.0.0 adm.52swine.com
 0.0.0.0 adm.6park.com
 0.0.0.0 adm.86wan.com
 0.0.0.0 adm.beimg.com
@@ -2301,6 +2303,7 @@
 0.0.0.0 apple.www.letv.com
 0.0.0.0 as.g4.ifeng.com
 0.0.0.0 ashow.pcpop.com
+0.0.0.0 assp.sohu.com
 0.0.0.0 atiws.aipai.com
 0.0.0.0 atm.youku.com
 0.0.0.0 ax.ifeng.com
@@ -2548,9 +2551,11 @@
 0.0.0.0 zkrdy.com
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
-0.0.0.0 assp.sohu.com
 0.0.0.0 immedlinkum.info
 0.0.0.0 xayah.date
+0.0.0.0 2.haoxue360.com
+0.0.0.0 usejj.makepolo.net
+0.0.0.0 c.booksir.com.cn
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
 0.0.0.0 06362.com
