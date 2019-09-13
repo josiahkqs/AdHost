@@ -1,9 +1,12 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Fri, 06 Sep 2019 00:09:40 +0800
+# Last converted - Fri, 13 Sep 2019 18:02:18 +0800
 #
 
+0.0.0.0 stiffstem.com
+0.0.0.0 admon.pro
+0.0.0.0 stats.mos.ru
 0.0.0.0 px.staticfiles.at
 0.0.0.0 vast.videocdn.tv
 0.0.0.0 wapempire.com
