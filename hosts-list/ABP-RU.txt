@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Sun, 08 Sep 2019 01:27:57 +0800
+# Last converted - Fri, 13 Sep 2019 18:02:17 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -829,7 +829,6 @@
 0.0.0.0 rutor.eu.org
 0.0.0.0 rutor.ml
 0.0.0.0 rutor.net.pl
-0.0.0.0 rutor.org.ua
 0.0.0.0 rutor.su
 0.0.0.0 rutor.tech
 0.0.0.0 rutors.tk
@@ -1248,6 +1247,7 @@
 0.0.0.0 gamingpartners.org
 0.0.0.0 gbs.gamingmedia.ru
 0.0.0.0 geocheckmy.com
+0.0.0.0 geronaimus.com
 0.0.0.0 get-click.net
 0.0.0.0 getb.7ya.ru
 0.0.0.0 getta.top
@@ -1327,6 +1327,7 @@
 0.0.0.0 kadabada.com
 0.0.0.0 kadamata.com
 0.0.0.0 kakgu.ru
+0.0.0.0 kattepush.com
 0.0.0.0 kazban.su
 0.0.0.0 ket.ru
 0.0.0.0 kingpeon.com
@@ -2418,6 +2419,7 @@
 0.0.0.0 aj1616.online
 0.0.0.0 aj1713.online
 0.0.0.0 aj1834.online
+0.0.0.0 aj1907.online
 0.0.0.0 aj1913.online
 0.0.0.0 ajaxbig.ru
 0.0.0.0 ajnetli.info
@@ -3671,6 +3673,7 @@
 0.0.0.0 fextor.ru
 0.0.0.0 ffdjxcg4agnipwv.ru
 0.0.0.0 ffovoxb9swkkbu.ru
+0.0.0.0 fgsffil.pro
 0.0.0.0 fgtjy.club
 0.0.0.0 fieachejgcdehafaadi.ru
 0.0.0.0 fifwin.com
@@ -4240,6 +4243,7 @@
 0.0.0.0 infoguardru.info
 0.0.0.0 infomir.pw
 0.0.0.0 infomovie.ru
+0.0.0.0 informplel.ru
 0.0.0.0 infortractor.site
 0.0.0.0 inghe.biz
 0.0.0.0 inhadhen.com
@@ -4333,6 +4337,7 @@
 0.0.0.0 jerredsite.pro
 0.0.0.0 jerwested.info
 0.0.0.0 jeu5utxlo.tech
+0.0.0.0 jewnsk.pro
 0.0.0.0 jfhoq.com
 0.0.0.0 jfveak.com
 0.0.0.0 jhvhbc.com
@@ -4424,6 +4429,7 @@
 0.0.0.0 kaneki-ken.ru
 0.0.0.0 karaokepesni.ru
 0.0.0.0 kartinuly.ru
+0.0.0.0 karuna4u.com
 0.0.0.0 kaserom.ru
 0.0.0.0 katalog-stroyka.ru
 0.0.0.0 katriie.ru
@@ -4638,6 +4644,7 @@
 0.0.0.0 ledsitling.pro
 0.0.0.0 leforma.com
 0.0.0.0 leftaxi.ru
+0.0.0.0 leftdidnughert.ru
 0.0.0.0 leftherla.pro
 0.0.0.0 legalidioms.com
 0.0.0.0 legandruk.com
@@ -5212,6 +5219,7 @@
 0.0.0.0 nav-links.com
 0.0.0.0 navlili.ru
 0.0.0.0 naxerposlan.com
+0.0.0.0 nb.msk.ru
 0.0.0.0 nbolame.ru
 0.0.0.0 ncbqi.com
 0.0.0.0 ncuoz.com
@@ -5272,6 +5280,7 @@
 0.0.0.0 newskanal.ru
 0.0.0.0 newsmarket.pixarea.ru
 0.0.0.0 newsnetwork.ru
+0.0.0.0 newsofworld.club
 0.0.0.0 newsonlynews.com
 0.0.0.0 newsportal1.com
 0.0.0.0 newsportal2.ru
@@ -6143,6 +6152,7 @@
 0.0.0.0 s5block.com
 0.0.0.0 s5r.tut.by
 0.0.0.0 s7sdtgz7zre5ms.top
+0.0.0.0 s98k2dmmbm.ru
 0.0.0.0 sad2tizer.ru
 0.0.0.0 sadji.cricket
 0.0.0.0 sadkasd.party
@@ -6545,6 +6555,7 @@
 0.0.0.0 tecontx.com
 0.0.0.0 tedpasit.com
 0.0.0.0 tedpasit.net
+0.0.0.0 tehranvd.pw
 0.0.0.0 telacrered.ru
 0.0.0.0 televisionbomb.com
 0.0.0.0 temphilltop.net
@@ -8023,7 +8034,6 @@
 0.0.0.0 rutor.eu.org
 0.0.0.0 rutor.ml
 0.0.0.0 rutor.net.pl
-0.0.0.0 rutor.org.ua
 0.0.0.0 rutor.su
 0.0.0.0 rutor.tech
 0.0.0.0 rutors.tk
@@ -8291,21 +8301,6 @@
 0.0.0.0 ed98512111bb19e5.in.net
 0.0.0.0 banners.mail.ru
 0.0.0.0 showbiz.mail.ru
-0.0.0.0 concentrate.rambler.ru
-0.0.0.0 cumbersome.rambler.ru
-0.0.0.0 domenvironmental.rambler.ru
-0.0.0.0 investigationplus.rambler.ru
-0.0.0.0 keenwilling.rambler.ru
-0.0.0.0 kpixdlqwbf.rambler.ru
-0.0.0.0 littlerepulsive.rambler.ru
-0.0.0.0 mirconsciousness.rambler.ru
-0.0.0.0 myqualification.rambler.ru
-0.0.0.0 olxkampsfu.rambler.ru
-0.0.0.0 pimzjtayredlkcx.rambler.ru
-0.0.0.0 pupreoccupation.rambler.ru
-0.0.0.0 rywjudzhxp.rambler.ru
-0.0.0.0 visit-monitor.yandex.ru
-0.0.0.0 zoomdecorate.rambler.ru
 0.0.0.0 vkbutton.com
 0.0.0.0 vkmus.com
 0.0.0.0 be.vtomske.ru
