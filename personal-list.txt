@@ -332,3 +332,5 @@
 0.0.0.0 s-img.steepto.com # Ads
 0.0.0.0 www.steepto.com # Ads
 0.0.0.0 cdn.steepto.com # Ads
+0.0.0.0 adqy6rzwcs.com # Ads
+0.0.0.0 86a6b54217.com # Ads
