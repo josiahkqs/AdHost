@@ -1,7 +1,7 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 06 Sep 2019 00:09:40 +0800
+# Last converted - Fri, 13 Sep 2019 18:02:18 +0800
 #
 
 0.0.0.0 freshis.ru
@@ -3648,6 +3648,7 @@
 0.0.0.0 ukrmedia.center
 0.0.0.0 vi.bigmir.net
 0.0.0.0 widget.mediastealer.com
+0.0.0.0 okaynews.me
 0.0.0.0 newsandpolik.ru
 0.0.0.0 blamper-news.ru
 0.0.0.0 blamper-novosti.ru
