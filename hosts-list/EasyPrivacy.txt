@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sun, 08 Sep 2019 01:28:00 +0800
+# Last converted - Fri, 13 Sep 2019 18:02:21 +0800
 #
 
 0.0.0.0 0emm.com
@@ -374,6 +374,7 @@
 0.0.0.0 bouncepilot.com
 0.0.0.0 bouncex.com
 0.0.0.0 bpmonline.com
+0.0.0.0 branch.io
 0.0.0.0 brat-online.ro
 0.0.0.0 brcdn.com
 0.0.0.0 bridgevine.com
@@ -634,6 +635,7 @@
 0.0.0.0 datacaciques.com
 0.0.0.0 datacoral.com
 0.0.0.0 datacoral.io
+0.0.0.0 datadoghq-browser-agent.com
 0.0.0.0 datafeedfile.com
 0.0.0.0 datam.com
 0.0.0.0 datamind.ru
@@ -930,6 +932,7 @@
 0.0.0.0 fyreball.com
 0.0.0.0 gameanalytics.com
 0.0.0.0 gammachug.com
+0.0.0.0 gatorleads.co.uk
 0.0.0.0 gaug.es
 0.0.0.0 gbotvisit.com
 0.0.0.0 gear5.me
@@ -1417,6 +1420,7 @@
 0.0.0.0 mongoosemetrics.com
 0.0.0.0 monitis.com
 0.0.0.0 monitus.net
+0.0.0.0 monstat.com
 0.0.0.0 monu.delivery
 0.0.0.0 mooseway.com
 0.0.0.0 motrixi.com
@@ -3234,6 +3238,7 @@
 0.0.0.0 forecasttiger.com
 0.0.0.0 frailoffer.com
 0.0.0.0 giddycoat.com
+0.0.0.0 giraffepiano.com
 0.0.0.0 gorgeousground.com
 0.0.0.0 greyinstrument.com
 0.0.0.0 hammerhearing.com
@@ -3975,6 +3980,7 @@
 0.0.0.0 clickmatic.pl
 0.0.0.0 conversion.pl
 0.0.0.0 dmdi.pl
+0.0.0.0 goprediction.com
 0.0.0.0 gostats.pl
 0.0.0.0 hub.com.pl
 0.0.0.0 i22lo.com
@@ -3983,9 +3989,11 @@
 0.0.0.0 legenhit.com
 0.0.0.0 ngacm.com
 0.0.0.0 ngastatic.com
+0.0.0.0 nokaut.link
 0.0.0.0 nsaudience.pl
 0.0.0.0 p071qmn.com
 0.0.0.0 pushdom.co
+0.0.0.0 refericon.pl
 0.0.0.0 rejestr.org
 0.0.0.0 sare25.com
 0.0.0.0 snrbox.com
@@ -4279,6 +4287,7 @@
 0.0.0.0 analytics.cynapse.com
 0.0.0.0 analytics.datahc.com
 0.0.0.0 analytics.dev.springboardvideo.com
+0.0.0.0 analytics.developer.riotgames.com
 0.0.0.0 analytics.dvidshub.net
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 analytics.edgesuite.net
@@ -4500,6 +4509,7 @@
 0.0.0.0 counters.gigya.com
 0.0.0.0 cr.loszona.com
 0.0.0.0 creator.zmags.com
+0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 csp.archant.co.uk
@@ -4606,6 +4616,7 @@
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d9lq0o81skkdj.cloudfront.net
+0.0.0.0 dadi.technology
 0.0.0.0 dagda.vilynx.com
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 data.alexa.com
@@ -4634,6 +4645,7 @@
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
 0.0.0.0 dlvkf5067xruv.cloudfront.net
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
+0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 ds-aksb-a.akamaihd.net
@@ -4696,6 +4708,7 @@
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 flashstats.libsyn.com
 0.0.0.0 fluidsurveys-com.fs.cm
+0.0.0.0 fog.pixual.co
 0.0.0.0 fourmtagservices.appspot.com
 0.0.0.0 friends.totallynsfw.com
 0.0.0.0 future-fie-assets.co.uk
@@ -5143,6 +5156,7 @@
 0.0.0.0 tag.brandcdn.com
 0.0.0.0 tag.email-attitude.com
 0.0.0.0 tag.myplay.com
+0.0.0.0 tag.rightmessage.com
 0.0.0.0 tag.rmp.rakuten.com
 0.0.0.0 tag.sonymusic.com
 0.0.0.0 tagger.opecloud.com
@@ -5276,6 +5290,7 @@
 0.0.0.0 tracking.listhub.net
 0.0.0.0 tracking.livingsocial.com
 0.0.0.0 tracking.maxcdn.com
+0.0.0.0 tracking.monsido.com
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 tracking.pacharge.com
 0.0.0.0 tracking.performgroup.com
@@ -5965,6 +5980,19 @@
 0.0.0.0 cls.ichotelsgroup.com
 0.0.0.0 clvk.viki.io
 0.0.0.0 cmap.alibaba.com
+0.0.0.0 cmp.arnnet.com.au
+0.0.0.0 cmp.cio.com.au
+0.0.0.0 cmp.cmo.com.au
+0.0.0.0 cmp.computerworld.com.au
+0.0.0.0 cmp.cso.com.au
+0.0.0.0 cmp.digitalartsonline.co.uk
+0.0.0.0 cmp.greenbot.com
+0.0.0.0 cmp.macworld.co.uk
+0.0.0.0 cmp.macworld.com
+0.0.0.0 cmp.pcworld.co.nz
+0.0.0.0 cmp.pcworld.com
+0.0.0.0 cmp.techadvisor.co.uk
+0.0.0.0 cmp.techhive.com
 0.0.0.0 cmstrendslog.indiatimes.com
 0.0.0.0 cmstrendslog.timesnow.tv
 0.0.0.0 cnt.nicemix.com
@@ -6599,6 +6627,7 @@
 0.0.0.0 tracker.anandtech.com
 0.0.0.0 tracker.calameo.com
 0.0.0.0 tracker.cpapath.com
+0.0.0.0 tracker.jawcloud.co
 0.0.0.0 tracker.joost.com
 0.0.0.0 tracker.lolalytics.com
 0.0.0.0 tracker.mattel.com
@@ -6664,12 +6693,14 @@
 0.0.0.0 uptpro.homestead.com
 0.0.0.0 urchin-tracker.bigpoint.net
 0.0.0.0 urlcheck.hulu.com
+0.0.0.0 user-metrics.onthemarket.com
 0.0.0.0 userfly.com
 0.0.0.0 ut.ratepoint.com
 0.0.0.0 v.oui.sncf
 0.0.0.0 vertical-stats.huffingtonpost.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 videotracker.washingtonpost.com
+0.0.0.0 visit.asb.co.nz
 0.0.0.0 visit.dealspwn.com
 0.0.0.0 visit.mobot.net
 0.0.0.0 visit.theglobeandmail.com
@@ -6741,6 +6772,7 @@
 0.0.0.0 cpix.daserste.de
 0.0.0.0 cpx.golem.de
 0.0.0.0 cpxl.golem.de
+0.0.0.0 cxt.deutsche-bank.de
 0.0.0.0 dpm.bluray-disc.de
 0.0.0.0 dw-eu.com.com
 0.0.0.0 ens.luzernerzeitung.ch
