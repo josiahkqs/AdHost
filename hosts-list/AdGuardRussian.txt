@@ -1,9 +1,10 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 13 Sep 2019 18:02:18 +0800
+# Last converted - Tue, 17 Sep 2019 15:16:19 +0800
 #
 
+0.0.0.0 metrika.traff.space
 0.0.0.0 freshis.ru
 0.0.0.0 aliru5.ru
 0.0.0.0 fafc5ra6.ru
@@ -3672,8 +3673,6 @@
 0.0.0.0 topruistory.ru
 0.0.0.0 toprustory.ru
 0.0.0.0 bux4gm.ru
-0.0.0.0 torrenthost.ru
-0.0.0.0 brandings.kanobu.ru
 0.0.0.0 a.fileplaneta.com
 0.0.0.0 a.navi-gaming.com
 0.0.0.0 a.thefreedictionary.com
@@ -3692,6 +3691,7 @@
 0.0.0.0 banner.volynnews.com
 0.0.0.0 bbcdn.go.arbopl.bbelements.com
 0.0.0.0 bcli.flash-xxx.com
+0.0.0.0 brandings.kanobu.ru
 0.0.0.0 brekl.wigeo.ru
 0.0.0.0 c.votrube.ru
 0.0.0.0 coads.akipress.org
@@ -3744,6 +3744,7 @@
 0.0.0.0 tizer.medikforum.ru
 0.0.0.0 tizer.pohudetdoma.ru
 0.0.0.0 top777.ariom.ru
+0.0.0.0 torrenthost.ru
 0.0.0.0 ts.wikianime.ru
 0.0.0.0 tt.cyberpirate.me
 0.0.0.0 tv.zombie-tv.org
