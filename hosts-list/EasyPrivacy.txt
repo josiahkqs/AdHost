@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 13 Sep 2019 18:02:21 +0800
+# Last converted - Tue, 17 Sep 2019 15:16:22 +0800
 #
 
 0.0.0.0 0emm.com
@@ -70,6 +70,7 @@
 0.0.0.0 a8ww.net
 0.0.0.0 aaddzz.com
 0.0.0.0 aamsitecertifier.com
+0.0.0.0 aapsis.com
 0.0.0.0 aaxdetect.com
 0.0.0.0 abcstats.com
 0.0.0.0 ablsrv.com
@@ -518,7 +519,6 @@
 0.0.0.0 cloud-exploration.com
 0.0.0.0 cloud-iq.com
 0.0.0.0 cloudtracer101.com
-0.0.0.0 clustrmaps.com
 0.0.0.0 cmcintra.net
 0.0.0.0 cmcore.com
 0.0.0.0 cmmeglobal.com
@@ -1644,6 +1644,7 @@
 0.0.0.0 personalicanvas.com
 0.0.0.0 personyze.com
 0.0.0.0 petametrics.com
+0.0.0.0 pgs.io
 0.0.0.0 phonalytics.com
 0.0.0.0 phone-analytics.com
 0.0.0.0 photorank.me
@@ -1736,6 +1737,7 @@
 0.0.0.0 pxi.pub
 0.0.0.0 pymx5.com
 0.0.0.0 pzkysq.pink
+0.0.0.0 pzz.events
 0.0.0.0 q-counter.com
 0.0.0.0 q-stats.nl
 0.0.0.0 qbaka.net
@@ -1980,6 +1982,7 @@
 0.0.0.0 sitemeter.com
 0.0.0.0 sitereport.org
 0.0.0.0 sitestat.com
+0.0.0.0 sitestats.live
 0.0.0.0 sitetag.us
 0.0.0.0 sitetagger.co.uk
 0.0.0.0 sitetracker.com
@@ -2027,6 +2030,7 @@
 0.0.0.0 soko.ai
 0.0.0.0 sokrati.com
 0.0.0.0 sometrics.com
+0.0.0.0 sophi.io
 0.0.0.0 sophus3.com
 0.0.0.0 soska.us
 0.0.0.0 spamanalyst.com
@@ -3212,9 +3216,11 @@
 0.0.0.0 zymerget.stream
 0.0.0.0 zymerget.win
 0.0.0.0 6ldu6qa.com
+0.0.0.0 absorbingband.com
 0.0.0.0 acridtwist.com
 0.0.0.0 aheadday.com
 0.0.0.0 anxiousapples.com
+0.0.0.0 automaticside.com
 0.0.0.0 awzbijw.com
 0.0.0.0 axiomaticalley.com
 0.0.0.0 balancebreath.com
@@ -3233,10 +3239,12 @@
 0.0.0.0 ejyymghi.com
 0.0.0.0 endurablecrayon.comthird-party
 0.0.0.0 familiarfloor.com
+0.0.0.0 familiarrod.com
 0.0.0.0 fearfulflag.com
 0.0.0.0 flakyfeast.com
 0.0.0.0 forecasttiger.com
 0.0.0.0 frailoffer.com
+0.0.0.0 futuristicfifth.com
 0.0.0.0 giddycoat.com
 0.0.0.0 giraffepiano.com
 0.0.0.0 gorgeousground.com
@@ -3256,12 +3264,14 @@
 0.0.0.0 mowfruit.com
 0.0.0.0 nervoussummer.com
 0.0.0.0 penspade.com
+0.0.0.0 perceivequarter.com
 0.0.0.0 petiteumbrella.com
 0.0.0.0 photographpan.com
 0.0.0.0 pietexture.com
 0.0.0.0 profusesupport.com
 0.0.0.0 puffyloss.com
 0.0.0.0 quaintcan.com
+0.0.0.0 quietknowledge.com
 0.0.0.0 ritzykey.com
 0.0.0.0 scintillatingspace.com
 0.0.0.0 scrubswim.com
@@ -3284,6 +3294,7 @@
 0.0.0.0 sugarcurtain.com
 0.0.0.0 ticklesign.com
 0.0.0.0 truthfulturn.com
+0.0.0.0 typicalteeth.com
 0.0.0.0 untidyrice.com
 0.0.0.0 womanear.com
 0.0.0.0 123-counter.de
@@ -3309,6 +3320,7 @@
 0.0.0.0 analytics.rechtslupe.org
 0.0.0.0 andyhoppe.com
 0.0.0.0 anormal-tracker.de
+0.0.0.0 asadcdn.com
 0.0.0.0 atsfi.de
 0.0.0.0 audiencemanager.de
 0.0.0.0 audienzz.ch
@@ -4477,6 +4489,7 @@
 0.0.0.0 comet.ibsrv.net
 0.0.0.0 control.adap.tv
 0.0.0.0 control.cityofcairns.com
+0.0.0.0 conversions.genieventures.co.uk
 0.0.0.0 cookies.livepartners.com
 0.0.0.0 cookietracker.cloudapp.net
 0.0.0.0 cookiex.ngd.yahoo.com
@@ -4628,6 +4641,7 @@
 0.0.0.0 data.minute.ly
 0.0.0.0 data.queryly.com
 0.0.0.0 data2.gosquared.com
+0.0.0.0 datadog-service.mvfglobal.com
 0.0.0.0 datam8.co.nz
 0.0.0.0 dc8na2hxrj29i.cloudfront.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
@@ -4711,9 +4725,11 @@
 0.0.0.0 fog.pixual.co
 0.0.0.0 fourmtagservices.appspot.com
 0.0.0.0 friends.totallynsfw.com
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 future-fie-assets.co.uk
 0.0.0.0 future-price.co.uk
 0.0.0.0 g.delivery.net
+0.0.0.0 g2insights-cdn.azureedge.net
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.kvideo.io
 0.0.0.0 ga.webdigi.co.uk
@@ -5165,6 +5181,7 @@
 0.0.0.0 tags.newscgp.com
 0.0.0.0 target.fark.com
 0.0.0.0 target.mixi.media
+0.0.0.0 targeting.perso.aws.arc.pub
 0.0.0.0 targeting.wpdigital.net
 0.0.0.0 tc.airfrance.com
 0.0.0.0 tcheck.outbrainimg.com
@@ -5849,6 +5866,7 @@
 0.0.0.0 affiliates.purevpn.com
 0.0.0.0 affiliates.treasureisland.com
 0.0.0.0 affiliates.vpn.ht
+0.0.0.0 agg.inquisitr.com
 0.0.0.0 aggregator.inquisitr.com
 0.0.0.0 ai.inmdata.io
 0.0.0.0 ai.iol.io
@@ -6131,6 +6149,7 @@
 0.0.0.0 harvester.eu.square-enix.com
 0.0.0.0 harvester.hbpl.co.uk
 0.0.0.0 heartbeat.flickr.com
+0.0.0.0 hermes.theglobeandmail.com
 0.0.0.0 hitcount.heraldm.com
 0.0.0.0 hitweb2.chosun.com
 0.0.0.0 hrum.hotelsapi.io
@@ -6366,6 +6385,7 @@
 0.0.0.0 smetrics.delta.com
 0.0.0.0 snowplow-collector.sugarops.com
 0.0.0.0 somniture.theglobeandmail.com
+0.0.0.0 sourcepoint.vice.com
 0.0.0.0 sp-mms.weather.com
 0.0.0.0 sp.app.com
 0.0.0.0 sp.argusleader.com
@@ -6616,6 +6636,7 @@
 0.0.0.0 track.rediff.com
 0.0.0.0 track.slideshare.net
 0.0.0.0 track.thesaurus.com
+0.0.0.0 track.totalav.com
 0.0.0.0 track.ugamezone.com
 0.0.0.0 track.ultimate-guitar.com
 0.0.0.0 track.webgains.com
@@ -6632,6 +6653,7 @@
 0.0.0.0 tracker.lolalytics.com
 0.0.0.0 tracker.mattel.com
 0.0.0.0 tracker.nbcuas.com
+0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.pandora.com
 0.0.0.0 tracker.pinnaclesports.com
 0.0.0.0 tracker.realclearpolitics.com
