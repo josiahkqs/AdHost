@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Fri, 13 Sep 2019 18:02:17 +0800
+# Last converted - Tue, 17 Sep 2019 15:16:19 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -100,7 +100,6 @@
 0.0.0.0 dididzroxa.ml
 0.0.0.0 dionisum.com
 0.0.0.0 dobhot.com
-0.0.0.0 dochyedu.info
 0.0.0.0 doctortrust.me
 0.0.0.0 domautraffika.com
 0.0.0.0 dxasracer.bid
@@ -2589,6 +2588,7 @@
 0.0.0.0 awebanner.net
 0.0.0.0 aweets.com
 0.0.0.0 awhate.ru
+0.0.0.0 awsoop.ru
 0.0.0.0 axaxh.com
 0.0.0.0 axesor.ru
 0.0.0.0 ayjvb.com
@@ -3222,6 +3222,7 @@
 0.0.0.0 d27jk9dqha8met.cloudfront.net
 0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
 0.0.0.0 d2ghscazvn398x.cloudfront.net
+0.0.0.0 d2glav2919q4cw.cloudfront.net
 0.0.0.0 d2i5pngfrazn5t.cloudfront.net
 0.0.0.0 d30gt5larl1k8h.cloudfront.net
 0.0.0.0 d30s0lx1onfwyh.cloudfront.net
@@ -8219,7 +8220,6 @@
 0.0.0.0 livefootball.ws
 0.0.0.0 logger.ivi.ru
 0.0.0.0 loki.maximonline.ru
-0.0.0.0 lol.mta-resource.ru
 0.0.0.0 love4str.ru
 0.0.0.0 loveserial.net
 0.0.0.0 mayamskiechernila.club
