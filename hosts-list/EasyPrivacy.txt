@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 17 Sep 2019 15:16:22 +0800
+# Last converted - Sun, 22 Sep 2019 01:52:13 +0800
 #
 
 0.0.0.0 0emm.com
@@ -605,6 +605,7 @@
 0.0.0.0 crowdscience.com
 0.0.0.0 crowdtwist.com
 0.0.0.0 crsspxl.com
+0.0.0.0 crtx.info
 0.0.0.0 crwdcntrl.net
 0.0.0.0 csdata1.com
 0.0.0.0 csi-tracking.com
@@ -723,6 +724,7 @@
 0.0.0.0 e-referrer.com
 0.0.0.0 e-webtrack.net
 0.0.0.0 e-zeeinternet.com
+0.0.0.0 eacla.com
 0.0.0.0 earnitup.com
 0.0.0.0 easy-hit-counter.com
 0.0.0.0 easy-hit-counters.com
@@ -944,6 +946,7 @@
 0.0.0.0 geobytes.com
 0.0.0.0 geoedge.be
 0.0.0.0 geoip-db.com
+0.0.0.0 geojs.io
 0.0.0.0 geoplugin.net
 0.0.0.0 georiot.com
 0.0.0.0 getbackstory.com
@@ -1119,6 +1122,7 @@
 0.0.0.0 infoprodata.com
 0.0.0.0 informz.net
 0.0.0.0 inimbus.com.au
+0.0.0.0 inmoment.com
 0.0.0.0 innomdc.com
 0.0.0.0 innovateads.com
 0.0.0.0 inphonic.com
@@ -1173,6 +1177,7 @@
 0.0.0.0 iproanalytics.com
 0.0.0.0 iprotrk.com
 0.0.0.0 ipstat.com
+0.0.0.0 ipstatp.com
 0.0.0.0 ipv6monitoring.eu
 0.0.0.0 iqdata.ai
 0.0.0.0 iqfp1.com
@@ -1803,6 +1808,7 @@
 0.0.0.0 relmaxtop.com
 0.0.0.0 remarketingpixel.com
 0.0.0.0 remarketstats.com
+0.0.0.0 remind.me
 0.0.0.0 rep0pkgr.com
 0.0.0.0 repixel.co
 0.0.0.0 report-uri.com
@@ -2243,6 +2249,7 @@
 0.0.0.0 trackeame.com
 0.0.0.0 trackedlink.net
 0.0.0.0 trackedweb.net
+0.0.0.0 trackertest.org
 0.0.0.0 tracking100.com
 0.0.0.0 tracking202.com
 0.0.0.0 trackinglabs.com
@@ -4110,6 +4117,7 @@
 0.0.0.0 mokuz.ru
 0.0.0.0 musiccounter.ru
 0.0.0.0 mystat-in.net
+0.0.0.0 ngenix.net
 0.0.0.0 personage.name
 0.0.0.0 pladform.ru
 0.0.0.0 pmbox.biz
@@ -4834,6 +4842,7 @@
 0.0.0.0 logging.prefixbox.com
 0.0.0.0 loggingapi.spingo.com
 0.0.0.0 loglady.skypicker.com
+0.0.0.0 logs-api.shoprunner.com
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.vmixcore.com
@@ -5777,6 +5786,7 @@
 0.0.0.0 mediator.mail.ru
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 montblanc.rambler.ru
+0.0.0.0 piper.amocrm.ru
 0.0.0.0 rbc.magna.ru
 0.0.0.0 s.agava.ru
 0.0.0.0 scnt.rambler.ru
@@ -6031,6 +6041,7 @@
 0.0.0.0 collector.statowl.com
 0.0.0.0 collector.tescocompare.com
 0.0.0.0 collector.trendmd.com
+0.0.0.0 collector.wallapop.com
 0.0.0.0 comms-web-tracking.uswitchinternal.com
 0.0.0.0 confirm-referer.glrsales.com
 0.0.0.0 contadores.bolsamania.com
@@ -6168,6 +6179,7 @@
 0.0.0.0 inquiries.redhat.com
 0.0.0.0 intelli.ageuk.org.uk
 0.0.0.0 intent.cbsi.com
+0.0.0.0 intg.snapchat.com
 0.0.0.0 ip.breitbart.com
 0.0.0.0 ip.pichunter.com
 0.0.0.0 jack.allday.com
@@ -6702,6 +6714,7 @@
 0.0.0.0 traktr.news.com.au
 0.0.0.0 trax.tvguide.com
 0.0.0.0 trck.sixt.com
+0.0.0.0 trezor.efscle.com
 0.0.0.0 trk.flazio.com
 0.0.0.0 trk.freepik.com
 0.0.0.0 trowel.twitch.tv
@@ -6815,6 +6828,7 @@
 0.0.0.0 mm.welt.de
 0.0.0.0 ms.computerbild.de
 0.0.0.0 multicounter.de
+0.0.0.0 oxifwsabgd.nzz.ch
 0.0.0.0 pap.zalando.de
 0.0.0.0 passul.t-online.de
 0.0.0.0 pi.technik3d.com
@@ -6980,6 +6994,7 @@
 0.0.0.0 ranking.ynet.com
 0.0.0.0 rcgi.video.qq.com
 0.0.0.0 rec.udn.com
+0.0.0.0 referer.pixplug.in
 0.0.0.0 report.qq.com
 0.0.0.0 retcode.taobao.com
 0.0.0.0 s.360.cn
@@ -7134,6 +7149,7 @@
 0.0.0.0 stat.lenta.ru
 0.0.0.0 stat.pravmir.ru
 0.0.0.0 stat.russianfood.com
+0.0.0.0 stat.stars.ru
 0.0.0.0 stat.woman-announce.ru
 0.0.0.0 stats.lifenews.ru
 0.0.0.0 stats.mos.ru
