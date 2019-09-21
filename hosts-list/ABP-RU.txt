@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Tue, 17 Sep 2019 15:16:19 +0800
+# Last converted - Sun, 22 Sep 2019 01:52:11 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -950,6 +950,7 @@
 0.0.0.0 2da2.ru
 0.0.0.0 2vs2.ru
 0.0.0.0 2x2.kz
+0.0.0.0 35.178.185.67
 0.0.0.0 3d-ero.com
 0.0.0.0 3rs.ru
 0.0.0.0 468.vologdainfo.ru
@@ -1097,6 +1098,7 @@
 0.0.0.0 bestexotic.com
 0.0.0.0 bestgamer.net
 0.0.0.0 betfaq.ru
+0.0.0.0 betsonsport.ru
 0.0.0.0 betstatgr.biz
 0.0.0.0 bezlimitvideo.com
 0.0.0.0 bigbord.net
@@ -1165,6 +1167,7 @@
 0.0.0.0 cpmsolution.ru
 0.0.0.0 cqc.ru
 0.0.0.0 creara-media.ru
+0.0.0.0 crroptown.com
 0.0.0.0 crutop.nu
 0.0.0.0 cshi.ru
 0.0.0.0 csht.ru
@@ -1508,6 +1511,7 @@
 0.0.0.0 partners.mobiguru.ru
 0.0.0.0 partners.otpusk.com
 0.0.0.0 partners.vsemayki.ru
+0.0.0.0 pathlime.com
 0.0.0.0 pay-hit.com
 0.0.0.0 pay-partner.ru
 0.0.0.0 payban.su
@@ -2455,6 +2459,7 @@
 0.0.0.0 allowac.com
 0.0.0.0 allroll.biz
 0.0.0.0 allstat-pp.ru
+0.0.0.0 allstat.site
 0.0.0.0 alltizer.ru
 0.0.0.0 almazde.ru
 0.0.0.0 almosto.com
@@ -3102,6 +3107,7 @@
 0.0.0.0 comin.co
 0.0.0.0 commontools.net
 0.0.0.0 comoestaschuvak.online
+0.0.0.0 comp-mash.ru$
 0.0.0.0 competing-stinger.site
 0.0.0.0 connection36.com
 0.0.0.0 connees.com
@@ -5084,7 +5090,6 @@
 0.0.0.0 moneytrap.ru
 0.0.0.0 monstarhistory.ru
 0.0.0.0 moonhappy.ru
-0.0.0.0 mooo.com
 0.0.0.0 morar.biz
 0.0.0.0 more152.net
 0.0.0.0 more427.net
@@ -5270,6 +5275,7 @@
 0.0.0.0 newlixica.com
 0.0.0.0 newlostrek.ru
 0.0.0.0 newmonetrate.ru
+0.0.0.0 newrrb.bid
 0.0.0.0 news-announce.org
 0.0.0.0 news-network.ru
 0.0.0.0 news-obl.top
@@ -6480,6 +6486,7 @@
 0.0.0.0 svysoru.ru
 0.0.0.0 swampgods.ru
 0.0.0.0 swaniawski.net
+0.0.0.0 sweetbc4.club
 0.0.0.0 syekg.top
 0.0.0.0 syncuser.info
 0.0.0.0 sypleni.ru
@@ -7409,6 +7416,7 @@
 0.0.0.0 yap2017ura.ru
 0.0.0.0 yaprealpolza.ru
 0.0.0.0 yapspecialrequest.ru
+0.0.0.0 yavkino.info
 0.0.0.0 ybpxv.com
 0.0.0.0 ybvnx.top
 0.0.0.0 ycounter.ru
@@ -7625,7 +7633,6 @@
 0.0.0.0 24-rus.info
 0.0.0.0 24onlinesmi.net
 0.0.0.0 24reporter.ru
-0.0.0.0 a-dot-kinozal-tv.appspot.com
 0.0.0.0 academyun.ru
 0.0.0.0 act-news.com
 0.0.0.0 adiabetic.ru
@@ -7817,8 +7824,6 @@
 0.0.0.0 kick.media
 0.0.0.0 kindblogs.com
 0.0.0.0 kinemathek.ru
-0.0.0.0 kinozal-me.appspot.com
-0.0.0.0 kinozal-tv.appspot.com
 0.0.0.0 kotofotto.ru
 0.0.0.0 krasota-zdorovie.com
 0.0.0.0 krutor.eu.org
