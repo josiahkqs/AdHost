@@ -1,10 +1,18 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 17 Sep 2019 15:16:19 +0800
+# Last converted - Sun, 22 Sep 2019 01:52:11 +0800
 #
 
+0.0.0.0 v1rton.news
+0.0.0.0 zzznews.ru
+0.0.0.0 7wwchtqe.ru
+0.0.0.0 advmusic.net
+0.0.0.0 torshartontding.ru
+0.0.0.0 bxzjytu2elwokof.ru
+0.0.0.0 bigsex.gdn
 0.0.0.0 metrika.traff.space
+0.0.0.0 trfmxt.com
 0.0.0.0 freshis.ru
 0.0.0.0 aliru5.ru
 0.0.0.0 fafc5ra6.ru
