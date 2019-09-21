@@ -1,9 +1,11 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Tue, 17 Sep 2019 15:16:19 +0800
+# Last converted - Sun, 22 Sep 2019 01:52:11 +0800
 #
 
+0.0.0.0 stat.tildacdn.com
+0.0.0.0 cervell.io
 0.0.0.0 sonet-rp.swaxis.com
 0.0.0.0 stiffstem.com
 0.0.0.0 admon.pro
@@ -209,7 +211,6 @@
 0.0.0.0 sitestats.info
 0.0.0.0 ymetrica.com
 0.0.0.0 dep-x.com
-0.0.0.0 popin.cc
 0.0.0.0 quantcount.com
 0.0.0.0 fandommetrics.com
 0.0.0.0 chengyuplaza.com
@@ -3136,6 +3137,11 @@
 0.0.0.0 zbwp6ghm.com
 0.0.0.0 yourblocksite.com
 0.0.0.0 taskapi.net
+0.0.0.0 rlog.popin.cc
+0.0.0.0 log.popin.cc
+0.0.0.0 r.popin.cc
+0.0.0.0 inrecsys.popin.cc
+0.0.0.0 jp-axia.m0mentum.net
 0.0.0.0 t.sidekickopen
 0.0.0.0 t.sigopn
 0.0.0.0 t.senal
@@ -3164,6 +3170,8 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 events-collector.spot.im
+0.0.0.0 track.bizjournals.com
 0.0.0.0 spr.welt.de
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 tracking.hurlmedia.design
