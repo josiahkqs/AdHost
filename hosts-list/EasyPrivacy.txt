@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sun, 22 Sep 2019 01:52:13 +0800
+# Last converted - Tue, 24 Sep 2019 14:00:15 +0800
 #
 
 0.0.0.0 0emm.com
@@ -3234,6 +3234,7 @@
 0.0.0.0 bh8yx.xyz
 0.0.0.0 broaddoor.com
 0.0.0.0 cannontwin.com
+0.0.0.0 capsquirrel.com
 0.0.0.0 caringzinc.com
 0.0.0.0 carscannon.com
 0.0.0.0 consciouscabbage.com
@@ -3260,6 +3261,7 @@
 0.0.0.0 hilariouszinc.com
 0.0.0.0 horsenectar.com
 0.0.0.0 importedincrease.com
+0.0.0.0 inquisitiveinvention.com
 0.0.0.0 intelligentscissors.com
 0.0.0.0 jadeitite.com
 0.0.0.0 jewelcheese.com
@@ -4117,7 +4119,6 @@
 0.0.0.0 mokuz.ru
 0.0.0.0 musiccounter.ru
 0.0.0.0 mystat-in.net
-0.0.0.0 ngenix.net
 0.0.0.0 personage.name
 0.0.0.0 pladform.ru
 0.0.0.0 pmbox.biz
