@@ -1,9 +1,13 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sun, 22 Sep 2019 01:52:11 +0800
+# Last converted - Tue, 24 Sep 2019 14:00:12 +0800
 #
 
+0.0.0.0 tapstat.ru
+0.0.0.0 cdn.driveback.ru
+0.0.0.0 tms-st.cdn.ngenix.net
+0.0.0.0 track.aplaut.io
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 cervell.io
 0.0.0.0 sonet-rp.swaxis.com
