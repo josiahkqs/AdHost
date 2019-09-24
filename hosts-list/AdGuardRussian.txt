@@ -1,9 +1,11 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sun, 22 Sep 2019 01:52:11 +0800
+# Last converted - Tue, 24 Sep 2019 14:00:12 +0800
 #
 
+0.0.0.0 gecatikonstantin.ru
+0.0.0.0 pornogoogle.info
 0.0.0.0 v1rton.news
 0.0.0.0 zzznews.ru
 0.0.0.0 7wwchtqe.ru
