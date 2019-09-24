@@ -346,3 +346,4 @@
 0.0.0.0 main.exosrv.com # Ads
 0.0.0.0 static.exosrv.com # Ads
 0.0.0.0 syndication.exosrv.com # Ads
+0.0.0.0 mobilevirustotal.pro # Scam
