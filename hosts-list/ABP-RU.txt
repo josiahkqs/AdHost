@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Sun, 22 Sep 2019 01:52:11 +0800
+# Last converted - Tue, 08 Oct 2019 12:03:53 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -202,10 +202,12 @@
 0.0.0.0 n283adserv.com
 0.0.0.0 n284adserv.com
 0.0.0.0 napravil.ru
+0.0.0.0 naylo.top
 0.0.0.0 nephritish.com
 0.0.0.0 newdomnow.ru
 0.0.0.0 news-earth.com
 0.0.0.0 news24-24.ru
+0.0.0.0 newsepads.com
 0.0.0.0 nhebd.xyz
 0.0.0.0 nickhel.com
 0.0.0.0 normalexchange.com
@@ -968,6 +970,7 @@
 0.0.0.0 accommon.info
 0.0.0.0 action.raadword.com
 0.0.0.0 activiks.ru
+0.0.0.0 actpx.com
 0.0.0.0 ad.aorta-net.com
 0.0.0.0 ad.fantiki.net
 0.0.0.0 ad.iplayer.org
@@ -1174,6 +1177,7 @@
 0.0.0.0 cszz.ru
 0.0.0.0 culpainnata.ru
 0.0.0.0 curk.ru
+0.0.0.0 currepush.com
 0.0.0.0 cyberstyle.ru
 0.0.0.0 cykahax.net
 0.0.0.0 dating-exchange.com
@@ -1181,6 +1185,7 @@
 0.0.0.0 dcplayx.com
 0.0.0.0 dcpromo1.com
 0.0.0.0 ddkdr.ru
+0.0.0.0 deiterius.com
 0.0.0.0 demoreklama.net.ua
 0.0.0.0 dewis.h1.ru
 0.0.0.0 dgstr.website
@@ -1424,6 +1429,7 @@
 0.0.0.0 miralinks.ru
 0.0.0.0 mirmaek.ru
 0.0.0.0 mirvolos.com
+0.0.0.0 misrepush.com
 0.0.0.0 mixnews.lv
 0.0.0.0 mmcispartners.com
 0.0.0.0 mobi-cinema.net
@@ -1527,6 +1533,7 @@
 0.0.0.0 pickegg.com
 0.0.0.0 picturer.xyz
 0.0.0.0 pingmedia.ru
+0.0.0.0 piranida.com
 0.0.0.0 piranious.com
 0.0.0.0 pirantic.com
 0.0.0.0 pirastic.com
@@ -1825,6 +1832,7 @@
 0.0.0.0 webocat.ru
 0.0.0.0 webproficlub.ru
 0.0.0.0 wewonurgold.ws
+0.0.0.0 whitepush.biz
 0.0.0.0 widget.cpa.legalaxy.com
 0.0.0.0 windbet1.com
 0.0.0.0 windbet2.com
@@ -1933,6 +1941,8 @@
 0.0.0.0 1g0x09523.com
 0.0.0.0 1g2q2xfxjca.site
 0.0.0.0 1k3.com
+0.0.0.0 1k3pro.net
+0.0.0.0 1k3static.com
 0.0.0.0 1oshop.ru
 0.0.0.0 1qwe2r.info
 0.0.0.0 1rtl.info
@@ -2181,6 +2191,7 @@
 0.0.0.0 a9udvkepm2z.ru
 0.0.0.0 aa-ds.ru
 0.0.0.0 aa6b3c29df6b221.com
+0.0.0.0 aafdcq.com
 0.0.0.0 aahvz.top
 0.0.0.0 aakxh.com
 0.0.0.0 aalbbh84.info
@@ -2288,6 +2299,7 @@
 0.0.0.0 adplus.io
 0.0.0.0 adpod.in
 0.0.0.0 adpremium.ru
+0.0.0.0 adprofits.ru
 0.0.0.0 adproxy2.com
 0.0.0.0 adram.media
 0.0.0.0 adreaction.ru
@@ -2441,7 +2453,6 @@
 0.0.0.0 alfasoft.date
 0.0.0.0 algenib.ru
 0.0.0.0 ali-bestshop.ru
-0.0.0.0 ali-crm.ru
 0.0.0.0 alibestru.ru
 0.0.0.0 alidtd.com
 0.0.0.0 aliexpress-internet.ru
@@ -2500,9 +2511,11 @@
 0.0.0.0 anniers.com
 0.0.0.0 anokhi.ru
 0.0.0.0 anomeni.ru
+0.0.0.0 antbadani.club
 0.0.0.0 antiadd.com
 0.0.0.0 antibronhit.ru
 0.0.0.0 aoodw.top
+0.0.0.0 apearmark.online
 0.0.0.0 api-adver.ru
 0.0.0.0 api-keks.com
 0.0.0.0 api.market-place.su
@@ -2525,6 +2538,7 @@
 0.0.0.0 aprement.com
 0.0.0.0 apronspb.ru
 0.0.0.0 apsukho.ru
+0.0.0.0 aptashark.club
 0.0.0.0 aptexof.ru
 0.0.0.0 apycdn.com
 0.0.0.0 apypxl.com
@@ -2638,6 +2652,7 @@
 0.0.0.0 bakteso.ru
 0.0.0.0 baltchd.net
 0.0.0.0 bambun.ru
+0.0.0.0 ban-host.ru
 0.0.0.0 banalyze.net
 0.0.0.0 banamau.com
 0.0.0.0 banamertur.com
@@ -2743,6 +2758,7 @@
 0.0.0.0 big-karp.ru
 0.0.0.0 big-sovet.ru
 0.0.0.0 bigclick.me
+0.0.0.0 bigctr.best
 0.0.0.0 bigirum.ru
 0.0.0.0 bigleads.ru
 0.0.0.0 bigreal.org
@@ -2853,6 +2869,7 @@
 0.0.0.0 bufupacamo.com
 0.0.0.0 buildbull.ru
 0.0.0.0 bukhaja.ru
+0.0.0.0 bumampaid.club
 0.0.0.0 bunkr.top
 0.0.0.0 burburem.ru
 0.0.0.0 businesq.men
@@ -2925,6 +2942,7 @@
 0.0.0.0 catcut.net
 0.0.0.0 catdog.today
 0.0.0.0 catsflownblow.ru
+0.0.0.0 cawcowbar.online
 0.0.0.0 cba0ee28e89.com
 0.0.0.0 cbbd66c6a387297.com
 0.0.0.0 cbbvi.com
@@ -3203,6 +3221,7 @@
 0.0.0.0 cuioj.com
 0.0.0.0 cukcopo.ru
 0.0.0.0 cup2board.gold
+0.0.0.0 curaleani.club
 0.0.0.0 curker.ru
 0.0.0.0 cutiedomain.com
 0.0.0.0 cutralflibsye.ru
@@ -4926,6 +4945,7 @@
 0.0.0.0 media.kahoxa.ru
 0.0.0.0 mediacot.com
 0.0.0.0 mediadar.ru
+0.0.0.0 mediaiguana.ru
 0.0.0.0 mediainform.net
 0.0.0.0 mediaip.ru
 0.0.0.0 mediakadr.ru
@@ -5254,6 +5274,7 @@
 0.0.0.0 neqky.com
 0.0.0.0 neroom.ru
 0.0.0.0 nerukopilut.ru
+0.0.0.0 nesnews.pro
 0.0.0.0 neso.pro
 0.0.0.0 nest.msk.ru
 0.0.0.0 nest.net.ru
@@ -5440,6 +5461,7 @@
 0.0.0.0 offsbst.ru
 0.0.0.0 ofjiq.top
 0.0.0.0 oflopol.info
+0.0.0.0 oftjofortred.ru
 0.0.0.0 og0go.ru
 0.0.0.0 ogclick.com
 0.0.0.0 oggda.com
@@ -6003,6 +6025,7 @@
 0.0.0.0 rinwisi.pro
 0.0.0.0 rioaffiliates.com
 0.0.0.0 ripemember.com
+0.0.0.0 ririnranleft.ru
 0.0.0.0 riverlead.ru
 0.0.0.0 rj7xw.ru
 0.0.0.0 rl7944.ru
@@ -6559,6 +6582,7 @@
 0.0.0.0 tech5877413.ru
 0.0.0.0 tech783281.ru
 0.0.0.0 tech9638514.ru
+0.0.0.0 techhybrid.net
 0.0.0.0 technical-rtl.ru
 0.0.0.0 tecontx.com
 0.0.0.0 tedpasit.com
@@ -6923,7 +6947,6 @@
 0.0.0.0 unholyrsounds.in
 0.0.0.0 unikuni.com
 0.0.0.0 uniontraff.com
-0.0.0.0 unisound.cdnvideo.ru
 0.0.0.0 unisound.net
 0.0.0.0 universal-lnk.net
 0.0.0.0 universal-mat.com
@@ -7166,6 +7189,7 @@
 0.0.0.0 vvmblock.ru
 0.0.0.0 vvvsd.space
 0.0.0.0 vwcsl.com
+0.0.0.0 vwijf.com
 0.0.0.0 vxbykr.ru
 0.0.0.0 vymapa.info
 0.0.0.0 vztfc.com
@@ -7316,6 +7340,7 @@
 0.0.0.0 wts-rotator.com
 0.0.0.0 wucm.ru
 0.0.0.0 wuvxr.top
+0.0.0.0 wvghl.com
 0.0.0.0 wvzhj.com
 0.0.0.0 wwclick.su
 0.0.0.0 wwclickgo.com
@@ -7357,6 +7382,7 @@
 0.0.0.0 xeroz.ru
 0.0.0.0 xewoza.com
 0.0.0.0 xexyc.com
+0.0.0.0 xfjfyb.com
 0.0.0.0 xfktm.com
 0.0.0.0 xfncv.com
 0.0.0.0 xfnvb.biz
@@ -7458,6 +7484,7 @@
 0.0.0.0 yourfoxes3.ru
 0.0.0.0 yourfoxes4.ru
 0.0.0.0 yourfoxes5.ru
+0.0.0.0 yourlucky.top
 0.0.0.0 youtube2top.com
 0.0.0.0 youtuibes.com
 0.0.0.0 ypfdp.com
@@ -8256,7 +8283,6 @@
 0.0.0.0 ratke.biz
 0.0.0.0 rd-forum.ru
 0.0.0.0 reactor.cc
-0.0.0.0 rek.rus-porno.org
 0.0.0.0 roem.ru
 0.0.0.0 rosbalt.ru
 0.0.0.0 rotabanner.kulichki.com
@@ -8303,6 +8329,7 @@
 0.0.0.0 zen-test.yandex.ru
 0.0.0.0 zzsites.ru
 0.0.0.0 шпаргалки.com
+0.0.0.0 ad4xh85llhcbfis8.com
 0.0.0.0 ed98512111bb19e5.in.net
 0.0.0.0 banners.mail.ru
 0.0.0.0 showbiz.mail.ru
