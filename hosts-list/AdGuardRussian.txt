@@ -1,9 +1,27 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 24 Sep 2019 14:00:12 +0800
+# Last converted - Tue, 08 Oct 2019 12:03:54 +0800
 #
 
+0.0.0.0 kontik28.ru
+0.0.0.0 apprefaculty.pro
+0.0.0.0 qqbook.ru
+0.0.0.0 newsofworld.club
+0.0.0.0 vw.xxxmshel.org
+0.0.0.0 primebc1.website
+0.0.0.0 fzhxi.com
+0.0.0.0 sedretonhar.ru
+0.0.0.0 fabricmedia.ru
+0.0.0.0 glossingly.com
+0.0.0.0 aj1907.online
+0.0.0.0 octclck.xyz
+0.0.0.0 klsdee.com
+0.0.0.0 reg88.ru
+0.0.0.0 windowmentaria.com
+0.0.0.0 24productions.info
+0.0.0.0 armi.media
+0.0.0.0 wjgohz.com
 0.0.0.0 gecatikonstantin.ru
 0.0.0.0 pornogoogle.info
 0.0.0.0 v1rton.news
@@ -3518,6 +3536,9 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 m1.extrutor.org
+0.0.0.0 test.besstidniki.ru
+0.0.0.0 ew.politros.com
 0.0.0.0 info.inamo.ru
 0.0.0.0 up.gtorrent.ru
 0.0.0.0 ad.velomania.ru
@@ -3557,7 +3578,7 @@
 0.0.0.0 banshop.gruntovik.ru
 0.0.0.0 bet.championat.com
 0.0.0.0 bet.championat.com
-0.0.0.0 tea.pornolomka.sex
+0.0.0.0 tea.pornolomka.video
 0.0.0.0 bn.kino-go.co
 0.0.0.0 bn.take-profit.org
 0.0.0.0 box.rus.porn
@@ -3637,6 +3658,7 @@
 0.0.0.0 vw.onlinia.net
 0.0.0.0 ritzysponge.com
 0.0.0.0 dondlo.
+0.0.0.0 readto.ru
 0.0.0.0 adwile.com
 0.0.0.0 api.rnet.plus
 0.0.0.0 data.24smi.net
@@ -3731,7 +3753,6 @@
 0.0.0.0 n.radikal.ru
 0.0.0.0 new1.monkeypxl.ru
 0.0.0.0 p.nude-moon.com
-0.0.0.0 piu.lostfilm.tv
 0.0.0.0 ppund.vsegonet.com
 0.0.0.0 prim.dsvload.net
 0.0.0.0 relizer.net
