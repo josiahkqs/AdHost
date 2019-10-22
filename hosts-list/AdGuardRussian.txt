@@ -1,9 +1,39 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 08 Oct 2019 12:03:54 +0800
+# Last converted - Tue, 22 Oct 2019 15:08:30 +0800
 #
 
+0.0.0.0 gqedxf.com
+0.0.0.0 farsihd.pw
+0.0.0.0 v1-c73e.kxcdn.com
+0.0.0.0 zrlcr.com
+0.0.0.0 43711cffd26816e.com
+0.0.0.0 azzpbn.com
+0.0.0.0 brekdok.com
+0.0.0.0 ad4xh85llhcbfis8.com
+0.0.0.0 11flexiblebig9.website
+0.0.0.0 login-megafon.ru
+0.0.0.0 cadimavume.com
+0.0.0.0 znu1ertrovgs.org
+0.0.0.0 thathersevengid.ru
+0.0.0.0 bzrpvk.com
+0.0.0.0 yandexbrowser2019.ru
+0.0.0.0 5vul2bdy.store
+0.0.0.0 zetrade.net
+0.0.0.0 ijacgw.com
+0.0.0.0 wmip.ru
+0.0.0.0 targetseek.ru
+0.0.0.0 7ix.ru
+0.0.0.0 travel2pic.xyz
+0.0.0.0 mm.n3w1d0ma1n
+0.0.0.0 rrf.fat1domain1
+0.0.0.0 as.gooodloooking.com
+0.0.0.0 zh.tiredduck.com
+0.0.0.0 shp.0n3dmn.com
+0.0.0.0 0u.fastdmn0.com
+0.0.0.0 da.realdmn.com
+0.0.0.0 qumagee.com
 0.0.0.0 kontik28.ru
 0.0.0.0 apprefaculty.pro
 0.0.0.0 qqbook.ru
@@ -11,6 +41,7 @@
 0.0.0.0 vw.xxxmshel.org
 0.0.0.0 primebc1.website
 0.0.0.0 fzhxi.com
+0.0.0.0 ensurania.com
 0.0.0.0 sedretonhar.ru
 0.0.0.0 fabricmedia.ru
 0.0.0.0 glossingly.com
@@ -2100,7 +2131,6 @@
 0.0.0.0 ndyzz.com
 0.0.0.0 nehuha.ru
 0.0.0.0 nenrk.us
-0.0.0.0 neon.today
 0.0.0.0 neosap.ru
 0.0.0.0 nepalon.com
 0.0.0.0 nepeoripa.biz
@@ -3538,11 +3568,13 @@
 0.0.0.0 cpm.wargaming.net
 0.0.0.0 m1.extrutor.org
 0.0.0.0 test.besstidniki.ru
+0.0.0.0 embed.tonews.org
 0.0.0.0 ew.politros.com
 0.0.0.0 info.inamo.ru
 0.0.0.0 up.gtorrent.ru
 0.0.0.0 ad.velomania.ru
 0.0.0.0 a.kidstaff.net
+0.0.0.0 d1uw69x4c2zrim.cloudfront.net
 0.0.0.0 d10g3hyu3zeg91.cloudfront.net
 0.0.0.0 tizer2.kinogo.by
 0.0.0.0 stat.moonwalk.co
@@ -3705,6 +3737,7 @@
 0.0.0.0 topruistory.ru
 0.0.0.0 toprustory.ru
 0.0.0.0 bux4gm.ru
+0.0.0.0 spec.pitomec.ru
 0.0.0.0 a.fileplaneta.com
 0.0.0.0 a.navi-gaming.com
 0.0.0.0 a.thefreedictionary.com
