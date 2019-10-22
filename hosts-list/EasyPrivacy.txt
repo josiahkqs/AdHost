@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 08 Oct 2019 12:03:55 +0800
+# Last converted - Tue, 22 Oct 2019 15:08:33 +0800
 #
 
 0.0.0.0 0emm.com
@@ -164,7 +164,6 @@
 0.0.0.0 affiliatly.com
 0.0.0.0 affinesystems.com
 0.0.0.0 affinitymatrix.com
-0.0.0.0 affirm.com
 0.0.0.0 affistats.com
 0.0.0.0 africal.info
 0.0.0.0 afsanalytics.com
@@ -222,7 +221,6 @@
 0.0.0.0 anatid3.com
 0.0.0.0 andagainanotherthing.com
 0.0.0.0 andyetanotherthing.com
-0.0.0.0 anexia-it.com
 0.0.0.0 angelfishstats.com
 0.0.0.0 angorch-cdr7.com
 0.0.0.0 angsrvr.com
@@ -543,7 +541,6 @@
 0.0.0.0 config.parsely.com
 0.0.0.0 confirmational.com
 0.0.0.0 confirmit.com
-0.0.0.0 contactatonce.com
 0.0.0.0 contactmonkey.com
 0.0.0.0 contemporaryceremonies.ca
 0.0.0.0 content-square.net
@@ -718,6 +715,7 @@
 0.0.0.0 dummy-domain-do-not-change.com
 0.0.0.0 dwin1.com
 0.0.0.0 dwin2.com
+0.0.0.0 dynamicyield.com
 0.0.0.0 dynatrace.com
 0.0.0.0 dynatracesaas.com
 0.0.0.0 dyntrk.com
@@ -890,7 +888,6 @@
 0.0.0.0 forkcdn.com
 0.0.0.0 formalyzer.com
 0.0.0.0 formisimo.com
-0.0.0.0 forter.com
 0.0.0.0 foundry42.com
 0.0.0.0 fout.jp
 0.0.0.0 fpctraffic2.com
@@ -958,6 +955,7 @@
 0.0.0.0 getdrip.com
 0.0.0.0 getetafun.info
 0.0.0.0 getfreebl.com
+0.0.0.0 getrewardful.com
 0.0.0.0 getrockerbox.com
 0.0.0.0 getsmartcontent.com
 0.0.0.0 getsmartlook.com
@@ -1182,7 +1180,6 @@
 0.0.0.0 iproanalytics.com
 0.0.0.0 iprotrk.com
 0.0.0.0 ipstat.com
-0.0.0.0 ipstatp.com
 0.0.0.0 ipv6monitoring.eu
 0.0.0.0 iqdata.ai
 0.0.0.0 iqfp1.com
@@ -1694,6 +1691,7 @@
 0.0.0.0 pntra.com
 0.0.0.0 pntrac.com
 0.0.0.0 pntrs.com
+0.0.0.0 pointillist.com
 0.0.0.0 pointomatic.com
 0.0.0.0 polarcdn-pentos.com
 0.0.0.0 popsample.com
@@ -1768,6 +1766,7 @@
 0.0.0.0 questradeaffiliates.com
 0.0.0.0 quillion.com
 0.0.0.0 quintelligence.com
+0.0.0.0 quitsnap-blue.com
 0.0.0.0 qzlog.com
 0.0.0.0 r7ls.net
 0.0.0.0 radarstats.com
@@ -2087,6 +2086,7 @@
 0.0.0.0 statcounters.info
 0.0.0.0 stathat.com
 0.0.0.0 stathound.com
+0.0.0.0 staticcache.org
 0.0.0.0 staticiv.com
 0.0.0.0 statisfy.net
 0.0.0.0 statistiche-web.com
@@ -2318,7 +2318,6 @@
 0.0.0.0 truehits.in.th
 0.0.0.0 truehits1.gits.net.th
 0.0.0.0 truoptik.com
-0.0.0.0 trustedform.com
 0.0.0.0 trysera.com
 0.0.0.0 tscapeplay.com
 0.0.0.0 tscounter.com
@@ -2458,6 +2457,7 @@
 0.0.0.0 waust.at
 0.0.0.0 wbdx.fr
 0.0.0.0 wbtrk.net
+0.0.0.0 wdfl.co
 0.0.0.0 we-stats.com
 0.0.0.0 web-boosting.net
 0.0.0.0 web-counter.net
@@ -4095,6 +4095,7 @@
 0.0.0.0 botdetector.ru
 0.0.0.0 botscanner.com
 0.0.0.0 bumlam.com
+0.0.0.0 checkru.net
 0.0.0.0 cityua.net
 0.0.0.0 clubcollector.com
 0.0.0.0 cnstats.ru
@@ -4291,6 +4292,7 @@
 0.0.0.0 affiliate.iamplify.com
 0.0.0.0 affiliates.mgmmirage.com
 0.0.0.0 affiliates.minglematch.com
+0.0.0.0 affiliates.purevpn.com
 0.0.0.0 affiliates.spark.net
 0.0.0.0 affiliates.swappernet.com
 0.0.0.0 affl.sucuri.net
@@ -4412,7 +4414,6 @@
 0.0.0.0 apple.www.letv.com
 0.0.0.0 ariane.abtasty.com
 0.0.0.0 aserve.directorym.com
-0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 attributiontrackingga.googlecode.com
 0.0.0.0 audience.atex.com
 0.0.0.0 audience.newscgp.com
@@ -4625,7 +4626,6 @@
 0.0.0.0 d2kmrmwhq7wkvs.cloudfront.net
 0.0.0.0 d2kyy9hvbrzkgn.cloudfront.net
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
-0.0.0.0 d2o5idwacg3gyw.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2pxb4n3f9klsc.cloudfront.net
@@ -4639,7 +4639,6 @@
 0.0.0.0 d3135glefggiep.cloudfront.net
 0.0.0.0 d33im0067v833a.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
-0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
 0.0.0.0 d38nbbai6u794i.cloudfront.net
@@ -4728,6 +4727,9 @@
 0.0.0.0 eservicesanalytics.com.au
 0.0.0.0 et.grabnetworks.com
 0.0.0.0 etc.grab.com
+0.0.0.0 event-api.contactatonce.co.uk
+0.0.0.0 event-api.contactatonce.com.au
+0.0.0.0 event-api.contactatonce.com
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.getblue.io
@@ -4850,6 +4852,7 @@
 0.0.0.0 livecounter.theyosh.nl
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 log.aimtell.com
+0.0.0.0 log.aliyuncs.com
 0.0.0.0 log.artipbox.net
 0.0.0.0 log.ideamelt.com
 0.0.0.0 log.invodo.com
@@ -4905,6 +4908,7 @@
 0.0.0.0 metrics.el-mundo.net
 0.0.0.0 metrics.feedroom.com
 0.0.0.0 metrics.loomia.com
+0.0.0.0 metrics.readme.io
 0.0.0.0 metrics.scribblelive.com
 0.0.0.0 metrics.seenon.com
 0.0.0.0 metrics.sonymusicd2c.com
@@ -4996,6 +5000,7 @@
 0.0.0.0 pixel.tree.com
 0.0.0.0 pixel.usrsync.com
 0.0.0.0 pixel.vmm-satellite2.com
+0.0.0.0 pixel.widgetly.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.xmladfeed.com
 0.0.0.0 pixel.yabidos.com
@@ -5023,7 +5028,6 @@
 0.0.0.0 pub.sheknows.com
 0.0.0.0 publish.pizzazzemail.com
 0.0.0.0 px.247inc.net
-0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.excitedigitalmedia.com
 0.0.0.0 px.marchex.io
 0.0.0.0 px.owneriq.net
@@ -5088,7 +5092,7 @@
 0.0.0.0 speedtrap.shopdirect.com
 0.0.0.0 spoods.rce.veeseo.com
 0.0.0.0 st.cdnco.us
-0.0.0.0 st.dynamicyield.com
+0.0.0.0 stas.outbrain.com
 0.0.0.0 stat.boredomtherapy.com
 0.0.0.0 stat.easydate.biz
 0.0.0.0 stat.ed.cupidplc.com
@@ -5292,6 +5296,7 @@
 0.0.0.0 track.written.com
 0.0.0.0 track.yfret.com
 0.0.0.0 track.yieldsoftware.com
+0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker.beezup.com
 0.0.0.0 tracker.data-vp.com
 0.0.0.0 tracker.downdetector.com
@@ -5586,6 +5591,7 @@
 0.0.0.0 stats-dc1.frz.io
 0.0.0.0 stats.buzzea.com
 0.0.0.0 stats.ipmgroup.be
+0.0.0.0 stats.tipser.com
 0.0.0.0 t.planvip.fr
 0.0.0.0 tag.leadplace.fr
 0.0.0.0 tmgr.ccmbg.com
@@ -5906,7 +5912,6 @@
 0.0.0.0 affiliates.londonmarketing.com
 0.0.0.0 affiliates.mozy.com
 0.0.0.0 affiliates.myfax.com
-0.0.0.0 affiliates.purevpn.com
 0.0.0.0 affiliates.treasureisland.com
 0.0.0.0 affiliates.vpn.ht
 0.0.0.0 agg.inquisitr.com
@@ -6259,6 +6264,7 @@
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.kalahari.net
 0.0.0.0 marketing.nodesource.com
+0.0.0.0 mcdp-sadc1.outbrain.com
 0.0.0.0 merlin.abc.go.com
 0.0.0.0 metric-agent.i10c.net
 0.0.0.0 metric.gstatic.com
@@ -6545,6 +6551,7 @@
 0.0.0.0 speed.wikia.net
 0.0.0.0 spotlight.accuweather.com
 0.0.0.0 srt.pch.com
+0.0.0.0 srtb.msn.com
 0.0.0.0 ssc.api.bbc.com
 0.0.0.0 ssl-stats.wordpress.com
 0.0.0.0 sstats.oui.sncf
@@ -6651,6 +6658,7 @@
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 ted.metro.co.uk
 0.0.0.0 ted1.metro.co.uk
+0.0.0.0 telemetry.qa.webex.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tempo.inc.com
 0.0.0.0 timeslogtn.timesnow.tv
@@ -6687,6 +6695,7 @@
 0.0.0.0 track.totalav.com
 0.0.0.0 track.ugamezone.com
 0.0.0.0 track.ultimate-guitar.com
+0.0.0.0 track.wattpad.com
 0.0.0.0 track.webgains.com
 0.0.0.0 track.websiteceo.com
 0.0.0.0 track.wildblue.com
@@ -6923,10 +6932,12 @@
 0.0.0.0 web-track.telekom-dienste.de
 0.0.0.0 webts.adac.de
 0.0.0.0 xara.hse24.de
+0.0.0.0 a.20minutes.fr
 0.0.0.0 accn.allocine.net
 0.0.0.0 act.acotedemoi.com
 0.0.0.0 analytics.allovoisins.com
 0.0.0.0 analytics.rtbf.be
+0.0.0.0 c0011.boursorama.com
 0.0.0.0 cfcn.allocine.net
 0.0.0.0 compteur.developpez.com
 0.0.0.0 dm.commentcamarche.net
