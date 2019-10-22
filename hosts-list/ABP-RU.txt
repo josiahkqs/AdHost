@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Tue, 08 Oct 2019 12:03:53 +0800
+# Last converted - Tue, 22 Oct 2019 15:08:30 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -430,6 +430,8 @@
 0.0.0.0 plaster-orto.com
 0.0.0.0 plastir-hyperost.biz
 0.0.0.0 propolis-shungit.biz
+0.0.0.0 renderbrandium.com
+0.0.0.0 rendersaveron.com
 0.0.0.0 sbiten.biz
 0.0.0.0 shoko-slim.biz
 0.0.0.0 tops-blogs.ru
@@ -1500,6 +1502,7 @@
 0.0.0.0 owebmoney.ru
 0.0.0.0 oxysoft.ru
 0.0.0.0 pammru.net
+0.0.0.0 partikat.com
 0.0.0.0 partishion.com
 0.0.0.0 partistone.com
 0.0.0.0 partner.alfa.kz
@@ -1517,6 +1520,7 @@
 0.0.0.0 partners.mobiguru.ru
 0.0.0.0 partners.otpusk.com
 0.0.0.0 partners.vsemayki.ru
+0.0.0.0 pathfootprint.com
 0.0.0.0 pathlime.com
 0.0.0.0 pay-hit.com
 0.0.0.0 pay-partner.ru
@@ -1582,6 +1586,7 @@
 0.0.0.0 pushofferpro.com
 0.0.0.0 pushtora.com
 0.0.0.0 pushtun.info
+0.0.0.0 pushua.info
 0.0.0.0 pustoty.net
 0.0.0.0 putana.cz
 0.0.0.0 qwex.ru
@@ -1675,6 +1680,7 @@
 0.0.0.0 softbn.ru
 0.0.0.0 somon.tj
 0.0.0.0 sosnews.ru
+0.0.0.0 sovetnik.market.yandex.ru
 0.0.0.0 sovetnik.yandex.net
 0.0.0.0 spacepush.ru
 0.0.0.0 spitter.pauk.ru
@@ -1773,6 +1779,7 @@
 0.0.0.0 txtrk.com
 0.0.0.0 ua-teens.com
 0.0.0.0 uadvt.net
+0.0.0.0 ucfeed.ru
 0.0.0.0 ugkod.com
 0.0.0.0 ujav.net
 0.0.0.0 ukrbanner.net
@@ -2218,6 +2225,7 @@
 0.0.0.0 abxator.ru
 0.0.0.0 academand.com
 0.0.0.0 acales.ru
+0.0.0.0 acarrot.ru
 0.0.0.0 acdnpro.com
 0.0.0.0 acherry.ru
 0.0.0.0 acranberry.ru
@@ -2236,7 +2244,6 @@
 0.0.0.0 ad.hutor.ru
 0.0.0.0 ad.kaktakkk.ru
 0.0.0.0 ad.liveburst.com
-0.0.0.0 ad.mox.tv
 0.0.0.0 ad.namba.net
 0.0.0.0 ad.outstream.today
 0.0.0.0 ad.starlightmedia.ua
@@ -2405,6 +2412,7 @@
 0.0.0.0 afminer.com
 0.0.0.0 afquptvqzw.biz
 0.0.0.0 afrek.ru
+0.0.0.0 afruits.ru
 0.0.0.0 afshp1.ru
 0.0.0.0 afshp2.ru
 0.0.0.0 afshp3.ru
@@ -2701,6 +2709,7 @@
 0.0.0.0 bce924fa02fa.ru
 0.0.0.0 bcprn.club
 0.0.0.0 bcre002.me
+0.0.0.0 bd01etxdnree.org
 0.0.0.0 bd01qz3lnqt0.pro
 0.0.0.0 bd09ertjo.tech
 0.0.0.0 bd39beb2e1d7f0a4.com
@@ -2741,6 +2750,7 @@
 0.0.0.0 bestofgeorgia.ge
 0.0.0.0 bestwaygo.ru
 0.0.0.0 beta.mediafort.ru
+0.0.0.0 betamedia.biz
 0.0.0.0 betimogolef.com
 0.0.0.0 betonmarkets.com
 0.0.0.0 bggbbgbbg.ru
@@ -2882,6 +2892,7 @@
 0.0.0.0 buy-banner.com
 0.0.0.0 buy-traffic.org
 0.0.0.0 buytraf.ru
+0.0.0.0 buzzday.info
 0.0.0.0 buzzoola.com
 0.0.0.0 bvcpedy6dyjgkkl.ru
 0.0.0.0 bviin.com
@@ -3125,7 +3136,7 @@
 0.0.0.0 comin.co
 0.0.0.0 commontools.net
 0.0.0.0 comoestaschuvak.online
-0.0.0.0 comp-mash.ru$
+0.0.0.0 comp-mash.ru
 0.0.0.0 competing-stinger.site
 0.0.0.0 connection36.com
 0.0.0.0 connees.com
@@ -3249,6 +3260,7 @@
 0.0.0.0 d2ghscazvn398x.cloudfront.net
 0.0.0.0 d2glav2919q4cw.cloudfront.net
 0.0.0.0 d2i5pngfrazn5t.cloudfront.net
+0.0.0.0 d2oa97wrxvxm7y.cloudfront.net
 0.0.0.0 d30gt5larl1k8h.cloudfront.net
 0.0.0.0 d30s0lx1onfwyh.cloudfront.net
 0.0.0.0 d31nb97nd8ha11.cloudfront.net
@@ -3365,6 +3377,7 @@
 0.0.0.0 diradvert.ru
 0.0.0.0 dircont3.com
 0.0.0.0 direct-advert.org
+0.0.0.0 directadvrt.ru
 0.0.0.0 directerp.ru
 0.0.0.0 directlnk.org
 0.0.0.0 directprofit.ru
@@ -3698,6 +3711,7 @@
 0.0.0.0 fetalli.com
 0.0.0.0 fextor.ru
 0.0.0.0 ffdjxcg4agnipwv.ru
+0.0.0.0 ffebaf26a7bfcda.com
 0.0.0.0 ffovoxb9swkkbu.ru
 0.0.0.0 fgsffil.pro
 0.0.0.0 fgtjy.club
@@ -3748,6 +3762,7 @@
 0.0.0.0 fmu1qrtjoamc.pro
 0.0.0.0 fmusive.ru
 0.0.0.0 fne9ez3lpqt.info
+0.0.0.0 foazasis.com
 0.0.0.0 fobise.ru
 0.0.0.0 fofuvipibo.com
 0.0.0.0 foganonura.com
@@ -4034,6 +4049,7 @@
 0.0.0.0 hallaert.online
 0.0.0.0 haln.info
 0.0.0.0 hamphlete.com
+0.0.0.0 handiest-logic.com
 0.0.0.0 handing6.info
 0.0.0.0 hannist.com
 0.0.0.0 hapket.ru
@@ -4127,6 +4143,8 @@
 0.0.0.0 hromasoma.com
 0.0.0.0 hstraffa.com
 0.0.0.0 huel.biz
+0.0.0.0 huffson-delivery.com
+0.0.0.0 huffson-derivery.com
 0.0.0.0 hugedi.com
 0.0.0.0 humanredirect.ru
 0.0.0.0 hundana.ru
@@ -4240,6 +4258,7 @@
 0.0.0.0 image325.ru
 0.0.0.0 imamby.ru
 0.0.0.0 imeteti.info
+0.0.0.0 img-cdn.ru
 0.0.0.0 img1461.r.worldssl.net
 0.0.0.0 imhvlhaelvvbrq.ru
 0.0.0.0 impannon.com
@@ -4709,6 +4728,7 @@
 0.0.0.0 librarymedic.com
 0.0.0.0 lichenz.ru
 0.0.0.0 lichyela.ru
+0.0.0.0 licked-alphabet.eu
 0.0.0.0 lidetds.net
 0.0.0.0 lidgol.ru
 0.0.0.0 lidicando.com
@@ -4983,6 +5003,7 @@
 0.0.0.0 medshowtiz.ru
 0.0.0.0 medstamp.ru
 0.0.0.0 medtiz.com
+0.0.0.0 medzdravinfo.ru
 0.0.0.0 meelba.com
 0.0.0.0 meemdo.net
 0.0.0.0 meemobi.ru
@@ -5036,6 +5057,7 @@
 0.0.0.0 mhkx4.ru
 0.0.0.0 mhzaj.com
 0.0.0.0 mi5h2zku5s.com
+0.0.0.0 mibknb.com
 0.0.0.0 mibmcbm.com
 0.0.0.0 microads.ru
 0.0.0.0 micylvoubx.biz
@@ -5650,7 +5672,6 @@
 0.0.0.0 pftfk.com
 0.0.0.0 pgold.info
 0.0.0.0 pgold.pro
-0.0.0.0 pheegoab.click
 0.0.0.0 pheriss.com
 0.0.0.0 phibile.ru
 0.0.0.0 phinker.ru
@@ -5764,6 +5785,7 @@
 0.0.0.0 prf29bk47.ru
 0.0.0.0 prgmh.com
 0.0.0.0 priesty.com
+0.0.0.0 primebc1.website
 0.0.0.0 primechoice.ru
 0.0.0.0 priorityboxer.com
 0.0.0.0 prioz.space
@@ -6026,6 +6048,7 @@
 0.0.0.0 rioaffiliates.com
 0.0.0.0 ripemember.com
 0.0.0.0 ririnranleft.ru
+0.0.0.0 risausso.com
 0.0.0.0 riverlead.ru
 0.0.0.0 rj7xw.ru
 0.0.0.0 rl7944.ru
@@ -6892,6 +6915,7 @@
 0.0.0.0 tuclother.info
 0.0.0.0 tuiote.com
 0.0.0.0 tulip18.com
+0.0.0.0 tune-up.site
 0.0.0.0 turbotraf.com
 0.0.0.0 turfirmy.com.ua
 0.0.0.0 turismosport.com
@@ -7229,6 +7253,7 @@
 0.0.0.0 wbid.ru
 0.0.0.0 wcyqvibm8i.site
 0.0.0.0 wdfg.pro
+0.0.0.0 weather-suits.today
 0.0.0.0 weaveworldtv.ru
 0.0.0.0 web-games.biz
 0.0.0.0 web-rotation.net
@@ -7313,6 +7338,7 @@
 0.0.0.0 wmrak.com
 0.0.0.0 wmrfast.com
 0.0.0.0 wmsites.ru
+0.0.0.0 woazowup.net
 0.0.0.0 wokoq.com
 0.0.0.0 wom8day.ru
 0.0.0.0 womanshouz.ru
@@ -7437,6 +7463,7 @@
 0.0.0.0 yalyagich.ru
 0.0.0.0 yand.date
 0.0.0.0 yandepit.com
+0.0.0.0 yandexbrowser2019.ru
 0.0.0.0 yangot.com
 0.0.0.0 yanudy.com
 0.0.0.0 yap2017ura.ru
@@ -7559,6 +7586,7 @@
 0.0.0.0 zhkzt.com
 0.0.0.0 zhurnal-land.com
 0.0.0.0 zhyefedo.info
+0.0.0.0 zijaipse.com
 0.0.0.0 zilabi.ru
 0.0.0.0 zinutay.com
 0.0.0.0 zirikoni.com
@@ -8048,6 +8076,8 @@
 0.0.0.0 reallblog.net
 0.0.0.0 realmengames.com
 0.0.0.0 reals-story.ru
+0.0.0.0 renderbrandium.com
+0.0.0.0 rendersaveron.com
 0.0.0.0 reserches.com
 0.0.0.0 ribnadzo.ru
 0.0.0.0 rightroundark.ru
@@ -8195,7 +8225,6 @@
 0.0.0.0 asr.dotua.org
 0.0.0.0 b.inbox.lv
 0.0.0.0 b.netall.ru
-0.0.0.0 b.povarenok.ru
 0.0.0.0 balancervideo.ru
 0.0.0.0 banner.lbs.km.ru
 0.0.0.0 banner.osp-ua.info
