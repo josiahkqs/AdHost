@@ -1,10 +1,15 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Tue, 22 Oct 2019 15:08:30 +0800
+# Last converted - Sat, 26 Oct 2019 10:49:38 +0800
 #
 
+0.0.0.0 srv.dc-1.net
+0.0.0.0 votetoda.com
+0.0.0.0 promclickapp.biz
+0.0.0.0 count.nuanyuehanxing.com
 0.0.0.0 itrustzone.site
+0.0.0.0 dable.io
 0.0.0.0 distiltag.com
 0.0.0.0 deep.bi
 0.0.0.0 lists-tracking.komando.com
@@ -3180,6 +3185,10 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 cfg.imtt.qq.com
+0.0.0.0 log.tbs.qq.com
+0.0.0.0 mqqad.html5.qq.com
+0.0.0.0 beacon.qq.com
 0.0.0.0 kiupoo.stroeerdp.de
 0.0.0.0 phiesi.stroeerdp.de
 0.0.0.0 ohcohz.stroeerdp.de
