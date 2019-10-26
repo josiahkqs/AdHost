@@ -1,9 +1,10 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 22 Oct 2019 15:08:30 +0800
+# Last converted - Sat, 26 Oct 2019 10:49:38 +0800
 #
 
+0.0.0.0 obldomain.ru
 0.0.0.0 gqedxf.com
 0.0.0.0 farsihd.pw
 0.0.0.0 v1-c73e.kxcdn.com
@@ -3824,3 +3825,7 @@
 0.0.0.0 go2.se9oieidu7t.ru
 0.0.0.0 blpovgiri0eei.ru
 0.0.0.0 ad.mail.ru
+0.0.0.0 handiest-logic.com
+0.0.0.0 moist-thunderstorm.com
+0.0.0.0 licked-alphabet.eu
+0.0.0.0 befouled-fire.com
