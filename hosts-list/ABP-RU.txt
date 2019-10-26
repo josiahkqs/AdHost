@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Tue, 22 Oct 2019 15:08:30 +0800
+# Last converted - Sat, 26 Oct 2019 10:49:37 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -349,6 +349,7 @@
 0.0.0.0 blinkogold.ru
 0.0.0.0 bonsport.ru
 0.0.0.0 bookofluck.net
+0.0.0.0 browser-ru.site
 0.0.0.0 cashgift.club
 0.0.0.0 chaplingames.ru
 0.0.0.0 clbvorange.com
@@ -1578,6 +1579,7 @@
 0.0.0.0 puls.lv
 0.0.0.0 push-money.ru
 0.0.0.0 pushcentr.com
+0.0.0.0 pushere.info
 0.0.0.0 pushiki.ru
 0.0.0.0 pushington.info
 0.0.0.0 pushinkaa.com
@@ -1950,6 +1952,7 @@
 0.0.0.0 1k3.com
 0.0.0.0 1k3pro.net
 0.0.0.0 1k3static.com
+0.0.0.0 1klink.ru
 0.0.0.0 1oshop.ru
 0.0.0.0 1qwe2r.info
 0.0.0.0 1rtl.info
@@ -2725,6 +2728,7 @@
 0.0.0.0 beeblebroks.ru
 0.0.0.0 beedbe8ebba.com
 0.0.0.0 beerboms.ru
+0.0.0.0 befouled-fire.com
 0.0.0.0 beglorena.com
 0.0.0.0 beligana.ru
 0.0.0.0 belo0snezhka.ru
@@ -2800,6 +2804,7 @@
 0.0.0.0 blef11.ru
 0.0.0.0 blendac.com
 0.0.0.0 blessdi.com
+0.0.0.0 blogis.org
 0.0.0.0 bloglive.ru
 0.0.0.0 blogsdas.ru
 0.0.0.0 blueandyellow.xyz
@@ -2864,6 +2869,7 @@
 0.0.0.0 browser-livetv.ru
 0.0.0.0 browser-onelike.ru
 0.0.0.0 browser-onlytv.ru
+0.0.0.0 browser-ru.site
 0.0.0.0 browser-tvizor.ru
 0.0.0.0 browser-tvlevel.ru
 0.0.0.0 brunse.ru
@@ -3197,6 +3203,7 @@
 0.0.0.0 credishe.com
 0.0.0.0 creofive.com
 0.0.0.0 creofun.com
+0.0.0.0 crimpy-baboon.eu
 0.0.0.0 crispmedia.ru
 0.0.0.0 crpoy.com
 0.0.0.0 crtbmf.life
@@ -5123,6 +5130,7 @@
 0.0.0.0 moevideo.biz
 0.0.0.0 mogolico.com
 0.0.0.0 moipep.com
+0.0.0.0 moist-thunderstorm.com
 0.0.0.0 mokerty.com
 0.0.0.0 molefefiseranis.ru
 0.0.0.0 molesi.info
