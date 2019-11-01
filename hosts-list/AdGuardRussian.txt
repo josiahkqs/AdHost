@@ -1,9 +1,23 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sat, 26 Oct 2019 10:49:38 +0800
+# Last converted - Fri, 01 Nov 2019 13:23:55 +0800
 #
 
+0.0.0.0 news-code.com
+0.0.0.0 escense.ru
+0.0.0.0 domnovrek.com
+0.0.0.0 fe4r7k22y68p.info
+0.0.0.0 bict.pro
+0.0.0.0 gioorrs.pro
+0.0.0.0 zfsfkp.com
+0.0.0.0 meborangot.ru
+0.0.0.0 ogeri.ru
+0.0.0.0 atavas.ru
+0.0.0.0 robcohatru.ru
+0.0.0.0 newrrb.bid
+0.0.0.0 activepr.ru
+0.0.0.0 activepr.info
 0.0.0.0 obldomain.ru
 0.0.0.0 gqedxf.com
 0.0.0.0 farsihd.pw
