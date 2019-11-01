@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sat, 26 Oct 2019 10:49:40 +0800
+# Last converted - Fri, 01 Nov 2019 13:23:57 +0800
 #
 
 0.0.0.0 0emm.com
@@ -377,6 +377,7 @@
 0.0.0.0 bouncex.com
 0.0.0.0 bpmonline.com
 0.0.0.0 branch.io
+0.0.0.0 brandlock.io
 0.0.0.0 brat-online.ro
 0.0.0.0 brcdn.com
 0.0.0.0 bridgevine.com
@@ -984,6 +985,7 @@
 0.0.0.0 goodcounter.org
 0.0.0.0 googleadservices.com
 0.0.0.0 googlerank.info
+0.0.0.0 googletagmanager.com
 0.0.0.0 gooo.al
 0.0.0.0 gopjn.com
 0.0.0.0 gostats.com
@@ -1181,6 +1183,7 @@
 0.0.0.0 ipro.com
 0.0.0.0 iproanalytics.com
 0.0.0.0 iprotrk.com
+0.0.0.0 ipstack.com
 0.0.0.0 ipstat.com
 0.0.0.0 ipv6monitoring.eu
 0.0.0.0 iqdata.ai
@@ -1275,6 +1278,7 @@
 0.0.0.0 leadsrx.com
 0.0.0.0 leanplum.com
 0.0.0.0 legolas-media.com
+0.0.0.0 leokross.com
 0.0.0.0 les-experts.com
 0.0.0.0 letterboxtrail.com
 0.0.0.0 levexis.com
@@ -3272,6 +3276,7 @@
 0.0.0.0 endurablecrayon.comthird-party
 0.0.0.0 familiarfloor.com
 0.0.0.0 familiarrod.com
+0.0.0.0 farmergoldfish.com
 0.0.0.0 faultycanvas.com
 0.0.0.0 fearfulflag.com
 0.0.0.0 flakyfeast.com
@@ -3327,6 +3332,7 @@
 0.0.0.0 spottysense.com
 0.0.0.0 spurioussteam.com
 0.0.0.0 squeakzinc.com
+0.0.0.0 squirrelhands.com
 0.0.0.0 steepsquirrel.com
 0.0.0.0 stiffstem.com
 0.0.0.0 storesurprise.com
@@ -4301,6 +4307,7 @@
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads.bridgetrack.com
 0.0.0.0 adtrack.calls.net
+0.0.0.0 aevents.izooto.com
 0.0.0.0 affiliate.iamplify.com
 0.0.0.0 affiliates.mgmmirage.com
 0.0.0.0 affiliates.minglematch.com
@@ -4588,6 +4595,7 @@
 0.0.0.0 cts.channelintelligence.com
 0.0.0.0 cts.vresp.com
 0.0.0.0 curate.nestedmedia.com
+0.0.0.0 curated.fieldtest.cc
 0.0.0.0 cws.conviva.com
 0.0.0.0 cx.atdmt.com
 0.0.0.0 d.rcmd.jp
@@ -4768,6 +4776,7 @@
 0.0.0.0 events.yourcx.io
 0.0.0.0 eventtracker.videostrip.com
 0.0.0.0 evt.collarity.com
+0.0.0.0 evt.izooto.com
 0.0.0.0 experience.contextly.com
 0.0.0.0 fast.appcues.com
 0.0.0.0 fastcounter.bcentral.com
@@ -4845,6 +4854,7 @@
 0.0.0.0 k.streamrail.com
 0.0.0.0 kalstats.kaltura.com
 0.0.0.0 keyword.daumdn.com
+0.0.0.0 klarnaservices.com
 0.0.0.0 l.coincident.tv
 0.0.0.0 l.fairblocker.com
 0.0.0.0 l.ooyala.com
@@ -6134,6 +6144,7 @@
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dw.cnet.com
 0.0.0.0 ec2-prod-tracker.babelgum.com
+0.0.0.0 edmunds.com$ping
 0.0.0.0 edw.edmunds.com
 0.0.0.0 ekg.riotgames.com
 0.0.0.0 emarketing.rmauctions.com
@@ -6972,6 +6983,7 @@
 0.0.0.0 g.itespresso.fr
 0.0.0.0 gstat.orange.fr
 0.0.0.0 hit.leboncoin.fr
+0.0.0.0 kbn.korben.info
 0.0.0.0 logs-qos.tf1.fr
 0.0.0.0 p.pagesjaunes.fr
 0.0.0.0 pam.nextinpact.com
