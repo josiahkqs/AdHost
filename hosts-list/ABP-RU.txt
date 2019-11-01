@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Sat, 26 Oct 2019 10:49:37 +0800
+# Last converted - Fri, 01 Nov 2019 13:23:55 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1521,6 +1521,7 @@
 0.0.0.0 partners.mobiguru.ru
 0.0.0.0 partners.otpusk.com
 0.0.0.0 partners.vsemayki.ru
+0.0.0.0 partyroots.com
 0.0.0.0 pathfootprint.com
 0.0.0.0 pathlime.com
 0.0.0.0 pay-hit.com
@@ -1580,6 +1581,7 @@
 0.0.0.0 push-money.ru
 0.0.0.0 pushcentr.com
 0.0.0.0 pushere.info
+0.0.0.0 pushex.net
 0.0.0.0 pushiki.ru
 0.0.0.0 pushington.info
 0.0.0.0 pushinkaa.com
@@ -1639,6 +1641,7 @@
 0.0.0.0 sass.com.ua
 0.0.0.0 sb-money.ru
 0.0.0.0 scrool.ru
+0.0.0.0 sdkloc1.com
 0.0.0.0 searchmeta.webhost.ru
 0.0.0.0 segamen.ru
 0.0.0.0 selectornews.com
@@ -1940,6 +1943,7 @@
 0.0.0.0 1a4ff62f79d2cb0c.com
 0.0.0.0 1app.blob.core.windows.net
 0.0.0.0 1armchair.fyi
+0.0.0.0 1bfc228b50a902db.com
 0.0.0.0 1c1586768bf.com
 0.0.0.0 1commru.ru
 0.0.0.0 1dd2bb637fce.com
@@ -2088,6 +2092,7 @@
 0.0.0.0 5impressivebc5.icu
 0.0.0.0 5ppkpf4xpxb.space
 0.0.0.0 5visions.com
+0.0.0.0 5vul2bdy.store
 0.0.0.0 5z74awpmg7.tech
 0.0.0.0 6-17.ru
 0.0.0.0 6161b8731cec.com
@@ -2238,6 +2243,7 @@
 0.0.0.0 actionpay.ru
 0.0.0.0 actionrtb.com
 0.0.0.0 actionteaser.ru
+0.0.0.0 activepr.info
 0.0.0.0 activepr.ru
 0.0.0.0 ad-click.ru
 0.0.0.0 ad-tizer.net
@@ -2454,6 +2460,7 @@
 0.0.0.0 ak72eviic9m.site
 0.0.0.0 akamaihd.site
 0.0.0.0 akashy.com
+0.0.0.0 akiwi.ru
 0.0.0.0 aksessuarov.ru
 0.0.0.0 aktites.ru
 0.0.0.0 akvodze.ru
@@ -2542,6 +2549,7 @@
 0.0.0.0 appelamule.com
 0.0.0.0 applieda.com
 0.0.0.0 approximatelylightning.com
+0.0.0.0 appsadc.pro
 0.0.0.0 appsflybeta.biz
 0.0.0.0 apreces.com
 0.0.0.0 aprelend.ru
@@ -2575,6 +2583,7 @@
 0.0.0.0 asketo.ru
 0.0.0.0 asopla.com
 0.0.0.0 asowp.com
+0.0.0.0 aspignitean.com
 0.0.0.0 assantie.com
 0.0.0.0 associazio.com
 0.0.0.0 associeta.com
@@ -2767,6 +2776,7 @@
 0.0.0.0 bhigieabgdbabegiibb.ru
 0.0.0.0 biasdo.com
 0.0.0.0 biberukalap.com
+0.0.0.0 bict.pro
 0.0.0.0 bid.run
 0.0.0.0 bidtraffic.ru
 0.0.0.0 big-karp.ru
@@ -3174,6 +3184,7 @@
 0.0.0.0 corkery.biz
 0.0.0.0 coroftert.ru
 0.0.0.0 corpore.ru
+0.0.0.0 cortonlab.com
 0.0.0.0 corulka.net
 0.0.0.0 corulu.com
 0.0.0.0 counterpartonline.ru
@@ -3351,6 +3362,7 @@
 0.0.0.0 dewife.ru
 0.0.0.0 df09rp0cm6rp6.cloudfront.net
 0.0.0.0 dfebr.com
+0.0.0.0 dfgbalon.com
 0.0.0.0 dfgqz.com
 0.0.0.0 dfkjsd0.trade
 0.0.0.0 dfkljasod.fun
@@ -3520,6 +3532,7 @@
 0.0.0.0 ecffa7e733048.com
 0.0.0.0 ecgawdakfa.biz
 0.0.0.0 echobanners.net
+0.0.0.0 ecoagronom.ru
 0.0.0.0 econdus.com
 0.0.0.0 econneau.com
 0.0.0.0 ecqph.com
@@ -3692,6 +3705,7 @@
 0.0.0.0 fastnewsis.net
 0.0.0.0 fastsearcher.ru
 0.0.0.0 fasyth3fqiurqq.ru
+0.0.0.0 fattepush.com
 0.0.0.0 faundop.com
 0.0.0.0 faxso.ru
 0.0.0.0 fbbamvq2fdinvtx.ru
@@ -3708,6 +3722,7 @@
 0.0.0.0 fdrschv.ru
 0.0.0.0 fdsfsderfbigclick.ru
 0.0.0.0 fdsur.com
+0.0.0.0 fe4r7k22y68p.info
 0.0.0.0 febwinter.com
 0.0.0.0 feedbackrights.com
 0.0.0.0 feefbb88a9.com
@@ -3910,6 +3925,7 @@
 0.0.0.0 gidrantus.ru
 0.0.0.0 gingardo.com
 0.0.0.0 giokole.com
+0.0.0.0 gioorrs.pro
 0.0.0.0 giosany.com
 0.0.0.0 giotyo.com
 0.0.0.0 girkali.ru
@@ -3996,6 +4012,7 @@
 0.0.0.0 gover.bid
 0.0.0.0 gowapgo.com
 0.0.0.0 gpjph.com
+0.0.0.0 gqedxf.com
 0.0.0.0 gqer.ru
 0.0.0.0 grafimo.ru
 0.0.0.0 grainac.com
@@ -4303,6 +4320,7 @@
 0.0.0.0 inhz49xhphar5k.top
 0.0.0.0 inmeund.ru
 0.0.0.0 innoapi.info
+0.0.0.0 inpiza.com
 0.0.0.0 inrd.ru
 0.0.0.0 installs.pro
 0.0.0.0 instreamatic.com
@@ -4414,6 +4432,7 @@
 0.0.0.0 jmu5qvx.com
 0.0.0.0 jmu5qvx.info
 0.0.0.0 jnu16azvozz0.pro
+0.0.0.0 jnu1euxlnems.pro
 0.0.0.0 jnu1usxpndz0.pro
 0.0.0.0 jnu9uwxlprf.online
 0.0.0.0 jo0kfb10xr.ru
@@ -4796,6 +4815,7 @@
 0.0.0.0 livedecnow.com
 0.0.0.0 livedecwow.com
 0.0.0.0 livefactblog.club
+0.0.0.0 liveruim.com
 0.0.0.0 livesurf.ru
 0.0.0.0 livingy.com
 0.0.0.0 ljbbq.com
@@ -5967,6 +5987,7 @@
 0.0.0.0 rd01eqxpnv.space
 0.0.0.0 rd05qttbo.tech
 0.0.0.0 rd09ettvoemc.pro
+0.0.0.0 rdb1.online
 0.0.0.0 reacten.com
 0.0.0.0 reactor.wiki
 0.0.0.0 ready4win.com
@@ -6150,6 +6171,7 @@
 0.0.0.0 rtl1.net
 0.0.0.0 rtl1.org
 0.0.0.0 rtmain.com
+0.0.0.0 rtmark.net
 0.0.0.0 rts.click
 0.0.0.0 ru7mee8nhmz8.ru
 0.0.0.0 ruad.net
@@ -6470,6 +6492,7 @@
 0.0.0.0 st.astraone.io
 0.0.0.0 stablemoney.ru
 0.0.0.0 stableprofit4you.com
+0.0.0.0 stadobaranoov.ru
 0.0.0.0 standadv.com
 0.0.0.0 starhistory.ru
 0.0.0.0 starinform.ru
@@ -7195,6 +7218,7 @@
 0.0.0.0 voilek.com
 0.0.0.0 vongomedia.ru
 0.0.0.0 voono.ru
+0.0.0.0 vornz.com
 0.0.0.0 vpbyl.com
 0.0.0.0 vpdsd.top
 0.0.0.0 vpejn.top
@@ -7252,6 +7276,7 @@
 0.0.0.0 wasbetenhep.ru
 0.0.0.0 wasdalta.ru
 0.0.0.0 washadca.ru
+0.0.0.0 wasshimundme.ru
 0.0.0.0 wasslitthimor.ru
 0.0.0.0 watch73.info
 0.0.0.0 wateraddicted.com
@@ -7361,6 +7386,7 @@
 0.0.0.0 wowlink.ru
 0.0.0.0 wowodarta.com
 0.0.0.0 wpad.farm
+0.0.0.0 wpu.sh
 0.0.0.0 wpvdt.space
 0.0.0.0 wqgkainysj.ru
 0.0.0.0 wqs7j.ru
@@ -7379,6 +7405,7 @@
 0.0.0.0 wwclick.su
 0.0.0.0 wwclickgo.com
 0.0.0.0 wwgate.ru
+0.0.0.0 wwgdwl.com
 0.0.0.0 wwpon365.ru
 0.0.0.0 wwsercher.biz
 0.0.0.0 www.rt-ns.ru
@@ -7579,6 +7606,7 @@
 0.0.0.0 zerokom.ru
 0.0.0.0 zeroparking.ru
 0.0.0.0 zersai.ru
+0.0.0.0 zetrade.net
 0.0.0.0 zeu5esxdovg.online
 0.0.0.0 zeu5ust.online
 0.0.0.0 zeueg.com
@@ -7623,6 +7651,7 @@
 0.0.0.0 zqizn.com
 0.0.0.0 zreluo.com
 0.0.0.0 zrepe.com
+0.0.0.0 zrlcr.com
 0.0.0.0 zsdat.com
 0.0.0.0 zseut.com
 0.0.0.0 ztgm17.ru
