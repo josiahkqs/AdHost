@@ -1,9 +1,10 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Sat, 26 Oct 2019 10:49:34 +0800
+# Last converted - Fri, 01 Nov 2019 13:23:51 +0800
 #
 
+0.0.0.0 manparis.cn
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -1409,7 +1410,6 @@
 0.0.0.0 mtty.com
 0.0.0.0 mtxsk.com
 0.0.0.0 mu722.com
-0.0.0.0 muyang888.top
 0.0.0.0 mxmrt.com
 0.0.0.0 mycctvmedia.com
 0.0.0.0 mygeneclub.com
@@ -2243,6 +2243,7 @@
 0.0.0.0 zhybzp.cn
 0.0.0.0 zi63m.cn
 0.0.0.0 ziig.com.cn
+0.0.0.0 zitanmushu.com
 0.0.0.0 ziyuantx.com
 0.0.0.0 zj66.net
 0.0.0.0 zjhim.com
@@ -2656,7 +2657,6 @@
 0.0.0.0 1.ajiyuming.com
 0.0.0.0 1.arpun.com
 0.0.0.0 1.bangdan5.com
-0.0.0.0 1.bashenghuo.com
 0.0.0.0 1.bh5.com.cn
 0.0.0.0 1.cjcp.cn
 0.0.0.0 1.cn716.com
@@ -2687,6 +2687,7 @@
 0.0.0.0 1.qt86.com
 0.0.0.0 1.rr95.com
 0.0.0.0 1.sj33.net
+0.0.0.0 1.snzfj.net
 0.0.0.0 1.soufy.cn
 0.0.0.0 1.tongquee.com
 0.0.0.0 1.ttxs123.net
@@ -2698,7 +2699,6 @@
 0.0.0.0 1.vsimg.com
 0.0.0.0 1.wenzhangba.cn
 0.0.0.0 1.win7china.com
-0.0.0.0 1.win7sky.com
 0.0.0.0 1.xiaopin5.com
 0.0.0.0 1.xilu.com
 0.0.0.0 1.xspic.com
@@ -2719,6 +2719,7 @@
 0.0.0.0 111g.yiqig.cn
 0.0.0.0 11888vip.cn
 0.0.0.0 1224.dxsbb.com
+0.0.0.0 123.39jz.com
 0.0.0.0 123456.asia
 0.0.0.0 15tianqi.com
 0.0.0.0 17.huanqiu.com
@@ -2762,12 +2763,14 @@
 0.0.0.0 76e.org
 0.0.0.0 7car.com.cn
 0.0.0.0 80juqing.com
+0.0.0.0 8131.qizhihaotian.cn
 0.0.0.0 8dp.net
 0.0.0.0 90370.com
 0.0.0.0 91friend.com
 0.0.0.0 94ab.com
 0.0.0.0 999d.com
 0.0.0.0 9wushuo.com
+0.0.0.0 a.4aqq.com
 0.0.0.0 a.52wubi.com
 0.0.0.0 a.52zxw.com
 0.0.0.0 a.53yao.com
@@ -2776,6 +2779,7 @@
 0.0.0.0 a.armystar.com
 0.0.0.0 a.bake818.cn
 0.0.0.0 a.bizhiku.net
+0.0.0.0 a.booksir.cn
 0.0.0.0 a.diaoyu.cn
 0.0.0.0 a.duanmeiwen.com
 0.0.0.0 a.duduji.com
@@ -2805,6 +2809,7 @@
 0.0.0.0 a.tvsou.com
 0.0.0.0 a.umilu.com
 0.0.0.0 a.ut8d8.com
+0.0.0.0 a.wanzhuang.com
 0.0.0.0 a.wifi33.com
 0.0.0.0 a.xixiyishu.com
 0.0.0.0 a.xuezizhai.com
@@ -2850,6 +2855,7 @@
 0.0.0.0 abcj.dooccn.com
 0.0.0.0 abds.pingpingw.com
 0.0.0.0 ac.86huoche.com
+0.0.0.0 ac1.786ip.com
 0.0.0.0 ac1.faxingchina.com
 0.0.0.0 adbd.liuxue86.com
 0.0.0.0 adccoo.cn
@@ -2865,6 +2871,7 @@
 0.0.0.0 b1.51scw.net
 0.0.0.0 b1.91jucai.com
 0.0.0.0 b1.b2b168.com
+0.0.0.0 b1.b2b168.net
 0.0.0.0 b1.baomihua.com
 0.0.0.0 b1.c1km4.com
 0.0.0.0 b1.fengdu100.com
@@ -2896,7 +2903,6 @@
 0.0.0.0 bd1.sosg.net
 0.0.0.0 bd1.szhk.com
 0.0.0.0 bd1.wowoqq.com
-0.0.0.0 bd1.xiangha.com
 0.0.0.0 bd1.xiby.cn
 0.0.0.0 bd1.yidu.cc
 0.0.0.0 bd11.nipic.com
@@ -2920,6 +2926,7 @@
 0.0.0.0 bdjj.makepolo.net
 0.0.0.0 bdjs.163lady.com
 0.0.0.0 bdjs.6822.com
+0.0.0.0 bdjs.91zhuti.com
 0.0.0.0 bdjs.a-site.cn
 0.0.0.0 bdjs.guangyuanol.cn
 0.0.0.0 bdjs.ixiumei.com
@@ -3027,6 +3034,7 @@
 0.0.0.0 dm.gucheng.com
 0.0.0.0 dm.haojuzi.net
 0.0.0.0 dm.huochepiao.com
+0.0.0.0 dm.hxzdhn.com
 0.0.0.0 dm.ishuo.cn
 0.0.0.0 dm.jb51.net
 0.0.0.0 dm.jsyst.cn
@@ -3046,6 +3054,8 @@
 0.0.0.0 dm50.jkyd.net
 0.0.0.0 dmm.aizhan.com
 0.0.0.0 dmr.cnhoney.com
+0.0.0.0 dmsz.win7sky.com
+0.0.0.0 dmym.aixyy.com
 0.0.0.0 dsxdn.com
 0.0.0.0 du1.bbdj.com
 0.0.0.0 dudm.qingsj.cn
@@ -3118,7 +3128,6 @@
 0.0.0.0 hapic1.zhuangxiu22.com
 0.0.0.0 hccms.com.cn
 0.0.0.0 hdc.maxli.cn
-0.0.0.0 hdc.watchtimes.com.cn
 0.0.0.0 hh.jiankang.com
 0.0.0.0 hi.xiunm.com
 0.0.0.0 hiapple1.jobui.com
@@ -3127,7 +3136,9 @@
 0.0.0.0 hrjg.com.cn
 0.0.0.0 hu.xbhy.com
 0.0.0.0 huhai.cdwz8.cn
+0.0.0.0 hy.huangye88.com.cn
 0.0.0.0 hy.huangye88.net
+0.0.0.0 idgdmgroup.com.cn
 0.0.0.0 iia1.pikacn.com
 0.0.0.0 ikuailian.com
 0.0.0.0 img.263y.com
@@ -3166,11 +3177,13 @@
 0.0.0.0 jinshui2018.chalook.net
 0.0.0.0 jiyan.net
 0.0.0.0 jke1.jianke.com
+0.0.0.0 jm1.xiao89.com
 0.0.0.0 jnsz.net.cn
 0.0.0.0 js.158pic.com
 0.0.0.0 js.51ir.cn
 0.0.0.0 js.fc090.com
 0.0.0.0 js.gdyjs.com
+0.0.0.0 js.itaiju.com
 0.0.0.0 js.kt250.com
 0.0.0.0 js.ruiwen.com
 0.0.0.0 js.shangxueba.com
@@ -3191,6 +3204,7 @@
 0.0.0.0 k1.wanwenwan.cn
 0.0.0.0 ka5188.com
 0.0.0.0 kc.gouchezj.com
+0.0.0.0 khrtac.xiangha.com
 0.0.0.0 kpshx.douguo.com
 0.0.0.0 ku.92to.com
 0.0.0.0 kuhou.com
@@ -3286,6 +3300,7 @@
 0.0.0.0 qqhuhu.com
 0.0.0.0 qqzu.com
 0.0.0.0 qujishu.com
+0.0.0.0 quyaoya.com
 0.0.0.0 qwxcs.com
 0.0.0.0 rabc1.iteye.com
 0.0.0.0 rbmry.com
@@ -3301,6 +3316,7 @@
 0.0.0.0 s1.hualaoye.com
 0.0.0.0 s1.qiqutt.cn
 0.0.0.0 s1.qiqutt.com
+0.0.0.0 s1.tuzhaozhao.com
 0.0.0.0 s1.wan1979.com
 0.0.0.0 s1.wesiedu.com
 0.0.0.0 s11.cn
@@ -3349,7 +3365,9 @@
 0.0.0.0 union1.cnbetacdn.com
 0.0.0.0 uniondm.cz88.net
 0.0.0.0 usejj.makepolo.net
+0.0.0.0 uuu.pctowap.com
 0.0.0.0 v1.phb123.com
+0.0.0.0 v1.taksh.cn
 0.0.0.0 ve.kj-cy.cn
 0.0.0.0 vi1.souid.com
 0.0.0.0 vjie.com
@@ -3362,6 +3380,7 @@
 0.0.0.0 w18.9939.com
 0.0.0.0 wabdb1.52pk.com
 0.0.0.0 wap001.bytravel.cn
+0.0.0.0 watchtimes.com.cn
 0.0.0.0 wda.ydt.com.cn
 0.0.0.0 web8.net
 0.0.0.0 weilianjie.com
@@ -4116,6 +4135,7 @@
 0.0.0.0 guangsss1999.com
 0.0.0.0 guanqinjie.cn
 0.0.0.0 guansenff.cn
+0.0.0.0 guanzistory.com
 0.0.0.0 guxiaom.cn
 0.0.0.0 gwdqp.com
 0.0.0.0 gxklsftz.cn
@@ -5073,6 +5093,8 @@
 0.0.0.0 zhiyaowan.cn
 0.0.0.0 zhongfujiaoyu.cn
 0.0.0.0 zhongwangmy.cn
+0.0.0.0 zhouqin520.top
+0.0.0.0 zhujiafangchan.cn
 0.0.0.0 zhuyuanp.shop
 0.0.0.0 zhuyuanp.top
 0.0.0.0 zhywyl.cn
