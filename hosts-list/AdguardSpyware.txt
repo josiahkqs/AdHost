@@ -1,9 +1,11 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sat, 26 Oct 2019 10:49:38 +0800
+# Last converted - Fri, 01 Nov 2019 13:23:55 +0800
 #
 
+0.0.0.0 rob.megaopen.ru
+0.0.0.0 instana.io
 0.0.0.0 srv.dc-1.net
 0.0.0.0 votetoda.com
 0.0.0.0 promclickapp.biz
@@ -3152,6 +3154,20 @@
 0.0.0.0 zbwp6ghm.com
 0.0.0.0 yourblocksite.com
 0.0.0.0 taskapi.net
+0.0.0.0 beacon-fullpage-predictor.goguardian.com
+0.0.0.0 countvoncount.goguardian.com
+0.0.0.0 ext.goguardian.com
+0.0.0.0 inquisition.goguardian.com
+0.0.0.0 ip.goguardian.com
+0.0.0.0 panther.goguardian.com
+0.0.0.0 quiddity.goguardian.com
+0.0.0.0 sakura.goguardian.com
+0.0.0.0 screenshots.goguardian.com
+0.0.0.0 snat.goguardian.com
+0.0.0.0 sockjs-goguardian.pusher.com
+0.0.0.0 ws-goguardian.pusher.com
+0.0.0.0 x3-policy-maker.goguardian.com
+0.0.0.0 x3-predictor.goguardian.com
 0.0.0.0 rlog.popin.cc
 0.0.0.0 log.popin.cc
 0.0.0.0 r.popin.cc
@@ -3185,6 +3201,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 analytics.dpd.com
 0.0.0.0 cfg.imtt.qq.com
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 mqqad.html5.qq.com
@@ -4345,7 +4362,6 @@
 0.0.0.0 stat.sputnik.ru
 0.0.0.0 wstat.ozon.ru
 0.0.0.0 analytics.vooxe.com
-0.0.0.0 udc.yahoo.com
 0.0.0.0 tracker.giftd.ru
 0.0.0.0 collector.retailcrm.pro
 0.0.0.0 tr1.admeira.ch
@@ -4538,6 +4554,7 @@
 0.0.0.0 xtag.autotrader.com
 0.0.0.0 xtag.kbb.com
 0.0.0.0 zdlogs.sphereup.com
+0.0.0.0 beam.remp.nv.ua
 0.0.0.0 pjstat.com
 0.0.0.0 analytics.dugun.com
 0.0.0.0 sonar.semantiqo.com
