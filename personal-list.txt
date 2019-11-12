@@ -348,3 +348,5 @@
 0.0.0.0 syndication.exosrv.com # Ads
 0.0.0.0 mobilevirustotal.pro # Scam
 0.0.0.0 newsatads.com # Ads
+0.0.0.0 you-have-1-message-about-your-device.mujohiy.com # Spam
+0.0.0.0 www.36mh.com # Spam
