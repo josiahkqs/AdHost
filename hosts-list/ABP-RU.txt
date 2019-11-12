@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Fri, 01 Nov 2019 13:23:55 +0800
+# Last converted - Tue, 12 Nov 2019 12:09:09 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1581,6 +1581,7 @@
 0.0.0.0 push-money.ru
 0.0.0.0 pushcentr.com
 0.0.0.0 pushere.info
+0.0.0.0 pushers.info
 0.0.0.0 pushex.net
 0.0.0.0 pushiki.ru
 0.0.0.0 pushington.info
@@ -1630,6 +1631,7 @@
 0.0.0.0 rus-porno.ru
 0.0.0.0 ruscams.com
 0.0.0.0 ruscontext.com
+0.0.0.0 rushhips.com
 0.0.0.0 rushkolnik.ru
 0.0.0.0 rusmedserv.com
 0.0.0.0 rusnabat.com
@@ -1645,6 +1647,7 @@
 0.0.0.0 searchmeta.webhost.ru
 0.0.0.0 segamen.ru
 0.0.0.0 selectornews.com
+0.0.0.0 selectroduced.com
 0.0.0.0 senseagency.ru
 0.0.0.0 seo-sport.ru
 0.0.0.0 seoliner.ru
@@ -1722,6 +1725,7 @@
 0.0.0.0 t.pusk.ru
 0.0.0.0 tak.ru
 0.0.0.0 takru.com
+0.0.0.0 taverkegaard.com
 0.0.0.0 tdmplus.ru
 0.0.0.0 tds-banner.do.am
 0.0.0.0 teaone.net
@@ -1918,6 +1922,7 @@
 0.0.0.0 0f694b34ccc1b4a.com
 0.0.0.0 0fbbi6mx.space
 0.0.0.0 0hspzyl31sv15.ru
+0.0.0.0 0tdsprofit.in
 0.0.0.0 0ux.ru
 0.0.0.0 0y2im3ma.ru
 0.0.0.0 1-17.ru
@@ -2008,6 +2013,7 @@
 0.0.0.0 2smell5.info
 0.0.0.0 2tlr.info
 0.0.0.0 2under.ru
+0.0.0.0 2vaxwkujrfwh.info
 0.0.0.0 2wswg32trqa2.ru
 0.0.0.0 2x.pro
 0.0.0.0 2xclick.ru
@@ -2719,6 +2725,7 @@
 0.0.0.0 bc-news.ru
 0.0.0.0 bc22addf47.com
 0.0.0.0 bce924fa02fa.ru
+0.0.0.0 bchaser.info
 0.0.0.0 bcprn.club
 0.0.0.0 bcre002.me
 0.0.0.0 bd01etxdnree.org
@@ -3237,6 +3244,7 @@
 0.0.0.0 csfails.us
 0.0.0.0 csitec.ru
 0.0.0.0 csjuq.com
+0.0.0.0 csnem.ru
 0.0.0.0 csp-oz66pp.ru
 0.0.0.0 csp-qcw5yi.ru
 0.0.0.0 csvideos.ru
@@ -3624,6 +3632,7 @@
 0.0.0.0 eruji.com
 0.0.0.0 eruption22.center
 0.0.0.0 ervtm9lrdj.com
+0.0.0.0 escense.ru
 0.0.0.0 escoad.pro
 0.0.0.0 esfoxo.com
 0.0.0.0 esliga.ru
@@ -3724,6 +3733,7 @@
 0.0.0.0 fdsur.com
 0.0.0.0 fe4r7k22y68p.info
 0.0.0.0 febwinter.com
+0.0.0.0 fed2nkspbdnr.info
 0.0.0.0 feedbackrights.com
 0.0.0.0 feefbb88a9.com
 0.0.0.0 fegmamy.ru
@@ -3788,6 +3798,7 @@
 0.0.0.0 fobise.ru
 0.0.0.0 fofuvipibo.com
 0.0.0.0 foganonura.com
+0.0.0.0 foolfishes.com
 0.0.0.0 for-ladies-oy.ru
 0.0.0.0 foreshis.ru
 0.0.0.0 foreverseed.ru
@@ -3950,6 +3961,7 @@
 0.0.0.0 globeac.com
 0.0.0.0 glopart.ru
 0.0.0.0 glordd.com
+0.0.0.0 glossingly.com
 0.0.0.0 glothouw.link
 0.0.0.0 glouposek.ru
 0.0.0.0 glue-length.biz
@@ -4468,6 +4480,7 @@
 0.0.0.0 julidoll.ru
 0.0.0.0 jump-wap.com
 0.0.0.0 juppser.ru
+0.0.0.0 juslatofbab.ru
 0.0.0.0 jusorpa.ru
 0.0.0.0 justonsrep.com
 0.0.0.0 jutulep.com
@@ -5046,6 +5059,7 @@
 0.0.0.0 megasliv.com
 0.0.0.0 megatizer.com
 0.0.0.0 megatizer.ru
+0.0.0.0 megatraf.biz
 0.0.0.0 mekadr.com
 0.0.0.0 melbetpyy.host
 0.0.0.0 melbetqmq.host
@@ -5223,6 +5237,7 @@
 0.0.0.0 mvuhy.space
 0.0.0.0 mwcvu.com
 0.0.0.0 mwtraff.mobi
+0.0.0.0 mwtrf.mobi
 0.0.0.0 mxccs.com
 0.0.0.0 mxcount.com
 0.0.0.0 mxttrf.com
@@ -5280,6 +5295,7 @@
 0.0.0.0 na-zdor2.ru
 0.0.0.0 nacdn.info
 0.0.0.0 nalabutenahah.com
+0.0.0.0 nalivaj.ru
 0.0.0.0 namezones.ru
 0.0.0.0 namogemi.ru
 0.0.0.0 naplene.ru
@@ -5582,6 +5598,7 @@
 0.0.0.0 oridasapap.com
 0.0.0.0 oriondigital.ru
 0.0.0.0 orjzy.com
+0.0.0.0 ortermodown.ru
 0.0.0.0 ortetse.ru
 0.0.0.0 orzcqez8x3n.space
 0.0.0.0 os340.com
@@ -5658,6 +5675,7 @@
 0.0.0.0 parafiliya.ru
 0.0.0.0 paramedjo.com
 0.0.0.0 parametr01.ru
+0.0.0.0 parandeya.com
 0.0.0.0 parents1.ru
 0.0.0.0 parhadat.com
 0.0.0.0 parrylac.ru
@@ -5808,6 +5826,7 @@
 0.0.0.0 prelmon.ru
 0.0.0.0 prelstar.ru
 0.0.0.0 prelzar.ru
+0.0.0.0 premixture.com
 0.0.0.0 prerol.tut.by
 0.0.0.0 preved.tut.by
 0.0.0.0 prf29bk47.ru
@@ -6144,6 +6163,7 @@
 0.0.0.0 rove.cl
 0.0.0.0 rowketly.com
 0.0.0.0 rozaura.ru
+0.0.0.0 rp-srw.net
 0.0.0.0 rpqjo.top
 0.0.0.0 rpsehc.ru
 0.0.0.0 rq6acf4x.ru
@@ -6177,6 +6197,7 @@
 0.0.0.0 ruad.net
 0.0.0.0 ruadlist.ru
 0.0.0.0 rubejtizer.ru
+0.0.0.0 rubiginose.com
 0.0.0.0 rubkate.ru
 0.0.0.0 ruigra.com
 0.0.0.0 rukavilat.ru
@@ -6528,6 +6549,7 @@
 0.0.0.0 stsdv.com
 0.0.0.0 styleload.ru
 0.0.0.0 su2lgyoeucscn.ru
+0.0.0.0 subendorse.com
 0.0.0.0 substraktor.ru
 0.0.0.0 sucior.ru
 0.0.0.0 suffusion.info
@@ -6954,6 +6976,7 @@
 0.0.0.0 turmene.ru
 0.0.0.0 tv-ads.ru
 0.0.0.0 tv-serial.info
+0.0.0.0 tvigl.info
 0.0.0.0 tvoigost.ru
 0.0.0.0 tw0dmn.com
 0.0.0.0 twitep.com
@@ -7127,7 +7150,6 @@
 0.0.0.0 videoleks.com
 0.0.0.0 videonow.ru
 0.0.0.0 videopotok.pro
-0.0.0.0 videoroll.net
 0.0.0.0 videorot.com
 0.0.0.0 videortb.ru
 0.0.0.0 videoseed.by
@@ -7386,7 +7408,6 @@
 0.0.0.0 wowlink.ru
 0.0.0.0 wowodarta.com
 0.0.0.0 wpad.farm
-0.0.0.0 wpu.sh
 0.0.0.0 wpvdt.space
 0.0.0.0 wqgkainysj.ru
 0.0.0.0 wqs7j.ru
@@ -7534,6 +7555,7 @@
 0.0.0.0 ynwia.com
 0.0.0.0 yohioo.com
 0.0.0.0 yojlf.com
+0.0.0.0 yomzba.com
 0.0.0.0 yost.biz
 0.0.0.0 youbestvideo1.ru
 0.0.0.0 youbestvideo2.ru
@@ -8289,6 +8311,7 @@
 0.0.0.0 f.mega-porno.tv
 0.0.0.0 fastpicc.ru
 0.0.0.0 fcdesna.3dn.ru
+0.0.0.0 ff.astv.ru
 0.0.0.0 finlit.online
 0.0.0.0 foreign.dt00.net
 0.0.0.0 forum.adult-torrent.com
