@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 01 Nov 2019 13:23:57 +0800
+# Last converted - Tue, 12 Nov 2019 12:09:13 +0800
 #
 
 0.0.0.0 0emm.com
@@ -683,6 +683,7 @@
 0.0.0.0 directrdr.com
 0.0.0.0 discover-path.com
 0.0.0.0 discovertrail.net
+0.0.0.0 display.studio
 0.0.0.0 displaymarketplace.com
 0.0.0.0 distiltag.com
 0.0.0.0 distralytics.com
@@ -699,6 +700,8 @@
 0.0.0.0 dmtry.com
 0.0.0.0 dmxleo.com
 0.0.0.0 doclix.com
+0.0.0.0 dojomojo.com
+0.0.0.0 dojomojo.ninja
 0.0.0.0 dominocounter.net
 0.0.0.0 domodomain.com
 0.0.0.0 dotomi.com
@@ -958,7 +961,6 @@
 0.0.0.0 getdrip.com
 0.0.0.0 getetafun.info
 0.0.0.0 getfreebl.com
-0.0.0.0 getrewardful.com
 0.0.0.0 getrockerbox.com
 0.0.0.0 getsmartcontent.com
 0.0.0.0 getsmartlook.com
@@ -1468,7 +1470,6 @@
 0.0.0.0 myaffiliateprogram.com
 0.0.0.0 myaudience.de
 0.0.0.0 mybloglog.com
-0.0.0.0 mybluemix.net
 0.0.0.0 myfastcounter.com
 0.0.0.0 mynewcounter.com
 0.0.0.0 mynsystems.com
@@ -1587,6 +1588,7 @@
 0.0.0.0 onelink-translations.com
 0.0.0.0 onestat.com
 0.0.0.0 onetag-sys.com
+0.0.0.0 onetag.io
 0.0.0.0 ongsono.com
 0.0.0.0 online-media-stats.com
 0.0.0.0 online-metrix.net
@@ -1682,7 +1684,6 @@
 0.0.0.0 pixelinteractivemedia.com
 0.0.0.0 pixelrevenue.com
 0.0.0.0 pixelsnippet.com
-0.0.0.0 pixlee.com
 0.0.0.0 pizzaandads.com
 0.0.0.0 pjatr.com
 0.0.0.0 pjtra.com
@@ -1859,6 +1860,7 @@
 0.0.0.0 ritecounter.com
 0.0.0.0 rivrai.com
 0.0.0.0 rkdms.com
+0.0.0.0 rktch.com
 0.0.0.0 rktu.com
 0.0.0.0 rlcdn.com
 0.0.0.0 rmtag.com
@@ -1977,6 +1979,7 @@
 0.0.0.0 shoptimally.com
 0.0.0.0 showheroes.com
 0.0.0.0 showroomlogic.com
+0.0.0.0 sift.com
 0.0.0.0 siftscience.com
 0.0.0.0 signifyd.com
 0.0.0.0 signup-way.com
@@ -2340,6 +2343,7 @@
 0.0.0.0 tubetrafficcash.com
 0.0.0.0 tuinfra.com
 0.0.0.0 tunnl.com
+0.0.0.0 tvpixel.com
 0.0.0.0 tw.cx
 0.0.0.0 twcount.com
 0.0.0.0 twopointo.io
@@ -2564,6 +2568,7 @@
 0.0.0.0 xxxcounter.com
 0.0.0.0 xyztraffic.com
 0.0.0.0 y-track.com
+0.0.0.0 ya-counter.ru
 0.0.0.0 yamanoha.com
 0.0.0.0 yandex-metrica.ru
 0.0.0.0 yaudience.com
@@ -3248,6 +3253,7 @@
 0.0.0.0 absurdapple.com
 0.0.0.0 acridtwist.com
 0.0.0.0 aheadday.com
+0.0.0.0 allowmailbox.com
 0.0.0.0 anxiousapples.com
 0.0.0.0 automaticside.com
 0.0.0.0 awzbijw.com
@@ -3256,24 +3262,30 @@
 0.0.0.0 bh8yx.xyz
 0.0.0.0 broadcastbed.com
 0.0.0.0 broaddoor.com
+0.0.0.0 burnbubble.com
+0.0.0.0 butterbulb.com
 0.0.0.0 butterburst.com
 0.0.0.0 cannontwin.com
 0.0.0.0 capsquirrel.com
 0.0.0.0 caringzinc.com
 0.0.0.0 carscannon.com
 0.0.0.0 cloisteredcord.com
+0.0.0.0 colorfulafterthought.com
+0.0.0.0 conditioncrush.com
 0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
 0.0.0.0 coordinatedcub.com
 0.0.0.0 copycarpenter.com
 0.0.0.0 cubchannel.com
 0.0.0.0 culturedcrayon.com
+0.0.0.0 damdoor.com
 0.0.0.0 delegatediscussion.com
 0.0.0.0 desiredirt.com
 0.0.0.0 detectdiscovery.com
 0.0.0.0 diplomahawaii.com
 0.0.0.0 ejyymghi.com
 0.0.0.0 endurablecrayon.comthird-party
+0.0.0.0 falseframe.com
 0.0.0.0 familiarfloor.com
 0.0.0.0 familiarrod.com
 0.0.0.0 farmergoldfish.com
@@ -3287,6 +3299,7 @@
 0.0.0.0 giraffepiano.com
 0.0.0.0 gorgeousground.com
 0.0.0.0 greyinstrument.com
+0.0.0.0 gulliblecamp.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 hilariouszinc.com
 0.0.0.0 horsenectar.com
@@ -3294,6 +3307,7 @@
 0.0.0.0 inquisitiveinvention.com
 0.0.0.0 intelligentscissors.com
 0.0.0.0 jadeitite.com
+0.0.0.0 jamexistence.com
 0.0.0.0 jewelcheese.com
 0.0.0.0 lamplow.com
 0.0.0.0 leaplunchroom.com
@@ -3304,6 +3318,8 @@
 0.0.0.0 mowfruit.com
 0.0.0.0 mundanepollution.com
 0.0.0.0 nervoussummer.com
+0.0.0.0 parcelcreature.com
+0.0.0.0 parsimoniouspolice.com
 0.0.0.0 pedropanther.com
 0.0.0.0 penspade.com
 0.0.0.0 perceivequarter.com
@@ -3312,11 +3328,14 @@
 0.0.0.0 pietexture.com
 0.0.0.0 profusesupport.com
 0.0.0.0 puffyloss.com
+0.0.0.0 puffypull.com
 0.0.0.0 quaintcan.com
 0.0.0.0 quietknowledge.com
 0.0.0.0 raresummer.com
 0.0.0.0 richstring.com
+0.0.0.0 ringplayground.com
 0.0.0.0 ritzykey.com
+0.0.0.0 roofrelation.com
 0.0.0.0 scintillatingspace.com
 0.0.0.0 scrubswim.com
 0.0.0.0 selectivesummer.com
@@ -3329,21 +3348,27 @@
 0.0.0.0 sombersurprise.com
 0.0.0.0 sortsummer.com
 0.0.0.0 spiffymachine.com
+0.0.0.0 spottednoise.com
 0.0.0.0 spottysense.com
 0.0.0.0 spurioussteam.com
 0.0.0.0 squeakzinc.com
 0.0.0.0 squirrelhands.com
+0.0.0.0 steadfastsound.com
 0.0.0.0 steepsquirrel.com
 0.0.0.0 stiffstem.com
 0.0.0.0 storesurprise.com
+0.0.0.0 stormyachiever.com
 0.0.0.0 strivesidewalk.com
+0.0.0.0 stupendoussleet.com
 0.0.0.0 suddensidewalk.com
 0.0.0.0 sugarcurtain.com
+0.0.0.0 tendertest.com
 0.0.0.0 ticklesign.com
 0.0.0.0 truthfulturn.com
 0.0.0.0 typicalteeth.com
 0.0.0.0 ubiquitousyard.com
 0.0.0.0 unarmedindustry.com
+0.0.0.0 unbecominghall.com
 0.0.0.0 untidyrice.com
 0.0.0.0 womanear.com
 0.0.0.0 123-counter.de
@@ -4523,6 +4548,7 @@
 0.0.0.0 clickthru.lefbc.com
 0.0.0.0 clicktracker.iscan.nl
 0.0.0.0 clicktracks.aristotle.net
+0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client.tahono.com
 0.0.0.0 clientstat.castup.net
 0.0.0.0 clk.onet.pl
@@ -4661,7 +4687,6 @@
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
-0.0.0.0 d38nbbai6u794i.cloudfront.net
 0.0.0.0 d396ihyrqc81w.cloudfront.net
 0.0.0.0 d3a2okcloueqyx.cloudfront.net
 0.0.0.0 d3alqb8vzo7fun.cloudfront.net
@@ -4796,6 +4821,7 @@
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.kvideo.io
 0.0.0.0 ga.webdigi.co.uk
+0.0.0.0 gateway.foresee.com
 0.0.0.0 geo.ertya.com
 0.0.0.0 geo.gorillanation.com
 0.0.0.0 geo.kaloo.ga
@@ -5438,6 +5464,7 @@
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 vertical-stats.huffpost.com
 0.0.0.0 video-ad-stats.googlesyndication.com
+0.0.0.0 videoevents.outbrain.com
 0.0.0.0 visit.geocities.com
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 vmstats.varrando.com
@@ -5843,6 +5870,7 @@
 0.0.0.0 counter.star.lg.ua
 0.0.0.0 counter.tovarro.com
 0.0.0.0 counter.wapstart.ru
+0.0.0.0 crm-analytics.imweb.ru
 0.0.0.0 error.videonow.ru
 0.0.0.0 hubrus.com
 0.0.0.0 mediator.mail.ru
@@ -5938,6 +5966,7 @@
 0.0.0.0 affiliates.treasureisland.com
 0.0.0.0 affiliates.vpn.ht
 0.0.0.0 agg.inquisitr.com
+0.0.0.0 agg.lifedaily.com
 0.0.0.0 aggregator.inquisitr.com
 0.0.0.0 ai.inmdata.io
 0.0.0.0 ai.iol.io
@@ -6075,6 +6104,7 @@
 0.0.0.0 cmp.cmo.com.au
 0.0.0.0 cmp.computerworld.com.au
 0.0.0.0 cmp.cso.com.au
+0.0.0.0 cmp.csoonline.com
 0.0.0.0 cmp.digitalartsonline.co.uk
 0.0.0.0 cmp.greenbot.com
 0.0.0.0 cmp.macworld.co.uk
@@ -6180,6 +6210,7 @@
 0.0.0.0 funn.graphiq.com
 0.0.0.0 g.deathandtaxesmag.com
 0.0.0.0 g.ign.com
+0.0.0.0 g.mashable.com
 0.0.0.0 g.msn.com
 0.0.0.0 g.vev.io
 0.0.0.0 g2a-com.newsletter.com.pl
@@ -6283,6 +6314,7 @@
 0.0.0.0 loggly.cheatsheet.com
 0.0.0.0 loglady.publicbroadcasting.net
 0.0.0.0 logs.dashlane.com
+0.0.0.0 logs.gaana.com
 0.0.0.0 lsam.research.microsoft.com
 0.0.0.0 lslmetrics.djlmgdigital.com
 0.0.0.0 marketing.alibaba.com
@@ -6312,7 +6344,9 @@
 0.0.0.0 mms.al.com
 0.0.0.0 mms.cbslocal.com
 0.0.0.0 mms.cleveland.com
+0.0.0.0 mms.cloudpro.co.uk
 0.0.0.0 mms.cnn.com
+0.0.0.0 mms.coachmag.co.uk
 0.0.0.0 mms.deadspin.com
 0.0.0.0 mms.gizmodo.com
 0.0.0.0 mms.gulflive.com
@@ -6792,6 +6826,8 @@
 0.0.0.0 trowel.twitch.tv
 0.0.0.0 trueffect.underarmour.com
 0.0.0.0 trx.smdatalabs.com
+0.0.0.0 ttauri.tomsguide.com
+0.0.0.0 ttauri.tomshardware.com
 0.0.0.0 tw.i.hulu.com
 0.0.0.0 txn.thenewsroom.com
 0.0.0.0 unid.go.com
