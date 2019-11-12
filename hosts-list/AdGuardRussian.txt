@@ -1,9 +1,29 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 01 Nov 2019 13:23:55 +0800
+# Last converted - Tue, 12 Nov 2019 12:09:10 +0800
 #
 
+0.0.0.0 huffson-delivery.com
+0.0.0.0 infoblog.site
+0.0.0.0 hqrsuxsjqycv.info
+0.0.0.0 goontex.com
+0.0.0.0 subendorse.com
+0.0.0.0 srigbxxv.com
+0.0.0.0 frsuli.com
+0.0.0.0 info.invistionik.ru
+0.0.0.0 rgqxbf.com
+0.0.0.0 octclck.xyz
+0.0.0.0 ogclick.com
+0.0.0.0 1klink.ru
+0.0.0.0 purpulium.com
+0.0.0.0 apucdt.com
+0.0.0.0 ortermodown.ru
+0.0.0.0 eadgxy.com
+0.0.0.0 haeechihhfajibdfaef.ru
+0.0.0.0 one-xjygn.world$document
+0.0.0.0 sunburgh.com
+0.0.0.0 igdgsfa.pro
 0.0.0.0 news-code.com
 0.0.0.0 escense.ru
 0.0.0.0 domnovrek.com
@@ -20,7 +40,6 @@
 0.0.0.0 activepr.info
 0.0.0.0 obldomain.ru
 0.0.0.0 gqedxf.com
-0.0.0.0 farsihd.pw
 0.0.0.0 v1-c73e.kxcdn.com
 0.0.0.0 zrlcr.com
 0.0.0.0 43711cffd26816e.com
@@ -3835,6 +3854,7 @@
 0.0.0.0 xxx-tracker.com
 0.0.0.0 zadrb.zadrottv.ru
 0.0.0.0 zaprosbaza.pw
+0.0.0.0 semi-cod.nnmclub.ch
 0.0.0.0 0fsq1fgipb.ru
 0.0.0.0 go2.se9oieidu7t.ru
 0.0.0.0 blpovgiri0eei.ru
