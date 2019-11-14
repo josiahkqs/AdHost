@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Tue, 12 Nov 2019 12:09:09 +0800
+# Last converted - Thu, 14 Nov 2019 13:54:28 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1575,6 +1575,7 @@
 0.0.0.0 promobuster.net
 0.0.0.0 promofor.me
 0.0.0.0 promoloader.com
+0.0.0.0 pronpic.org
 0.0.0.0 prospero.ru
 0.0.0.0 prosto.cn.ua
 0.0.0.0 puls.lv
@@ -4595,6 +4596,7 @@
 0.0.0.0 kipyn.com
 0.0.0.0 kires.umk-spo.biz
 0.0.0.0 kirlin.link
+0.0.0.0 kiruniversal.com
 0.0.0.0 kisakuku.org
 0.0.0.0 kistured.com
 0.0.0.0 kit5hgver.com
