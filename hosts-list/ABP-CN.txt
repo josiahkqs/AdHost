@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Tue, 12 Nov 2019 12:09:06 +0800
+# Last converted - Thu, 14 Nov 2019 13:54:24 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -1193,6 +1193,7 @@
 0.0.0.0 jsyd139.com
 0.0.0.0 jsyxfdj.com
 0.0.0.0 jsyzw132.com
+0.0.0.0 jtdxz.top
 0.0.0.0 jtkshop.net
 0.0.0.0 jtxh.net
 0.0.0.0 ju33.com
@@ -1565,6 +1566,7 @@
 0.0.0.0 qiqiyii.com
 0.0.0.0 qiyou.com
 0.0.0.0 qjjtc.com
+0.0.0.0 qjyzj.cn
 0.0.0.0 qkkjd.com
 0.0.0.0 qling.com
 0.0.0.0 qmkdy.com
@@ -1991,6 +1993,7 @@
 0.0.0.0 wu36n.cn
 0.0.0.0 wu65.com
 0.0.0.0 wudang05.com
+0.0.0.0 wushuangjiexi.top
 0.0.0.0 wuwaii.com
 0.0.0.0 wuweiqx.com
 0.0.0.0 wuwho.cn
@@ -2191,6 +2194,7 @@
 0.0.0.0 yunfanlm.com
 0.0.0.0 yunsoka.com
 0.0.0.0 yuu360.com
+0.0.0.0 yuyanbaojie.cn
 0.0.0.0 yuyue008.cn
 0.0.0.0 ywadf.cn
 0.0.0.0 ywjsgc.com
@@ -3692,6 +3696,7 @@
 0.0.0.0 6nzev.cn
 0.0.0.0 6o87d.cn
 0.0.0.0 6ou47b.cn
+0.0.0.0 6shuge.com
 0.0.0.0 6yush.cn
 0.0.0.0 6yw7j.cn
 0.0.0.0 70e.me
@@ -3739,6 +3744,7 @@
 0.0.0.0 aabbccddeeffgg.cn
 0.0.0.0 aabku.cn
 0.0.0.0 aauisg64017.cn
+0.0.0.0 abc656.today
 0.0.0.0 abeij.com
 0.0.0.0 abfirst.cn
 0.0.0.0 abuse8.com
@@ -3779,6 +3785,7 @@
 0.0.0.0 applequan.com
 0.0.0.0 apxyz.com
 0.0.0.0 archrug.com
+0.0.0.0 autobedo.com.cn
 0.0.0.0 avsmt.cn
 0.0.0.0 awqsaged.cn
 0.0.0.0 awtks.com
@@ -3834,6 +3841,7 @@
 0.0.0.0 book9.net
 0.0.0.0 boweineng.cn
 0.0.0.0 bpdffh.cn
+0.0.0.0 bqhnj.cn
 0.0.0.0 bqqsdv73724.cn
 0.0.0.0 bslmw.com
 0.0.0.0 bsmakeup.com.cn
@@ -3919,6 +3927,7 @@
 0.0.0.0 comesgo.com
 0.0.0.0 continuedsys.cn
 0.0.0.0 coolpadrom.cn
+0.0.0.0 cornplus.cn
 0.0.0.0 couas.com
 0.0.0.0 countersys.cn
 0.0.0.0 coveredsys.cn
@@ -3959,6 +3968,7 @@
 0.0.0.0 dake.net.cn
 0.0.0.0 damiren.com
 0.0.0.0 daokejs.com
+0.0.0.0 dasheducation.cn
 0.0.0.0 daskm.com
 0.0.0.0 dbaij.com
 0.0.0.0 dbaof.com
@@ -4001,6 +4011,7 @@
 0.0.0.0 dqgpb.com
 0.0.0.0 drc6i.cn
 0.0.0.0 dreamrecord.cn
+0.0.0.0 drevozone.com.cn
 0.0.0.0 drgykb.cn
 0.0.0.0 dscry.com
 0.0.0.0 dsjcfw.com
@@ -4201,6 +4212,7 @@
 0.0.0.0 hdswgc.com
 0.0.0.0 hduic.com
 0.0.0.0 headwell.cn
+0.0.0.0 heavenwil.top
 0.0.0.0 hebhec.cn
 0.0.0.0 hebzycw.com
 0.0.0.0 hehmy.cn
@@ -4385,6 +4397,7 @@
 0.0.0.0 jxinyue.top
 0.0.0.0 jxnrfx.com
 0.0.0.0 jxxcfd.com
+0.0.0.0 jxyufa.com
 0.0.0.0 jyhwt.cn
 0.0.0.0 jyjhkz.com
 0.0.0.0 jzntxs.com
@@ -4395,12 +4408,14 @@
 0.0.0.0 kafka8.com
 0.0.0.0 kaihutai.cn
 0.0.0.0 kakappp.com
+0.0.0.0 kanghuaixin.cn
 0.0.0.0 kanjiaqun.cn
 0.0.0.0 kbstyn.com
 0.0.0.0 kcenu.com
 0.0.0.0 kchaq.com
 0.0.0.0 kcooy.com
 0.0.0.0 kdieu.com
+0.0.0.0 kdzbg.xyz
 0.0.0.0 ketaoke.com
 0.0.0.0 kexigia.com
 0.0.0.0 kfand.com
@@ -4548,9 +4563,11 @@
 0.0.0.0 muqsad.xyz
 0.0.0.0 muusn.cn
 0.0.0.0 mwjpk.com
+0.0.0.0 mysty.com.cn
 0.0.0.0 myuf6.xyz
 0.0.0.0 myycrw.com
 0.0.0.0 mzclass.club
+0.0.0.0 nabeghlavi.com.cn
 0.0.0.0 nashlin.top
 0.0.0.0 nbaob.com
 0.0.0.0 nbhotpo.com
@@ -4576,6 +4593,7 @@
 0.0.0.0 njyyk.com
 0.0.0.0 nkwwbg.com
 0.0.0.0 nmmdzq.cn
+0.0.0.0 nmqdnykj.com
 0.0.0.0 nmtouzi.com
 0.0.0.0 nnfiy.com
 0.0.0.0 nongshengyi.cn
@@ -4690,6 +4708,7 @@
 0.0.0.0 qq0au.cn
 0.0.0.0 qqdashabi.top
 0.0.0.0 qqiat.com
+0.0.0.0 qrdqbe.cn
 0.0.0.0 qsove.com
 0.0.0.0 qtpngov.cn
 0.0.0.0 quanjiapp.cn
@@ -4744,6 +4763,7 @@
 0.0.0.0 sdkdm.com
 0.0.0.0 sdsqyyc.com
 0.0.0.0 sdytsh.com
+0.0.0.0 seawayz.com.cn
 0.0.0.0 seerpiu002.com
 0.0.0.0 self-study-service.com.cn
 0.0.0.0 sezvc.com
@@ -4757,6 +4777,7 @@
 0.0.0.0 shenyunkeji.com
 0.0.0.0 shidailw.com
 0.0.0.0 shjsxx.com
+0.0.0.0 signstu.top
 0.0.0.0 siguatv.cn
 0.0.0.0 simon184.cn
 0.0.0.0 sincetrade.com
@@ -4859,6 +4880,7 @@
 0.0.0.0 tukexiu.com
 0.0.0.0 txstatic.cn
 0.0.0.0 txtxr.com
+0.0.0.0 txwhds.com.cn
 0.0.0.0 tymsyx.com
 0.0.0.0 tyrghj.cn
 0.0.0.0 tyyjzs.cn
@@ -4962,6 +4984,7 @@
 0.0.0.0 wkjhd.com
 0.0.0.0 wksrx.cn
 0.0.0.0 wl963.com
+0.0.0.0 wlshotel.cn
 0.0.0.0 wnbfw.com
 0.0.0.0 wo-x.cn
 0.0.0.0 wokekk.com
@@ -5032,6 +5055,7 @@
 0.0.0.0 xrain.net
 0.0.0.0 xroun.com
 0.0.0.0 xrpva.cn
+0.0.0.0 xsyouwei.cn
 0.0.0.0 xszysc.com
 0.0.0.0 xtzxmy.com
 0.0.0.0 xuehongxs.com:8862
@@ -5104,6 +5128,7 @@
 0.0.0.0 ytdksb.com
 0.0.0.0 ytmaitian.com
 0.0.0.0 ytmaksim.cn
+0.0.0.0 yuanhangpiju.cn
 0.0.0.0 yueduyy.com
 0.0.0.0 yueyelive.com
 0.0.0.0 yunanfuwuqi.com
