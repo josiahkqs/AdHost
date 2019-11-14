@@ -1,9 +1,13 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 12 Nov 2019 12:09:10 +0800
+# Last converted - Thu, 14 Nov 2019 13:54:28 +0800
 #
 
+0.0.0.0 fuojuw.com
+0.0.0.0 sphjtw.ru
+0.0.0.0 qmsdxo.ru
+0.0.0.0 flipflap.pro
 0.0.0.0 huffson-delivery.com
 0.0.0.0 infoblog.site
 0.0.0.0 hqrsuxsjqycv.info
@@ -3600,6 +3604,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 ban.zab.ru
 0.0.0.0 m1.extrutor.org
 0.0.0.0 test.besstidniki.ru
 0.0.0.0 embed.tonews.org
