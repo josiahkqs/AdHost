@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 12 Nov 2019 12:09:13 +0800
+# Last converted - Thu, 14 Nov 2019 13:54:30 +0800
 #
 
 0.0.0.0 0emm.com
@@ -453,7 +453,6 @@
 0.0.0.0 celebrus.com
 0.0.0.0 center.io
 0.0.0.0 centraltag.com
-0.0.0.0 ceros.com
 0.0.0.0 cetrk.com
 0.0.0.0 cformanalytics.com
 0.0.0.0 cftrack.com
@@ -765,6 +764,7 @@
 0.0.0.0 enectoanalytics.com
 0.0.0.0 engageclick.com
 0.0.0.0 engagemaster.com
+0.0.0.0 engagetosell.com
 0.0.0.0 engagio.com
 0.0.0.0 engine212.com
 0.0.0.0 engine64.com
