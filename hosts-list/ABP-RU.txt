@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Thu, 14 Nov 2019 13:54:28 +0800
+# Last converted - Mon, 25 Nov 2019 00:54:52 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1091,7 +1091,6 @@
 0.0.0.0 base.kiwi.kz
 0.0.0.0 bashnya.ru
 0.0.0.0 basketfan.my1.ru
-0.0.0.0 bazzaro.ru
 0.0.0.0 bb.stream24.ru
 0.0.0.0 bbn.by
 0.0.0.0 bbn.img.com.ua
@@ -1112,6 +1111,7 @@
 0.0.0.0 bit.ly
 0.0.0.0 bither.one
 0.0.0.0 bizua.com
+0.0.0.0 blandernova.com
 0.0.0.0 blocklistme.ru
 0.0.0.0 blogun.ru
 0.0.0.0 bloha.net
@@ -1172,6 +1172,7 @@
 0.0.0.0 cositonetal.ru
 0.0.0.0 cpmsolution.ru
 0.0.0.0 cqc.ru
+0.0.0.0 craptoke.com
 0.0.0.0 creara-media.ru
 0.0.0.0 crroptown.com
 0.0.0.0 crutop.nu
@@ -1219,6 +1220,7 @@
 0.0.0.0 exchange.informer.ua
 0.0.0.0 exo.kiev.ua
 0.0.0.0 expert-sib.ru
+0.0.0.0 ext.week.news
 0.0.0.0 exteriormedia.ru
 0.0.0.0 extstat.info
 0.0.0.0 extstat.ru
@@ -1367,6 +1369,7 @@
 0.0.0.0 lenty.ru
 0.0.0.0 letitbit-porno.com
 0.0.0.0 letitsoft.com
+0.0.0.0 lexlivinow.com
 0.0.0.0 lexprofit.net
 0.0.0.0 lexprofit.ru
 0.0.0.0 lexprofit.su
@@ -1542,6 +1545,7 @@
 0.0.0.0 piranida.com
 0.0.0.0 piranious.com
 0.0.0.0 pirantic.com
+0.0.0.0 pirantika.com
 0.0.0.0 pirastic.com
 0.0.0.0 piratman.com
 0.0.0.0 pirojok.net
@@ -1577,6 +1581,7 @@
 0.0.0.0 promoloader.com
 0.0.0.0 pronpic.org
 0.0.0.0 prospero.ru
+0.0.0.0 prospertinum.com
 0.0.0.0 prosto.cn.ua
 0.0.0.0 puls.lv
 0.0.0.0 push-money.ru
@@ -1848,6 +1853,7 @@
 0.0.0.0 webex.ru
 0.0.0.0 webocat.ru
 0.0.0.0 webproficlub.ru
+0.0.0.0 wertendium.com
 0.0.0.0 wewonurgold.ws
 0.0.0.0 whitepush.biz
 0.0.0.0 widget.cpa.legalaxy.com
@@ -1937,6 +1943,7 @@
 0.0.0.0 11torrent.ru
 0.0.0.0 11wishes.com
 0.0.0.0 123retr312.ru
+0.0.0.0 125p3ns43.biz.ua
 0.0.0.0 12cpm.com
 0.0.0.0 12ffa915d500a.com
 0.0.0.0 164e1ca9ba.com
@@ -2269,6 +2276,7 @@
 0.0.0.0 ad0cd341bd09c.com
 0.0.0.0 ad1.ru
 0.0.0.0 ad1game.ru
+0.0.0.0 ad1px.com
 0.0.0.0 ad4sell.com
 0.0.0.0 adbean.ru
 0.0.0.0 adbid.biz
@@ -2435,6 +2443,7 @@
 0.0.0.0 afterview.ru
 0.0.0.0 afuiw.com
 0.0.0.0 afvcugqaulh.co
+0.0.0.0 agarlic.ru
 0.0.0.0 agitazio.com
 0.0.0.0 agrohod.ru
 0.0.0.0 agtetoz.ru
@@ -2478,6 +2487,7 @@
 0.0.0.0 alfasoft.date
 0.0.0.0 algenib.ru
 0.0.0.0 ali-bestshop.ru
+0.0.0.0 aliadvert.ru
 0.0.0.0 alibestru.ru
 0.0.0.0 alidtd.com
 0.0.0.0 aliexpress-internet.ru
@@ -3405,6 +3415,7 @@
 0.0.0.0 diradvert.ru
 0.0.0.0 dircont3.com
 0.0.0.0 direct-advert.org
+0.0.0.0 direct3advert.ru
 0.0.0.0 directadvrt.ru
 0.0.0.0 directerp.ru
 0.0.0.0 directlnk.org
@@ -3555,6 +3566,7 @@
 0.0.0.0 edkaduy.ru
 0.0.0.0 edonat.com
 0.0.0.0 edugram.com
+0.0.0.0 edugrampromo.com
 0.0.0.0 edyazyk.ru
 0.0.0.0 ee2020419e64bd.com
 0.0.0.0 ee6f66b1756201eb1f50.date
@@ -4389,6 +4401,7 @@
 0.0.0.0 ivantat.com
 0.0.0.0 ivsiveg.ru
 0.0.0.0 ivwolo.ru
+0.0.0.0 iwanttobe.pro
 0.0.0.0 iwantyourpromo.com
 0.0.0.0 iwhha.top
 0.0.0.0 ixlok.com
@@ -5363,6 +5376,7 @@
 0.0.0.0 newisnews.info
 0.0.0.0 newlixica.com
 0.0.0.0 newlostrek.ru
+0.0.0.0 newmedia.live
 0.0.0.0 newmonetrate.ru
 0.0.0.0 newrrb.bid
 0.0.0.0 news-announce.org
@@ -5479,6 +5493,7 @@
 0.0.0.0 nyrevi.ru
 0.0.0.0 nysani.ru
 0.0.0.0 nyyed.com
+0.0.0.0 nzt-news.club
 0.0.0.0 nztrt.top
 0.0.0.0 oaaty.space
 0.0.0.0 ob-livki.com
@@ -5684,6 +5699,7 @@
 0.0.0.0 parthenophobia.me
 0.0.0.0 parthetwo.ru
 0.0.0.0 partner-earning.com
+0.0.0.0 partnercoll.github.io
 0.0.0.0 partnerearn.net
 0.0.0.0 partnerna5.ru
 0.0.0.0 parusdon.ru
@@ -6165,6 +6181,7 @@
 0.0.0.0 rove.cl
 0.0.0.0 rowketly.com
 0.0.0.0 rozaura.ru
+0.0.0.0 rozetka.cloud
 0.0.0.0 rp-srw.net
 0.0.0.0 rpqjo.top
 0.0.0.0 rpsehc.ru
@@ -6524,6 +6541,7 @@
 0.0.0.0 stat-well.com
 0.0.0.0 statchecker.yandex.ru
 0.0.0.0 statdynamic.com
+0.0.0.0 static-pp.ru
 0.0.0.0 static.prototypes.ru
 0.0.0.0 static.wi-fi.ru
 0.0.0.0 staticsfs.host
@@ -6581,7 +6599,6 @@
 0.0.0.0 sv-pr.ru
 0.0.0.0 svegt.com
 0.0.0.0 svitnews.com
-0.0.0.0 svk-native.ru
 0.0.0.0 svk100hp.ru
 0.0.0.0 svotu.top
 0.0.0.0 svysoru.ru
@@ -7015,6 +7032,7 @@
 0.0.0.0 ukamer.ru
 0.0.0.0 ukrotsel.ru
 0.0.0.0 ulaen.com
+0.0.0.0 ulclick.ru
 0.0.0.0 uldmare.com
 0.0.0.0 ulenr.top
 0.0.0.0 ultrapay.net
@@ -7069,6 +7087,7 @@
 0.0.0.0 utilient.com
 0.0.0.0 utilieur.com
 0.0.0.0 utilmasters.com
+0.0.0.0 utl-utils.ru
 0.0.0.0 utraff.com
 0.0.0.0 uua5jr2z1vq0.ru
 0.0.0.0 uuaoy.com
@@ -7421,6 +7440,7 @@
 0.0.0.0 wsvay.com
 0.0.0.0 wtoredir.com
 0.0.0.0 wts-rotator.com
+0.0.0.0 wtzgaa.com
 0.0.0.0 wucm.ru
 0.0.0.0 wuvxr.top
 0.0.0.0 wvghl.com
@@ -7515,6 +7535,7 @@
 0.0.0.0 y0gasoil.fyi
 0.0.0.0 y7nrz6vobc.tech
 0.0.0.0 y93u1vln04t5n1.ru
+0.0.0.0 ya-storage.ru
 0.0.0.0 yafeland.ru
 0.0.0.0 yafeling.ru
 0.0.0.0 yakhudobo.ru
