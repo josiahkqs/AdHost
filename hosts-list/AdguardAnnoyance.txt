@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Tue, 12 Nov 2019 12:09:10 +0800
+# Last converted - Mon, 25 Nov 2019 00:54:53 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -10,9 +10,11 @@
 0.0.0.0 ipepostman.com
 0.0.0.0 wb.whatsbroadcast.com
 0.0.0.0 lindenhurstsneads.doyondeville.com
+0.0.0.0 willseyvillefingerville.polaccafaison.com
 0.0.0.0 sortsummer.com
 0.0.0.0 puffypull.com
 0.0.0.0 copperchickens.com
+0.0.0.0 tracker.convead.io
 0.0.0.0 oil.axelspringer.com
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 cookielaw.org
@@ -77,11 +79,15 @@
 0.0.0.0 malerex.ru
 0.0.0.0 pushiki.ru
 0.0.0.0 push-money.ru
+0.0.0.0 moengage.com
 0.0.0.0 karuna4u.com
 0.0.0.0 pushofferpro.com
 0.0.0.0 leechiza.net
 0.0.0.0 pushtora.com
+0.0.0.0 news2day.me
+0.0.0.0 prospertinum.com
 0.0.0.0 mibknb.com
+0.0.0.0 currepush.com
 0.0.0.0 partishion.com
 0.0.0.0 ucfeed.ru
 0.0.0.0 kattepush.com
@@ -123,7 +129,6 @@
 0.0.0.0 arianelab.com
 0.0.0.0 psh.one
 0.0.0.0 pushout.ru
-0.0.0.0 sdk.push7.jp
 0.0.0.0 pushpushgo.com
 0.0.0.0 cdn.carrotquest.io
 0.0.0.0 notification-time.com
@@ -196,6 +201,7 @@
 0.0.0.0 dl.metabar.ru
 0.0.0.0 plista.com
 0.0.0.0 widgets.digitalmediacommunications.com
+0.0.0.0 widget.webica.pro
 0.0.0.0 getbutton.io
 0.0.0.0 feedback.luxnet.ua
 0.0.0.0 webim.ru
@@ -275,6 +281,7 @@
 0.0.0.0 actionbutton.co
 0.0.0.0 holyclock.com
 0.0.0.0 shomershabes.co.il
+0.0.0.0 shomershabes.com
 0.0.0.0 sumo.com
 0.0.0.0 widgets.sprinkletxt.com
 0.0.0.0 carambo.la
