@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Thu, 14 Nov 2019 13:54:30 +0800
+# Last converted - Mon, 25 Nov 2019 00:54:55 +0800
 #
 
 0.0.0.0 0emm.com
@@ -952,6 +952,7 @@
 0.0.0.0 geoedge.be
 0.0.0.0 geoip-db.com
 0.0.0.0 geojs.io
+0.0.0.0 geolid.com
 0.0.0.0 geoplugin.net
 0.0.0.0 georiot.com
 0.0.0.0 getbackstory.com
@@ -966,6 +967,7 @@
 0.0.0.0 getsmartlook.com
 0.0.0.0 getstatistics.se
 0.0.0.0 gez.io
+0.0.0.0 gglscr.online
 0.0.0.0 giddyuptrk.com
 0.0.0.0 gigcount.com
 0.0.0.0 gim.co.il
@@ -1309,6 +1311,7 @@
 0.0.0.0 lockview.cn
 0.0.0.0 locotrack.net
 0.0.0.0 logaholic.com
+0.0.0.0 logbor.com
 0.0.0.0 logcounter.com
 0.0.0.0 logdy.com
 0.0.0.0 logentries.com
@@ -1752,6 +1755,9 @@
 0.0.0.0 pureairhits.com
 0.0.0.0 purevideo.com
 0.0.0.0 putags.com
+0.0.0.0 px-cdn.net
+0.0.0.0 px-cloud.net
+0.0.0.0 pxchk.net
 0.0.0.0 pxf.io
 0.0.0.0 pxi.pub
 0.0.0.0 pymx5.com
@@ -3253,6 +3259,7 @@
 0.0.0.0 absurdapple.com
 0.0.0.0 acridtwist.com
 0.0.0.0 aheadday.com
+0.0.0.0 alleyarm.com
 0.0.0.0 allowmailbox.com
 0.0.0.0 anxiousapples.com
 0.0.0.0 automaticside.com
@@ -3265,6 +3272,7 @@
 0.0.0.0 burnbubble.com
 0.0.0.0 butterbulb.com
 0.0.0.0 butterburst.com
+0.0.0.0 calculatorstatement.com
 0.0.0.0 cannontwin.com
 0.0.0.0 capsquirrel.com
 0.0.0.0 caringzinc.com
@@ -3699,6 +3707,7 @@
 0.0.0.0 abcompteur.com
 0.0.0.0 ad4m.at
 0.0.0.0 admo.tv
+0.0.0.0 adsixmedia.fr
 0.0.0.0 adthletic.com
 0.0.0.0 affilizr.com
 0.0.0.0 air360tracker.net
@@ -4639,6 +4648,8 @@
 0.0.0.0 d1clufhfw8sswh.cloudfront.net
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
 0.0.0.0 d1gp8joe0evc8s.cloudfront.net
+0.0.0.0 d1hi41nc56pmug.cloudfront.net
+0.0.0.0 d1iazwv1n1tsyi.cloudfront.net
 0.0.0.0 d1ksyxj9xozc2j.cloudfront.net
 0.0.0.0 d1lm7kd3bd3yo9.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
@@ -4669,6 +4680,7 @@
 0.0.0.0 d2gfdmu30u15x7.cloudfront.net
 0.0.0.0 d2gfi8ctn6kki7.cloudfront.net
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
+0.0.0.0 d2kdl5wcwrtj90.cloudfront.net
 0.0.0.0 d2kmrmwhq7wkvs.cloudfront.net
 0.0.0.0 d2kyy9hvbrzkgn.cloudfront.net
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
@@ -4813,7 +4825,6 @@
 0.0.0.0 fog.pixual.co
 0.0.0.0 fourmtagservices.appspot.com
 0.0.0.0 friends.totallynsfw.com
-0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 future-fie-assets.co.uk
 0.0.0.0 future-price.co.uk
 0.0.0.0 g.delivery.net
@@ -5340,6 +5351,7 @@
 0.0.0.0 track.td3x.com
 0.0.0.0 track.uc.cn
 0.0.0.0 track.untd.com
+0.0.0.0 track.vdo.ai
 0.0.0.0 track.vscash.com
 0.0.0.0 track.wayin.com
 0.0.0.0 track.written.com
@@ -5627,7 +5639,6 @@
 0.0.0.0 cdn-analytics.ladmedia.fr
 0.0.0.0 compteur.websiteout.net
 0.0.0.0 e.funnymel.com
-0.0.0.0 ea.warnerbros.fr
 0.0.0.0 email-reflex.com
 0.0.0.0 events.sk.ht
 0.0.0.0 lepoint-stat.sdv.fr
@@ -6178,6 +6189,7 @@
 0.0.0.0 edw.edmunds.com
 0.0.0.0 ekg.riotgames.com
 0.0.0.0 emarketing.rmauctions.com
+0.0.0.0 engagefront.theweathernetwork.com
 0.0.0.0 enlightenment.secureshoppingbasket.com
 0.0.0.0 entry-stats.huffingtonpost.com
 0.0.0.0 es.puritan.com
@@ -6202,8 +6214,10 @@
 0.0.0.0 evisit.exeter.ac.uk
 0.0.0.0 expbl2ro.xbox.com
 0.0.0.0 expdb2.msn.com
+0.0.0.0 extra.tvmaze.com
 0.0.0.0 f.staticlp.com
 0.0.0.0 fast.forbes.com
+0.0.0.0 fathom.hakibenita.com
 0.0.0.0 felitb.rightinthebox.com
 0.0.0.0 fresh.techdirt.com
 0.0.0.0 frog.wix.com
@@ -6216,6 +6230,7 @@
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
+0.0.0.0 ganon.yahoo.com
 0.0.0.0 gateway.reddit.com
 0.0.0.0 gc.newsweek.com
 0.0.0.0 gcpdata.telegraph.co.uk
@@ -6348,6 +6363,7 @@
 0.0.0.0 mms.cnn.com
 0.0.0.0 mms.coachmag.co.uk
 0.0.0.0 mms.deadspin.com
+0.0.0.0 mms.expertreviews.co.uk
 0.0.0.0 mms.gizmodo.com
 0.0.0.0 mms.gulflive.com
 0.0.0.0 mms.jalopnik.com
@@ -6374,6 +6390,7 @@
 0.0.0.0 net.haier.com
 0.0.0.0 nm.newegg.com
 0.0.0.0 nmtracking.netflix.com
+0.0.0.0 nozem.tvmaze.com
 0.0.0.0 odin.mic.com
 0.0.0.0 oimg.m.cnbc.com
 0.0.0.0 oimg.mobile.cnbc.com
@@ -6795,7 +6812,6 @@
 0.0.0.0 tracking.hsn.com
 0.0.0.0 tracking.koego.com
 0.0.0.0 tracking.military.com
-0.0.0.0 tracking.moneyam.com
 0.0.0.0 tracking.mycapture.com
 0.0.0.0 tracking.nextdoor.com
 0.0.0.0 tracking.olx-st.com
@@ -6877,6 +6893,63 @@
 0.0.0.0 wzus1.thesaurus.com
 0.0.0.0 ynuf.alibaba.com
 0.0.0.0 zap.dw-world.de
+0.0.0.0 zeus.slader.com
+0.0.0.0 6pal.consobaby.com
+0.0.0.0 cse3.chausport.com
+0.0.0.0 dt.nrjmobile.fr
+0.0.0.0 ea.auchantelecom.fr
+0.0.0.0 ea.aujourdhui.com
+0.0.0.0 ea.deguisetoi.fr
+0.0.0.0 ea.fleurancenature.fr
+0.0.0.0 ea.greenweez.com
+0.0.0.0 ea.habitat.fr
+0.0.0.0 ea.histoiredor.com
+0.0.0.0 ea.hofmann.pt
+0.0.0.0 ea.homair.com
+0.0.0.0 ea.lafrancedunordausud.fr
+0.0.0.0 ea.melijoe.com
+0.0.0.0 ea.millet-mountain.com
+0.0.0.0 ea.millet.fr
+0.0.0.0 ea.natiloo.com
+0.0.0.0 ea.rentacar.fr
+0.0.0.0 ea.venta-unica.com
+0.0.0.0 ea.vente-unique.ch
+0.0.0.0 ea.vente-unique.com
+0.0.0.0 ea.warnerbros.fr
+0.0.0.0 ef.futuroscope.com
+0.0.0.0 et.unclejeans.com
+0.0.0.0 eulerian.brandalley.fr
+0.0.0.0 eulerian.mathon.fr
+0.0.0.0 f7ds.liberation.fr
+0.0.0.0 fsz1.francoisesaget.com
+0.0.0.0 gdm1.toner.fr
+0.0.0.0 guq9.vente-unique.it
+0.0.0.0 mo.moonpig.com
+0.0.0.0 mva1.maeva.com
+0.0.0.0 ncx2.voyage-prive.it
+0.0.0.0 oal2.destinia.co.uk
+0.0.0.0 ojm4.palladiumhotelgroup.com
+0.0.0.0 pbox.photobox.de
+0.0.0.0 pgt1.voyage-prive.es
+0.0.0.0 po.ponant.com
+0.0.0.0 ski1.skiset.com
+0.0.0.0 sls2.loisirsencheres.com
+0.0.0.0 tdf1.admyjob.com
+0.0.0.0 tpa7.iahorro.com
+0.0.0.0 tsj0.madeindesign.com
+0.0.0.0 uue2.destinia.ir
+0.0.0.0 vbe.voyage-prive.be
+0.0.0.0 vch.voyage-prive.ch
+0.0.0.0 vde1.voyage-prive.de
+0.0.0.0 vfo.voyage-prive.co.uk
+0.0.0.0 vgo.vegaoo.de
+0.0.0.0 vgo.vegaoo.es
+0.0.0.0 vgo.vegaoo.nl
+0.0.0.0 vgo.vegaooparty.com
+0.0.0.0 vry9.destinia.com
+0.0.0.0 we.wecanimal.pt
+0.0.0.0 xy33.smallable.com
+0.0.0.0 yoc.younited-credit.com
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 piti.bplaced.net
@@ -7000,6 +7073,7 @@
 0.0.0.0 act.acotedemoi.com
 0.0.0.0 analytics.allovoisins.com
 0.0.0.0 analytics.rtbf.be
+0.0.0.0 buf.lemonde.fr
 0.0.0.0 c0011.boursorama.com
 0.0.0.0 cfcn.allocine.net
 0.0.0.0 compteur.developpez.com
