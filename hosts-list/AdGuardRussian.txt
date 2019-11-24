@@ -1,9 +1,19 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Thu, 14 Nov 2019 13:54:28 +0800
+# Last converted - Mon, 25 Nov 2019 00:54:53 +0800
 #
 
+0.0.0.0 ybcrwm.com
+0.0.0.0 edugrampromo.com
+0.0.0.0 c5dls1in4l1e.ru
+0.0.0.0 lovad.pro
+0.0.0.0 baaeobgdaxdvsa.com
+0.0.0.0 luuming.com
+0.0.0.0 dejionsite.pro
+0.0.0.0 aliadvert.ru
+0.0.0.0 tpjsqt.com
+0.0.0.0 bveyge.com
 0.0.0.0 fuojuw.com
 0.0.0.0 sphjtw.ru
 0.0.0.0 qmsdxo.ru
@@ -3604,6 +3614,8 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 unisound.cdnvideo.ru
+0.0.0.0 pp.muzofon-online.com
 0.0.0.0 ban.zab.ru
 0.0.0.0 m1.extrutor.org
 0.0.0.0 test.besstidniki.ru
