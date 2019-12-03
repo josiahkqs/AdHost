@@ -129,6 +129,7 @@
 0.0.0.0 sterlingprice.us
 0.0.0.0 exclusivefaile.com
 0.0.0.0 trck.bebi.com
+0.0.0.0 c.bebi.com
 0.0.0.0 adservice.google.com.sg
 0.0.0.0 gamingadult.biz
 0.0.0.0 track.adtrue.com
@@ -330,6 +331,7 @@
 0.0.0.0 imasdk.googleapis.com # Possible Ads
 0.0.0.0 ssp-nj.webtradehub.com # Possible Ads
 0.0.0.0 s-img.steepto.com # Ads
+0.0.0.0 mg.steepto.com # Ads
 0.0.0.0 www.steepto.com # Ads
 0.0.0.0 cdn.steepto.com # Ads
 0.0.0.0 adqy6rzwcs.com # Ads
@@ -351,3 +353,4 @@
 0.0.0.0 you-have-1-message-about-your-device.mujohiy.com # Spam
 0.0.0.0 www.36mh.com # Spam
 0.0.0.0 api.novalymedia.com # Phishing
+0.0.0.0 redir.bebi.com # Ads
