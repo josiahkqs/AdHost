@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 25 Nov 2019 00:54:55 +0800
+# Last converted - Tue, 03 Dec 2019 08:16:40 +0800
 #
 
 0.0.0.0 0emm.com
@@ -252,6 +252,7 @@
 0.0.0.0 arrowpushengine.com
 0.0.0.0 arsdev.net
 0.0.0.0 artefact.is
+0.0.0.0 artfut.com
 0.0.0.0 arturtrack.com
 0.0.0.0 ascend.ai
 0.0.0.0 assoctrac.com
@@ -658,6 +659,7 @@
 0.0.0.0 declaredthoughtfulness.co
 0.0.0.0 deep.bi
 0.0.0.0 deepattention.com
+0.0.0.0 deepchannel.com
 0.0.0.0 dejavu.mlapps.com
 0.0.0.0 demandbase.com
 0.0.0.0 demdex.net
@@ -1061,6 +1063,7 @@
 0.0.0.0 hlserve.com
 0.0.0.0 hmstats.com
 0.0.0.0 homechader.com
+0.0.0.0 hoood.info
 0.0.0.0 hopurl.org
 0.0.0.0 hospitality-optimizer.com
 0.0.0.0 host-tracker.com
@@ -1244,6 +1247,7 @@
 0.0.0.0 klert.com
 0.0.0.0 klldabck.com
 0.0.0.0 km-sea.net
+0.0.0.0 kmtx.io
 0.0.0.0 knowlead.io
 0.0.0.0 knowledgevine.net
 0.0.0.0 koddi.com
@@ -1417,6 +1421,7 @@
 0.0.0.0 mieru-ca.com
 0.0.0.0 millioncounter.com
 0.0.0.0 minewhat.com
+0.0.0.0 mixi.mn
 0.0.0.0 mixpanel.com
 0.0.0.0 mkt3261.com
 0.0.0.0 mkt51.net
@@ -1850,6 +1855,7 @@
 0.0.0.0 revenuepilot.com
 0.0.0.0 revenuescience.com
 0.0.0.0 revenuewire.net
+0.0.0.0 revjet.com
 0.0.0.0 revolvermaps.com
 0.0.0.0 revsw.net
 0.0.0.0 rewardtv.com
@@ -2015,6 +2021,7 @@
 0.0.0.0 sitereport.org
 0.0.0.0 sitestat.com
 0.0.0.0 sitestats.live
+0.0.0.0 siteswithcontent.com
 0.0.0.0 sitetag.us
 0.0.0.0 sitetagger.co.uk
 0.0.0.0 sitetracker.com
@@ -3728,6 +3735,7 @@
 0.0.0.0 compteur.org
 0.0.0.0 count.fr
 0.0.0.0 countus.fr
+0.0.0.0 datado.me
 0.0.0.0 datadome.co
 0.0.0.0 deliv.lexpress.fr
 0.0.0.0 do09.net
@@ -3775,6 +3783,7 @@
 0.0.0.0 webcompteur.com
 0.0.0.0 wysistat.com
 0.0.0.0 x-traceur.com
+0.0.0.0 ywywjrlbsuv.com
 0.0.0.0 circle.am
 0.0.0.0 call-tracking.by
 0.0.0.0 trafit.com
@@ -4612,6 +4621,7 @@
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.freewebs.com
 0.0.0.0 counters.gigya.com
+0.0.0.0 country.yepshare.com
 0.0.0.0 cr.loszona.com
 0.0.0.0 creator.zmags.com
 0.0.0.0 crta.dailymail.co.uk
@@ -4635,6 +4645,7 @@
 0.0.0.0 cx.atdmt.com
 0.0.0.0 d.rcmd.jp
 0.0.0.0 d.shareaholic.com
+0.0.0.0 d10gj7yjsfriaj.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d11a2fzhgzqe7i.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
@@ -5207,7 +5218,6 @@
 0.0.0.0 stats.netbopdev.co.uk
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.ombx.io
-0.0.0.0 stats.openload.co
 0.0.0.0 stats.ozwebsites.biz
 0.0.0.0 stats.polldaddy.com
 0.0.0.0 stats.qmerce.com
@@ -5422,6 +5432,7 @@
 0.0.0.0 tracking.quillion.com
 0.0.0.0 tracking.quisma.com
 0.0.0.0 tracking.rapidape.com
+0.0.0.0 tracking.rightmessage.com
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 tracking.sembox.it
 0.0.0.0 tracking.skyword.com
@@ -5446,7 +5457,6 @@
 0.0.0.0 traffic.prod.cobaltgroup.com
 0.0.0.0 traffic.shareaholic.com
 0.0.0.0 trafficfuelpixel.s3-us-west-2.amazonaws.com
-0.0.0.0 trafficmanager.anyclip.com
 0.0.0.0 trakksocial.googlecode.com
 0.0.0.0 trax.dirxion.com
 0.0.0.0 trc.pushnami.com
@@ -5628,6 +5638,7 @@
 0.0.0.0 analytics.traidnt.net
 0.0.0.0 179.43.173.134
 0.0.0.0 abs.proxistore.com
+0.0.0.0 ac.acadomia.fr
 0.0.0.0 affiliation.planethoster.info
 0.0.0.0 analytics.freespee.com
 0.0.0.0 analytics.grupogodo.com
@@ -5822,6 +5833,8 @@
 0.0.0.0 x9.shinobi.jp
 0.0.0.0 log.cizion.com
 0.0.0.0 log2.adop.cc
+0.0.0.0 mtag.mman.kr
+0.0.0.0 performanceplay.co.kr
 0.0.0.0 teralog.techhub.co.kr
 0.0.0.0 tracking.adweb.co.kr
 0.0.0.0 counter.hackers.lv
@@ -6196,7 +6209,7 @@
 0.0.0.0 et.nytimes.com
 0.0.0.0 etui.fs.ml.com
 0.0.0.0 eu.groupondata.com
-0.0.0.0 eulerian.sarenza.com
+0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 ev.kck.st
 0.0.0.0 event-collector.udsrv.com
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
@@ -6319,7 +6332,6 @@
 0.0.0.0 log.wat.tv
 0.0.0.0 log.webnovel.com
 0.0.0.0 log1.24liveplus.com
-0.0.0.0 logdev.openload.co
 0.0.0.0 logg.kiwi.com
 0.0.0.0 logger.dailymotion.com
 0.0.0.0 logger.nerdwallet.com
@@ -6337,6 +6349,7 @@
 0.0.0.0 marketing.kalahari.net
 0.0.0.0 marketing.nodesource.com
 0.0.0.0 mcdp-sadc1.outbrain.com
+0.0.0.0 mdn.neowin.net
 0.0.0.0 merlin.abc.go.com
 0.0.0.0 metric-agent.i10c.net
 0.0.0.0 metric.gstatic.com
@@ -6842,6 +6855,7 @@
 0.0.0.0 trowel.twitch.tv
 0.0.0.0 trueffect.underarmour.com
 0.0.0.0 trx.smdatalabs.com
+0.0.0.0 ttauri.laptopmag.com
 0.0.0.0 ttauri.tomsguide.com
 0.0.0.0 ttauri.tomshardware.com
 0.0.0.0 tw.i.hulu.com
@@ -6895,10 +6909,14 @@
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zeus.slader.com
 0.0.0.0 6pal.consobaby.com
+0.0.0.0 ch0p.darty.com
 0.0.0.0 cse3.chausport.com
 0.0.0.0 dt.nrjmobile.fr
 0.0.0.0 ea.auchantelecom.fr
 0.0.0.0 ea.aujourdhui.com
+0.0.0.0 ea.celio.com
+0.0.0.0 ea.ciblo.net
+0.0.0.0 ea.clubic.com
 0.0.0.0 ea.deguisetoi.fr
 0.0.0.0 ea.fleurancenature.fr
 0.0.0.0 ea.greenweez.com
@@ -6906,13 +6924,18 @@
 0.0.0.0 ea.histoiredor.com
 0.0.0.0 ea.hofmann.pt
 0.0.0.0 ea.homair.com
+0.0.0.0 ea.jeuxvideopc.com
 0.0.0.0 ea.lafrancedunordausud.fr
+0.0.0.0 ea.lexpress.fr
 0.0.0.0 ea.melijoe.com
 0.0.0.0 ea.millet-mountain.com
 0.0.0.0 ea.millet.fr
+0.0.0.0 ea.monsieurmanuel.com
 0.0.0.0 ea.natiloo.com
 0.0.0.0 ea.rentacar.fr
+0.0.0.0 ea.rueducommerce.fr
 0.0.0.0 ea.venta-unica.com
+0.0.0.0 ea.vente-unique.be
 0.0.0.0 ea.vente-unique.ch
 0.0.0.0 ea.vente-unique.com
 0.0.0.0 ea.warnerbros.fr
@@ -6920,6 +6943,9 @@
 0.0.0.0 et.unclejeans.com
 0.0.0.0 eulerian.brandalley.fr
 0.0.0.0 eulerian.mathon.fr
+0.0.0.0 eulerian.sarenza.com
+0.0.0.0 eulerian.splendia.com
+0.0.0.0 eultech.fnac.com
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 fsz1.francoisesaget.com
 0.0.0.0 gdm1.toner.fr
@@ -6927,6 +6953,8 @@
 0.0.0.0 mo.moonpig.com
 0.0.0.0 mva1.maeva.com
 0.0.0.0 ncx2.voyage-prive.it
+0.0.0.0 netc.sfr.fr
+0.0.0.0 noa0.compteczam.fr
 0.0.0.0 oal2.destinia.co.uk
 0.0.0.0 ojm4.palladiumhotelgroup.com
 0.0.0.0 pbox.photobox.de
@@ -7082,12 +7110,6 @@
 0.0.0.0 dm.journaldesfemmes.com
 0.0.0.0 dm.journaldunet.com
 0.0.0.0 dm.linternaute.com
-0.0.0.0 ea.celio.com
-0.0.0.0 ea.clubic.com
-0.0.0.0 ea.jeuxvideopc.com
-0.0.0.0 ea.lexpress.fr
-0.0.0.0 ea.monsieurmanuel.com
-0.0.0.0 ea.rueducommerce.fr
 0.0.0.0 elr.sfr.fr
 0.0.0.0 eultech.fnac.com
 0.0.0.0 g.itespresso.fr
@@ -7151,6 +7173,7 @@
 0.0.0.0 dwtracking.sdo.com
 0.0.0.0 eclick.baidu.com
 0.0.0.0 hk.ndx.nextmedia.com
+0.0.0.0 imgstat.baidu.com
 0.0.0.0 imp.appledaily.com
 0.0.0.0 jcm.jd.com
 0.0.0.0 log.51cto.com
@@ -7285,8 +7308,11 @@
 0.0.0.0 log.sv.pandora.tv
 0.0.0.0 nil.naver.com
 0.0.0.0 pb.m.naver.com
+0.0.0.0 prism.pandora.tv
 0.0.0.0 sp.naver.com
+0.0.0.0 stat.tiara.kakao.com
 0.0.0.0 track.tiara.daum.net
+0.0.0.0 track.tiara.kakao.com
 0.0.0.0 tracker.cauly.co.kr
 0.0.0.0 veta.naver.com
 0.0.0.0 wcs.naver.com
