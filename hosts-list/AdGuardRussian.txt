@@ -1,9 +1,24 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Mon, 25 Nov 2019 00:54:53 +0800
+# Last converted - Tue, 03 Dec 2019 08:16:38 +0800
 #
 
+0.0.0.0 bigunok.club
+0.0.0.0 bjrfnps4efhldfj.ru
+0.0.0.0 truenat.bid
+0.0.0.0 ezpush.me
+0.0.0.0 ezvbegy1wtxv.ru
+0.0.0.0 jvljpv.com
+0.0.0.0 parandeya.com
+0.0.0.0 mirnauk.ru
+0.0.0.0 aafdcq.com
+0.0.0.0 2tdsprofit.in
+0.0.0.0 idhvbfj.pro
+0.0.0.0 vai1hqegr2ou.ru
+0.0.0.0 pkqeg5z3xffs.info
+0.0.0.0 ifhei9zzyu2r.ru
+0.0.0.0 i6h1x9ss5wtv.ru
 0.0.0.0 ybcrwm.com
 0.0.0.0 edugrampromo.com
 0.0.0.0 c5dls1in4l1e.ru
@@ -1238,8 +1253,10 @@
 0.0.0.0 evovasalup.com
 0.0.0.0 evsembu.com
 0.0.0.0 ewtofu.ru
+0.0.0.0 ex6.ru
 0.0.0.0 exaccess.ru
 0.0.0.0 excalatom.com
+0.0.0.0 exchange.newsnet.in.ua
 0.0.0.0 exchangenews.ru
 0.0.0.0 excluzive.net
 0.0.0.0 exdynsrv.com
@@ -3739,6 +3756,7 @@
 0.0.0.0 ukrsvit.ukrmir.info
 0.0.0.0 vozer.voffka.com
 0.0.0.0 vw.onlinia.net
+0.0.0.0 stat-analytics.mediavitrina.ru
 0.0.0.0 ritzysponge.com
 0.0.0.0 dondlo.
 0.0.0.0 readto.ru
