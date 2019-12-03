@@ -1,9 +1,11 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Mon, 25 Nov 2019 00:54:53 +0800
+# Last converted - Tue, 03 Dec 2019 08:16:38 +0800
 #
 
+0.0.0.0 audsp.com
+0.0.0.0 mparticle.com
 0.0.0.0 stat.analytiall.com
 0.0.0.0 zeotap.com
 0.0.0.0 engagetosell.com
@@ -1079,7 +1081,6 @@
 0.0.0.0 etrigue.com
 0.0.0.0 etyper.com
 0.0.0.0 eu-survey.com
-0.0.0.0 eulerian.net
 0.0.0.0 euleriancdn.net
 0.0.0.0 eum-appdynamics.com
 0.0.0.0 euro-pr.eu
@@ -1531,7 +1532,6 @@
 0.0.0.0 kampyle.com
 0.0.0.0 kavijaseuranta.fi
 0.0.0.0 kerebro.com
-0.0.0.0 keyade.com
 0.0.0.0 keymetric.net
 0.0.0.0 keytrack.de
 0.0.0.0 keywee.co
@@ -1901,7 +1901,6 @@
 0.0.0.0 omguk.com
 0.0.0.0 omkt.co
 0.0.0.0 omnitagjs.com
-0.0.0.0 omtrdc.net
 0.0.0.0 on-line.lv
 0.0.0.0 onefeed.co.uk
 0.0.0.0 onelink-translations.com
@@ -2522,7 +2521,6 @@
 0.0.0.0 t4ft.de
 0.0.0.0 taboola.com
 0.0.0.0 tag4arm.com
-0.0.0.0 tagcommander.com
 0.0.0.0 tagifydiageo.com
 0.0.0.0 tagsrvcs.com
 0.0.0.0 tagtray.com
@@ -2933,7 +2931,6 @@
 0.0.0.0 xcounter.ch
 0.0.0.0 xg4ken.com
 0.0.0.0 xhit.com
-0.0.0.0 xiti.com
 0.0.0.0 xl-counti.com
 0.0.0.0 xpanama.net
 0.0.0.0 xplosion.de
@@ -3196,6 +3193,21 @@
 0.0.0.0 r.popin.cc
 0.0.0.0 inrecsys.popin.cc
 0.0.0.0 jp-axia.m0mentum.net
+0.0.0.0 keyade.net
+0.0.0.0 keyade.com
+0.0.0.0 storetail.io
+0.0.0.0 dnsdelegation.io
+0.0.0.0 at-o.net
+0.0.0.0 atinternet.com
+0.0.0.0 xiti.com
+0.0.0.0 eulerian.net
+0.0.0.0 eulerian.com
+0.0.0.0 2o7.net
+0.0.0.0 omtrdc.net
+0.0.0.0 tagcommander.com
+0.0.0.0 commandersact.com
+0.0.0.0 wizaly.com
+0.0.0.0 affex.org
 0.0.0.0 t.sidekickopen
 0.0.0.0 t.sigopn
 0.0.0.0 t.senal
@@ -3224,6 +3236,11 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 statistics.news1.kr
+0.0.0.0 e.dr-zh.com
+0.0.0.0 swa.metro.co.uk
+0.0.0.0 crta.dailymail.co.uk
+0.0.0.0 rta2.metro.co.uk
 0.0.0.0 ea.fleurancenature.fr
 0.0.0.0 ea.greenweez.com
 0.0.0.0 ea.melijoe.com
@@ -4515,7 +4532,6 @@
 0.0.0.0 track.ultimate-guitar.com
 0.0.0.0 intent.cbsi.com
 0.0.0.0 bonfire.spklw.com
-0.0.0.0 adanalytics.openload.co
 0.0.0.0 analyticapi.piri.net
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.go.com
@@ -4576,7 +4592,6 @@
 0.0.0.0 log.adap.tv
 0.0.0.0 log.olark.com
 0.0.0.0 log.rutube.ru
-0.0.0.0 logdev.openload.co
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 ls.srvcs.tumblr.com
 0.0.0.0 metric.gstatic.com
@@ -4608,7 +4623,6 @@
 0.0.0.0 stats.mako.co.il
 0.0.0.0 stats.mirror.co.uk
 0.0.0.0 stats.olark.com
-0.0.0.0 stats.openload.co
 0.0.0.0 stats.videoseyredin.net
 0.0.0.0 stats2.arstechnica.com
 0.0.0.0 su.addthis.com
@@ -4721,6 +4735,7 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 adj.st
+0.0.0.0 analytics.metrix.ir
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 dsp-tracking.unityads.unity3d.com
 0.0.0.0 installtracker.unityads.unity3d.com
@@ -4866,7 +4881,6 @@
 0.0.0.0 stats.umsns.com
 0.0.0.0 analytics.rayjump.com
 0.0.0.0 iapp-cp.nuggad.net
-0.0.0.0 2o7.net
 0.0.0.0 4seeresults.com
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 ad-analytics-bootstrap.metaps.com
@@ -4992,7 +5006,6 @@
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 www-google-analytics.l.google.com
-0.0.0.0 xiti.com
 0.0.0.0 xlmc.sec.miui.com
 0.0.0.0 yadro.ru
 0.0.0.0 ymtracking.com
