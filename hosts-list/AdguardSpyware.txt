@@ -1,9 +1,14 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Tue, 03 Dec 2019 08:16:38 +0800
+# Last converted - Wed, 18 Dec 2019 10:09:29 +0800
 #
 
+0.0.0.0 tracker.azet.sk
+0.0.0.0 videoevents.outbrain.com
+0.0.0.0 ringsrecord.com
+0.0.0.0 plantdigestion.com
+0.0.0.0 leadsmonitor.io
 0.0.0.0 audsp.com
 0.0.0.0 mparticle.com
 0.0.0.0 stat.analytiall.com
@@ -30,7 +35,6 @@
 0.0.0.0 s99i.org
 0.0.0.0 g.vev.io
 0.0.0.0 rob.megaopen.ru
-0.0.0.0 instana.io
 0.0.0.0 srv.dc-1.net
 0.0.0.0 votetoda.com
 0.0.0.0 promclickapp.biz
@@ -1040,7 +1044,6 @@
 0.0.0.0 emjcd.com
 0.0.0.0 emltrk.com
 0.0.0.0 emsecure.net
-0.0.0.0 en25.com
 0.0.0.0 enecto.com
 0.0.0.0 enectoanalytics.com
 0.0.0.0 engageya.com
@@ -3236,6 +3239,13 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 track.berliner-kurier.de
+0.0.0.0 collect.usefathom.com
+0.0.0.0 wwwlog.thebell.co.kr
+0.0.0.0 d1miwkthq39xj8.cloudfront.net
+0.0.0.0 stats1.wpmudev.com
+0.0.0.0 stats.wpmucdn.com
+0.0.0.0 stat.thestartmagazine.com
 0.0.0.0 statistics.news1.kr
 0.0.0.0 e.dr-zh.com
 0.0.0.0 swa.metro.co.uk
@@ -4074,7 +4084,6 @@
 0.0.0.0 log.invodo.com
 0.0.0.0 log.iyunmai.com
 0.0.0.0 log.krs-ix.ru
-0.0.0.0 log.musical.ly
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 logger.virgul.com
@@ -4645,6 +4654,10 @@
 0.0.0.0 xtag.autotrader.com
 0.0.0.0 xtag.kbb.com
 0.0.0.0 zdlogs.sphereup.com
+0.0.0.0 log.musical.ly
+0.0.0.0 log2.musical.ly
+0.0.0.0 frontier.musical.ly
+0.0.0.0 xlog-va.musical.ly
 0.0.0.0 mrtg.emailpartners.net
 0.0.0.0 beam.remp.nv.ua
 0.0.0.0 pjstat.com
