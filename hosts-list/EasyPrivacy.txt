@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 03 Dec 2019 08:16:40 +0800
+# Last converted - Wed, 18 Dec 2019 10:09:32 +0800
 #
 
 0.0.0.0 0emm.com
@@ -368,6 +368,7 @@
 0.0.0.0 bm324.com
 0.0.0.0 bmlmedia.com
 0.0.0.0 bmmetrix.com
+0.0.0.0 bntech.io
 0.0.0.0 bookforest.biz
 0.0.0.0 boomerang.com.au
 0.0.0.0 boomtrain.com
@@ -387,6 +388,7 @@
 0.0.0.0 brilig.com
 0.0.0.0 bronto.com
 0.0.0.0 browser-statistik.de
+0.0.0.0 browser-update.org
 0.0.0.0 brsrvr.com
 0.0.0.0 bstk.co
 0.0.0.0 bstn-14-ma.com
@@ -496,6 +498,7 @@
 0.0.0.0 clickdimensions.com
 0.0.0.0 clickening.com
 0.0.0.0 clickforensics.com
+0.0.0.0 clickguard.com
 0.0.0.0 clickguardian.co.uk
 0.0.0.0 clickigniter.io
 0.0.0.0 clickinc.com
@@ -533,6 +536,7 @@
 0.0.0.0 codata.ru
 0.0.0.0 cogmatch.net
 0.0.0.0 cognitivematch.com
+0.0.0.0 cohesionapps.com
 0.0.0.0 collarity.com
 0.0.0.0 collserve.com
 0.0.0.0 colossusssp.com
@@ -546,6 +550,7 @@
 0.0.0.0 confirmit.com
 0.0.0.0 contactmonkey.com
 0.0.0.0 contemporaryceremonies.ca
+0.0.0.0 contensis.com
 0.0.0.0 content-square.net
 0.0.0.0 content.ad
 0.0.0.0 contentinsights.com
@@ -828,6 +833,7 @@
 0.0.0.0 exovueplatform.com
 0.0.0.0 experianmarketingservices.digital
 0.0.0.0 explore-123.com
+0.0.0.0 exponea.com
 0.0.0.0 exposebox.com
 0.0.0.0 extole.com
 0.0.0.0 extole.io
@@ -1071,6 +1077,7 @@
 0.0.0.0 hoststats.info
 0.0.0.0 hotdogsandads.com
 0.0.0.0 hotjar.com
+0.0.0.0 hotjar.io
 0.0.0.0 hotlog.ru
 0.0.0.0 hqhrt.com
 0.0.0.0 hs-analytics.net
@@ -1179,6 +1186,7 @@
 0.0.0.0 ipapi.co
 0.0.0.0 ipcatch.com
 0.0.0.0 ipcounter.de
+0.0.0.0 iper2.com
 0.0.0.0 iperceptions.com
 0.0.0.0 ipfingerprint.com
 0.0.0.0 ipgeolocation.io
@@ -1231,6 +1239,7 @@
 0.0.0.0 kampyle.com
 0.0.0.0 kantartns.lt
 0.0.0.0 kaxsdc.com
+0.0.0.0 keet1liod.com
 0.0.0.0 keyade.com
 0.0.0.0 keymetric.net
 0.0.0.0 keytiles.com
@@ -1448,6 +1457,7 @@
 0.0.0.0 monstat.com
 0.0.0.0 monu.delivery
 0.0.0.0 mooseway.com
+0.0.0.0 mopinion.com
 0.0.0.0 motrixi.com
 0.0.0.0 mouse3k.com
 0.0.0.0 mouseflow.com
@@ -1455,6 +1465,7 @@
 0.0.0.0 mousetrace.com
 0.0.0.0 movable-ink-6710.com
 0.0.0.0 mparticle.com
+0.0.0.0 mpianalytics.com
 0.0.0.0 mplxtms.com
 0.0.0.0 mppapi.io
 0.0.0.0 mpstat.us
@@ -1656,6 +1667,7 @@
 0.0.0.0 peep1alea.com
 0.0.0.0 peerius.com
 0.0.0.0 pega.com
+0.0.0.0 pepperjam.com
 0.0.0.0 percentmobile.com
 0.0.0.0 perfdrive.com
 0.0.0.0 perfectaudience.com
@@ -1760,7 +1772,6 @@
 0.0.0.0 pureairhits.com
 0.0.0.0 purevideo.com
 0.0.0.0 putags.com
-0.0.0.0 px-cdn.net
 0.0.0.0 px-cloud.net
 0.0.0.0 pxchk.net
 0.0.0.0 pxf.io
@@ -1816,6 +1827,7 @@
 0.0.0.0 realtracking.ninja
 0.0.0.0 realytics.io
 0.0.0.0 realzeit.io
+0.0.0.0 reciteme.com
 0.0.0.0 recoset.com
 0.0.0.0 recruitics.com
 0.0.0.0 redcounter.net
@@ -1910,6 +1922,7 @@
 0.0.0.0 rztrkr.com
 0.0.0.0 s-onetag.com
 0.0.0.0 s3s-main.net
+0.0.0.0 s7target.ru
 0.0.0.0 safe-click.net
 0.0.0.0 sageanalyst.net
 0.0.0.0 sajari.com
@@ -2015,6 +2028,7 @@
 0.0.0.0 sitecompass.com
 0.0.0.0 siteimprove.com
 0.0.0.0 siteimproveanalytics.com
+0.0.0.0 siteimproveanalytics.io
 0.0.0.0 sitelabweb.com
 0.0.0.0 sitelinktrack.com
 0.0.0.0 sitemeter.com
@@ -2063,6 +2077,7 @@
 0.0.0.0 sociaplus.com
 0.0.0.0 socketanalytics.com
 0.0.0.0 socketviking.net
+0.0.0.0 socsi.in
 0.0.0.0 sodoit.com
 0.0.0.0 soflopxl.com
 0.0.0.0 softonic-analytics.net
@@ -2104,6 +2119,7 @@
 0.0.0.0 stadsvc.com
 0.0.0.0 star-cntr-5.com
 0.0.0.0 startstat.ru
+0.0.0.0 stat-track.com
 0.0.0.0 stat.social
 0.0.0.0 stat08.com
 0.0.0.0 stat24.com
@@ -2165,6 +2181,8 @@
 0.0.0.0 successfultogether.co.uk
 0.0.0.0 summerhamster.com
 0.0.0.0 summitemarketinganalytics.com
+0.0.0.0 sumo.com
+0.0.0.0 sumome.com
 0.0.0.0 supercounters.com
 0.0.0.0 superstats.com
 0.0.0.0 supert.ag
@@ -2234,6 +2252,7 @@
 0.0.0.0 thingswontend.com
 0.0.0.0 thisisacoolthing.com
 0.0.0.0 thisisanothercoolthing.com
+0.0.0.0 threat-analytics.com
 0.0.0.0 thrtle.com
 0.0.0.0 tighting.info
 0.0.0.0 tinb.net
@@ -2368,6 +2387,7 @@
 0.0.0.0 u5c93.com
 0.0.0.0 u5e.com
 0.0.0.0 uadx.com
+0.0.0.0 ub-analytics.com
 0.0.0.0 ubertags.com
 0.0.0.0 ubertracking.info
 0.0.0.0 uciservice.com
@@ -2472,6 +2492,7 @@
 0.0.0.0 vmmpxl.com
 0.0.0.0 vmtrk.com
 0.0.0.0 voicefive.com
+0.0.0.0 volantix.com
 0.0.0.0 voodooalerts.com
 0.0.0.0 votistics.com
 0.0.0.0 vstats.co
@@ -2523,6 +2544,7 @@
 0.0.0.0 webtraffiq.com
 0.0.0.0 webtraxs.com
 0.0.0.0 webtrekk-asia.net
+0.0.0.0 webtrends-optimize.com
 0.0.0.0 webtrends.com
 0.0.0.0 webtrendslive.com
 0.0.0.0 webtuna.com
@@ -2610,6 +2632,7 @@
 0.0.0.0 zdtag.com
 0.0.0.0 zedwhyex.com
 0.0.0.0 zeerat.com
+0.0.0.0 zengenti.com
 0.0.0.0 zenlivestats.com
 0.0.0.0 zeotap.com
 0.0.0.0 zesep.com
@@ -3060,7 +3083,6 @@
 0.0.0.0 mytestminer.xyz
 0.0.0.0 nabaza.com
 0.0.0.0 nablabee.com
-0.0.0.0 nahnoji.cz
 0.0.0.0 najsiejfnc.win
 0.0.0.0 nametraff.com
 0.0.0.0 nathetsof.com
@@ -3269,11 +3291,13 @@
 0.0.0.0 alleyarm.com
 0.0.0.0 allowmailbox.com
 0.0.0.0 anxiousapples.com
+0.0.0.0 attractivecap.com
 0.0.0.0 automaticside.com
 0.0.0.0 awzbijw.com
 0.0.0.0 axiomaticalley.com
 0.0.0.0 balancebreath.com
 0.0.0.0 bh8yx.xyz
+0.0.0.0 breakfastboat.com
 0.0.0.0 broadcastbed.com
 0.0.0.0 broaddoor.com
 0.0.0.0 burnbubble.com
@@ -3317,6 +3341,7 @@
 0.0.0.0 gulliblecamp.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 hilariouszinc.com
+0.0.0.0 historicalbeam.com
 0.0.0.0 horsenectar.com
 0.0.0.0 importedincrease.com
 0.0.0.0 inquisitiveinvention.com
@@ -3330,8 +3355,10 @@
 0.0.0.0 lizardslaugh.com
 0.0.0.0 lumberamount.com
 0.0.0.0 magnetairport.com
+0.0.0.0 meatydime.com
 0.0.0.0 mowfruit.com
 0.0.0.0 mundanepollution.com
+0.0.0.0 neighborlywatch.com
 0.0.0.0 nervoussummer.com
 0.0.0.0 parcelcreature.com
 0.0.0.0 parsimoniouspolice.com
@@ -3341,12 +3368,14 @@
 0.0.0.0 petiteumbrella.com
 0.0.0.0 photographpan.com
 0.0.0.0 pietexture.com
+0.0.0.0 plantdigestion.com
 0.0.0.0 profusesupport.com
 0.0.0.0 puffyloss.com
 0.0.0.0 puffypull.com
 0.0.0.0 quaintcan.com
 0.0.0.0 quietknowledge.com
 0.0.0.0 raresummer.com
+0.0.0.0 realizerecess.com
 0.0.0.0 richstring.com
 0.0.0.0 ringplayground.com
 0.0.0.0 ritzykey.com
@@ -3377,9 +3406,11 @@
 0.0.0.0 stupendoussleet.com
 0.0.0.0 suddensidewalk.com
 0.0.0.0 sugarcurtain.com
+0.0.0.0 sweetslope.com
 0.0.0.0 tendertest.com
 0.0.0.0 ticklesign.com
 0.0.0.0 truthfulturn.com
+0.0.0.0 typicalairplane.com
 0.0.0.0 typicalteeth.com
 0.0.0.0 ubiquitousyard.com
 0.0.0.0 unarmedindustry.com
@@ -3766,6 +3797,7 @@
 0.0.0.0 netvigie.com
 0.0.0.0 organicfruitapps.com
 0.0.0.0 phywi.org
+0.0.0.0 potterpetrey.com
 0.0.0.0 reseau-pub.com
 0.0.0.0 semiocast.com
 0.0.0.0 sitizy.network
@@ -3830,7 +3862,6 @@
 0.0.0.0 logly.co.jp
 0.0.0.0 mediav.com
 0.0.0.0 miaozhen.com
-0.0.0.0 mmstat.com
 0.0.0.0 oadz.com
 0.0.0.0 p0y.cn
 0.0.0.0 phpstat.com
@@ -4584,6 +4615,7 @@
 0.0.0.0 collector.automote.co.nz
 0.0.0.0 collector.contentexchange.me
 0.0.0.0 collector.leaddyno.com
+0.0.0.0 collector.mazeberry.com
 0.0.0.0 collector.nextguide.tv
 0.0.0.0 collector.roistat.com
 0.0.0.0 collector.snplow.net
@@ -4723,6 +4755,7 @@
 0.0.0.0 d3mskfhorhi2fb.cloudfront.net
 0.0.0.0 d3n6i6eorggdxk.cloudfront.net
 0.0.0.0 d3ojzyhbolvoi5.cloudfront.net
+0.0.0.0 d3q7vxy7usqoub.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3r7h55ola878c.cloudfront.net
 0.0.0.0 d3rmnwi2tssrfx.cloudfront.net
@@ -4849,6 +4882,7 @@
 0.0.0.0 geo.kaloo.ga
 0.0.0.0 geo.kontagent.net
 0.0.0.0 geo.ltassrv.com
+0.0.0.0 geo.mezr.com
 0.0.0.0 geo.q5media.net
 0.0.0.0 geobar.ziffdavisinternational.com
 0.0.0.0 geoip.nekudo.com
@@ -4894,6 +4928,7 @@
 0.0.0.0 insights.plista.com
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 intelligence.dgmsearchlab.com
+0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 irqs.ioam.de
 0.0.0.0 itracking.fccinteractive.com
 0.0.0.0 javascriptcounter.appspot.com
@@ -5034,6 +5069,7 @@
 0.0.0.0 passport.pfn.bz
 0.0.0.0 pebed.dm.gg
 0.0.0.0 peermapcontent.affino.com
+0.0.0.0 perf.dugout.com
 0.0.0.0 performance.typekit.net
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 petitionermaster.appspot.com
@@ -5240,6 +5276,7 @@
 0.0.0.0 stats.webstarts.com
 0.0.0.0 stats.whicdn.com
 0.0.0.0 stats.wp.com
+0.0.0.0 stats.wpmucdn.com
 0.0.0.0 stats.yme.com
 0.0.0.0 stats.yourminis.com
 0.0.0.0 stats.zotabox.com
@@ -5547,6 +5584,7 @@
 0.0.0.0 ctr-opc.nmg.de
 0.0.0.0 ctr.nmg.de
 0.0.0.0 d.adrolays.de
+0.0.0.0 d.finative.eu
 0.0.0.0 d.nativendo.de
 0.0.0.0 d.omsnative.de
 0.0.0.0 data.econa.com
@@ -5582,7 +5620,6 @@
 0.0.0.0 sett.i12.de
 0.0.0.0 stat.clichehosting.de
 0.0.0.0 stat4.edev.at
-0.0.0.0 statistics.aldi-international.com
 0.0.0.0 statistics.klicktel.de
 0.0.0.0 statistik.motorpresse.de
 0.0.0.0 statistik.simaja.de
@@ -5648,6 +5685,7 @@
 0.0.0.0 btstats.devtribu.fr
 0.0.0.0 calotag.com
 0.0.0.0 cdn-analytics.ladmedia.fr
+0.0.0.0 collect.adback.co
 0.0.0.0 compteur.websiteout.net
 0.0.0.0 e.funnymel.com
 0.0.0.0 email-reflex.com
@@ -6019,11 +6057,13 @@
 0.0.0.0 analytics.jabong.com
 0.0.0.0 analytics.kaggle.io
 0.0.0.0 analytics.localytics.com
+0.0.0.0 analytics.meaww.com
 0.0.0.0 analytics.mindjolt.com
 0.0.0.0 analytics.newsinc.com
 0.0.0.0 analytics.ngfiles.com
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.posttv.com
+0.0.0.0 analytics.productreview.com.au
 0.0.0.0 analytics.schoolwires.com
 0.0.0.0 analytics.services.distractify.com
 0.0.0.0 analytics.shorte.st
@@ -6088,6 +6128,7 @@
 0.0.0.0 bi.medscape.com
 0.0.0.0 bit.ehow.com
 0.0.0.0 bn.adultempire.com
+0.0.0.0 boomerang.dell.com
 0.0.0.0 bulb.76.my
 0.0.0.0 c.ipaddress.com
 0.0.0.0 c.microsoft.com
@@ -6123,20 +6164,6 @@
 0.0.0.0 cls.ichotelsgroup.com
 0.0.0.0 clvk.viki.io
 0.0.0.0 cmap.alibaba.com
-0.0.0.0 cmp.arnnet.com.au
-0.0.0.0 cmp.cio.com.au
-0.0.0.0 cmp.cmo.com.au
-0.0.0.0 cmp.computerworld.com.au
-0.0.0.0 cmp.cso.com.au
-0.0.0.0 cmp.csoonline.com
-0.0.0.0 cmp.digitalartsonline.co.uk
-0.0.0.0 cmp.greenbot.com
-0.0.0.0 cmp.macworld.co.uk
-0.0.0.0 cmp.macworld.com
-0.0.0.0 cmp.pcworld.co.nz
-0.0.0.0 cmp.pcworld.com
-0.0.0.0 cmp.techadvisor.co.uk
-0.0.0.0 cmp.techhive.com
 0.0.0.0 cmstrendslog.indiatimes.com
 0.0.0.0 cmstrendslog.timesnow.tv
 0.0.0.0 cnt.nicemix.com
@@ -6209,7 +6236,6 @@
 0.0.0.0 et.nytimes.com
 0.0.0.0 etui.fs.ml.com
 0.0.0.0 eu.groupondata.com
-0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 ev.kck.st
 0.0.0.0 event-collector.udsrv.com
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
@@ -6349,7 +6375,6 @@
 0.0.0.0 marketing.kalahari.net
 0.0.0.0 marketing.nodesource.com
 0.0.0.0 mcdp-sadc1.outbrain.com
-0.0.0.0 mdn.neowin.net
 0.0.0.0 merlin.abc.go.com
 0.0.0.0 metric-agent.i10c.net
 0.0.0.0 metric.gstatic.com
@@ -6436,6 +6461,7 @@
 0.0.0.0 pingback.issuu.com
 0.0.0.0 pings.blip.tv
 0.0.0.0 pipeline.realtime.active.com
+0.0.0.0 pistyll.bleacherreport.com
 0.0.0.0 pix.eads.com
 0.0.0.0 pix.gfycat.com
 0.0.0.0 pix.nbcuni.com
@@ -6855,11 +6881,9 @@
 0.0.0.0 trowel.twitch.tv
 0.0.0.0 trueffect.underarmour.com
 0.0.0.0 trx.smdatalabs.com
-0.0.0.0 ttauri.laptopmag.com
-0.0.0.0 ttauri.tomsguide.com
-0.0.0.0 ttauri.tomshardware.com
 0.0.0.0 tw.i.hulu.com
 0.0.0.0 txn.thenewsroom.com
+0.0.0.0 uie.data.cbc.ca
 0.0.0.0 unid.go.com
 0.0.0.0 up.boston.com
 0.0.0.0 up.nytimes.com
@@ -6889,6 +6913,7 @@
 0.0.0.0 wal.wolfram.com
 0.0.0.0 warp.prnewswire.co.uk
 0.0.0.0 watson.live.com
+0.0.0.0 wblt.oui.sncf
 0.0.0.0 web-t.9gag.com
 0.0.0.0 weblog.strawberrynet.com
 0.0.0.0 weblogger01.data.disney.com
@@ -6908,7 +6933,44 @@
 0.0.0.0 ynuf.alibaba.com
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zeus.slader.com
+0.0.0.0 bucksfreepress-gb.bucksfreepress.co.uk
+0.0.0.0 cmp.arnnet.com.au
+0.0.0.0 cmp.cio.com.au
+0.0.0.0 cmp.cmo.com.au
+0.0.0.0 cmp.computerworld.com.au
+0.0.0.0 cmp.cso.com.au
+0.0.0.0 cmp.csoonline.com
+0.0.0.0 cmp.digitalartsonline.co.uk
+0.0.0.0 cmp.greenbot.com
+0.0.0.0 cmp.macworld.co.uk
+0.0.0.0 cmp.macworld.com
+0.0.0.0 cmp.pcworld.co.nz
+0.0.0.0 cmp.pcworld.com
+0.0.0.0 cmp.pcworld.idg.com.au
+0.0.0.0 cmp.techadvisor.co.uk
+0.0.0.0 cmp.techhive.com
+0.0.0.0 eurogamer-uk.eurogamer.net
+0.0.0.0 gazette-news-gb.gazette-news.co.uk
+0.0.0.0 h-bid.com
+0.0.0.0 mdn.neowin.net
+0.0.0.0 orionis.techradar.com
+0.0.0.0 rps-p2.rockpapershotgun.com
+0.0.0.0 rps-uk.rockpapershotgun.com
+0.0.0.0 sthelensstar-gb.sthelensstar.co.uk
+0.0.0.0 thenational-gb.thenational.scot
+0.0.0.0 ttauri.laptopmag.com
+0.0.0.0 ttauri.tomsguide.com
+0.0.0.0 ttauri.tomshardware.com
+0.0.0.0 worcesternews-gb.worcesternews.co.uk
+0.0.0.0 yourlocalguardian-gb.yourlocalguardian.co.uk
+0.0.0.0 0sbm.consobaby.co.uk
+0.0.0.0 319dn.dieti-natura.com
+0.0.0.0 6ddc.tartine-et-chocolat.com
 0.0.0.0 6pal.consobaby.com
+0.0.0.0 7lbd4.armandthiery.fr
+0.0.0.0 7mx.eider.com
+0.0.0.0 913nd.dieti-natura.es
+0.0.0.0 a8ht.hipp.fr
 0.0.0.0 ch0p.darty.com
 0.0.0.0 cse3.chausport.com
 0.0.0.0 dt.nrjmobile.fr
@@ -6918,6 +6980,7 @@
 0.0.0.0 ea.ciblo.net
 0.0.0.0 ea.clubic.com
 0.0.0.0 ea.deguisetoi.fr
+0.0.0.0 ea.diamant-unique.com
 0.0.0.0 ea.fleurancenature.fr
 0.0.0.0 ea.greenweez.com
 0.0.0.0 ea.habitat.fr
@@ -7066,6 +7129,7 @@
 0.0.0.0 tp.deawm.com
 0.0.0.0 tr.werkenntwen.de
 0.0.0.0 track.bazonline.ch
+0.0.0.0 track.berliner-kurier.de
 0.0.0.0 track.bernerzeitung.ch
 0.0.0.0 track.cinestar.de
 0.0.0.0 track.derbund.ch
@@ -7143,6 +7207,7 @@
 0.0.0.0 analytics.nextmedia.com
 0.0.0.0 analytics.shop.hisense.com
 0.0.0.0 analytics.zhihu.com
+0.0.0.0 anti-bot.baidu.com
 0.0.0.0 atm.youku.com
 0.0.0.0 bc.qunar.com
 0.0.0.0 bdwblog.eastmoney.com
@@ -7259,6 +7324,7 @@
 0.0.0.0 stats.fd.nl
 0.0.0.0 webstatistieken.xs4all.nl
 0.0.0.0 analytics.sanoma.fi
+0.0.0.0 events.il.fi
 0.0.0.0 stat.mtv3.fi
 0.0.0.0 bravo.israelweather.co.il
 0.0.0.0 cellstats.mako.co.il
@@ -7282,6 +7348,7 @@
 0.0.0.0 tracker.stileo.it
 0.0.0.0 tracking.gruppo.mps.it
 0.0.0.0 trk.m.libero.it
+0.0.0.0 vvvvid.it$ping
 0.0.0.0 analytics.cocolog-nifty.com
 0.0.0.0 analyzer.fc2.com
 0.0.0.0 analyzer2.fc2.com
@@ -7290,6 +7357,7 @@
 0.0.0.0 ln.ameba.jp
 0.0.0.0 log.suumo.jp
 0.0.0.0 measure.ameblo.jp
+0.0.0.0 mmstat.com
 0.0.0.0 mtc.nhk.or.jp
 0.0.0.0 pvtag.yahoo.co.jp
 0.0.0.0 pw.gigazine.net
