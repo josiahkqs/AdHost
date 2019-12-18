@@ -1,9 +1,30 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 03 Dec 2019 08:16:38 +0800
+# Last converted - Wed, 18 Dec 2019 10:09:27 +0800
 #
 
+0.0.0.0 hgbn.rocks
+0.0.0.0 admulti.com
+0.0.0.0 inti24.com
+0.0.0.0 glt1fogiank3.ru
+0.0.0.0 luckyads.tech
+0.0.0.0 hgofcd.com
+0.0.0.0 cxjrsb.com
+0.0.0.0 embraceable-venom.eu
+0.0.0.0 zrcir.com
+0.0.0.0 wvghl.com
+0.0.0.0 pthokfs.pro
+0.0.0.0 fitfatdeals.com
+0.0.0.0 waitor.info$document
+0.0.0.0 mobilebanner.ru
+0.0.0.0 woazowup.net
+0.0.0.0 2vaxwkujrfwh.info
+0.0.0.0 qqqwes.com
+0.0.0.0 svekolka.com
+0.0.0.0 bchaser.info
+0.0.0.0 advgalaxy.com
+0.0.0.0 rvt2687sqo9o.ru
 0.0.0.0 bigunok.club
 0.0.0.0 bjrfnps4efhldfj.ru
 0.0.0.0 truenat.bid
@@ -3635,6 +3656,7 @@
 0.0.0.0 pp.muzofon-online.com
 0.0.0.0 ban.zab.ru
 0.0.0.0 m1.extrutor.org
+0.0.0.0 a.kakoysegodnyaprazdnik.ru
 0.0.0.0 test.besstidniki.ru
 0.0.0.0 embed.tonews.org
 0.0.0.0 ew.politros.com
@@ -3757,6 +3779,7 @@
 0.0.0.0 vozer.voffka.com
 0.0.0.0 vw.onlinia.net
 0.0.0.0 stat-analytics.mediavitrina.ru
+0.0.0.0 zmctrack.net
 0.0.0.0 ritzysponge.com
 0.0.0.0 dondlo.
 0.0.0.0 readto.ru
@@ -3782,6 +3805,8 @@
 0.0.0.0 ukrmedia.center
 0.0.0.0 vi.bigmir.net
 0.0.0.0 widget.mediastealer.com
+0.0.0.0 runewslenta.com$document
+0.0.0.0 runewslenta.com
 0.0.0.0 okaynews.me
 0.0.0.0 newsandpolik.ru
 0.0.0.0 blamper-news.ru
