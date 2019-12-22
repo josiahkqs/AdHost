@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Wed, 18 Dec 2019 10:09:20 +0800
+# Last converted - Sun, 22 Dec 2019 22:42:02 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -417,6 +417,7 @@
 0.0.0.0 x-vulkan.net
 0.0.0.0 yabrowser.su
 0.0.0.0 yfiles1.ru
+0.0.0.0 ads.bid
 0.0.0.0 anti-gemorroy.com
 0.0.0.0 blogofest.com
 0.0.0.0 exclusiverewards.xyz
@@ -425,6 +426,7 @@
 0.0.0.0 gemoroy-stop.biz
 0.0.0.0 hanata.pp.ua
 0.0.0.0 intoxic.biz
+0.0.0.0 medicineteaser.org
 0.0.0.0 otvetes.com
 0.0.0.0 peterfarley.net
 0.0.0.0 peterjfarley.info
@@ -2370,6 +2372,7 @@
 0.0.0.0 adsyst.ru
 0.0.0.0 adtags.pro
 0.0.0.0 adtarget.me
+0.0.0.0 adtech-digital.ru
 0.0.0.0 adtraff.ru
 0.0.0.0 adubqazur.ru
 0.0.0.0 adulthub.ru
@@ -5523,6 +5526,7 @@
 0.0.0.0 oblivinfo.ru
 0.0.0.0 obliviusrach.com
 0.0.0.0 oblivki.biz
+0.0.0.0 obltiz.com
 0.0.0.0 oblvk.ru
 0.0.0.0 obmlt.ru
 0.0.0.0 obnale.ru
@@ -7793,6 +7797,7 @@
 0.0.0.0 academyun.ru
 0.0.0.0 act-news.com
 0.0.0.0 adiabetic.ru
+0.0.0.0 ads.bid
 0.0.0.0 advgoods.com
 0.0.0.0 adwile.com
 0.0.0.0 afftraff.net
@@ -8057,6 +8062,7 @@
 0.0.0.0 medicin-novosti-24.com
 0.0.0.0 medicina-narodov.ru
 0.0.0.0 medicine-news.net
+0.0.0.0 medicineteaser.org
 0.0.0.0 medinfo.today
 0.0.0.0 medinforms.ru
 0.0.0.0 medinses.ru
