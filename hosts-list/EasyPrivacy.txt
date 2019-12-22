@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Wed, 18 Dec 2019 10:09:32 +0800
+# Last converted - Sun, 22 Dec 2019 22:42:15 +0800
 #
 
 0.0.0.0 0emm.com
@@ -240,6 +240,7 @@
 0.0.0.0 appn.center
 0.0.0.0 aprtn.com
 0.0.0.0 aprtx.com
+0.0.0.0 apxy.io
 0.0.0.0 aqtracker.com
 0.0.0.0 arcadeweb.com
 0.0.0.0 arch-nicto.com
@@ -936,6 +937,7 @@
 0.0.0.0 fshka.com
 0.0.0.0 fstrk.net
 0.0.0.0 ftbpro.com
+0.0.0.0 ftz.io
 0.0.0.0 fueldeck.com
 0.0.0.0 fuelx.com
 0.0.0.0 fugetech.com
@@ -2223,6 +2225,7 @@
 0.0.0.0 tdsrmbl.net
 0.0.0.0 tdstats.com
 0.0.0.0 tealiumiq.com
+0.0.0.0 techtarget.com
 0.0.0.0 tedioustooth.com
 0.0.0.0 telemetrytaxonomy.net
 0.0.0.0 telize.com
@@ -3315,9 +3318,12 @@
 0.0.0.0 consciouschairs.com
 0.0.0.0 coordinatedcub.com
 0.0.0.0 copycarpenter.com
+0.0.0.0 cosmosjackson.com
+0.0.0.0 critictruck.com
 0.0.0.0 cubchannel.com
 0.0.0.0 culturedcrayon.com
 0.0.0.0 damdoor.com
+0.0.0.0 decisivedrawer.com
 0.0.0.0 delegatediscussion.com
 0.0.0.0 desiredirt.com
 0.0.0.0 detectdiscovery.com
@@ -3328,6 +3334,7 @@
 0.0.0.0 familiarfloor.com
 0.0.0.0 familiarrod.com
 0.0.0.0 farmergoldfish.com
+0.0.0.0 farshake.com
 0.0.0.0 faultycanvas.com
 0.0.0.0 fearfulflag.com
 0.0.0.0 flakyfeast.com
@@ -3338,6 +3345,7 @@
 0.0.0.0 giraffepiano.com
 0.0.0.0 gorgeousground.com
 0.0.0.0 greyinstrument.com
+0.0.0.0 guiltlessbasketball.com
 0.0.0.0 gulliblecamp.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 hilariouszinc.com
@@ -3362,6 +3370,7 @@
 0.0.0.0 nervoussummer.com
 0.0.0.0 parcelcreature.com
 0.0.0.0 parsimoniouspolice.com
+0.0.0.0 partplanes.com
 0.0.0.0 pedropanther.com
 0.0.0.0 penspade.com
 0.0.0.0 perceivequarter.com
@@ -3415,8 +3424,10 @@
 0.0.0.0 ubiquitousyard.com
 0.0.0.0 unarmedindustry.com
 0.0.0.0 unbecominghall.com
+0.0.0.0 unequalbrake.com
 0.0.0.0 untidyrice.com
 0.0.0.0 womanear.com
+0.0.0.0 zlp6s.pw
 0.0.0.0 123-counter.de
 0.0.0.0 12mnkys.com
 0.0.0.0 24log.de
@@ -3766,6 +3777,7 @@
 0.0.0.0 compteur.org
 0.0.0.0 count.fr
 0.0.0.0 countus.fr
+0.0.0.0 d-bi.fr
 0.0.0.0 datado.me
 0.0.0.0 datadome.co
 0.0.0.0 deliv.lexpress.fr
@@ -3785,6 +3797,7 @@
 0.0.0.0 graphinsider.com
 0.0.0.0 hunkal.com
 0.0.0.0 ivitrack.com
+0.0.0.0 kdata.fr
 0.0.0.0 lead-analytics.biz
 0.0.0.0 leadium.com
 0.0.0.0 libstat.com
@@ -4444,6 +4457,7 @@
 0.0.0.0 analytics.gvim.mobi
 0.0.0.0 analytics.hosting24.com
 0.0.0.0 analytics.hpprintx.com
+0.0.0.0 analytics.inform.com
 0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.kapost.com
 0.0.0.0 analytics.live.com
@@ -4790,6 +4804,7 @@
 0.0.0.0 detect.ergebnis-dienst.de
 0.0.0.0 dfanalytics.dealerfire.com
 0.0.0.0 dfdbz2tdq3k01.cloudfront.net
+0.0.0.0 diagnose.igstatic.com
 0.0.0.0 dirt.dennis.co.uk
 0.0.0.0 distillery.wistia.com
 0.0.0.0 djibeacon.djns.com
@@ -4929,6 +4944,7 @@
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 intelligence.dgmsearchlab.com
 0.0.0.0 invitejs.trustpilot.com
+0.0.0.0 ipapi.tmbi.com
 0.0.0.0 irqs.ioam.de
 0.0.0.0 itracking.fccinteractive.com
 0.0.0.0 javascriptcounter.appspot.com
@@ -5454,6 +5470,7 @@
 0.0.0.0 tracking.interweave.com
 0.0.0.0 tracking.jotform.com
 0.0.0.0 tracking.keywee.co
+0.0.0.0 tracking.leadlander.com
 0.0.0.0 tracking.legacyoffers.com
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.listhub.net
@@ -6343,6 +6360,7 @@
 0.0.0.0 live.philips.com
 0.0.0.0 loc.rediff.com
 0.0.0.0 localads-statistics.maps.me
+0.0.0.0 location.bloomberg.com
 0.0.0.0 log.china.cn
 0.0.0.0 log.data.disney.com
 0.0.0.0 log.deutschegrammophon.com
@@ -6368,6 +6386,7 @@
 0.0.0.0 loglady.publicbroadcasting.net
 0.0.0.0 logs.dashlane.com
 0.0.0.0 logs.gaana.com
+0.0.0.0 logs.hotstar.com
 0.0.0.0 lsam.research.microsoft.com
 0.0.0.0 lslmetrics.djlmgdigital.com
 0.0.0.0 marketing.alibaba.com
@@ -6985,9 +7004,11 @@
 0.0.0.0 ea.greenweez.com
 0.0.0.0 ea.habitat.fr
 0.0.0.0 ea.histoiredor.com
+0.0.0.0 ea.hofmann.es
 0.0.0.0 ea.hofmann.pt
 0.0.0.0 ea.homair.com
 0.0.0.0 ea.jeuxvideopc.com
+0.0.0.0 ea.kauf-unique.at
 0.0.0.0 ea.lafrancedunordausud.fr
 0.0.0.0 ea.lexpress.fr
 0.0.0.0 ea.melijoe.com
@@ -7003,12 +7024,15 @@
 0.0.0.0 ea.vente-unique.com
 0.0.0.0 ea.warnerbros.fr
 0.0.0.0 ef.futuroscope.com
+0.0.0.0 ek8.voyage-prive.com
 0.0.0.0 et.unclejeans.com
 0.0.0.0 eulerian.brandalley.fr
+0.0.0.0 eulerian.madeindesign.com
 0.0.0.0 eulerian.mathon.fr
 0.0.0.0 eulerian.sarenza.com
 0.0.0.0 eulerian.splendia.com
 0.0.0.0 eultech.fnac.com
+0.0.0.0 exd4.destinia.com.au
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 fsz1.francoisesaget.com
 0.0.0.0 gdm1.toner.fr
@@ -7037,7 +7061,11 @@
 0.0.0.0 vgo.vegaoo.es
 0.0.0.0 vgo.vegaoo.nl
 0.0.0.0 vgo.vegaooparty.com
+0.0.0.0 vnf4.belleetbio.com
+0.0.0.0 vnl1.voyage-prive.nl
+0.0.0.0 vpf4.euskaltelofertas.com
 0.0.0.0 vry9.destinia.com
+0.0.0.0 vtf2f.banque-casino.fr
 0.0.0.0 we.wecanimal.pt
 0.0.0.0 xy33.smallable.com
 0.0.0.0 yoc.younited-credit.com
@@ -7045,7 +7073,6 @@
 0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 piti.bplaced.net
 0.0.0.0 play.estream.to
-0.0.0.0 worker.salon.com
 0.0.0.0 event-analytics.yesware.com
 0.0.0.0 abakus.freenet.de
 0.0.0.0 ac.berlinonline.de
@@ -7176,6 +7203,7 @@
 0.0.0.0 dm.linternaute.com
 0.0.0.0 elr.sfr.fr
 0.0.0.0 eultech.fnac.com
+0.0.0.0 events.guesttoguest.com
 0.0.0.0 g.itespresso.fr
 0.0.0.0 gstat.orange.fr
 0.0.0.0 hit.leboncoin.fr
@@ -7189,8 +7217,11 @@
 0.0.0.0 secure-stat.canal-plus.com
 0.0.0.0 stat.ouedkniss.com
 0.0.0.0 stat.webevolutis.com
+0.0.0.0 stats.grafikart.fr
 0.0.0.0 stats1x1.kapaza.be
+0.0.0.0 t.blablacar.com
 0.0.0.0 tag.boulanger.fr
+0.0.0.0 tc.hometogo.net
 0.0.0.0 track.24heures.ch
 0.0.0.0 tracker-id.cdiscount.com
 0.0.0.0 tracker.cds-tracking.com
