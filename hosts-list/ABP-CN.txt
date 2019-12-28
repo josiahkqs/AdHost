@@ -1,9 +1,12 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Sun, 22 Dec 2019 22:41:55 +0800
+# Last converted - Sat, 28 Dec 2019 23:19:47 +0800
 #
 
+0.0.0.0 superli666.top
+0.0.0.0 shengdianwang.cc
+0.0.0.0 baiyuandian.cc
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -264,6 +267,7 @@
 0.0.0.0 668559.com
 0.0.0.0 66san.com
 0.0.0.0 6728812.com
+0.0.0.0 67785az.com
 0.0.0.0 6789.net
 0.0.0.0 67lm.com
 0.0.0.0 685wo.com
@@ -955,7 +959,6 @@
 0.0.0.0 ggdoubi.com
 0.0.0.0 ggdydz.com
 0.0.0.0 ggmm777.com
-0.0.0.0 ggwan.com
 0.0.0.0 ggweb.net
 0.0.0.0 ggxt.net
 0.0.0.0 ghnmg.top
@@ -1005,6 +1008,7 @@
 0.0.0.0 gzmjnx.cn
 0.0.0.0 gzqudou.com
 0.0.0.0 gzxiongwa.cn
+0.0.0.0 gzxxty168.com
 0.0.0.0 h0o33.cn
 0.0.0.0 h501.cn
 0.0.0.0 h9377c.com
@@ -1046,6 +1050,7 @@
 0.0.0.0 heima8.com
 0.0.0.0 hejingroup.cn
 0.0.0.0 hen360.com
+0.0.0.0 hengshui1.com
 0.0.0.0 hesxz.com
 0.0.0.0 heygugu.com
 0.0.0.0 hezhenzi.com
@@ -1288,6 +1293,7 @@
 0.0.0.0 khufaw2.com
 0.0.0.0 kicnse.com
 0.0.0.0 kiees.com
+0.0.0.0 kilin.xyz
 0.0.0.0 kingpolo.com.cn
 0.0.0.0 kingwam.com
 0.0.0.0 kiwihk.net
@@ -1299,6 +1305,7 @@
 0.0.0.0 kld666.com
 0.0.0.0 kldmm.com
 0.0.0.0 klsdmr.com
+0.0.0.0 kltces.com
 0.0.0.0 kmadou.com
 0.0.0.0 kmwqxqh.com
 0.0.0.0 kod4pc293.com
@@ -1378,6 +1385,7 @@
 0.0.0.0 long88.app
 0.0.0.0 loveconer.com
 0.0.0.0 lovestyl.com
+0.0.0.0 lovexia.top
 0.0.0.0 lsper.top
 0.0.0.0 lsxmg.com
 0.0.0.0 ltcprtc.com
@@ -1436,6 +1444,7 @@
 0.0.0.0 mgwcn.com
 0.0.0.0 mgwl668.com
 0.0.0.0 miaozhen.com
+0.0.0.0 min1319.com
 0.0.0.0 mindopu.com
 0.0.0.0 mingxianshanghang.cn
 0.0.0.0 mingysh.com
@@ -2316,6 +2325,7 @@
 0.0.0.0 zh1144.com
 0.0.0.0 zhaibei112.top
 0.0.0.0 zhandi.cc
+0.0.0.0 zhangkc.com
 0.0.0.0 zhao258.com
 0.0.0.0 zhenhun.co
 0.0.0.0 zhfosenghtr.com
@@ -2337,6 +2347,7 @@
 0.0.0.0 zhybzp.cn
 0.0.0.0 zi63m.cn
 0.0.0.0 ziig.com.cn
+0.0.0.0 zisu.cn.com
 0.0.0.0 zitanmushu.com
 0.0.0.0 ziyuantx.com
 0.0.0.0 zj66.net
@@ -2377,6 +2388,7 @@
 0.0.0.0 1024mzs.pw
 0.0.0.0 133gp.com
 0.0.0.0 7866593178.com
+0.0.0.0 7wkw.com
 0.0.0.0 9100300.com
 0.0.0.0 9453hot.com
 0.0.0.0 95p2.com
@@ -2387,6 +2399,7 @@
 0.0.0.0 cpm.193g.cn
 0.0.0.0 csaimall.com
 0.0.0.0 d6262.com
+0.0.0.0 elsbfby.com
 0.0.0.0 fu9453.com
 0.0.0.0 gotourl.xyz
 0.0.0.0 ieeod0.com
@@ -3033,6 +3046,7 @@
 0.0.0.0 bdjs.guangyuanol.cn
 0.0.0.0 bdjs.ixiumei.com
 0.0.0.0 bdjs.kaixin100.com
+0.0.0.0 bdjs.shangc.net
 0.0.0.0 bdjs.uimg.cn
 0.0.0.0 bdjs.ylq.com
 0.0.0.0 bdlmggcs1.familydoctor.com.cn
@@ -3047,6 +3061,7 @@
 0.0.0.0 becode.qiushibaike.com
 0.0.0.0 becode.xiao84.com
 0.0.0.0 beijing.buzhi5.com
+0.0.0.0 bhaoea.cn
 0.0.0.0 book.114la.cn
 0.0.0.0 boy.fujieace.com
 0.0.0.0 bstatic.1kejian.com
@@ -3200,6 +3215,7 @@
 0.0.0.0 fxjs.2541.com
 0.0.0.0 fzb01.qiushibaike.com
 0.0.0.0 g.3lian.com
+0.0.0.0 g.gegeyingshi.com
 0.0.0.0 g.pgu.cc
 0.0.0.0 g1.pptair.com
 0.0.0.0 g1.taijuba.com
@@ -3324,7 +3340,6 @@
 0.0.0.0 linyao.dxsdb.com
 0.0.0.0 lixiangmo.com
 0.0.0.0 ll38.com
-0.0.0.0 lm.dawenxue.org
 0.0.0.0 lm1.tuliu.com
 0.0.0.0 lm1.wzpcw.com
 0.0.0.0 lmz.9939.com
@@ -3505,7 +3520,6 @@
 0.0.0.0 wshufa.com
 0.0.0.0 wuliao.chzsport.cn
 0.0.0.0 wuliao.juqingba.cn
-0.0.0.0 www1.qicheyinyue.wang
 0.0.0.0 wyzq.rehuwang.com
 0.0.0.0 x.mtrend.cn
 0.0.0.0 x1.kantu.com
@@ -3704,7 +3718,9 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
-0.0.0.0 wzxw7.com
+0.0.0.0 2p1ih.cn
+0.0.0.0 weimeicar.cn
+0.0.0.0 k2n0f.cn
 0.0.0.0 01w47q.cn
 0.0.0.0 0234408.cn
 0.0.0.0 02m5j.cn
@@ -3727,6 +3743,7 @@
 0.0.0.0 119cgpt.com
 0.0.0.0 12381236.com
 0.0.0.0 12jf3.cn
+0.0.0.0 12rng.cn
 0.0.0.0 1314sss.top
 0.0.0.0 168xiazai.com
 0.0.0.0 17bqg.top
@@ -3796,8 +3813,11 @@
 0.0.0.0 5q80n.cn
 0.0.0.0 5tbiec.cn
 0.0.0.0 5x0f.cn
+0.0.0.0 5yv2e.cn
 0.0.0.0 5yw4n.cn
+0.0.0.0 605296.com
 0.0.0.0 606w.cn
+0.0.0.0 609623.com
 0.0.0.0 63xs.com:8016
 0.0.0.0 64si.com
 0.0.0.0 678sky.com
@@ -4243,6 +4263,7 @@
 0.0.0.0 fxfhjs.com
 0.0.0.0 fxunn.com
 0.0.0.0 fy4zb.cn
+0.0.0.0 fyehare.com
 0.0.0.0 fyjyhm.com
 0.0.0.0 fzdfwy.com
 0.0.0.0 fzxrjx.com
@@ -4435,6 +4456,7 @@
 0.0.0.0 hzzfan.com
 0.0.0.0 i-components.net
 0.0.0.0 i05h.cn
+0.0.0.0 i36mf.cn
 0.0.0.0 ia22.com
 0.0.0.0 iamqqo85467.cn
 0.0.0.0 iangp.com
@@ -5202,6 +5224,7 @@
 0.0.0.0 wxvsj.com.cn
 0.0.0.0 wywna.cn
 0.0.0.0 wzn4.cn
+0.0.0.0 wzxw7.com
 0.0.0.0 x3e2c.cn
 0.0.0.0 x5cc5z.cn
 0.0.0.0 xabtx.com
