@@ -1,9 +1,18 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sun, 22 Dec 2019 22:42:12 +0800
+# Last converted - Sat, 28 Dec 2019 23:20:14 +0800
 #
 
+0.0.0.0 mc.yandex.ru
+0.0.0.0 track.segmentstream.com
+0.0.0.0 vboro.de
+0.0.0.0 barddfvgkhctch11.ru
+0.0.0.0 tr.webantenna.info
+0.0.0.0 trkn.us
+0.0.0.0 counter.pixplug.in
+0.0.0.0 referer.pixplug.in
+0.0.0.0 visitor.pixplug.in
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 email-reflex.com
 0.0.0.0 tracker.azet.sk
@@ -3241,6 +3250,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 journey.unicef.de
 0.0.0.0 telemetry.art19.com
 0.0.0.0 track.berliner-kurier.de
 0.0.0.0 collect.usefathom.com
@@ -4750,6 +4760,10 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 adj.st
+0.0.0.0 log.apk.v-mate.mobi
+0.0.0.0 track.mobshark.net
+0.0.0.0 dsp-adcreative.mobshark.net
+0.0.0.0 dsptrack.mobshark.net
 0.0.0.0 analytics.metrix.ir
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 dsp-tracking.unityads.unity3d.com
