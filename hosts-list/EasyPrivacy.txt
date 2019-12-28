@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sun, 22 Dec 2019 22:42:15 +0800
+# Last converted - Sat, 28 Dec 2019 23:20:18 +0800
 #
 
 0.0.0.0 0emm.com
@@ -3330,6 +3330,7 @@
 0.0.0.0 diplomahawaii.com
 0.0.0.0 ejyymghi.com
 0.0.0.0 endurablecrayon.comthird-party
+0.0.0.0 fadedsnow.com
 0.0.0.0 falseframe.com
 0.0.0.0 familiarfloor.com
 0.0.0.0 familiarrod.com
@@ -3397,7 +3398,9 @@
 0.0.0.0 sharppatch.com
 0.0.0.0 shelterstraw.com
 0.0.0.0 shermore.info
+0.0.0.0 shyseed.com
 0.0.0.0 sicksmash.com
+0.0.0.0 smashsurprise.com
 0.0.0.0 sombersurprise.com
 0.0.0.0 sortsummer.com
 0.0.0.0 spiffymachine.com
@@ -3951,6 +3954,7 @@
 0.0.0.0 gallupnet.fi
 0.0.0.0 inpref.com
 0.0.0.0 kavijaseuranta.fi
+0.0.0.0 leiki.com
 0.0.0.0 m-brain.fi
 0.0.0.0 netmonitor.fi
 0.0.0.0 stat.www.fi
@@ -4050,6 +4054,8 @@
 0.0.0.0 ec-concier.com
 0.0.0.0 ec-optimizer.com
 0.0.0.0 eco-tag.jp
+0.0.0.0 f-counter.jp
+0.0.0.0 f-counter.net
 0.0.0.0 genieedmp.com
 0.0.0.0 genieessp.jp
 0.0.0.0 gmodmp.jp
@@ -4075,6 +4081,7 @@
 0.0.0.0 pdmp.jp
 0.0.0.0 polymorphicads.jp
 0.0.0.0 r-ad.ne.jp
+0.0.0.0 rays-counter.com
 0.0.0.0 rentracks.jp
 0.0.0.0 research-artisan.com
 0.0.0.0 rtoaster.jp
@@ -4913,6 +4920,7 @@
 0.0.0.0 gsp1.baidu.com
 0.0.0.0 gtrk.s3.amazonaws.com
 0.0.0.0 gu-pix.appspot.com
+0.0.0.0 happen.spkt.io
 0.0.0.0 harvester.ext.square-enix-europe.com
 0.0.0.0 hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com
 0.0.0.0 heals.msgfocus.com
@@ -4939,6 +4947,7 @@
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 informer.yandex.ru
 0.0.0.0 insight.mintel.com
+0.0.0.0 insight.rapid7.com
 0.0.0.0 insights.gravity.com
 0.0.0.0 insights.plista.com
 0.0.0.0 insitez.blob.core.windows.net
@@ -5369,6 +5378,7 @@
 0.0.0.0 tr1.mailperformance.com
 0.0.0.0 tra.pmdstatic.net
 0.0.0.0 tra.scds.pmdstatic.net
+0.0.0.0 traccoon.intellectsoft.net
 0.0.0.0 trace.qq.com
 0.0.0.0 track.99acres.com
 0.0.0.0 track.addevent.com
@@ -5538,6 +5548,7 @@
 0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 userlog.synapseip.tv
 0.0.0.0 usersegment.wpdigital.net
+0.0.0.0 v.shopify.com
 0.0.0.0 vertical-stats.huffpost.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 videoevents.outbrain.com
@@ -5763,6 +5774,7 @@
 0.0.0.0 msg.71.am
 0.0.0.0 n.yunshipei.com
 0.0.0.0 p.aty.sohu.com
+0.0.0.0 p.tencentmind.com
 0.0.0.0 pos.baidu.com
 0.0.0.0 pv.hd.sohu.com
 0.0.0.0 pv.sohu.com
@@ -5882,6 +5894,7 @@
 0.0.0.0 speee-ad.akamaized.net
 0.0.0.0 sync.shinobi.jp
 0.0.0.0 torimochi.line-apps.com
+0.0.0.0 track.thebase.in
 0.0.0.0 trck.dlpo.jp
 0.0.0.0 userdive.com
 0.0.0.0 webtracker.jp
@@ -6076,6 +6089,7 @@
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.meaww.com
 0.0.0.0 analytics.mindjolt.com
+0.0.0.0 analytics.mouthshut.com
 0.0.0.0 analytics.newsinc.com
 0.0.0.0 analytics.ngfiles.com
 0.0.0.0 analytics.plex.tv
@@ -6330,6 +6344,7 @@
 0.0.0.0 hitcount.heraldm.com
 0.0.0.0 hitweb2.chosun.com
 0.0.0.0 hrum.hotelsapi.io
+0.0.0.0 i.pokernews.com
 0.0.0.0 ibeat.indiatimes.com
 0.0.0.0 ibs.indiatimes.com
 0.0.0.0 id.allegisgroup.com
@@ -6394,6 +6409,7 @@
 0.0.0.0 marketing.kalahari.net
 0.0.0.0 marketing.nodesource.com
 0.0.0.0 mcdp-sadc1.outbrain.com
+0.0.0.0 measure.office.com
 0.0.0.0 merlin.abc.go.com
 0.0.0.0 metric-agent.i10c.net
 0.0.0.0 metric.gstatic.com
@@ -6776,6 +6792,7 @@
 0.0.0.0 t.cinemablend.com
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 t.eharmony.com
+0.0.0.0 t.freelancer.com
 0.0.0.0 t.indeed.com
 0.0.0.0 t.kck.st
 0.0.0.0 t.my.jobs
@@ -7052,6 +7069,7 @@
 0.0.0.0 tdf1.admyjob.com
 0.0.0.0 tpa7.iahorro.com
 0.0.0.0 tsj0.madeindesign.com
+0.0.0.0 upz1.destinia.lt
 0.0.0.0 uue2.destinia.ir
 0.0.0.0 vbe.voyage-prive.be
 0.0.0.0 vch.voyage-prive.ch
@@ -7067,6 +7085,9 @@
 0.0.0.0 vry9.destinia.com
 0.0.0.0 vtf2f.banque-casino.fr
 0.0.0.0 we.wecanimal.pt
+0.0.0.0 wph2.destinia.us
+0.0.0.0 xay5o.toscane-boutique.fr
+0.0.0.0 xfn6.monaco.edu
 0.0.0.0 xy33.smallable.com
 0.0.0.0 yoc.younited-credit.com
 0.0.0.0 cdn1.pebx.pl
@@ -7234,6 +7255,7 @@
 0.0.0.0 al.autohome.com.cn
 0.0.0.0 analy.qq.com
 0.0.0.0 analyse.weather.com.cn
+0.0.0.0 analytics.126.net
 0.0.0.0 analytics.163.com
 0.0.0.0 analytics.nextmedia.com
 0.0.0.0 analytics.shop.hisense.com
@@ -7348,6 +7370,7 @@
 0.0.0.0 webstat.kuwo.cn
 0.0.0.0 wl.jd.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
+0.0.0.0 zz.bdstatic.com
 0.0.0.0 stat.novinky.cz
 0.0.0.0 analytics.rambla.be
 0.0.0.0 logs.ggweb.nl
@@ -7396,6 +7419,7 @@
 0.0.0.0 scis.tbs.co.jp
 0.0.0.0 sy.amebame.com
 0.0.0.0 sy.ameblo.jp
+0.0.0.0 tr.api.itmedia.jp
 0.0.0.0 visit.geocities.jp
 0.0.0.0 wisteria-js.excite.co.jp
 0.0.0.0 x.allabout.co.jp
