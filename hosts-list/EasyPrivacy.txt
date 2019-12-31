@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sat, 28 Dec 2019 23:20:18 +0800
+# Last converted - Tue, 31 Dec 2019 12:54:37 +0800
 #
 
 0.0.0.0 0emm.com
@@ -6305,6 +6305,7 @@
 0.0.0.0 gc.newsweek.com
 0.0.0.0 gcpdata.telegraph.co.uk
 0.0.0.0 gekko.spiceworks.com
+0.0.0.0 geo.battle.net
 0.0.0.0 geo.hltv.org
 0.0.0.0 geo.homepage-web.com
 0.0.0.0 geo.metronews.ca
@@ -7233,7 +7234,6 @@
 0.0.0.0 p.pagesjaunes.fr
 0.0.0.0 pam.nextinpact.com
 0.0.0.0 pwa.telephoneannuaire.fr
-0.0.0.0 r.orange.fr
 0.0.0.0 sa.tf1.fr
 0.0.0.0 secure-stat.canal-plus.com
 0.0.0.0 stat.ouedkniss.com
