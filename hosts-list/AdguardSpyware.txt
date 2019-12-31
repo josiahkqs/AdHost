@@ -1,9 +1,10 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sat, 28 Dec 2019 23:20:14 +0800
+# Last converted - Tue, 31 Dec 2019 12:54:34 +0800
 #
 
+0.0.0.0 betohomeall.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 track.segmentstream.com
 0.0.0.0 vboro.de
