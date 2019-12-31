@@ -1,9 +1,10 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sat, 28 Dec 2019 23:20:12 +0800
+# Last converted - Tue, 31 Dec 2019 12:54:33 +0800
 #
 
+0.0.0.0 ftd2q1g8id1z.ru
 0.0.0.0 pagiwp.com
 0.0.0.0 you-cant-win.com
 0.0.0.0 adbean.ru
