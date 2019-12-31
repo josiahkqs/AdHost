@@ -1,12 +1,9 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Sat, 28 Dec 2019 23:19:47 +0800
+# Last converted - Tue, 31 Dec 2019 12:54:25 +0800
 #
 
-0.0.0.0 superli666.top
-0.0.0.0 shengdianwang.cc
-0.0.0.0 baiyuandian.cc
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -517,6 +514,7 @@
 0.0.0.0 baiapk.com
 0.0.0.0 baidu360haosou.info
 0.0.0.0 baiduace.com
+0.0.0.0 baiducom.bj.bcebos.com
 0.0.0.0 baidujavascript.com
 0.0.0.0 baidulao.com
 0.0.0.0 baiduvip.life
@@ -524,6 +522,7 @@
 0.0.0.0 baiduyubaidu.com
 0.0.0.0 baisuijk.com
 0.0.0.0 baitaiad.com
+0.0.0.0 baiyuandian.cc
 0.0.0.0 baizhu.cc
 0.0.0.0 bajieyy.cc
 0.0.0.0 balmoralmkt.com
@@ -1056,6 +1055,7 @@
 0.0.0.0 hezhenzi.com
 0.0.0.0 hfjuki.com
 0.0.0.0 hfsteel.net
+0.0.0.0 hg-labs.com
 0.0.0.0 hhhhbf.com
 0.0.0.0 hhly88.com
 0.0.0.0 hhppyt.com
@@ -1415,6 +1415,7 @@
 0.0.0.0 lzmm8.com
 0.0.0.0 lzwla.top
 0.0.0.0 lzzqqc.com
+0.0.0.0 magictreehouse.cn
 0.0.0.0 magiphone.cn
 0.0.0.0 maibahe300cc.com
 0.0.0.0 mainbx.com
@@ -1624,6 +1625,7 @@
 0.0.0.0 qilashou.com
 0.0.0.0 qingqu.la
 0.0.0.0 qinqiaotrade.com
+0.0.0.0 qipskd.cn
 0.0.0.0 qiqivv.com
 0.0.0.0 qiqiww.com
 0.0.0.0 qiqiyii.com
@@ -1689,6 +1691,7 @@
 0.0.0.0 rmetop.com
 0.0.0.0 roay.cn
 0.0.0.0 rongchengxxw.com
+0.0.0.0 rongdingwl.cn
 0.0.0.0 rpaulfrank.com
 0.0.0.0 rqgsf.com
 0.0.0.0 rrsubway.com
@@ -1729,6 +1732,7 @@
 0.0.0.0 sexy-more.com
 0.0.0.0 sfloushi.com
 0.0.0.0 sfxl.com.cn
+0.0.0.0 sfz023.com
 0.0.0.0 sgbfjs.info
 0.0.0.0 sgftrrs.com
 0.0.0.0 shama5.com
@@ -1739,6 +1743,7 @@
 0.0.0.0 sharele.cn
 0.0.0.0 sharrysweb.com
 0.0.0.0 shbywsd.cn
+0.0.0.0 shengdianwang.cc
 0.0.0.0 shenglonghg.net
 0.0.0.0 shentupk85.com
 0.0.0.0 shenyian.net
@@ -1810,6 +1815,8 @@
 0.0.0.0 sufficient.cn
 0.0.0.0 sums.suning.com
 0.0.0.0 superfish.com
+0.0.0.0 superli666.top
+0.0.0.0 suukcn.com
 0.0.0.0 swzhaohuo.com.cn
 0.0.0.0 sxbhzs.net
 0.0.0.0 sxcol.cn
@@ -2005,6 +2012,7 @@
 0.0.0.0 w65p.com
 0.0.0.0 waihui518.com
 0.0.0.0 walibao.com
+0.0.0.0 wanfukang.cc
 0.0.0.0 wangdaizao.com
 0.0.0.0 wangdddy.com
 0.0.0.0 wangdq.com
@@ -2130,6 +2138,7 @@
 0.0.0.0 xinasiaj.com
 0.0.0.0 xing678.com
 0.0.0.0 xingjuhe.com
+0.0.0.0 xingyao.doubiy.com
 0.0.0.0 xinlongrubber.com
 0.0.0.0 xinyijiasc.cn
 0.0.0.0 xiongdong.com
@@ -2273,6 +2282,7 @@
 0.0.0.0 ysm.ezprice.net
 0.0.0.0 ysnj74ed.com
 0.0.0.0 yuanhsu.com
+0.0.0.0 yuanmengbi.com
 0.0.0.0 yuanyanglw.com
 0.0.0.0 yueyetiyu.com
 0.0.0.0 yuggcd.com
@@ -2940,7 +2950,6 @@
 0.0.0.0 a1.aluntan.com
 0.0.0.0 a1.bestopview.com
 0.0.0.0 a1.bookapka.com
-0.0.0.0 a1.chajiaotong.com
 0.0.0.0 a1.firstgw.com
 0.0.0.0 a1.gexing.me
 0.0.0.0 a1.juzih.com
@@ -3416,6 +3425,7 @@
 0.0.0.0 ppt.tianya999.com
 0.0.0.0 psywed.com
 0.0.0.0 ptw.la
+0.0.0.0 q1.yyxwzx.com
 0.0.0.0 qcjslm.com
 0.0.0.0 qifake.com
 0.0.0.0 qiji1.jdwx.info
@@ -3718,9 +3728,7 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
-0.0.0.0 2p1ih.cn
-0.0.0.0 weimeicar.cn
-0.0.0.0 k2n0f.cn
+0.0.0.0 7ef4d.cn
 0.0.0.0 01w47q.cn
 0.0.0.0 0234408.cn
 0.0.0.0 02m5j.cn
@@ -3750,6 +3758,7 @@
 0.0.0.0 17zheng.cn
 0.0.0.0 183pu.cn
 0.0.0.0 1fv3b.cn
+0.0.0.0 1h4ig.cn
 0.0.0.0 1j2h31.cn
 0.0.0.0 1k4vd.cn
 0.0.0.0 1mb034.cn
@@ -3769,6 +3778,7 @@
 0.0.0.0 2fnrc.cn
 0.0.0.0 2hqd0b.cn
 0.0.0.0 2ktd0.cn
+0.0.0.0 2p1ih.cn
 0.0.0.0 2r3485.cn
 0.0.0.0 2scjbg.com
 0.0.0.0 2shoushi.com
@@ -4576,6 +4586,7 @@
 0.0.0.0 jyhwt.cn
 0.0.0.0 jyjhkz.com
 0.0.0.0 jzntxs.com
+0.0.0.0 k2n0f.cn
 0.0.0.0 k5ai3c.cn
 0.0.0.0 k7tju.xyz
 0.0.0.0 k859n.cn
@@ -4691,6 +4702,7 @@
 0.0.0.0 lzjycy.com
 0.0.0.0 lzkjsj.com
 0.0.0.0 lzytt.com
+0.0.0.0 m19ud.cn
 0.0.0.0 m216j.cn
 0.0.0.0 m4ztka.cn
 0.0.0.0 m652a.cn
@@ -5181,6 +5193,7 @@
 0.0.0.0 weboser.com
 0.0.0.0 wechatpu.com
 0.0.0.0 weikefanli.com
+0.0.0.0 weimeicar.cn
 0.0.0.0 weiziqiang.top
 0.0.0.0 wenbangsh.com.cn
 0.0.0.0 wenzhougy.cn
