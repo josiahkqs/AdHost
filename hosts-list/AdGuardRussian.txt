@@ -1,9 +1,15 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 31 Dec 2019 12:54:33 +0800
+# Last converted - Mon, 13 Jan 2020 18:24:40 +0800
 #
 
+0.0.0.0 go.xl.ua$document
+0.0.0.0 go.ukrleads.com$document
+0.0.0.0 mdyhb.com
+0.0.0.0 adstime.org
+0.0.0.0 admitad-connect.com
+0.0.0.0 fqab5xq7qlgt.info
 0.0.0.0 ftd2q1g8id1z.ru
 0.0.0.0 pagiwp.com
 0.0.0.0 you-cant-win.com
