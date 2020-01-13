@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Sat, 28 Dec 2019 23:20:11 +0800
+# Last converted - Mon, 13 Jan 2020 18:24:38 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -28,6 +28,7 @@
 0.0.0.0 iubenda.com
 0.0.0.0 r42tag.com
 0.0.0.0 cookieq.com
+0.0.0.0 usercentrics.eu
 0.0.0.0 cmp.macworld.co.uk
 0.0.0.0 consent.prismamedia.com
 0.0.0.0 rodo.agora.pl
@@ -89,6 +90,7 @@
 0.0.0.0 easyfeeed.com
 0.0.0.0 vinuser5.biz
 0.0.0.0 ss.6ib.ru
+0.0.0.0 tempersonic.com
 0.0.0.0 informfeed.ru
 0.0.0.0 bildirt.com
 0.0.0.0 cracataum.com
