@@ -1,9 +1,11 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Tue, 31 Dec 2019 12:54:34 +0800
+# Last converted - Mon, 13 Jan 2020 18:24:42 +0800
 #
 
+0.0.0.0 scripts.jixie.io
+0.0.0.0 tr.jixie.io
 0.0.0.0 betohomeall.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 track.segmentstream.com
@@ -2995,6 +2997,8 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 fadedsnow.com
+0.0.0.0 nervoussummer.com
 0.0.0.0 horsenectar.com
 0.0.0.0 symbolizebeast.com
 0.0.0.0 cannontwin.com
@@ -3251,8 +3255,10 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 counter.pr-cy.ru
 0.0.0.0 journey.unicef.de
 0.0.0.0 telemetry.art19.com
+0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 track.berliner-kurier.de
 0.0.0.0 collect.usefathom.com
 0.0.0.0 wwwlog.thebell.co.kr
@@ -4846,7 +4852,6 @@
 0.0.0.0 omni-ads.omni.news
 0.0.0.0 npario-inc.net
 0.0.0.0 engine.mobileapptracking.com
-0.0.0.0 open.oneplus.net
 0.0.0.0 wzrkt.com
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 e-ssl.apsalar.com
