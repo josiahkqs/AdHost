@@ -356,3 +356,5 @@
 0.0.0.0 redir.bebi.com # Ads
 0.0.0.0 bu.mkklcdnbuv1.com # Phishing
 0.0.0.0 emulator.games # Spam
+0.0.0.0 assets.novalymedia.com # Phishing
+0.0.0.0 api.novalymedia.com # Phishing
