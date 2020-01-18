@@ -358,3 +358,7 @@
 0.0.0.0 emulator.games # Spam
 0.0.0.0 assets.novalymedia.com # Phishing
 0.0.0.0 api.novalymedia.com # Phishing
+0.0.0.0 dadbab.info # Spam
+0.0.0.0 js.kiwihk.net # Spam 
+0.0.0.0 tracker.mtrtb.com # Ads
+0.0.0.0 redirector.googlevideo.com # Possible Ads
