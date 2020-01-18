@@ -1,9 +1,15 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Mon, 13 Jan 2020 18:24:42 +0800
+# Last converted - Sat, 18 Jan 2020 22:43:05 +0800
 #
 
+0.0.0.0 deliver.ptgncdn.com
+0.0.0.0 u-on.eu
+0.0.0.0 steadfastsystem.com
+0.0.0.0 monetate.net
+0.0.0.0 instana.io
+0.0.0.0 sitelabweb.com
 0.0.0.0 scripts.jixie.io
 0.0.0.0 tr.jixie.io
 0.0.0.0 betohomeall.com
@@ -2101,7 +2107,6 @@
 0.0.0.0 prostats.it
 0.0.0.0 provenpixel.com
 0.0.0.0 providence.voxmedia.com
-0.0.0.0 proxad.net
 0.0.0.0 prtracker.com
 0.0.0.0 pstats.com
 0.0.0.0 psyma-statistics.com
@@ -2997,6 +3002,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 farshake.com
 0.0.0.0 fadedsnow.com
 0.0.0.0 nervoussummer.com
 0.0.0.0 horsenectar.com
@@ -3255,6 +3261,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 apv-launcher.minute.ly
 0.0.0.0 counter.pr-cy.ru
 0.0.0.0 journey.unicef.de
 0.0.0.0 telemetry.art19.com
