@@ -1,14 +1,20 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Mon, 13 Jan 2020 18:24:40 +0800
+# Last converted - Sat, 18 Jan 2020 22:43:00 +0800
 #
 
+0.0.0.0 bigoff.info
+0.0.0.0 bigpigcz.club
+0.0.0.0 oschgds.pro
+0.0.0.0 sfsudsf.pro
+0.0.0.0 vgjackpot5.com
+0.0.0.0 tirsmile.pro
+0.0.0.0 redarianman.com
 0.0.0.0 go.xl.ua$document
 0.0.0.0 go.ukrleads.com$document
 0.0.0.0 mdyhb.com
 0.0.0.0 adstime.org
-0.0.0.0 admitad-connect.com
 0.0.0.0 fqab5xq7qlgt.info
 0.0.0.0 ftd2q1g8id1z.ru
 0.0.0.0 pagiwp.com
@@ -3796,6 +3802,7 @@
 0.0.0.0 zmctrack.net
 0.0.0.0 ritzysponge.com
 0.0.0.0 dondlo.
+0.0.0.0 smi.today
 0.0.0.0 readto.ru
 0.0.0.0 adwile.com
 0.0.0.0 api.rnet.plus
@@ -3819,31 +3826,31 @@
 0.0.0.0 ukrmedia.center
 0.0.0.0 vi.bigmir.net
 0.0.0.0 widget.mediastealer.com
+0.0.0.0 mixervanga.ru$document
 0.0.0.0 runewslenta.com$document
-0.0.0.0 runewslenta.com
-0.0.0.0 okaynews.me
-0.0.0.0 newsandpolik.ru
-0.0.0.0 blamper-news.ru
-0.0.0.0 blamper-novosti.ru
-0.0.0.0 blamper.ru
-0.0.0.0 fin-vecto.ru
-0.0.0.0 fin-vector.ru
-0.0.0.0 ognyvo-topnews.ru
-0.0.0.0 ognyvo.ru
-0.0.0.0 ognyvo24.ru
-0.0.0.0 polit-e-fox.ru
-0.0.0.0 polit-fox.ru
-0.0.0.0 politfox.ru
-0.0.0.0 politfoxrf.ru
-0.0.0.0 ros-infonews.ru
-0.0.0.0 rosinfonews.ru
-0.0.0.0 rossinfonews.ru
-0.0.0.0 rossinfonewsrf.ru
-0.0.0.0 rustoria-topnews.ru
-0.0.0.0 secure.ognyvo.ru
-0.0.0.0 top-newsrustoria.ru
-0.0.0.0 topruistory.ru
-0.0.0.0 toprustory.ru
+0.0.0.0 okaynews.me$document
+0.0.0.0 newsandpolik.ru$document
+0.0.0.0 blamper-news.ru$document
+0.0.0.0 blamper-novosti.ru$document
+0.0.0.0 blamper.ru$document
+0.0.0.0 fin-vecto.ru$document
+0.0.0.0 fin-vector.ru$document
+0.0.0.0 ognyvo-topnews.ru$document
+0.0.0.0 ognyvo.ru$document
+0.0.0.0 ognyvo24.ru$document
+0.0.0.0 polit-e-fox.ru$document
+0.0.0.0 polit-fox.ru$document
+0.0.0.0 politfox.ru$document
+0.0.0.0 politfoxrf.ru$document
+0.0.0.0 ros-infonews.ru$document
+0.0.0.0 rosinfonews.ru$document
+0.0.0.0 rossinfonews.ru$document
+0.0.0.0 rossinfonewsrf.ru$document
+0.0.0.0 rustoria-topnews.ru$document
+0.0.0.0 secure.ognyvo.ru$document
+0.0.0.0 top-newsrustoria.ru$document
+0.0.0.0 topruistory.ru$document
+0.0.0.0 toprustory.ru$document
 0.0.0.0 bux4gm.ru
 0.0.0.0 spec.pitomec.ru
 0.0.0.0 a.fileplaneta.com
