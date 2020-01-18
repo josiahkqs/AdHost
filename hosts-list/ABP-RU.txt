@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Mon, 13 Jan 2020 18:24:35 +0800
+# Last converted - Sat, 18 Jan 2020 22:42:49 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -552,6 +552,7 @@
 0.0.0.0 downloadlitefree.net
 0.0.0.0 downloadlitefree.org
 0.0.0.0 downloadlitefree.ru
+0.0.0.0 drp.su
 0.0.0.0 dugtor-deer.pw
 0.0.0.0 elementsbrowser.com
 0.0.0.0 endocri.ru
@@ -1465,7 +1466,6 @@
 0.0.0.0 mydatingcash.com
 0.0.0.0 myinfocenter.ru
 0.0.0.0 myiphone.be
-0.0.0.0 myjane.ru
 0.0.0.0 myjulia.ru
 0.0.0.0 mysiten.ucoz.net
 0.0.0.0 mystatext.ru
@@ -2187,6 +2187,7 @@
 0.0.0.0 8ikr3dfn.ru
 0.0.0.0 8k0l2mpmvl1q.ru
 0.0.0.0 8nr2bisa.ru
+0.0.0.0 8pulse.com
 0.0.0.0 9189316dfa8cc4235250.date
 0.0.0.0 92c9b72955e2.com
 0.0.0.0 92ec94d51076357.com
@@ -2434,6 +2435,7 @@
 0.0.0.0 advtracker.ru
 0.0.0.0 advvedm.info
 0.0.0.0 advweb.ru
+0.0.0.0 adwels.ru
 0.0.0.0 adwidgets.ru
 0.0.0.0 adwise.agency
 0.0.0.0 adxgeeks.com
@@ -2619,6 +2621,7 @@
 0.0.0.0 asopla.com
 0.0.0.0 asowp.com
 0.0.0.0 aspignitean.com
+0.0.0.0 asrsrtat.pro
 0.0.0.0 assantie.com
 0.0.0.0 associazio.com
 0.0.0.0 associeta.com
@@ -2734,6 +2737,7 @@
 0.0.0.0 barrior.online
 0.0.0.0 bartponson.ru
 0.0.0.0 basbi.club
+0.0.0.0 basemedia.me
 0.0.0.0 basetts.com
 0.0.0.0 basewomen.ru
 0.0.0.0 bashirian.biz
@@ -2823,6 +2827,7 @@
 0.0.0.0 bigctr.best
 0.0.0.0 bigirum.ru
 0.0.0.0 bigleads.ru
+0.0.0.0 bigpigcz.club
 0.0.0.0 bigreal.org
 0.0.0.0 bigrtrust.ru
 0.0.0.0 bilation.com
@@ -3146,6 +3151,7 @@
 0.0.0.0 cloakac.com
 0.0.0.0 close7p.com
 0.0.0.0 cloud-tar.ru
+0.0.0.0 cloudfastads.ru
 0.0.0.0 cloudsdns.net
 0.0.0.0 club-vulkano.com
 0.0.0.0 clubleads.ru
@@ -4503,6 +4509,7 @@
 0.0.0.0 jonjo.cf
 0.0.0.0 jonjo.ga
 0.0.0.0 jonjo.life
+0.0.0.0 jootizud.net
 0.0.0.0 jorjfix.ru
 0.0.0.0 joulipodpodushkoy.ru
 0.0.0.0 jouzeeps.click
@@ -4758,6 +4765,7 @@
 0.0.0.0 lcads.ru
 0.0.0.0 leadadvert.ru
 0.0.0.0 leadmob.ru
+0.0.0.0 leads.black
 0.0.0.0 leads.su
 0.0.0.0 leannon.biz
 0.0.0.0 leannon.net
@@ -5031,6 +5039,7 @@
 0.0.0.0 mdlo324fsd.ru
 0.0.0.0 mdomata.ru
 0.0.0.0 mdvkn.com
+0.0.0.0 mdyhb.com
 0.0.0.0 mebablo.com
 0.0.0.0 mecash.ru
 0.0.0.0 med-rul.ru
@@ -5411,6 +5420,7 @@
 0.0.0.0 newmonetrate.ru
 0.0.0.0 newrrb.bid
 0.0.0.0 news-announce.org
+0.0.0.0 news-code.com
 0.0.0.0 news-network.ru
 0.0.0.0 news-obl.top
 0.0.0.0 news-super.com
@@ -5712,6 +5722,7 @@
 0.0.0.0 padfukkk.ru
 0.0.0.0 pagac.biz
 0.0.0.0 pagefair.com
+0.0.0.0 pagiwp.com
 0.0.0.0 pajigkcel.work
 0.0.0.0 palandan.com
 0.0.0.0 paleseyi.ru
@@ -6070,6 +6081,7 @@
 0.0.0.0 reallydistance.com
 0.0.0.0 realmon.ru
 0.0.0.0 realnetwrk.com
+0.0.0.0 realpush.network
 0.0.0.0 realtraf3.ru
 0.0.0.0 realtraf9.ru
 0.0.0.0 rebevengwas.com
@@ -7000,6 +7012,7 @@
 0.0.0.0 truefalsetalk.com
 0.0.0.0 truefilen32.com
 0.0.0.0 truemedic.ru
+0.0.0.0 truenat.bid
 0.0.0.0 truenty.com
 0.0.0.0 truksi.com
 0.0.0.0 trunderka.ru
@@ -7926,6 +7939,7 @@
 0.0.0.0 downloadlitefree.net
 0.0.0.0 downloadlitefree.org
 0.0.0.0 downloadlitefree.ru
+0.0.0.0 drp.su
 0.0.0.0 dugtor-deer.pw
 0.0.0.0 elementsbrowser.com
 0.0.0.0 endocri.ru
