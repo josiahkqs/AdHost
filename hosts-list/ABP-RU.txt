@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Sat, 18 Jan 2020 22:42:49 +0800
+# Last converted - Mon, 20 Jan 2020 10:51:45 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -2511,6 +2511,7 @@
 0.0.0.0 aliexpress-internet.ru
 0.0.0.0 aliexpressforyou.ru
 0.0.0.0 aliexpresskupit.ru
+0.0.0.0 alifenix.ru
 0.0.0.0 alitems.com
 0.0.0.0 all1ions.ru
 0.0.0.0 allbouttruth.info
@@ -5968,6 +5969,7 @@
 0.0.0.0 purige.ru
 0.0.0.0 purplegrasscolour.xyz
 0.0.0.0 push.exchange
+0.0.0.0 pushbasitop.ru
 0.0.0.0 pushmobilenews.com
 0.0.0.0 pushprofit.ru
 0.0.0.0 pustgovorjat.ru
