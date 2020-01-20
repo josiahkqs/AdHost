@@ -1,15 +1,9 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Sat, 18 Jan 2020 22:42:44 +0800
+# Last converted - Mon, 20 Jan 2020 10:51:41 +0800
 #
 
-0.0.0.0 zgtcar.com
-0.0.0.0 tngmn.com
-0.0.0.0 xiadaxiong.com
-0.0.0.0 t415n.cn
-0.0.0.0 sdaixz.xyz
-0.0.0.0 517xx.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -225,6 +219,7 @@
 0.0.0.0 5151gj.com
 0.0.0.0 517m.cn
 0.0.0.0 517pass.com
+0.0.0.0 517xx.com
 0.0.0.0 5188yy.com
 0.0.0.0 51ads.com
 0.0.0.0 51fuliwang.cn
@@ -599,6 +594,7 @@
 0.0.0.0 blogdaka.xyz
 0.0.0.0 bloggerads.net
 0.0.0.0 bmw100.cn
+0.0.0.0 bnq86.com
 0.0.0.0 bnuni.com
 0.0.0.0 borsendental.com
 0.0.0.0 bosatria.cn
@@ -934,6 +930,7 @@
 0.0.0.0 fjbzjc.com
 0.0.0.0 fjkst.com
 0.0.0.0 fjmeyer.com
+0.0.0.0 fjsjsj.com
 0.0.0.0 flashwing.net
 0.0.0.0 flowcodeapp.com
 0.0.0.0 fmad.cc
@@ -1088,6 +1085,7 @@
 0.0.0.0 heib12.top
 0.0.0.0 heima8.com
 0.0.0.0 hejingroup.cn
+0.0.0.0 helanpinpai.com
 0.0.0.0 hen360.com
 0.0.0.0 hengshui1.com
 0.0.0.0 hesxz.com
@@ -1117,6 +1115,7 @@
 0.0.0.0 hnyiche3.com
 0.0.0.0 hnyny.com
 0.0.0.0 hongchenzhilu.com
+0.0.0.0 hongtefm.com
 0.0.0.0 hot-eam.com
 0.0.0.0 houdaolj.com
 0.0.0.0 hqygz.com
@@ -1130,6 +1129,7 @@
 0.0.0.0 htg-x.com
 0.0.0.0 huaerduo.com
 0.0.0.0 huanqiucaizhi.com
+0.0.0.0 huapuzs.com
 0.0.0.0 huashengtai.net
 0.0.0.0 huashuowork.com
 0.0.0.0 hubojd.com
@@ -1672,7 +1672,6 @@
 0.0.0.0 pzrj6.top
 0.0.0.0 qarsza.cn
 0.0.0.0 qbyy010.com
-0.0.0.0 qchannel03.cn
 0.0.0.0 qclcdn.cn
 0.0.0.0 qcupup.com
 0.0.0.0 qdchunyu.com
@@ -1789,6 +1788,7 @@
 0.0.0.0 scriptcc.cc
 0.0.0.0 scw0.com
 0.0.0.0 sdagxz.xyz
+0.0.0.0 sdaixz.xyz
 0.0.0.0 sdhzstone.net
 0.0.0.0 sdjjr.com
 0.0.0.0 sdqoi2d.com
@@ -1913,6 +1913,8 @@
 0.0.0.0 szxiuchang.com
 0.0.0.0 szxpsg.com
 0.0.0.0 t3nlink.com
+0.0.0.0 t415n.cn
+0.0.0.0 t58b.com
 0.0.0.0 t70123.com
 0.0.0.0 ta80.com
 0.0.0.0 taat00889.com
@@ -1963,6 +1965,7 @@
 0.0.0.0 tjqonline.cn
 0.0.0.0 tjys88.com
 0.0.0.0 tkd777.cn
+0.0.0.0 tngmn.com
 0.0.0.0 to8to.com
 0.0.0.0 togo666.com
 0.0.0.0 tongdejiayuan.com
@@ -2021,6 +2024,7 @@
 0.0.0.0 ucrzgcs.cn
 0.0.0.0 ucstatic.cn
 0.0.0.0 uctrac.com
+0.0.0.0 ucxgg.com
 0.0.0.0 ucxxii.com
 0.0.0.0 ueadlian.com
 0.0.0.0 ufstone.com
@@ -2197,6 +2201,7 @@
 0.0.0.0 xhxnkyy.com
 0.0.0.0 xhydrs.cn
 0.0.0.0 xi0021.com
+0.0.0.0 xiadaxiong.com
 0.0.0.0 xiald.com
 0.0.0.0 xiang7.vip
 0.0.0.0 xiaobiaoucai.cn
@@ -2246,6 +2251,7 @@
 0.0.0.0 xn--wxtr9fwyxk9c.site
 0.0.0.0 xn--wxtr9fwyxk9c.top
 0.0.0.0 xn--wxtr9fwyxk9c.xn--io0a7i
+0.0.0.0 xn--xhq9mt12cf5v.ink
 0.0.0.0 xn--xhq9mt12cf5v.ren
 0.0.0.0 xn--xhq9mt12cf5v.shop
 0.0.0.0 xn--xhq9mt12cf5v.site
@@ -2415,6 +2421,7 @@
 0.0.0.0 zgksb.com
 0.0.0.0 zgktxx.com
 0.0.0.0 zgrsq.cn
+0.0.0.0 zgtcar.com
 0.0.0.0 zgunion.cn
 0.0.0.0 zgyemy.com
 0.0.0.0 zgyiyi.com
@@ -2561,6 +2568,7 @@
 0.0.0.0 acv5e.cn
 0.0.0.0 ad-api.cnblogs.com
 0.0.0.0 ad-img.diyidan.net
+0.0.0.0 ad.52av.one
 0.0.0.0 ad.bobi.tw
 0.0.0.0 ad.cdnjm.cn
 0.0.0.0 ad.walkgame.com
@@ -2856,7 +2864,6 @@
 0.0.0.0 zkrdy.com
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
-0.0.0.0 ad.52av.one
 0.0.0.0 immedlinkum.info
 0.0.0.0 xayah.date
 0.0.0.0 003store.com
@@ -4144,6 +4151,7 @@
 0.0.0.0 countersys.cn
 0.0.0.0 coveredsys.cn
 0.0.0.0 cpxkvc.com
+0.0.0.0 cqbaitong.cn
 0.0.0.0 cqgya.com
 0.0.0.0 cqhhct.com
 0.0.0.0 cqlxscdc.top
@@ -4739,10 +4747,12 @@
 0.0.0.0 liufang1994.top
 0.0.0.0 liujiaqi.top
 0.0.0.0 lixianze.top
+0.0.0.0 liyelaowu.cn
 0.0.0.0 ljuer.com
 0.0.0.0 lletd.cn
 0.0.0.0 llvez.com
 0.0.0.0 lnenz.com
+0.0.0.0 lolvsdota.cn
 0.0.0.0 longkoupeanut.cn
 0.0.0.0 louisan.cn
 0.0.0.0 lousivency.com.cn
