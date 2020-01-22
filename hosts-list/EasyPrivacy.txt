@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 20 Jan 2020 10:51:54 +0800
+# Last converted - Wed, 22 Jan 2020 22:45:46 +0800
 #
 
 0.0.0.0 0emm.com
@@ -507,7 +507,6 @@
 0.0.0.0 codata.ru
 0.0.0.0 cogmatch.net
 0.0.0.0 cognitivematch.com
-0.0.0.0 cohesionapps.com
 0.0.0.0 collarity.com
 0.0.0.0 collecting.click
 0.0.0.0 collserve.com
@@ -606,6 +605,7 @@
 0.0.0.0 dapxl.com
 0.0.0.0 dashboard.io
 0.0.0.0 data-analytics.jp
+0.0.0.0 data-dynamic.net
 0.0.0.0 databrain.com
 0.0.0.0 datacaciques.com
 0.0.0.0 datacoral.com
@@ -672,6 +672,7 @@
 0.0.0.0 dojomojo.ninja
 0.0.0.0 dominocounter.net
 0.0.0.0 domodomain.com
+0.0.0.0 dotaki.com
 0.0.0.0 dotomi.com
 0.0.0.0 doubleclick.net
 0.0.0.0 doubleverify.com
@@ -739,6 +740,7 @@
 0.0.0.0 enquisite.com
 0.0.0.0 ensighten.com
 0.0.0.0 enticelabs.com
+0.0.0.0 eolcdn.com
 0.0.0.0 ep4p.com
 0.0.0.0 eperfectdata.com
 0.0.0.0 epilot.com
@@ -1524,6 +1526,7 @@
 0.0.0.0 ondu.ru
 0.0.0.0 onecount.net
 0.0.0.0 onefeed.co.uk
+0.0.0.0 oneimpress.io
 0.0.0.0 onelink-translations.com
 0.0.0.0 onestat.com
 0.0.0.0 onetag-sys.com
@@ -2562,6 +2565,7 @@
 0.0.0.0 bewaslac.com
 0.0.0.0 biberukalap.com
 0.0.0.0 binarybusiness.de
+0.0.0.0 binarybusiness.de
 0.0.0.0 bitclub.network
 0.0.0.0 bitclubnetwork.com
 0.0.0.0 bitcoin-pay.eu
@@ -2581,6 +2585,8 @@
 0.0.0.0 chmproxy.bid
 0.0.0.0 clgserv.pro
 0.0.0.0 clod.pw
+0.0.0.0 cloud-miner.de
+0.0.0.0 cloud-miner.eu
 0.0.0.0 cloudcdn.gdn
 0.0.0.0 cloudcoins.co
 0.0.0.0 cloudflane.com
@@ -2634,6 +2640,7 @@
 0.0.0.0 dubester.space
 0.0.0.0 duckdns.org,websocket
 0.0.0.0 dzizsih.ru
+0.0.0.0 easyhash.de
 0.0.0.0 easyhash.io
 0.0.0.0 encoding.ovh
 0.0.0.0 etacontent.com
@@ -3577,6 +3584,7 @@
 0.0.0.0 zt-dst.com
 0.0.0.0 accesstrade.net
 0.0.0.0 admatrix.jp
+0.0.0.0 af-z.jp
 0.0.0.0 aid-ad.jp
 0.0.0.0 amoad.com
 0.0.0.0 analyticsip.net
@@ -3596,6 +3604,7 @@
 0.0.0.0 ec-concier.com
 0.0.0.0 ec-optimizer.com
 0.0.0.0 eco-tag.jp
+0.0.0.0 eltex.co.jp
 0.0.0.0 f-counter.jp
 0.0.0.0 f-counter.net
 0.0.0.0 genieedmp.com
@@ -3610,6 +3619,7 @@
 0.0.0.0 iogous.com
 0.0.0.0 keyword-match.com
 0.0.0.0 kir.jp
+0.0.0.0 letro.jp
 0.0.0.0 macromill.com
 0.0.0.0 marsflag.com
 0.0.0.0 mobylog.jp
@@ -4008,6 +4018,7 @@
 0.0.0.0 analytics.recruitics.com
 0.0.0.0 analytics.reyrey.net
 0.0.0.0 analytics.rogersmedia.com
+0.0.0.0 analytics.salesanalytics.io
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.sleeknote.com
@@ -4131,6 +4142,7 @@
 0.0.0.0 cod.bitrec.com
 0.0.0.0 collect.igodigital.com
 0.0.0.0 collect.rewardstyle.com
+0.0.0.0 collect.usefathom.com
 0.0.0.0 collector-api.99designs.com
 0.0.0.0 collector.automote.co.nz
 0.0.0.0 collector.contentexchange.me
@@ -4437,6 +4449,7 @@
 0.0.0.0 m.addthisedge.com
 0.0.0.0 m.trb.com
 0.0.0.0 magnify360-cdn.s3.amazonaws.com
+0.0.0.0 make.cohesionapps.com
 0.0.0.0 marketing.net.jumia.com.ng
 0.0.0.0 mas.nth.ch
 0.0.0.0 mc.webvisor.com
@@ -4709,6 +4722,7 @@
 0.0.0.0 tm.vendemore.com
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 tower.moviepilot.com
+0.0.0.0 tpx.tesseradigital.com
 0.0.0.0 tr.cloud-media.fr
 0.0.0.0 tr.connatix.com
 0.0.0.0 tr.interlake.net
@@ -5115,6 +5129,7 @@
 0.0.0.0 tracy.sadv.dadapro.com
 0.0.0.0 vppst.iltrovatore.it
 0.0.0.0 analysis.shinobi.jp
+0.0.0.0 analytics.liveact.cri-mw.jp
 0.0.0.0 analyzer51.fc2.com
 0.0.0.0 asumi.shinobi.jp
 0.0.0.0 clickanalyzer.jp
@@ -5249,6 +5264,7 @@
 0.0.0.0 st.tmgrup.com.tr
 0.0.0.0 counter.opinion.com.ua
 0.0.0.0 informers.sinoptik.ua
+0.0.0.0 analytics.yomedia.vn
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 abeagle-public.buzzfeed.com
@@ -6118,10 +6134,12 @@
 0.0.0.0 eulerian.sarenza.com
 0.0.0.0 eulerian.splendia.com
 0.0.0.0 eultech.fnac.com
+0.0.0.0 eur3.mvjcdn.com
 0.0.0.0 exd4.destinia.com.au
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 fsz1.francoisesaget.com
 0.0.0.0 gdm1.toner.fr
+0.0.0.0 gjr5.yoigo.com
 0.0.0.0 guq9.vente-unique.it
 0.0.0.0 mj23.eulerian.com
 0.0.0.0 mo.moonpig.com
@@ -6137,30 +6155,58 @@
 0.0.0.0 po.ponant.com
 0.0.0.0 ski1.skiset.com
 0.0.0.0 sls2.loisirsencheres.com
+0.0.0.0 ssrlot.lotoquebec.com
+0.0.0.0 sykc.madeindesign.ch
+0.0.0.0 t.locasun.de
+0.0.0.0 t.locasun.es
+0.0.0.0 t.locasun.fr
+0.0.0.0 t.locasun.it
+0.0.0.0 t.locasun.nl
 0.0.0.0 tdf1.admyjob.com
+0.0.0.0 tdf1.easyviaggio.com
+0.0.0.0 tdf1.easyviajar.com
+0.0.0.0 tdf1.easyvols.fr
+0.0.0.0 tdf1.easyvoyage.co.uk
+0.0.0.0 tdf1.easyvoyage.com
+0.0.0.0 tdf1.easyvoyage.de
+0.0.0.0 tdf1.laredoute.fr
+0.0.0.0 tdf1.vente-unique.pt
+0.0.0.0 tlp5.mimale.com
 0.0.0.0 tpa7.iahorro.com
+0.0.0.0 tracking.3ds.com
 0.0.0.0 tsj0.madeindesign.com
+0.0.0.0 tvl8.supdecreation.com
 0.0.0.0 upz1.destinia.lt
 0.0.0.0 uue2.destinia.ir
 0.0.0.0 vbe.voyage-prive.be
 0.0.0.0 vch.voyage-prive.ch
 0.0.0.0 vde1.voyage-prive.de
+0.0.0.0 vet0.carrefour-banque.fr
 0.0.0.0 vfo.voyage-prive.co.uk
+0.0.0.0 vgo.vegaoo.co.uk
 0.0.0.0 vgo.vegaoo.de
 0.0.0.0 vgo.vegaoo.es
 0.0.0.0 vgo.vegaoo.nl
+0.0.0.0 vgo.vegaoo.pt
 0.0.0.0 vgo.vegaooparty.com
+0.0.0.0 vgo.vegaoopro.com
 0.0.0.0 vnf4.belleetbio.com
 0.0.0.0 vnl1.voyage-prive.nl
 0.0.0.0 vpf4.euskaltelofertas.com
 0.0.0.0 vry9.destinia.com
 0.0.0.0 vtf2f.banque-casino.fr
+0.0.0.0 wdr9.inseec.com
 0.0.0.0 we.wecanimal.pt
 0.0.0.0 wph2.destinia.us
 0.0.0.0 xay5o.toscane-boutique.fr
 0.0.0.0 xfn6.monaco.edu
 0.0.0.0 xy33.smallable.com
+0.0.0.0 yh6u.dealeusedevoyages.com
 0.0.0.0 yoc.younited-credit.com
+0.0.0.0 znq9.destinia.mx
+0.0.0.0 zrw1.destinia.jp
+0.0.0.0 zsi7.destinia.do
+0.0.0.0 zyq2.destinia.sk
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 piti.bplaced.net
@@ -6290,6 +6336,7 @@
 0.0.0.0 p.pagesjaunes.fr
 0.0.0.0 pam.nextinpact.com
 0.0.0.0 pwa.telephoneannuaire.fr
+0.0.0.0 rdtdlv.laredoute.fr
 0.0.0.0 sa.tf1.fr
 0.0.0.0 secure-stat.canal-plus.com
 0.0.0.0 stat.ouedkniss.com
@@ -6301,6 +6348,7 @@
 0.0.0.0 tag.boulanger.fr
 0.0.0.0 tc.hometogo.net
 0.0.0.0 tdep.vacansoleil.fr
+0.0.0.0 tesla.oscaro.com
 0.0.0.0 track.24heures.ch
 0.0.0.0 tracker-id.cdiscount.com
 0.0.0.0 tracker.cds-tracking.com
