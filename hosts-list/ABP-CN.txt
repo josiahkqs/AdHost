@@ -1,9 +1,11 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Mon, 20 Jan 2020 10:51:41 +0800
+# Last converted - Wed, 22 Jan 2020 22:45:26 +0800
 #
 
+0.0.0.0 yifuls.com
+0.0.0.0 vxsnk.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -810,7 +812,6 @@
 0.0.0.0 dlpifu.com
 0.0.0.0 dlrijiaele.com
 0.0.0.0 dlzjdesign.com
-0.0.0.0 dm1080p.com
 0.0.0.0 dmtrck.com
 0.0.0.0 dnskuu.com
 0.0.0.0 dnvus.com
@@ -1213,6 +1214,7 @@
 0.0.0.0 iyoowi.com
 0.0.0.0 iyygzs.com
 0.0.0.0 j8j9.com
+0.0.0.0 j94.cc
 0.0.0.0 ja9377.com
 0.0.0.0 jackaow.com
 0.0.0.0 jbyy010.com
@@ -1610,6 +1612,7 @@
 0.0.0.0 o091i.com
 0.0.0.0 o6uea.cn
 0.0.0.0 oa-panther.data.aliyun.com
+0.0.0.0 oacustom.com
 0.0.0.0 oaer9.cn
 0.0.0.0 officeme.cn
 0.0.0.0 oikxlcv.wang
@@ -1681,6 +1684,7 @@
 0.0.0.0 qhaif.com
 0.0.0.0 qi-duo.com
 0.0.0.0 qiailm.com
+0.0.0.0 qianfuyin.com
 0.0.0.0 qianmeiby.com
 0.0.0.0 qidou.com
 0.0.0.0 qigemm.com
@@ -1777,6 +1781,7 @@
 0.0.0.0 sales-frontier.com
 0.0.0.0 samboc.com
 0.0.0.0 sangxi.top
+0.0.0.0 sanjinma.com
 0.0.0.0 sboite.cn
 0.0.0.0 sbrqp.com
 0.0.0.0 scenepass.com
@@ -2406,6 +2411,7 @@
 0.0.0.0 yzxls.com
 0.0.0.0 yzygo.com
 0.0.0.0 yzytb.com
+0.0.0.0 z2blog.com
 0.0.0.0 zampda.net
 0.0.0.0 zampdsp.com
 0.0.0.0 zantainet.com
@@ -2545,7 +2551,6 @@
 0.0.0.0 360safego.com
 0.0.0.0 3boys2girls.com
 0.0.0.0 5y9nfpes.52pk.com
-0.0.0.0 61.147.184.18
 0.0.0.0 614514.com
 0.0.0.0 69.28.57.245
 0.0.0.0 6park.com
@@ -2864,6 +2869,7 @@
 0.0.0.0 zkrdy.com
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
+0.0.0.0 adt.xdrig.com
 0.0.0.0 immedlinkum.info
 0.0.0.0 xayah.date
 0.0.0.0 003store.com
@@ -2939,6 +2945,7 @@
 0.0.0.0 11.golang8.com
 0.0.0.0 111g.yiqig.cn
 0.0.0.0 11888vip.cn
+0.0.0.0 12.cookcai.com
 0.0.0.0 1224.dxsbb.com
 0.0.0.0 123.39jz.com
 0.0.0.0 123456.asia
@@ -2997,6 +3004,7 @@
 0.0.0.0 a.diaoyu.cn
 0.0.0.0 a.duanmeiwen.com
 0.0.0.0 a.duduji.com
+0.0.0.0 a.dyjqd.com
 0.0.0.0 a.epinv.com
 0.0.0.0 a.exam58.com
 0.0.0.0 a.fengyx.com
@@ -3759,15 +3767,6 @@
 0.0.0.0 liyueao.top
 0.0.0.0 lpsgc.cn
 0.0.0.0 yi71.com.cn
-0.0.0.0 p2.dnvod.tv
-0.0.0.0 p3.dnvod.tv
-0.0.0.0 p4.dnvod.tv
-0.0.0.0 p5.dnvod.tv
-0.0.0.0 p6.dnvod.tv
-0.0.0.0 pub1.dnvod.tv
-0.0.0.0 s1-a1.dnvod.tv
-0.0.0.0 s1-a2.dnvod.tv
-0.0.0.0 s1-a3.dnvod.tv
 0.0.0.0 okx7.site
 0.0.0.0 runkao.net
 0.0.0.0 stunninglover.com
@@ -3779,6 +3778,11 @@
 0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
 0.0.0.0 yuyyio.com
+0.0.0.0 huician.cn
+0.0.0.0 tctakoh.com
+0.0.0.0 nk295.cn
+0.0.0.0 nkyyls.cn
+0.0.0.0 chinawms.cn
 0.0.0.0 01w47q.cn
 0.0.0.0 0234408.cn
 0.0.0.0 02m5j.cn
