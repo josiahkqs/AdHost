@@ -1,9 +1,10 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sat, 18 Jan 2020 22:43:05 +0800
+# Last converted - Wed, 22 Jan 2020 22:45:43 +0800
 #
 
+0.0.0.0 track.pnicnik.live
 0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 u-on.eu
 0.0.0.0 steadfastsystem.com
@@ -3485,7 +3486,6 @@
 0.0.0.0 c.x.oanda.com
 0.0.0.0 clck.yandex.com
 0.0.0.0 click.aliexpress.com
-0.0.0.0 click.engage.xbox.com
 0.0.0.0 click.jasmin.com
 0.0.0.0 click.livejasmin.com
 0.0.0.0 click.mmosite.com
