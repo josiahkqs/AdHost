@@ -1,9 +1,13 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sat, 18 Jan 2020 22:43:00 +0800
+# Last converted - Wed, 22 Jan 2020 22:45:40 +0800
 #
 
+0.0.0.0 platformbot.xyz
+0.0.0.0 zashtorkino.ru
+0.0.0.0 realbig.pro
+0.0.0.0 asing.ru
 0.0.0.0 bigoff.info
 0.0.0.0 bigpigcz.club
 0.0.0.0 oschgds.pro
@@ -17,7 +21,6 @@
 0.0.0.0 adstime.org
 0.0.0.0 fqab5xq7qlgt.info
 0.0.0.0 ftd2q1g8id1z.ru
-0.0.0.0 pagiwp.com
 0.0.0.0 you-cant-win.com
 0.0.0.0 adbean.ru
 0.0.0.0 kolest.pro
