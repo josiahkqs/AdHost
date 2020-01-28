@@ -1,9 +1,12 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Wed, 22 Jan 2020 22:45:43 +0800
+# Last converted - Tue, 28 Jan 2020 11:10:24 +0800
 #
 
+0.0.0.0 minisrclink.cool
+0.0.0.0 quantummetric.com
+0.0.0.0 bluecore.com
 0.0.0.0 track.pnicnik.live
 0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 u-on.eu
@@ -4774,6 +4777,7 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 adj.st
+0.0.0.0 collect.media.jio.com
 0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 track.mobshark.net
 0.0.0.0 dsp-adcreative.mobshark.net
