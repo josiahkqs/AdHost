@@ -1,9 +1,16 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Wed, 22 Jan 2020 22:45:40 +0800
+# Last converted - Tue, 28 Jan 2020 11:10:22 +0800
 #
 
+0.0.0.0 sblftg.com
+0.0.0.0 hdacode.com
+0.0.0.0 serconius.com
+0.0.0.0 rcvlink.com
+0.0.0.0 jmk16zzbpqt0.org
+0.0.0.0 trafficbc3.host
+0.0.0.0 otogkg.com
 0.0.0.0 platformbot.xyz
 0.0.0.0 zashtorkino.ru
 0.0.0.0 realbig.pro
@@ -3805,6 +3812,8 @@
 0.0.0.0 zmctrack.net
 0.0.0.0 ritzysponge.com
 0.0.0.0 dondlo.
+0.0.0.0 info.emoment.com
+0.0.0.0 ext.week.news
 0.0.0.0 smi.today
 0.0.0.0 readto.ru
 0.0.0.0 adwile.com
