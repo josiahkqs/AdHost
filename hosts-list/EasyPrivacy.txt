@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Wed, 22 Jan 2020 22:45:46 +0800
+# Last converted - Tue, 28 Jan 2020 11:10:26 +0800
 #
 
 0.0.0.0 0emm.com
@@ -143,6 +143,7 @@
 0.0.0.0 adtelligence.de
 0.0.0.0 adultblogtoplist.com
 0.0.0.0 adunity.com
+0.0.0.0 advalo.com
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advconversion.com
 0.0.0.0 advertising.com
@@ -289,6 +290,7 @@
 0.0.0.0 basicstat.com
 0.0.0.0 basilic.io
 0.0.0.0 baynote.net
+0.0.0.0 baztrack.com
 0.0.0.0 bbthat.com
 0.0.0.0 bdash-cloud.com
 0.0.0.0 beacon.kmi-us.com
@@ -914,6 +916,7 @@
 0.0.0.0 geolid.com
 0.0.0.0 geoplugin.net
 0.0.0.0 georiot.com
+0.0.0.0 geotargetly-1a441.appspot.com
 0.0.0.0 getbackstory.com
 0.0.0.0 getblueshift.com
 0.0.0.0 getclicky.com
@@ -1509,6 +1512,7 @@
 0.0.0.0 offermatica.com
 0.0.0.0 offerpoint.net
 0.0.0.0 offerstrategy.com
+0.0.0.0 og4.me
 0.0.0.0 ogt.jp
 0.0.0.0 ohmystats.com
 0.0.0.0 oidah.com
@@ -1720,6 +1724,7 @@
 0.0.0.0 rapidstats.net
 0.0.0.0 rapidtrk.net
 0.0.0.0 rating.in
+0.0.0.0 reach5.net
 0.0.0.0 reachforce.com
 0.0.0.0 reachsocket.com
 0.0.0.0 reactful.com
@@ -1752,6 +1757,7 @@
 0.0.0.0 relevant-digital.com
 0.0.0.0 reliablecounter.com
 0.0.0.0 relmaxtop.com
+0.0.0.0 remailtarget.com
 0.0.0.0 remarketingpixel.com
 0.0.0.0 remarketstats.com
 0.0.0.0 remind.me
@@ -3005,7 +3011,6 @@
 0.0.0.0 sortsummer.com
 0.0.0.0 spiffymachine.com
 0.0.0.0 spottednoise.com
-0.0.0.0 spottysense.com
 0.0.0.0 spurioussteam.com
 0.0.0.0 squeakzinc.com
 0.0.0.0 squirrelhands.com
@@ -3033,6 +3038,7 @@
 0.0.0.0 123-counter.de
 0.0.0.0 12mnkys.com
 0.0.0.0 24log.de
+0.0.0.0 3ng6p6m0.de
 0.0.0.0 4stats.de
 0.0.0.0 actionallocator.com
 0.0.0.0 active-tracking.de
@@ -3323,6 +3329,7 @@
 0.0.0.0 affilizr.com
 0.0.0.0 air360tracker.net
 0.0.0.0 alkemics.com
+0.0.0.0 allo-media.net
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 antvoice.com
 0.0.0.0 atraxio.com
@@ -3380,11 +3387,14 @@
 0.0.0.0 stats.fr
 0.0.0.0 sync.tv
 0.0.0.0 tget.me
+0.0.0.0 tinyclues.com
 0.0.0.0 titag.com
 0.0.0.0 toc.io
 0.0.0.0 tracking.wlscripts.net
 0.0.0.0 trafiz.net
+0.0.0.0 uzerly.net
 0.0.0.0 webcompteur.com
+0.0.0.0 winitout.com
 0.0.0.0 wysistat.com
 0.0.0.0 x-traceur.com
 0.0.0.0 ywywjrlbsuv.com
@@ -3550,6 +3560,7 @@
 0.0.0.0 freestats.tv
 0.0.0.0 freestats.ws
 0.0.0.0 geocontatore.com
+0.0.0.0 gm-it.consulting
 0.0.0.0 hiperstat.com
 0.0.0.0 hitcountersonline.com
 0.0.0.0 imetrix.it
@@ -4242,7 +4253,9 @@
 0.0.0.0 d2xgf76oeu9pbh.cloudfront.net
 0.0.0.0 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
+0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 d36lvucg9kzous.cloudfront.net
+0.0.0.0 d39yds8oe4n4jq.cloudfront.net
 0.0.0.0 d3a2okcloueqyx.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
 0.0.0.0 d3iouejux1os58.cloudfront.net
@@ -4689,6 +4702,7 @@
 0.0.0.0 t.clic2buy.com
 0.0.0.0 t.dgm-au.com
 0.0.0.0 t.flux.com
+0.0.0.0 t.kelkoogroup.net
 0.0.0.0 t.menepe.com
 0.0.0.0 t.powerreviews.com
 0.0.0.0 t.pswec.com
@@ -4997,6 +5011,7 @@
 0.0.0.0 securite.01net.com
 0.0.0.0 stat.prsmedia.fr
 0.0.0.0 stats-dc1.frz.io
+0.0.0.0 stats-factory.digitregroup.io
 0.0.0.0 stats.buzzea.com
 0.0.0.0 stats.ipmgroup.be
 0.0.0.0 stats.tipser.com
@@ -5128,6 +5143,7 @@
 0.0.0.0 tracks.arubamediamarketing.it
 0.0.0.0 tracy.sadv.dadapro.com
 0.0.0.0 vppst.iltrovatore.it
+0.0.0.0 ad-beacon-v01.uliza.jp
 0.0.0.0 analysis.shinobi.jp
 0.0.0.0 analytics.liveact.cri-mw.jp
 0.0.0.0 analyzer51.fc2.com
@@ -5139,6 +5155,7 @@
 0.0.0.0 kitchen.juicer.cc
 0.0.0.0 l.popin.cc
 0.0.0.0 lcs.livedoor.net
+0.0.0.0 log.codemarketing.cloud
 0.0.0.0 log.nordot.jp
 0.0.0.0 omt.shinobi.jp
 0.0.0.0 rcm.shinobi.jp
@@ -6052,6 +6069,7 @@
 0.0.0.0 zeus.slader.com
 0.0.0.0 zion.api.cnn.io
 0.0.0.0 bucksfreepress-gb.bucksfreepress.co.uk
+0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
 0.0.0.0 cmp.arnnet.com.au
 0.0.0.0 cmp.cio.com.au
 0.0.0.0 cmp.cmo.com.au
@@ -6093,17 +6111,32 @@
 0.0.0.0 7mx.eider.com
 0.0.0.0 913nd.dieti-natura.es
 0.0.0.0 a8ht.hipp.fr
+0.0.0.0 ar.i-run.fr
+0.0.0.0 azg1.emalu-store.com
+0.0.0.0 bhu9.bankia.es
+0.0.0.0 c4dv.copinesdevoyage.com
 0.0.0.0 ch0p.darty.com
+0.0.0.0 cls7.theushuaiaexperience.com
+0.0.0.0 cpgo.avatacar.com
 0.0.0.0 cse3.chausport.com
+0.0.0.0 ct5m.citadium.com
+0.0.0.0 di8n.bfmtv.com
+0.0.0.0 dko.vente-unique.nl
+0.0.0.0 doa1.immobilier-neuf.com
 0.0.0.0 dt.nrjmobile.fr
+0.0.0.0 dv59b.montecarlomeeting.com
+0.0.0.0 dvo.assurandme.fr
+0.0.0.0 dxe2.heip.fr
 0.0.0.0 ea.auchantelecom.fr
 0.0.0.0 ea.aujourdhui.com
+0.0.0.0 ea.bouquetnantais.com
 0.0.0.0 ea.celio.com
 0.0.0.0 ea.ciblo.net
 0.0.0.0 ea.deguisetoi.fr
 0.0.0.0 ea.diamant-unique.com
 0.0.0.0 ea.fleurancenature.fr
 0.0.0.0 ea.greenweez.com
+0.0.0.0 ea.habitat.de
 0.0.0.0 ea.habitat.fr
 0.0.0.0 ea.histoiredor.com
 0.0.0.0 ea.hofmann.es
@@ -6111,26 +6144,49 @@
 0.0.0.0 ea.homair.com
 0.0.0.0 ea.jeuxvideopc.com
 0.0.0.0 ea.kauf-unique.at
+0.0.0.0 ea.kauf-unique.de
 0.0.0.0 ea.lafrancedunordausud.fr
+0.0.0.0 ea.leskidunordausud.fr
+0.0.0.0 ea.lespagnedunordausud.fr
 0.0.0.0 ea.lexpress.fr
+0.0.0.0 ea.megustaleer.com.pe
+0.0.0.0 ea.megustaleer.com
 0.0.0.0 ea.melijoe.com
 0.0.0.0 ea.millet-mountain.com
 0.0.0.0 ea.millet.fr
 0.0.0.0 ea.monsieurmanuel.com
 0.0.0.0 ea.natiloo.com
+0.0.0.0 ea.odalys-vacances.com
+0.0.0.0 ea.odalys-vacation-rental.com
+0.0.0.0 ea.officedepot.fr
+0.0.0.0 ea.pixmania.de
+0.0.0.0 ea.pixmania.dk
+0.0.0.0 ea.pixmania.fi
+0.0.0.0 ea.pixmania.ie
+0.0.0.0 ea.pixmania.it
+0.0.0.0 ea.pixmania.nl
+0.0.0.0 ea.pixmania.pl
+0.0.0.0 ea.pixmania.se
+0.0.0.0 ea.placedestendances.com
 0.0.0.0 ea.rentacar.fr
 0.0.0.0 ea.rueducommerce.fr
 0.0.0.0 ea.venta-unica.com
 0.0.0.0 ea.vente-unique.be
 0.0.0.0 ea.vente-unique.ch
 0.0.0.0 ea.vente-unique.com
+0.0.0.0 ea.vente-unique.lu
 0.0.0.0 ea.warnerbros.fr
 0.0.0.0 ef.futuroscope.com
+0.0.0.0 ef.futuroscope.mobi
 0.0.0.0 ek8.voyage-prive.com
+0.0.0.0 era.easyvoyage.com
 0.0.0.0 et.unclejeans.com
+0.0.0.0 eulerian.belambra.be
+0.0.0.0 eulerian.belambra.fr
 0.0.0.0 eulerian.brandalley.fr
 0.0.0.0 eulerian.madeindesign.com
 0.0.0.0 eulerian.mathon.fr
+0.0.0.0 eulerian.officiel-des-vacances.com
 0.0.0.0 eulerian.sarenza.com
 0.0.0.0 eulerian.splendia.com
 0.0.0.0 eultech.fnac.com
@@ -6149,12 +6205,14 @@
 0.0.0.0 noa0.compteczam.fr
 0.0.0.0 nrg.red-by-sfr.fr
 0.0.0.0 oal2.destinia.co.uk
+0.0.0.0 ocm8.masmovil.es
 0.0.0.0 ojm4.palladiumhotelgroup.com
 0.0.0.0 pbox.photobox.de
 0.0.0.0 pgt1.voyage-prive.es
 0.0.0.0 po.ponant.com
 0.0.0.0 ski1.skiset.com
 0.0.0.0 sls2.loisirsencheres.com
+0.0.0.0 snr4.canalplus.com
 0.0.0.0 ssrlot.lotoquebec.com
 0.0.0.0 sykc.madeindesign.ch
 0.0.0.0 t.locasun.de
@@ -6329,6 +6387,7 @@
 0.0.0.0 events.guesttoguest.com
 0.0.0.0 fsm.lapresse.ca
 0.0.0.0 g.itespresso.fr
+0.0.0.0 iphdata.lequipe.fr
 0.0.0.0 k.rueducommerce.fr
 0.0.0.0 kbn.korben.info
 0.0.0.0 lem.nouvelobs.com
@@ -6353,6 +6412,7 @@
 0.0.0.0 tracker-id.cdiscount.com
 0.0.0.0 tracker.cds-tracking.com
 0.0.0.0 tracker.mspy.com
+0.0.0.0 tracking.bd4travel.com
 0.0.0.0 tracking.ha.rueducommerce.fr
 0.0.0.0 wbdds.allocine.fr
 0.0.0.0 footprint.anetwork.ir
