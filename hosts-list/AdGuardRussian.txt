@@ -1,9 +1,12 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 28 Jan 2020 11:10:22 +0800
+# Last converted - Thu, 30 Jan 2020 18:11:48 +0800
 #
 
+0.0.0.0 jin0cbonpi.ru
+0.0.0.0 xq5tf4nfccrb.info
+0.0.0.0 kbtzxl.com
 0.0.0.0 sblftg.com
 0.0.0.0 hdacode.com
 0.0.0.0 serconius.com
@@ -3262,7 +3265,6 @@
 0.0.0.0 undere.com
 0.0.0.0 undleftranver.ru
 0.0.0.0 uniontraff.com
-0.0.0.0 unitedtraders.com
 0.0.0.0 universalsrc.com
 0.0.0.0 unolis.ru
 0.0.0.0 unscrewing.ru
