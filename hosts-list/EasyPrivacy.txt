@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 28 Jan 2020 11:10:26 +0800
+# Last converted - Thu, 30 Jan 2020 18:11:54 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1512,7 +1512,6 @@
 0.0.0.0 offermatica.com
 0.0.0.0 offerpoint.net
 0.0.0.0 offerstrategy.com
-0.0.0.0 og4.me
 0.0.0.0 ogt.jp
 0.0.0.0 ohmystats.com
 0.0.0.0 oidah.com
@@ -1724,7 +1723,6 @@
 0.0.0.0 rapidstats.net
 0.0.0.0 rapidtrk.net
 0.0.0.0 rating.in
-0.0.0.0 reach5.net
 0.0.0.0 reachforce.com
 0.0.0.0 reachsocket.com
 0.0.0.0 reactful.com
@@ -5113,6 +5111,7 @@
 0.0.0.0 counter.ksm.it
 0.0.0.0 counter2.condenast.it
 0.0.0.0 d32hwlnfiv2gyn.cloudfront.net
+0.0.0.0 dmpcdn.el-mundo.net
 0.0.0.0 encoderfarmstatsnew.servicebus.windows.net
 0.0.0.0 evnt.iol.it
 0.0.0.0 fb_servpub-a.akamaihd.net
@@ -5340,6 +5339,7 @@
 0.0.0.0 analytics.sketchup.com
 0.0.0.0 analytics.skyscanner.net
 0.0.0.0 analytics.slashdotmedia.com
+0.0.0.0 analytics.smallpdf.com
 0.0.0.0 analytics.socialblade.com
 0.0.0.0 analytics.sportybet.com
 0.0.0.0 analytics.teespring.com
@@ -6398,6 +6398,7 @@
 0.0.0.0 rdtdlv.laredoute.fr
 0.0.0.0 sa.tf1.fr
 0.0.0.0 secure-stat.canal-plus.com
+0.0.0.0 sgmnt.ticketswap.com
 0.0.0.0 stat.ouedkniss.com
 0.0.0.0 stat.webevolutis.com
 0.0.0.0 stats.grafikart.fr
