@@ -1,7 +1,7 @@
 # FanboyEnhancedTracking
 #
 # Converted from - https://www.fanboy.co.nz/enhancedstats.txt
-# Last converted - Mon, 13 Jan 2020 18:24:45 +0800
+# Last converted - Thu, 30 Jan 2020 18:11:56 +0800
 #
 
 0.0.0.0 cointent.com
@@ -19,6 +19,7 @@
 0.0.0.0 syncronex.com
 0.0.0.0 tinypass.com
 0.0.0.0 unlock-protocol.com
+0.0.0.0 wallkit.net
 0.0.0.0 thepiratebay.org
 0.0.0.0 rollbar.com
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
