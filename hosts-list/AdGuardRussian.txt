@@ -1,9 +1,11 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Thu, 30 Jan 2020 18:11:48 +0800
+# Last converted - Thu, 06 Feb 2020 13:57:52 +0800
 #
 
+0.0.0.0 bd05qvt.co.ua
+0.0.0.0 qirnz.com
 0.0.0.0 jin0cbonpi.ru
 0.0.0.0 xq5tf4nfccrb.info
 0.0.0.0 kbtzxl.com
