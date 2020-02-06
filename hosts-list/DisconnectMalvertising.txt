@@ -1,7 +1,7 @@
 # DisconnectMalvertising
 #
 # Converted from - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Last converted - Mon, 01 Apr 2019 23:22:56 +0800
+# Last converted - Thu, 06 Feb 2020 13:57:54 +0800
 #
 
 0.0.0.0 malware-check.disconnect.me
@@ -1226,7 +1226,6 @@
 0.0.0.0 cashfiesta.com
 0.0.0.0 cashlayer.com
 0.0.0.0 cashpartner.com
-0.0.0.0 casinogames.com
 0.0.0.0 casinopays.com
 0.0.0.0 casinorewards.com
 0.0.0.0 casinotraffic.com
@@ -1598,7 +1597,6 @@
 0.0.0.0 heias.com
 0.0.0.0 hentaicounter.com
 0.0.0.0 herbalaffiliateprogram.com
-0.0.0.0 here.com
 0.0.0.0 hexusads.fluent.ltd.uk
 0.0.0.0 heyos.com
 0.0.0.0 heywire.com
