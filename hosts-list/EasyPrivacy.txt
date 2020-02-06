@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sun, 02 Feb 2020 08:47:39 +0800
+# Last converted - Thu, 06 Feb 2020 13:57:55 +0800
 #
 
 0.0.0.0 0emm.com
@@ -292,7 +292,6 @@
 0.0.0.0 baynote.net
 0.0.0.0 baztrack.com
 0.0.0.0 bbthat.com
-0.0.0.0 bc0a.com
 0.0.0.0 bdash-cloud.com
 0.0.0.0 beacon.kmi-us.com
 0.0.0.0 beaconstreetservices.com
@@ -1131,6 +1130,7 @@
 0.0.0.0 iperceptions.com
 0.0.0.0 ipfingerprint.com
 0.0.0.0 ipgeolocation.io
+0.0.0.0 ipgp.net
 0.0.0.0 ipify.org
 0.0.0.0 ipinfo.info
 0.0.0.0 ipinfodb.com
@@ -2995,6 +2995,7 @@
 0.0.0.0 quietknowledge.com
 0.0.0.0 raresummer.com
 0.0.0.0 realizerecess.com
+0.0.0.0 realizevacation.com
 0.0.0.0 richstring.com
 0.0.0.0 ringplayground.com
 0.0.0.0 ritzykey.com
@@ -3705,6 +3706,7 @@
 0.0.0.0 caanalytics.com
 0.0.0.0 clickmatic.pl
 0.0.0.0 conversion.pl
+0.0.0.0 conversionlabs.net.pl
 0.0.0.0 dmdi.pl
 0.0.0.0 goprediction.com
 0.0.0.0 gostats.pl
@@ -3830,8 +3832,10 @@
 0.0.0.0 rnet.plus
 0.0.0.0 ru.net
 0.0.0.0 rutarget.ru
+0.0.0.0 sarimsol.com
 0.0.0.0 sarov.ws
 0.0.0.0 sas.com
+0.0.0.0 sblftg.com
 0.0.0.0 semantiqo.com
 0.0.0.0 sensor.org.ua
 0.0.0.0 seo-master.net
@@ -4095,6 +4099,7 @@
 0.0.0.0 beacon.nrholding.net
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.rum.dynapis.com
+0.0.0.0 beacon.searchspring.io
 0.0.0.0 beacon.securestudies.com
 0.0.0.0 beacon.sojern.com
 0.0.0.0 beacon.squixa.net
@@ -4305,7 +4310,6 @@
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
 0.0.0.0 dlvkf5067xruv.cloudfront.net
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
-0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 ds-aksb-a.akamaihd.net
@@ -4519,6 +4523,7 @@
 0.0.0.0 p.travelsmarter.net
 0.0.0.0 p.yotpo.com
 0.0.0.0 pages-stats.rbl.ms
+0.0.0.0 pagesocket.glam.com
 0.0.0.0 partner.cynapse.com
 0.0.0.0 partners.etoro.com
 0.0.0.0 passport.pfn.bz
@@ -4798,6 +4803,7 @@
 0.0.0.0 tracker.roitesting.com
 0.0.0.0 tracker.softcube.com
 0.0.0.0 tracker.timesgroup.com
+0.0.0.0 tracker.unbxdapi.com
 0.0.0.0 tracker.wpserveur.net
 0.0.0.0 trackerapi.truste.com
 0.0.0.0 trackicollect.ibase.fr
@@ -4947,6 +4953,7 @@
 0.0.0.0 mastertag.q-sis.de
 0.0.0.0 met.vgwort.de
 0.0.0.0 omniture.eaeurope.eu
+0.0.0.0 orbidder.otto.de
 0.0.0.0 px.staticfiles.at
 0.0.0.0 retrack.q-divisioncdn.de
 0.0.0.0 stat.clichehosting.de
@@ -4965,6 +4972,8 @@
 0.0.0.0 t.etraveli.com
 0.0.0.0 t.nativendo.de
 0.0.0.0 t.quisma.com
+0.0.0.0 tagm.tchibo.de
+0.0.0.0 track2.cliplister.com
 0.0.0.0 track2.dulingo.com
 0.0.0.0 track2.mycliplister.com
 0.0.0.0 tracker.euroweb.net
@@ -5195,9 +5204,11 @@
 0.0.0.0 hit.interia.pl
 0.0.0.0 marketing.tr.netsalesmedia.pl
 0.0.0.0 pixel.homebook.pl
+0.0.0.0 pixel6.wp.pl
 0.0.0.0 px.wp.pl
 0.0.0.0 qai-ir.quartic.pl
 0.0.0.0 qai.quartic.pl
+0.0.0.0 rec-pl.quartic.pl
 0.0.0.0 rec.quartic.pl
 0.0.0.0 scontent.services.tvn.pl
 0.0.0.0 stats.asp24.pl
@@ -6100,6 +6111,7 @@
 0.0.0.0 cmp.pcworld.idg.com.au
 0.0.0.0 cmp.techadvisor.co.uk
 0.0.0.0 cmp.techhive.com
+0.0.0.0 commsvc.geo.de
 0.0.0.0 commsvc.stern.de
 0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 gazette-news-gb.gazette-news.co.uk
@@ -6464,7 +6476,6 @@
 0.0.0.0 dwtracking.sdo.com
 0.0.0.0 eclick.baidu.com
 0.0.0.0 imgstat.baidu.com
-0.0.0.0 imp.appledaily.com
 0.0.0.0 jcm.jd.com
 0.0.0.0 lg.tr.pandora.tv
 0.0.0.0 log.51cto.com
@@ -6667,6 +6678,7 @@
 0.0.0.0 ta.sanook.com
 0.0.0.0 c.gazetevatan.com
 0.0.0.0 d.haberler.com
+0.0.0.0 mark.isbank.com.tr
 0.0.0.0 p.milliyet.com.tr
 0.0.0.0 counter.ukr.net
 0.0.0.0 hit.meta.ua
