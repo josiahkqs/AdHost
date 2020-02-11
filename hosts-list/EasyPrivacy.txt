@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Thu, 06 Feb 2020 13:57:55 +0800
+# Last converted - Tue, 11 Feb 2020 13:41:52 +0800
 #
 
 0.0.0.0 0emm.com
@@ -642,6 +642,7 @@
 0.0.0.0 dialogtech.com
 0.0.0.0 did-it.com
 0.0.0.0 didit.com
+0.0.0.0 didna.io
 0.0.0.0 diffusion-tracker.com
 0.0.0.0 digdeepdigital.com.au
 0.0.0.0 digitaloptout.com
@@ -940,6 +941,7 @@
 0.0.0.0 globetrackr.com
 0.0.0.0 gnpge.com
 0.0.0.0 go-mpulse.net
+0.0.0.0 go2link.net
 0.0.0.0 goadservices.com
 0.0.0.0 godhat.com
 0.0.0.0 goingup.com
@@ -954,6 +956,7 @@
 0.0.0.0 gostats.com
 0.0.0.0 gostats.org
 0.0.0.0 gostats.ro
+0.0.0.0 gotrk.net
 0.0.0.0 govmetric.com
 0.0.0.0 granify.com
 0.0.0.0 grapheffect.com
@@ -1104,6 +1107,7 @@
 0.0.0.0 intelli-tracker.com
 0.0.0.0 intelligencefocus.com
 0.0.0.0 intellimize.co
+0.0.0.0 interact-analytics.com
 0.0.0.0 interceptum.com
 0.0.0.0 intergient.com
 0.0.0.0 intermundomedia.com
@@ -1152,6 +1156,7 @@
 0.0.0.0 itrackerpro.com
 0.0.0.0 itracmediav4.com
 0.0.0.0 ivcbrasil.org.br
+0.0.0.0 ivstracker.net
 0.0.0.0 ivwbox.de
 0.0.0.0 iwebtrack.com
 0.0.0.0 iwstats.com
@@ -1233,6 +1238,7 @@
 0.0.0.0 leadsius.com
 0.0.0.0 leadsmonitor.io
 0.0.0.0 leadsrx.com
+0.0.0.0 leanlab.co
 0.0.0.0 leanplum.com
 0.0.0.0 legolas-media.com
 0.0.0.0 leokross.com
@@ -1825,6 +1831,7 @@
 0.0.0.0 rtb123.com
 0.0.0.0 rtfn.net
 0.0.0.0 rtmark.net
+0.0.0.0 rtox.net
 0.0.0.0 rtrk.co.nz
 0.0.0.0 rtrk.com
 0.0.0.0 ru4.com
@@ -2900,17 +2907,24 @@
 0.0.0.0 zminer.zaloapp.com
 0.0.0.0 6ldu6qa.com
 0.0.0.0 absorbingband.com
+0.0.0.0 absorbingprison.com
+0.0.0.0 abstractedamount.com
 0.0.0.0 absurdapple.com
 0.0.0.0 acidpigs.com
 0.0.0.0 acridtwist.com
+0.0.0.0 afraidlanguage.com
+0.0.0.0 agreeabletouch.com
 0.0.0.0 aheadday.com
+0.0.0.0 alikeaddition.com
 0.0.0.0 alleyarm.com
 0.0.0.0 allowmailbox.com
+0.0.0.0 amazingairplane.com
 0.0.0.0 anxiousapples.com
 0.0.0.0 attractivecap.com
 0.0.0.0 automaticside.com
 0.0.0.0 awzbijw.com
 0.0.0.0 axiomaticalley.com
+0.0.0.0 bagbeam.com
 0.0.0.0 balancebreath.com
 0.0.0.0 breakfastboat.com
 0.0.0.0 broadcastbed.com
@@ -2920,16 +2934,22 @@
 0.0.0.0 butterburst.com
 0.0.0.0 calculatorstatement.com
 0.0.0.0 cannontwin.com
+0.0.0.0 capriciouscorn.com
 0.0.0.0 capsquirrel.com
 0.0.0.0 caringzinc.com
 0.0.0.0 carscannon.com
+0.0.0.0 cautiouscrate.com
+0.0.0.0 cautiouscredit.com
 0.0.0.0 cloisteredcord.com
 0.0.0.0 colorfulafterthought.com
+0.0.0.0 complextoad.com
 0.0.0.0 conditioncrush.com
 0.0.0.0 consciouschairs.com
+0.0.0.0 coordinatedcoat.com
 0.0.0.0 coordinatedcub.com
 0.0.0.0 copycarpenter.com
 0.0.0.0 cosmosjackson.com
+0.0.0.0 crabbychin.com
 0.0.0.0 critictruck.com
 0.0.0.0 cubchannel.com
 0.0.0.0 culturedcrayon.com
@@ -2939,6 +2959,7 @@
 0.0.0.0 desiredirt.com
 0.0.0.0 detectdiscovery.com
 0.0.0.0 diplomahawaii.com
+0.0.0.0 drydrum.com
 0.0.0.0 ejyymghi.com
 0.0.0.0 endurablecrayon.comthird-party
 0.0.0.0 fadedsnow.com
@@ -2949,11 +2970,13 @@
 0.0.0.0 faultycanvas.com
 0.0.0.0 fearfulflag.com
 0.0.0.0 flakyfeast.com
+0.0.0.0 flockflame.com
 0.0.0.0 forecasttiger.com
 0.0.0.0 frailoffer.com
 0.0.0.0 futuristicfifth.com
 0.0.0.0 giddycoat.com
 0.0.0.0 giraffepiano.com
+0.0.0.0 gondolagnome.com
 0.0.0.0 gorgeousground.com
 0.0.0.0 greyinstrument.com
 0.0.0.0 guiltlessbasketball.com
@@ -2961,23 +2984,31 @@
 0.0.0.0 hammerhearing.com
 0.0.0.0 hilariouszinc.com
 0.0.0.0 historicalbeam.com
+0.0.0.0 homelycrown.com
 0.0.0.0 horsenectar.com
+0.0.0.0 immensehoney.com
 0.0.0.0 importedincrease.com
+0.0.0.0 innocentinvention.com
 0.0.0.0 inquisitiveinvention.com
 0.0.0.0 intelligentscissors.com
+0.0.0.0 j93557g.com
 0.0.0.0 jadeitite.com
 0.0.0.0 jamexistence.com
 0.0.0.0 lamplow.com
+0.0.0.0 laughcloth.com
 0.0.0.0 leaplunchroom.com
 0.0.0.0 levelbehavior.com
 0.0.0.0 lizardslaugh.com
+0.0.0.0 loudlunch.com
 0.0.0.0 lumberamount.com
+0.0.0.0 lumpylumber.com
 0.0.0.0 magnetairport.com
 0.0.0.0 meatydime.com
 0.0.0.0 mowfruit.com
 0.0.0.0 mundanepollution.com
 0.0.0.0 neighborlywatch.com
 0.0.0.0 nervoussummer.com
+0.0.0.0 niftyhospital.com
 0.0.0.0 parcelcreature.com
 0.0.0.0 parsimoniouspolice.com
 0.0.0.0 partplanes.com
@@ -2991,11 +3022,15 @@
 0.0.0.0 profusesupport.com
 0.0.0.0 puffyloss.com
 0.0.0.0 puffypull.com
+0.0.0.0 puffypurpose.com
 0.0.0.0 quaintcan.com
 0.0.0.0 quietknowledge.com
+0.0.0.0 raintwig.com
 0.0.0.0 raresummer.com
+0.0.0.0 readymoon.com
 0.0.0.0 realizerecess.com
 0.0.0.0 realizevacation.com
+0.0.0.0 resonantbrush.com
 0.0.0.0 richstring.com
 0.0.0.0 ringplayground.com
 0.0.0.0 ritzykey.com
@@ -3003,9 +3038,11 @@
 0.0.0.0 scintillatingspace.com
 0.0.0.0 scrubswim.com
 0.0.0.0 selectivesummer.com
+0.0.0.0 selfishsea.com
 0.0.0.0 separatesilver.com
 0.0.0.0 sharppatch.com
 0.0.0.0 shermore.info
+0.0.0.0 shockinggrass.com
 0.0.0.0 shockingship.com
 0.0.0.0 shyseed.com
 0.0.0.0 sicksmash.com
@@ -3014,6 +3051,7 @@
 0.0.0.0 sortsummer.com
 0.0.0.0 spiffymachine.com
 0.0.0.0 spottednoise.com
+0.0.0.0 spuriousbase.com
 0.0.0.0 spurioussteam.com
 0.0.0.0 squeakzinc.com
 0.0.0.0 squirrelhands.com
@@ -3024,11 +3062,16 @@
 0.0.0.0 stormyachiever.com
 0.0.0.0 strivesidewalk.com
 0.0.0.0 stupendoussleet.com
+0.0.0.0 subsequentswim.com
 0.0.0.0 suddensidewalk.com
 0.0.0.0 sugarcurtain.com
 0.0.0.0 sweetslope.com
+0.0.0.0 tawdryson.com
 0.0.0.0 tendertest.com
+0.0.0.0 thirdrespect.com
+0.0.0.0 thirstytwig.com
 0.0.0.0 ticklesign.com
+0.0.0.0 tranquilside.com
 0.0.0.0 typicalairplane.com
 0.0.0.0 typicalteeth.com
 0.0.0.0 ubiquitousyard.com
@@ -3078,6 +3121,7 @@
 0.0.0.0 besucherzaehler.org
 0.0.0.0 besucherzahlen.com
 0.0.0.0 betarget.de
+0.0.0.0 bf-tools.net
 0.0.0.0 blacktri.com
 0.0.0.0 blog-o-rama.de
 0.0.0.0 blog-webkatalog.de
@@ -3507,6 +3551,7 @@
 0.0.0.0 netstats.dk
 0.0.0.0 parameter.dk
 0.0.0.0 peakcounter.dk
+0.0.0.0 telemetric.dk
 0.0.0.0 tns-gallup.dk
 0.0.0.0 zipstat.dk
 0.0.0.0 active24stats.nl
@@ -3903,7 +3948,6 @@
 0.0.0.0 adten.eu
 0.0.0.0 adtlgc.com
 0.0.0.0 adtr.io
-0.0.0.0 adtraction.com
 0.0.0.0 bonnieradnetwork.se
 0.0.0.0 brandmetrics.com
 0.0.0.0 citypaketet.se
@@ -3944,6 +3988,7 @@
 0.0.0.0 amcdn.vn
 0.0.0.0 contineljs.com
 0.0.0.0 gostats.vn
+0.0.0.0 100widgets.com
 0.0.0.0 188.225.25.145
 0.0.0.0 51network.com
 0.0.0.0 a.mobify.com
@@ -4479,7 +4524,6 @@
 0.0.0.0 mediametrics.mpsa.com
 0.0.0.0 metering.pagesuite.com
 0.0.0.0 metric.nwsource.com
-0.0.0.0 metrics-api.dimensions.ai
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.brightcove.com
@@ -4706,6 +4750,7 @@
 0.0.0.0 t.bimvid.com
 0.0.0.0 t.brand-server.com
 0.0.0.0 t.c4tw.net
+0.0.0.0 t.castle.io
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.clic2buy.com
 0.0.0.0 t.dgm-au.com
@@ -5030,6 +5075,7 @@
 0.0.0.0 stats.ipmgroup.be
 0.0.0.0 stats.tipser.com
 0.0.0.0 tag.leadplace.fr
+0.0.0.0 testcddc.atclouddev.net
 0.0.0.0 tmgr.ccmbg.com
 0.0.0.0 track.byzon.swelen.net
 0.0.0.0 track.kyoads.com
@@ -5961,6 +6007,7 @@
 0.0.0.0 t.wizaly.com
 0.0.0.0 t2.hulu.com
 0.0.0.0 t2.huluim.com
+0.0.0.0 taglocker.target.com
 0.0.0.0 tags.msnbc.com
 0.0.0.0 tags.news.com.au
 0.0.0.0 tagx.nytimes.com
@@ -6111,7 +6158,6 @@
 0.0.0.0 cmp.pcworld.idg.com.au
 0.0.0.0 cmp.techadvisor.co.uk
 0.0.0.0 cmp.techhive.com
-0.0.0.0 commsvc.geo.de
 0.0.0.0 commsvc.stern.de
 0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 gazette-news-gb.gazette-news.co.uk
@@ -6300,6 +6346,7 @@
 0.0.0.0 ac.express.de
 0.0.0.0 ac.mz-web.de
 0.0.0.0 acl.stayfriends.de
+0.0.0.0 adtm.chip.de
 0.0.0.0 analytics.arz.at
 0.0.0.0 analytics.industriemagazin.net
 0.0.0.0 analytics.moviepilot.de
@@ -6434,6 +6481,7 @@
 0.0.0.0 tc.hometogo.net
 0.0.0.0 tdep.vacansoleil.fr
 0.0.0.0 tesla.oscaro.com
+0.0.0.0 tim.nextinpact.com
 0.0.0.0 track.24heures.ch
 0.0.0.0 tracker-id.cdiscount.com
 0.0.0.0 tracker.cds-tracking.com
@@ -6576,6 +6624,7 @@
 0.0.0.0 analyzer.fc2.com
 0.0.0.0 analyzer2.fc2.com
 0.0.0.0 astat.nikkei.com
+0.0.0.0 beacon.itmedia.jp
 0.0.0.0 cgi.tbs.co.jp
 0.0.0.0 count.upc.rakuten.co.jp
 0.0.0.0 ln.ameba.jp
