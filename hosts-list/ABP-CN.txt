@@ -1,10 +1,9 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Thu, 06 Feb 2020 13:57:26 +0800
+# Last converted - Tue, 11 Feb 2020 13:41:38 +0800
 #
 
-0.0.0.0 spxnet.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -35,6 +34,7 @@
 0.0.0.0 080644.com
 0.0.0.0 0937jyg.com
 0.0.0.0 0bc.top
+0.0.0.0 0ka.com
 0.0.0.0 0nin.cn
 0.0.0.0 0qkc.cn
 0.0.0.0 0xiaoshuo.com
@@ -276,6 +276,7 @@
 0.0.0.0 664gp.com
 0.0.0.0 6666lm.com
 0.0.0.0 668559.com
+0.0.0.0 66996.top
 0.0.0.0 66997.top
 0.0.0.0 66998.top
 0.0.0.0 66san.com
@@ -669,6 +670,7 @@
 0.0.0.0 chengzhao95511.com
 0.0.0.0 chenyanjiao.cn
 0.0.0.0 china-pengdu.cn
+0.0.0.0 china-star.cc
 0.0.0.0 chinaheh.com
 0.0.0.0 chinauma.net
 0.0.0.0 chinaweichu.net
@@ -1131,6 +1133,7 @@
 0.0.0.0 hongtefm.com
 0.0.0.0 hot-eam.com
 0.0.0.0 houdaolj.com
+0.0.0.0 houtanyun.com
 0.0.0.0 hqygz.com
 0.0.0.0 hr41.cn
 0.0.0.0 hr44.com
@@ -1225,6 +1228,7 @@
 0.0.0.0 iuuff.com
 0.0.0.0 iwansf.com
 0.0.0.0 iyoowi.com
+0.0.0.0 iyptc.cn
 0.0.0.0 iyygzs.com
 0.0.0.0 j8j9.com
 0.0.0.0 j94.cc
@@ -1314,6 +1318,7 @@
 0.0.0.0 junkucm.com
 0.0.0.0 junnew.com
 0.0.0.0 jusha.com
+0.0.0.0 jushikk.com
 0.0.0.0 jutou5.com
 0.0.0.0 juuhe.com
 0.0.0.0 juxiangyou.com
@@ -1518,6 +1523,7 @@
 0.0.0.0 mgwcn.com
 0.0.0.0 mgwl668.com
 0.0.0.0 miaozhen.com
+0.0.0.0 mieyisi.com
 0.0.0.0 min1319.com
 0.0.0.0 mindopu.com
 0.0.0.0 mingxianshanghang.cn
@@ -1887,6 +1893,7 @@
 0.0.0.0 spcode.baidu.com
 0.0.0.0 spectram.pro
 0.0.0.0 sphwq.net
+0.0.0.0 spxnet.com
 0.0.0.0 sqext.com
 0.0.0.0 ssaa.cc
 0.0.0.0 sscefsol.com
@@ -2098,6 +2105,7 @@
 0.0.0.0 ve001nz.com
 0.0.0.0 vedeh.com
 0.0.0.0 vegent.cn
+0.0.0.0 vertivchina.cn
 0.0.0.0 vf5c.com
 0.0.0.0 vfdxlt.cn
 0.0.0.0 vhpxa.top
@@ -2120,6 +2128,7 @@
 0.0.0.0 w3989.com
 0.0.0.0 w4pma.cn
 0.0.0.0 w65p.com
+0.0.0.0 wacc888.com
 0.0.0.0 waihui518.com
 0.0.0.0 walibao.com
 0.0.0.0 wanfukang.cc
@@ -2134,7 +2143,6 @@
 0.0.0.0 wapadv.com
 0.0.0.0 waptime.net
 0.0.0.0 watchsk.com
-0.0.0.0 waust.at
 0.0.0.0 wazero.online
 0.0.0.0 wcnmd.top
 0.0.0.0 wdymwzz.com
@@ -2193,6 +2201,7 @@
 0.0.0.0 wuwaii.com
 0.0.0.0 wuweiqx.com
 0.0.0.0 wuwho.cn
+0.0.0.0 wuyekanba.com
 0.0.0.0 wvstatic.cn
 0.0.0.0 wwlolbs.com
 0.0.0.0 wxbdfm.com
@@ -2830,7 +2839,6 @@
 0.0.0.0 publish.ad.youth.cn
 0.0.0.0 puudeng.com.tw
 0.0.0.0 qcvf.ifeng.com
-0.0.0.0 qd.js.sanjiangge.cc
 0.0.0.0 qd.wanjuanba.com
 0.0.0.0 qd.x4399.com
 0.0.0.0 qn.bejson.com
@@ -2901,6 +2909,7 @@
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
 0.0.0.0 06362.com
+0.0.0.0 1.01fy.cn
 0.0.0.0 1.1010pic.com
 0.0.0.0 1.11467.com
 0.0.0.0 1.15lu.com
@@ -2929,6 +2938,7 @@
 0.0.0.0 1.hysou.com
 0.0.0.0 1.i1766.com
 0.0.0.0 1.ideng.com
+0.0.0.0 1.isanxia.com
 0.0.0.0 1.jeasyui.net
 0.0.0.0 1.jiqie.cn
 0.0.0.0 1.kuaidiwo.cn
@@ -3412,6 +3422,7 @@
 0.0.0.0 jibn12.jintang114.org
 0.0.0.0 jiliw.com
 0.0.0.0 jinghuazhijia.com
+0.0.0.0 jinhonghao.cn
 0.0.0.0 jinshui2018.chalook.net
 0.0.0.0 jiyan.net
 0.0.0.0 jke1.jianke.com
@@ -3455,6 +3466,7 @@
 0.0.0.0 linyao.dxsdb.com
 0.0.0.0 lixiangmo.com
 0.0.0.0 ll38.com
+0.0.0.0 lm.ijq.tv
 0.0.0.0 lm1.tuliu.com
 0.0.0.0 lm1.wzpcw.com
 0.0.0.0 lraa.xiaoniutui.com
@@ -3494,6 +3506,7 @@
 0.0.0.0 mpb1.iteye.com
 0.0.0.0 mps.yuwenba.cn
 0.0.0.0 mssheng.com
+0.0.0.0 mt.59wz.com
 0.0.0.0 mxitie.com
 0.0.0.0 my.gz2010.cn
 0.0.0.0 myunion1.qm120.com
@@ -3515,6 +3528,7 @@
 0.0.0.0 pb.shuxigua.com
 0.0.0.0 pic50.pingguolv.com
 0.0.0.0 pingbi.diudou.com
+0.0.0.0 pingshu365.xyz
 0.0.0.0 pjcn.org
 0.0.0.0 pkk1.zuimeiniwo.com
 0.0.0.0 pp.wayqq.com
@@ -3603,6 +3617,7 @@
 0.0.0.0 vjie.com
 0.0.0.0 vv1.pyhfxdm.cn
 0.0.0.0 vvv.ieduw.com
+0.0.0.0 vyule.com
 0.0.0.0 w.xiaopiaoyou.com
 0.0.0.0 w1.diaoyou.com
 0.0.0.0 w1.wayqq.com
@@ -4353,6 +4368,7 @@
 0.0.0.0 foumm.com
 0.0.0.0 fowpq.top
 0.0.0.0 fqzds.com
+0.0.0.0 friend17.net
 0.0.0.0 frjxdv.cn
 0.0.0.0 fshet.com
 0.0.0.0 fstaw.com
@@ -4719,6 +4735,7 @@
 0.0.0.0 klgzzs.cn
 0.0.0.0 klsadm.com
 0.0.0.0 kltent.cn
+0.0.0.0 kmfnkj.com
 0.0.0.0 kofcq5.cn
 0.0.0.0 kongssew.com
 0.0.0.0 koudaichaoshi.cn
@@ -5248,6 +5265,7 @@
 0.0.0.0 unilz588.com
 0.0.0.0 uo12.com
 0.0.0.0 uqpfh.cn
+0.0.0.0 urlet.cn
 0.0.0.0 usty357a.site
 0.0.0.0 uuopp.com
 0.0.0.0 uxyrl.cn
