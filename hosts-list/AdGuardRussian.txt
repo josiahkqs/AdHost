@@ -1,9 +1,15 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Thu, 06 Feb 2020 13:57:52 +0800
+# Last converted - Tue, 11 Feb 2020 13:41:46 +0800
 #
 
+0.0.0.0 oijkse.com
+0.0.0.0 pqrtd9hhtu9x.info
+0.0.0.0 mnogodiva.ru
+0.0.0.0 knkqjmjyxzev.info
+0.0.0.0 kvidcq.com
+0.0.0.0 wwgdwl.com
 0.0.0.0 bd05qvt.co.ua
 0.0.0.0 qirnz.com
 0.0.0.0 jin0cbonpi.ru
@@ -3816,6 +3822,7 @@
 0.0.0.0 zmctrack.net
 0.0.0.0 ritzysponge.com
 0.0.0.0 dondlo.
+0.0.0.0 novosti-online.gq
 0.0.0.0 info.emoment.com
 0.0.0.0 ext.week.news
 0.0.0.0 smi.today
