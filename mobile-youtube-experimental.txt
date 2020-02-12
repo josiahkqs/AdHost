@@ -10,7 +10,6 @@ redirector.googlevideo.com
 r1---sn-npoeenee.googlevideo.com
 r2---sn-tt1e7n7l.googlevideo.com
 r2---sn-npoeenez.googlevideo.com
-r2---sn-npoeener.googlevideo.com
 r2---sn-npoe7n7r.googlevideo.com
 r3---sn-n4v7sne7.googlevideo.com 
 r4---sn-npoe7ne6.googlevideo.com
@@ -21,6 +20,9 @@ r5---sn-npoeene6.googlevideo.com
 r6---sn-vgqs7nly.googlevideo.com 
 r6---sn-npoeen7k.googlevideo.com
 r6.sn-npobuxa-npoel.googlevideo.com
+
+r2---sn-npoeener.googlevideo.com
+r4---sn-npoeener.googlevideo.com
 
 r2---sn-npobuxa-npoel.googlevideo.com
 r3---sn-npobuxa-npoel.googlevideo.com
@@ -64,6 +66,7 @@ r2---sn-npobuxa-npor.googlevideo.com
 r4---sn-npobuxa-npor.googlevideo.com
 r6---sn-npobuxa-npor.googlevideo.com
 r7---sn-npobuxa-npor.googlevideo.com
+r8---sn-npobuxa-npor.googlevideo.com
 
 r1---sn-npobuxa-npoe7.googlevideo.com
 r2---sn-npobuxa-npoe7.googlevideo.com
@@ -76,6 +79,7 @@ r2---sn-npobuxa-npoy.googlevideo.com
 r3---sn-npobuxa-npoy.googlevideo.com
 r4---sn-npobuxa-npoy.googlevideo.com
 r5---sn-npobuxa-npoy.googlevideo.com
+r6---sn-npobuxa-npoy.googlevideo.com
 
 r1---sn-npoeeney.googlevideo.com
 r3---sn-npoeeney.googlevideo.com
@@ -96,6 +100,7 @@ r2---sn-npobuxa-npoez.googlevideo.com
 r3---sn-npobuxa-npoez.googlevideo.com
 r4---sn-npobuxa-npoez.googlevideo.com
 r5---sn-npobuxa-npoez.googlevideo.com 
+r6---sn-npobuxa-npoez.googlevideo.com
 r7---sn-npobuxa-npoez.googlevideo.com
 r8---sn-npobuxa-npoez.googlevideo.com
 
@@ -111,5 +116,8 @@ r5---sn-npoe7ner.googlevideo.com
 r1---sn-npoe7nek.googlevideo.com 
 r3---sn-npoe7nek.googlevideo.com
 
+r2---sn-npoeen7r.googlevideo.com
 r4---sn-npoeen7r.googlevideo.com
 r6---sn-npoeen7r.googlevideo.com
+
+
