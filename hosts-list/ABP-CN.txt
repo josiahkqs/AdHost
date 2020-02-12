@@ -1,9 +1,11 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Tue, 11 Feb 2020 13:41:38 +0800
+# Last converted - Wed, 12 Feb 2020 22:40:05 +0800
 #
 
+0.0.0.0 593pi.cn
+0.0.0.0 jgwsmqx.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
