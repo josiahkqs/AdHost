@@ -34,6 +34,7 @@ r8---sn-npobuxa-npoel.googlevideo.com
 r1---sn-npobuxa-npoed.googlevideo.com
 r2---sn-npobuxa-npoed.googlevideo.com
 r3---sn-npobuxa-npoed.googlevideo.com
+r4---sn-npobuxa-npoed.googlevideo.com
 r5---sn-npobuxa-npoed.googlevideo.com
 r6---sn-npobuxa-npoed.googlevideo.com
 r8---sn-npobuxa-npoed.googlevideo.com
@@ -86,10 +87,12 @@ r3---sn-npoeeney.googlevideo.com
 r5---sn-npoeeney.googlevideo.com
 
 r2---sn-npoe7nes.googlevideo.com
+r3---sn-npoe7nes.googlevideo.com
 r4---sn-npoe7nes.googlevideo.com
 r5---sn-npoe7nes.googlevideo.com
 
 r1---sn-npobuxa-npod.googlevideo.com
+r3---sn-npobuxa-npod.googlevideo.com
 r4---sn-npobuxa-npod.googlevideo.com
 r5---sn-npobuxa-npod.googlevideo.com 
 r6---sn-npobuxa-npod.googlevideo.com
@@ -116,6 +119,7 @@ r5---sn-npoe7ner.googlevideo.com
 
 r1---sn-npoe7nek.googlevideo.com 
 r3---sn-npoe7nek.googlevideo.com
+r5---sn-npoe7nek.googlevideo.com
 
 r2---sn-npoeen7r.googlevideo.com
 r4---sn-npoeen7r.googlevideo.com
