@@ -1,11 +1,14 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Wed, 12 Feb 2020 22:40:05 +0800
+# Last converted - Fri, 14 Feb 2020 00:30:35 +0800
 #
 
-0.0.0.0 593pi.cn
-0.0.0.0 jgwsmqx.com
+0.0.0.0 0885.net
+0.0.0.0 leletuitui.com
+0.0.0.0 ffa9.cn
+0.0.0.0 41msl.cn
+0.0.0.0 jjz666.cn
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -253,6 +256,7 @@
 0.0.0.0 57union.com
 0.0.0.0 58.215.179.159
 0.0.0.0 592man.com
+0.0.0.0 593pi.cn
 0.0.0.0 59519.com
 0.0.0.0 59gt.cn
 0.0.0.0 59hi.com
@@ -1246,6 +1250,7 @@
 0.0.0.0 jfqkj.com
 0.0.0.0 jgchq.com
 0.0.0.0 jghcy.com
+0.0.0.0 jgwsmqx.com
 0.0.0.0 jhakie.com
 0.0.0.0 jhtcdj.com
 0.0.0.0 jhzl001.com
@@ -1704,6 +1709,7 @@
 0.0.0.0 qclcdn.cn
 0.0.0.0 qcupup.com
 0.0.0.0 qdchunyu.com
+0.0.0.0 qdsfzz.cn
 0.0.0.0 qdxrhg.com
 0.0.0.0 qfs365.com
 0.0.0.0 qgss8.com
@@ -2658,10 +2664,9 @@
 0.0.0.0 amradmin.5173.com
 0.0.0.0 ams.fx678.com
 0.0.0.0 ann5.net
-0.0.0.0 ao.r7f.ifeng.com
+0.0.0.0 cdgfa.ifeng.com
 0.0.0.0 appimg.0575bbs.com
 0.0.0.0 apple.www.letv.com
-0.0.0.0 as.g4.ifeng.com
 0.0.0.0 ashow.pcpop.com
 0.0.0.0 assp.sohu.com
 0.0.0.0 atiws.aipai.com
@@ -2678,7 +2683,6 @@
 0.0.0.0 btn.onlylady.com
 0.0.0.0 btn.pchome.net
 0.0.0.0 business.92wy.com
-0.0.0.0 bvakl.ifeng.com
 0.0.0.0 by8974.com
 0.0.0.0 c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 0.0.0.0 cacafly.net
@@ -2737,7 +2741,6 @@
 0.0.0.0 g.mnw.cn
 0.0.0.0 g.ousns.net
 0.0.0.0 g2.ousns.net
-0.0.0.0 g8f.ifeng.com
 0.0.0.0 game.466.com
 0.0.0.0 games.ifeng.com
 0.0.0.0 ganjituiguang.ganji.com
@@ -2791,7 +2794,6 @@
 0.0.0.0 iwanad.baidu.com
 0.0.0.0 j.6avz.com
 0.0.0.0 j.avz4.com
-0.0.0.0 jiejg.ifeng.com
 0.0.0.0 jmsyzj.com
 0.0.0.0 js.45bubu.com
 0.0.0.0 js.bju888.com
@@ -2847,7 +2849,6 @@
 0.0.0.0 qt.biqugezw.com
 0.0.0.0 resource.baomihua.com
 0.0.0.0 rh.qq.com
-0.0.0.0 rugncn.ifeng.com
 0.0.0.0 sa.sina.cn
 0.0.0.0 same.chinadaily.com.cn
 0.0.0.0 same.eastmoney.com
@@ -2856,7 +2857,6 @@
 0.0.0.0 share.gzdsw.com
 0.0.0.0 sina.com.tw
 0.0.0.0 skads.gxsky.com
-0.0.0.0 snbnhngl.ifeng.com
 0.0.0.0 ssgg.chazidian.com
 0.0.0.0 ssp.hinet.net
 0.0.0.0 ssp.zf313.com
@@ -3815,13 +3815,16 @@
 0.0.0.0 okx7.site
 0.0.0.0 runkao.net
 0.0.0.0 stunninglover.com
-0.0.0.0 aa1.ifeng.com
-0.0.0.0 ae4.ifeng.com
-0.0.0.0 as.g5s.ifeng.com
-0.0.0.0 bb2.ifeng.com
-0.0.0.0 cc3.ifeng.com
-0.0.0.0 dkg.ifeng.com
 0.0.0.0 cryptaloot.pro
+0.0.0.0 lgjygg.com
+0.0.0.0 xn--wxtr44c.video
+0.0.0.0 dyfzyg.com
+0.0.0.0 oulvtrip.com
+0.0.0.0 axizb.cn
+0.0.0.0 mukqeq.cn
+0.0.0.0 ningxiayy.com
+0.0.0.0 1115potmgabfvixqwi.top
+0.0.0.0 ahw3.com
 0.0.0.0 01w47q.cn
 0.0.0.0 0234408.cn
 0.0.0.0 02m5j.cn
