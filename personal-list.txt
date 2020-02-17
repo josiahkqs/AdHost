@@ -369,3 +369,4 @@
 0.0.0.0 youngmobi.offerstrack.net # Spam
 0.0.0.0 udmserve.net # Ads
 0.0.0.0 jump.ogtrk.net # Scam
+0.0.0.0 ogs.google.com # Google redirect
