@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Fri, 14 Feb 2020 00:30:44 +0800
+# Last converted - Mon, 17 Feb 2020 09:01:21 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -2794,6 +2794,10 @@
 0.0.0.0 bd39beb2e1d7f0a4.com
 0.0.0.0 bd81bbc5f2.com
 0.0.0.0 bdbdqdxkdb.com
+0.0.0.0 bdbdqexkdb.com
+0.0.0.0 bdbdqixkdb.com
+0.0.0.0 bdbdqnxkdb.com
+0.0.0.0 bdbdqsxkdb.com
 0.0.0.0 bddd4a5dc610be077891.date
 0.0.0.0 bdzhhjnml.pw
 0.0.0.0 bearsandfish.com
