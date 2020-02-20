@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 17 Feb 2020 09:01:26 +0800
+# Last converted - Thu, 20 Feb 2020 15:50:41 +0800
 #
 
 0.0.0.0 0emm.com
@@ -93,6 +93,7 @@
 0.0.0.0 acxiom-online.com
 0.0.0.0 acxiomapac.com
 0.0.0.0 ad-score.com
+0.0.0.0 ad-srv-track.com
 0.0.0.0 ad.gt
 0.0.0.0 adabra.com
 0.0.0.0 adalyser.com
@@ -141,6 +142,7 @@
 0.0.0.0 adsymptotic.com
 0.0.0.0 adtarget.me
 0.0.0.0 adtelligence.de
+0.0.0.0 adtrackers.net
 0.0.0.0 adultblogtoplist.com
 0.0.0.0 adunity.com
 0.0.0.0 advalo.com
@@ -2927,6 +2929,7 @@
 0.0.0.0 axiomaticalley.com
 0.0.0.0 bagbeam.com
 0.0.0.0 balancebreath.com
+0.0.0.0 bandborder.com
 0.0.0.0 breakfastboat.com
 0.0.0.0 broadcastbed.com
 0.0.0.0 broaddoor.com
@@ -4222,6 +4225,7 @@
 0.0.0.0 comet.ibsrv.net
 0.0.0.0 control.cityofcairns.com
 0.0.0.0 conversions.genieventures.co.uk
+0.0.0.0 convsgmp.taboola.com
 0.0.0.0 cookies.livepartners.com
 0.0.0.0 cookietracker.cloudapp.net
 0.0.0.0 cookiex.ngd.yahoo.com
@@ -4566,6 +4570,7 @@
 0.0.0.0 om.rogersmedia.com
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 open.delivery.net
+0.0.0.0 opps.taboola.com
 0.0.0.0 optimizely.appspot.com
 0.0.0.0 orts.wixawin.com
 0.0.0.0 p.adbrn.com
@@ -4951,6 +4956,7 @@
 0.0.0.0 webstats.motigo.com
 0.0.0.0 webstats.thaindian.com
 0.0.0.0 webtracker.apicasystem.com
+0.0.0.0 wf.taboola.com
 0.0.0.0 wibiya-actions.conduit-data.com
 0.0.0.0 wibiya-june-new-log.conduit-data.com
 0.0.0.0 widget.perfectmarket.com
@@ -5097,6 +5103,7 @@
 0.0.0.0 wrapper.lemde.fr
 0.0.0.0 zebestof.com
 0.0.0.0 analytics.styria.hr
+0.0.0.0 adv-sv-stat.focus.cn
 0.0.0.0 analytics.21cn.com
 0.0.0.0 analytics.meituan.net
 0.0.0.0 atanx.alicdn.com
@@ -5233,6 +5240,7 @@
 0.0.0.0 rcm.shinobi.jp
 0.0.0.0 rd.rakuten.co.jp
 0.0.0.0 speee-ad.akamaized.net
+0.0.0.0 sstats.mora.jp
 0.0.0.0 sync.shinobi.jp
 0.0.0.0 torimochi.line-apps.com
 0.0.0.0 track.thebase.in
@@ -5539,6 +5547,7 @@
 0.0.0.0 dwh-tracking.it.auth0.com
 0.0.0.0 edmunds.com$ping
 0.0.0.0 edw.edmunds.com
+0.0.0.0 eec.crunchyroll.com
 0.0.0.0 ekg.riotgames.com
 0.0.0.0 emarketing.rmauctions.com
 0.0.0.0 engagefront.theweathernetwork.com
@@ -6149,6 +6158,7 @@
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zeus.slader.com
 0.0.0.0 zion.api.cnn.io
+0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
 0.0.0.0 bucksfreepress-gb.bucksfreepress.co.uk
 0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
 0.0.0.0 cmp.arnnet.com.au
@@ -6169,7 +6179,10 @@
 0.0.0.0 commsvc.stern.de
 0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 gazette-news-gb.gazette-news.co.uk
+0.0.0.0 glasgowtimes-gb.glasgowtimes.co.uk
+0.0.0.0 greenocktelegraph-gb.greenocktelegraph.co.uk
 0.0.0.0 h-bid.com
+0.0.0.0 heraldscotland-gb.heraldscotland.com
 0.0.0.0 isgprivacy.cbsi.com
 0.0.0.0 mdn.neowin.net
 0.0.0.0 orionis.techradar.com
@@ -6177,10 +6190,12 @@
 0.0.0.0 rps-uk.rockpapershotgun.com
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 sthelensstar-gb.sthelensstar.co.uk
+0.0.0.0 swindonadvertiser-gb.swindonadvertiser.co.uk
 0.0.0.0 thenational-gb.thenational.scot
 0.0.0.0 ttauri.laptopmag.com
 0.0.0.0 ttauri.tomsguide.com
 0.0.0.0 ttauri.tomshardware.com
+0.0.0.0 wiltshiretimes-gb.wiltshiretimes.co.uk
 0.0.0.0 worcesternews-gb.worcesternews.co.uk
 0.0.0.0 yourlocalguardian-gb.yourlocalguardian.co.uk
 0.0.0.0 0sbm.consobaby.co.uk
@@ -6381,6 +6396,7 @@
 0.0.0.0 cpxl.golem.de
 0.0.0.0 cxt.deutsche-bank.de
 0.0.0.0 dpm.bluray-disc.de
+0.0.0.0 dv.chemie.de
 0.0.0.0 dw-eu.com.com
 0.0.0.0 ens.luzernerzeitung.ch
 0.0.0.0 ens.nzz.ch
@@ -6473,6 +6489,7 @@
 0.0.0.0 lem.nouvelobs.com
 0.0.0.0 logs-qos.tf1.fr
 0.0.0.0 p.pagesjaunes.fr
+0.0.0.0 pam.nextinpact.com
 0.0.0.0 poum.nextinpact.com
 0.0.0.0 pwa.telephoneannuaire.fr
 0.0.0.0 rdtdlv.laredoute.fr
