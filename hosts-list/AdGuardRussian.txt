@@ -1,10 +1,13 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Mon, 17 Feb 2020 09:01:22 +0800
+# Last converted - Thu, 20 Feb 2020 15:50:38 +0800
 #
 
+0.0.0.0 refractionius.com
+0.0.0.0 bdbdqkxkdb.com
 0.0.0.0 uezbshzpdcbb.info
+0.0.0.0 listonnw.pro
 0.0.0.0 adtech-digital.ru
 0.0.0.0 fgsffil.pro
 0.0.0.0 oijkse.com
