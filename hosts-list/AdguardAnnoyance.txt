@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Mon, 17 Feb 2020 09:01:22 +0800
+# Last converted - Thu, 20 Feb 2020 15:50:38 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -95,6 +95,7 @@
 0.0.0.0 admessage.support
 0.0.0.0 ntvsw.com
 0.0.0.0 ichecknotifyfriends.info
+0.0.0.0 valkirum.com
 0.0.0.0 luravius.com
 0.0.0.0 amacritus.com
 0.0.0.0 bakibarus.com
@@ -240,6 +241,7 @@
 0.0.0.0 dl.metabar.ru
 0.0.0.0 plista.com
 0.0.0.0 widgets.digitalmediacommunications.com
+0.0.0.0 widget.beesender.com
 0.0.0.0 chat.autofaq.ai
 0.0.0.0 widget.webica.pro
 0.0.0.0 getbutton.io
