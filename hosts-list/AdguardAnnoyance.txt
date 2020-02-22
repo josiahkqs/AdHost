@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Thu, 20 Feb 2020 15:50:38 +0800
+# Last converted - Sat, 22 Feb 2020 12:03:35 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -19,6 +19,7 @@
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 cookielaw.org
 0.0.0.0 cookiebot.com
+0.0.0.0 consent.mz-web.de
 0.0.0.0 consent.dumont.de
 0.0.0.0 metomic.io
 0.0.0.0 privacy-center.org
@@ -91,6 +92,7 @@
 0.0.0.0 easyfeeed.com
 0.0.0.0 vinuser5.biz
 0.0.0.0 ss.6ib.ru
+0.0.0.0 jubi.ai
 0.0.0.0 bildirnet.com
 0.0.0.0 admessage.support
 0.0.0.0 ntvsw.com
