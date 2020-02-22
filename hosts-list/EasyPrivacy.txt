@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Thu, 20 Feb 2020 15:50:41 +0800
+# Last converted - Sat, 22 Feb 2020 12:03:38 +0800
 #
 
 0.0.0.0 0emm.com
@@ -3950,7 +3950,6 @@
 0.0.0.0 intrastats.com
 0.0.0.0 mabaya.com
 0.0.0.0 micodigo.com
-0.0.0.0 s3wfg.com
 0.0.0.0 seedtag.com
 0.0.0.0 adsettings.com
 0.0.0.0 adten.eu
@@ -4552,6 +4551,7 @@
 0.0.0.0 mmi.bemobile.ua
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 mqs.ioam.de
+0.0.0.0 mtrcs.samba.tv
 0.0.0.0 mts.mansion.com
 0.0.0.0 mv.treehousei.com
 0.0.0.0 myscoop-tracking.googlecode.com
@@ -4559,6 +4559,7 @@
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 newsanalytics.com.au
 0.0.0.0 newsletters.nationalgeographic.com
+0.0.0.0 ninja.akamaized.net
 0.0.0.0 ninja.onap.io
 0.0.0.0 nol.yahoo.com
 0.0.0.0 nova.dice.net
@@ -5242,6 +5243,7 @@
 0.0.0.0 speee-ad.akamaized.net
 0.0.0.0 sstats.mora.jp
 0.0.0.0 sync.shinobi.jp
+0.0.0.0 t.adlpo.com
 0.0.0.0 torimochi.line-apps.com
 0.0.0.0 track.thebase.in
 0.0.0.0 userdive.com
@@ -6193,6 +6195,7 @@
 0.0.0.0 swindonadvertiser-gb.swindonadvertiser.co.uk
 0.0.0.0 thenational-gb.thenational.scot
 0.0.0.0 ttauri.laptopmag.com
+0.0.0.0 ttauri.livescience.com
 0.0.0.0 ttauri.tomsguide.com
 0.0.0.0 ttauri.tomshardware.com
 0.0.0.0 wiltshiretimes-gb.wiltshiretimes.co.uk
