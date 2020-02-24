@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Sun, 23 Feb 2020 21:15:37 +0800
+# Last converted - Mon, 24 Feb 2020 19:25:24 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -386,6 +386,9 @@
 0.0.0.0 my-eromir.net
 0.0.0.0 my-games-online.ru
 0.0.0.0 mycultures.ru
+0.0.0.0 novosti10.ru
+0.0.0.0 novosti3.ru
+0.0.0.0 novosticenter.ru
 0.0.0.0 panel.gemius.com.ua
 0.0.0.0 pin2me.com
 0.0.0.0 pop.sn00.net
@@ -399,6 +402,12 @@
 0.0.0.0 sex-mambo.net
 0.0.0.0 skidka50.com.ua
 0.0.0.0 slivz.com
+0.0.0.0 smi.fm
+0.0.0.0 smi10.ru
+0.0.0.0 smi2you.ru
+0.0.0.0 smicenter.ml
+0.0.0.0 smicenter.ru
+0.0.0.0 supersmi.cf
 0.0.0.0 survey.gemius.com.ua
 0.0.0.0 sysenvfiles.net
 0.0.0.0 test-studio.ru
@@ -1710,7 +1719,6 @@
 0.0.0.0 slimp.net
 0.0.0.0 smart-soft.ru
 0.0.0.0 smartbucks.ru
-0.0.0.0 smi.fm
 0.0.0.0 smi2.ru
 0.0.0.0 smi2.tv
 0.0.0.0 smiar.ru
@@ -2800,6 +2808,7 @@
 0.0.0.0 bdbdqdxkdb.com
 0.0.0.0 bdbdqexkdb.com
 0.0.0.0 bdbdqfxkdb.com
+0.0.0.0 bdbdqidkdb.com
 0.0.0.0 bdbdqixkdb.com
 0.0.0.0 bdbdqkxkdb.com
 0.0.0.0 bdbdqnxkdb.com
@@ -2906,6 +2915,7 @@
 0.0.0.0 bme9usxpo.tech
 0.0.0.0 bnjoajn5dfhbbam.ru
 0.0.0.0 bnrdom.com
+0.0.0.0 bnrsis.com
 0.0.0.0 bnster.com
 0.0.0.0 bnstero.com
 0.0.0.0 bnxhe.com
@@ -2938,6 +2948,7 @@
 0.0.0.0 boostervideo.ru
 0.0.0.0 bootlet.ru
 0.0.0.0 botkano.info
+0.0.0.0 boyswork.info
 0.0.0.0 bpkk.ru
 0.0.0.0 bpyxg.com
 0.0.0.0 brandarium.ru
@@ -3604,6 +3615,7 @@
 0.0.0.0 e968806fd491b3.com
 0.0.0.0 ea8460bc653.com
 0.0.0.0 eab72ab21d90.com
+0.0.0.0 eadgxy.com
 0.0.0.0 eaplay.ru
 0.0.0.0 eaqci.com
 0.0.0.0 eb7b77123e2bc8fe9cbe.date
@@ -4769,6 +4781,7 @@
 0.0.0.0 kzqox.com
 0.0.0.0 l48ioxvhakxv.ru
 0.0.0.0 l6hba7sosm1.site
+0.0.0.0 laaming.com
 0.0.0.0 labadon.com
 0.0.0.0 lacembre.com
 0.0.0.0 lacemme.com
@@ -5568,6 +5581,9 @@
 0.0.0.0 novbrom.com
 0.0.0.0 novfox2.com
 0.0.0.0 novinkifilmov.com
+0.0.0.0 novosti10.ru
+0.0.0.0 novosti3.ru
+0.0.0.0 novosticenter.ru
 0.0.0.0 novwolf.com
 0.0.0.0 now09.ru
 0.0.0.0 nowda.info
@@ -6584,7 +6600,12 @@
 0.0.0.0 smart-tds.info
 0.0.0.0 smartmedia.net.ua
 0.0.0.0 smartns.cdnvideo.ru
+0.0.0.0 smi.fm
+0.0.0.0 smi10.ru
+0.0.0.0 smi2you.ru
 0.0.0.0 smi6.info
+0.0.0.0 smicenter.ml
+0.0.0.0 smicenter.ru
 0.0.0.0 smiinform.zone
 0.0.0.0 smiinformer.com
 0.0.0.0 smiinformer1.com
@@ -6714,6 +6735,7 @@
 0.0.0.0 superrdomain.info
 0.0.0.0 superrnovosti.ru
 0.0.0.0 superrstar.services
+0.0.0.0 supersmi.cf
 0.0.0.0 supertura.com
 0.0.0.0 supinatio.ru
 0.0.0.0 sutgof.ru
@@ -6762,6 +6784,7 @@
 0.0.0.0 tanlitthisdint.ru
 0.0.0.0 tare51vkh.ru
 0.0.0.0 targetan.com
+0.0.0.0 targetanza.ru
 0.0.0.0 targeterra.com
 0.0.0.0 targeterra.info
 0.0.0.0 targetix.net
