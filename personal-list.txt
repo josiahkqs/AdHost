@@ -371,3 +371,16 @@
 0.0.0.0 jump.ogtrk.net # Scam
 0.0.0.0 ogs.google.com # Google redirect
 0.0.0.0 privateinsta.com # Spam
+0.0.0.0 a771.dscq.akamai.net # Ads
+0.0.0.0 a1089.dscd.akamai.net # Ads
+0.0.0.0 a1838.dscb.akamai.net # Ads
+0.0.0.0 e673.dsce9.akamaiedge.net # Possible Ads
+0.0.0.0 native.propellerclick.com # Possible Tracker
+0.0.0.0 prod.disqus.map.fastlylb.net # Possible Tracker
+0.0.0.0 polka.typekit.com # Adobe Typekit Tracker
+0.0.0.0 prebid.mgid.com # Possible Ad
+0.0.0.0 widget.novelfever.com # Block Novel Widget
+0.0.0.0 served-by.pixfuture.com # Possible Tracker
+0.0.0.0 vast.adxoo.com # Possible Ads
+0.0.0.0 ss-prod-an1-notif-25.aws.adobess.com # Adobe Tracker
+0.0.0.0 apps.mzstatic.com.edgekey.net # Unsure, possible ads
