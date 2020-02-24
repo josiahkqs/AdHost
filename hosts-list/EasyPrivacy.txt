@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sun, 23 Feb 2020 21:15:40 +0800
+# Last converted - Mon, 24 Feb 2020 19:25:28 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1633,6 +1633,7 @@
 0.0.0.0 pixel.watch
 0.0.0.0 pixeleze.com
 0.0.0.0 pixelinteractivemedia.com
+0.0.0.0 pixelpop.co
 0.0.0.0 pixelrevenue.com
 0.0.0.0 pizzaandads.com
 0.0.0.0 pjatr.com
@@ -1714,6 +1715,7 @@
 0.0.0.0 quadran.eu
 0.0.0.0 quantcount.com
 0.0.0.0 quantummetric.com
+0.0.0.0 quartic.pl
 0.0.0.0 qubitproducts.com
 0.0.0.0 questionpro.com
 0.0.0.0 questradeaffiliates.com
@@ -5089,6 +5091,7 @@
 0.0.0.0 stats.ipmgroup.be
 0.0.0.0 stats.tipser.com
 0.0.0.0 t.ofsys.com
+0.0.0.0 tag.goldenbees.fr
 0.0.0.0 tag.leadplace.fr
 0.0.0.0 testcddc.atclouddev.net
 0.0.0.0 tmgr.ccmbg.com
