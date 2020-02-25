@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Sat, 22 Feb 2020 12:03:35 +0800
+# Last converted - Tue, 25 Feb 2020 14:34:35 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -92,6 +92,7 @@
 0.0.0.0 easyfeeed.com
 0.0.0.0 vinuser5.biz
 0.0.0.0 ss.6ib.ru
+0.0.0.0 truepush.com
 0.0.0.0 jubi.ai
 0.0.0.0 bildirnet.com
 0.0.0.0 admessage.support
