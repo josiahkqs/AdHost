@@ -1,9 +1,12 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Mon, 24 Feb 2020 19:25:19 +0800
+# Last converted - Tue, 25 Feb 2020 14:34:27 +0800
 #
 
+0.0.0.0 jnxz88.cn
+0.0.0.0 01fen.com
+0.0.0.0 zjrtuhds.top
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -2923,6 +2926,7 @@
 0.0.0.0 ztyumn.ifeng.com
 0.0.0.0 immedlinkum.info
 0.0.0.0 xayah.date
+0.0.0.0 pss.meizhejie.com
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
 0.0.0.0 06362.com
@@ -3492,6 +3496,7 @@
 0.0.0.0 luoshenbest.cn
 0.0.0.0 lv.myapks.com
 0.0.0.0 lyz.radio366.com
+0.0.0.0 m1.100how.com
 0.0.0.0 m1.27com.com
 0.0.0.0 m1.51kaowang.com
 0.0.0.0 m1.81312.com
@@ -3833,6 +3838,7 @@
 0.0.0.0 runkao.net
 0.0.0.0 stunninglover.com
 0.0.0.0 cryptaloot.pro
+0.0.0.0 qlssbq.cn
 0.0.0.0 01w47q.cn
 0.0.0.0 0234408.cn
 0.0.0.0 02m5j.cn
