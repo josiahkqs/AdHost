@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sat, 22 Feb 2020 12:03:36 +0800
+# Last converted - Wed, 26 Feb 2020 22:50:34 +0800
 #
 
 0.0.0.0 bagbeam.com
@@ -4226,7 +4226,7 @@
 0.0.0.0 r.movad.de
 0.0.0.0 truehits1.gits.net.th
 0.0.0.0 truehits3.gits.net.th
-0.0.0.0 try.abtasty.com
+0.0.0.0 ariane.abtasty.com
 0.0.0.0 triggertag.gorillanation.com
 0.0.0.0 trck.spoteffects.net
 0.0.0.0 treasuredata.com
