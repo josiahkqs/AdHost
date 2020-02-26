@@ -1,0 +1,13 @@
+goo.gl # Google URL Shorterner
+bit.ly # bit.ly URL Shorterner
+grab.com # Grab.com
+www.grab.com # Grab.com
+gateway.reddit.com # Reddit
+use.typekit.net # Adobe Font
+telegra.ph # Telegraph
+www.expressvpn.com # Expressvpn
+s0.wp.com # Wordpress to function properly
+js.stripe.com # Stripe Payment
+login.microsoftonline.com # Microsoft 365
+apresolve.spotify.com # Spotify Mobile to Function
+unpkg.com # NPM CDN
