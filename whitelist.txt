@@ -11,3 +11,4 @@ js.stripe.com # Stripe Payment
 login.microsoftonline.com # Microsoft 365
 apresolve.spotify.com # Spotify Mobile to Function
 unpkg.com # NPM CDN
+cdn.jsdelivr.net # JS CDN
