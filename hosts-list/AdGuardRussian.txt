@@ -1,14 +1,17 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 25 Feb 2020 14:34:39 +0800
+# Last converted - Wed, 26 Feb 2020 22:50:34 +0800
 #
 
+0.0.0.0 tneduf.com
+0.0.0.0 foiozzs.pro
 0.0.0.0 soilebol.com
 0.0.0.0 dnoyrz.com
 0.0.0.0 bs.commontools.net
 0.0.0.0 refractionius.com
 0.0.0.0 bdbdqkxkdb.com
+0.0.0.0 sellaction.net
 0.0.0.0 uezbshzpdcbb.info
 0.0.0.0 listonnw.pro
 0.0.0.0 adtech-digital.ru
