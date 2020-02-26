@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 24 Feb 2020 19:25:28 +0800
+# Last converted - Wed, 26 Feb 2020 22:50:37 +0800
 #
 
 0.0.0.0 0emm.com
@@ -4810,7 +4810,6 @@
 0.0.0.0 tr.interlake.net
 0.0.0.0 tr.webantenna.info
 0.0.0.0 tr1.mailperformance.com
-0.0.0.0 tra.scds.pmdstatic.net
 0.0.0.0 traccoon.intellectsoft.net
 0.0.0.0 trace.qq.com
 0.0.0.0 track.99acres.com
