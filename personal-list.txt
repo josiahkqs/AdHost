@@ -374,7 +374,6 @@
 0.0.0.0 a771.dscq.akamai.net # Ads
 0.0.0.0 a1089.dscd.akamai.net # Ads
 0.0.0.0 a1838.dscb.akamai.net # Ads
-0.0.0.0 e673.dsce9.akamaiedge.net # Possible Ads
 0.0.0.0 native.propellerclick.com # Possible Tracker
 0.0.0.0 prod.disqus.map.fastlylb.net # Possible Tracker
 0.0.0.0 polka.typekit.com # Adobe Typekit Tracker
