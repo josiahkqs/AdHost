@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Tue, 25 Feb 2020 14:34:31 +0800
+# Last converted - Wed, 26 Feb 2020 22:50:07 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -253,6 +253,7 @@
 0.0.0.0 sds012.xyz
 0.0.0.0 sds112.xyz
 0.0.0.0 sdsd11.ru
+0.0.0.0 segodnia.club
 0.0.0.0 segodnia.space
 0.0.0.0 senokoss.biz
 0.0.0.0 senokoss.net
@@ -409,6 +410,7 @@
 0.0.0.0 smicenter.ml
 0.0.0.0 smicenter.ru
 0.0.0.0 supersmi.cf
+0.0.0.0 supersmi.ga
 0.0.0.0 survey.gemius.com.ua
 0.0.0.0 sysenvfiles.net
 0.0.0.0 test-studio.ru
@@ -2813,6 +2815,7 @@
 0.0.0.0 bdbdqidkdb.com
 0.0.0.0 bdbdqixkdb.com
 0.0.0.0 bdbdqkxkdb.com
+0.0.0.0 bdbdqndkdb.com
 0.0.0.0 bdbdqnxkdb.com
 0.0.0.0 bdbdqqxkdb.com
 0.0.0.0 bdbdqsxkdb.com
@@ -5114,6 +5117,7 @@
 0.0.0.0 mdomata.ru
 0.0.0.0 mdvkn.com
 0.0.0.0 mdyhb.com
+0.0.0.0 meatthe.ru
 0.0.0.0 mebablo.com
 0.0.0.0 mecash.ru
 0.0.0.0 med-rul.ru
@@ -5699,6 +5703,7 @@
 0.0.0.0 ologyro.ru
 0.0.0.0 olomara.ru
 0.0.0.0 oltonve.ru
+0.0.0.0 omarti.ru
 0.0.0.0 omine.org
 0.0.0.0 omkbk.com
 0.0.0.0 omnicpa.ru
@@ -6740,6 +6745,7 @@
 0.0.0.0 superrnovosti.ru
 0.0.0.0 superrstar.services
 0.0.0.0 supersmi.cf
+0.0.0.0 supersmi.ga
 0.0.0.0 supertura.com
 0.0.0.0 supinatio.ru
 0.0.0.0 sutgof.ru
@@ -7192,6 +7198,7 @@
 0.0.0.0 ulenr.top
 0.0.0.0 ultrapay.net
 0.0.0.0 umrefebaot.biz
+0.0.0.0 umwiba.com
 0.0.0.0 unads.ru
 0.0.0.0 unclic.ru
 0.0.0.0 under-click.ru
@@ -7282,6 +7289,7 @@
 0.0.0.0 vbmjune25.com
 0.0.0.0 vboys.ru
 0.0.0.0 vcnnz.com
+0.0.0.0 vdo.ai
 0.0.0.0 vdwlf.net
 0.0.0.0 vdxybm.biz
 0.0.0.0 veda-consult.ru
