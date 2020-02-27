@@ -13,3 +13,5 @@ apresolve.spotify.com # Spotify Mobile to Function
 unpkg.com # NPM CDN
 cdn.jsdelivr.net # JS CDN
 ocsp.apple.com # Apple certificate validation
+cf.iadsdk.apple.com # Apple certificate validation
+# iadsdk.apple.com # Apple certificate validation
