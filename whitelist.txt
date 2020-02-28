@@ -14,7 +14,7 @@ unpkg.com # NPM CDN
 cdn.jsdelivr.net # JS CDN
 maxcdn.bootstrapcdn.com # CDN
 s.pinimg.com # Pinterest to function properly
-settings.data.microsoft.com # Microsoft service link
+# settings.data.microsoft.com # Microsoft service link
 # ocsp.apple.com # Apple certificate validation
 # cf.iadsdk.apple.com # Apple certificate validation
 # iadsdk.apple.com # Apple certificate validation
