@@ -1,9 +1,22 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Wed, 26 Feb 2020 22:50:34 +0800
+# Last converted - Sat, 29 Feb 2020 00:17:53 +0800
 #
 
+0.0.0.0 islandofadvert.com$document
+0.0.0.0 debitcrebit669.com$document
+0.0.0.0 cematuran.com
+0.0.0.0 bergfi.com
+0.0.0.0 vhajaja.pro
+0.0.0.0 1tdscpamedia.xyz
+0.0.0.0 casualshark.com
+0.0.0.0 umwiba.com
+0.0.0.0 aagqrr.com
+0.0.0.0 bfbdfjjacgddcajcej.ru
+0.0.0.0 neyacpa.pro
+0.0.0.0 digitaltarget.ru
+0.0.0.0 2am0yc33wt2e.ru
 0.0.0.0 tneduf.com
 0.0.0.0 foiozzs.pro
 0.0.0.0 soilebol.com
@@ -11,6 +24,7 @@
 0.0.0.0 bs.commontools.net
 0.0.0.0 refractionius.com
 0.0.0.0 bdbdqkxkdb.com
+0.0.0.0 1k3static.com
 0.0.0.0 sellaction.net
 0.0.0.0 uezbshzpdcbb.info
 0.0.0.0 listonnw.pro
@@ -3704,6 +3718,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 ads-delivery.gameforge.com
 0.0.0.0 unisound.cdnvideo.ru
 0.0.0.0 pp.muzofon-online.com
 0.0.0.0 ban.zab.ru
@@ -3835,6 +3850,7 @@
 0.0.0.0 ritzysponge.com
 0.0.0.0 dondlo.
 0.0.0.0 novosti-online.gq
+0.0.0.0 mirror.smi.fm
 0.0.0.0 info.emoment.com
 0.0.0.0 ext.week.news
 0.0.0.0 smi.today
