@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Wed, 26 Feb 2020 22:50:37 +0800
+# Last converted - Sat, 29 Feb 2020 00:17:56 +0800
 #
 
 0.0.0.0 0emm.com
@@ -2912,6 +2912,7 @@
 0.0.0.0 zminer.zaloapp.com
 0.0.0.0 6ldu6qa.com
 0.0.0.0 absorbingband.com
+0.0.0.0 absorbingcorn.com
 0.0.0.0 absorbingprison.com
 0.0.0.0 abstractedamount.com
 0.0.0.0 absurdapple.com
@@ -3908,7 +3909,6 @@
 0.0.0.0 toptracker.ru
 0.0.0.0 tpm.pw
 0.0.0.0 track.cooster.ru
-0.0.0.0 trbna.com
 0.0.0.0 uarating.com
 0.0.0.0 upravel.com
 0.0.0.0 uptolike.com
@@ -6432,6 +6432,7 @@
 0.0.0.0 prophet.heise.de
 0.0.0.0 pxc.otto.de
 0.0.0.0 rem-track.bild.de
+0.0.0.0 responder.wt.heise.de
 0.0.0.0 rl.heise.de
 0.0.0.0 s.edeka.de
 0.0.0.0 statistics.raiffeisen.ch
@@ -6519,6 +6520,7 @@
 0.0.0.0 tracking.bd4travel.com
 0.0.0.0 tracking.ha.rueducommerce.fr
 0.0.0.0 wbdds.allocine.fr
+0.0.0.0 zam.nextinpact.com
 0.0.0.0 footprint.anetwork.ir
 0.0.0.0 counter.search.bg
 0.0.0.0 adgeo.163.com
