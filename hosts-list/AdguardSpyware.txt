@@ -1,9 +1,11 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Wed, 26 Feb 2020 22:50:34 +0800
+# Last converted - Sat, 29 Feb 2020 00:17:53 +0800
 #
 
+0.0.0.0 analytic.press
+0.0.0.0 d1tracker.ru
 0.0.0.0 bagbeam.com
 0.0.0.0 irxcm.com
 0.0.0.0 unid.go.com
@@ -3278,6 +3280,8 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 pixelzirkus.gameforge.com
+0.0.0.0 pixel.parsely.com
 0.0.0.0 apv-launcher.minute.ly
 0.0.0.0 counter.pr-cy.ru
 0.0.0.0 journey.unicef.de
