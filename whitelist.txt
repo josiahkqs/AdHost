@@ -19,4 +19,4 @@ s.pinimg.com # Pinterest to function properly
 # cf.iadsdk.apple.com # Apple certificate validation
 # iadsdk.apple.com # Apple certificate validation
 # supportmetrics.apple.com
-
+mh1.zhengdongwuye.cn
