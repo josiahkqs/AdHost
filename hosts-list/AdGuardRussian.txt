@@ -1,9 +1,15 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sat, 29 Feb 2020 00:17:53 +0800
+# Last converted - Thu, 05 Mar 2020 00:49:33 +0800
 #
 
+0.0.0.0 oc734yaw3w.rest
+0.0.0.0 reu5uut0.top
+0.0.0.0 ssdbkv4qtq.xyz
+0.0.0.0 jajnhd.com
+0.0.0.0 dcwacl.com
+0.0.0.0 clickbaza.com
 0.0.0.0 islandofadvert.com$document
 0.0.0.0 debitcrebit669.com$document
 0.0.0.0 cematuran.com
