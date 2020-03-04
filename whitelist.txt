@@ -14,9 +14,10 @@ unpkg.com # NPM CDN
 cdn.jsdelivr.net # JS CDN
 maxcdn.bootstrapcdn.com # CDN
 s.pinimg.com # Pinterest to function properly
+mh1.zhengdongwuye.cn # China Manhua Site to load properly
 # settings.data.microsoft.com # Microsoft service link
 # ocsp.apple.com # Apple certificate validation
 # cf.iadsdk.apple.com # Apple certificate validation
 # iadsdk.apple.com # Apple certificate validation
 # supportmetrics.apple.com
-mh1.zhengdongwuye.cn
+
