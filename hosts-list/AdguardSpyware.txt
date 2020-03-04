@@ -1,10 +1,25 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sat, 29 Feb 2020 00:17:53 +0800
+# Last converted - Thu, 05 Mar 2020 00:49:33 +0800
 #
 
+0.0.0.0 hybrid.ai
+0.0.0.0 shopnetic.com
+0.0.0.0 e-contenta.com
+0.0.0.0 ad-srv-track.com
+0.0.0.0 trk.techtarget.com
+0.0.0.0 toecircle.com
+0.0.0.0 qzxmtyy.com
+0.0.0.0 adinsight.co.kr
+0.0.0.0 adpies.com
+0.0.0.0 altg.widerplanet.com
+0.0.0.0 astg.widerplanet.com
+0.0.0.0 asp22.http.or.kr
+0.0.0.0 cm-exchange.toast.com
+0.0.0.0 log.mediacategory.com
 0.0.0.0 analytic.press
+0.0.0.0 analytics.getaim.info
 0.0.0.0 d1tracker.ru
 0.0.0.0 bagbeam.com
 0.0.0.0 irxcm.com
@@ -3280,6 +3295,10 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 videostats.kakao.com
+0.0.0.0 stat.tiara.daum.net
+0.0.0.0 webid.ad.daum.net
+0.0.0.0 wt.soundestlink.com
 0.0.0.0 pixelzirkus.gameforge.com
 0.0.0.0 pixel.parsely.com
 0.0.0.0 apv-launcher.minute.ly
@@ -4655,6 +4674,7 @@
 0.0.0.0 metrics.toysrus.com
 0.0.0.0 mevents.trusteer.com
 0.0.0.0 mtp.spcs.me
+0.0.0.0 mtp.spaces.im
 0.0.0.0 mtp.spaces.ru
 0.0.0.0 o.addthis.com
 0.0.0.0 onclickpredictiv.com
@@ -4804,7 +4824,6 @@
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 dsp-tracking.unityads.unity3d.com
 0.0.0.0 installtracker.unityads.unity3d.com
-0.0.0.0 issuetracker.unity3d.com
 0.0.0.0 tracking.adsx.unityads.unity3d.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
