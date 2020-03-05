@@ -21,4 +21,6 @@ mh1.zhengdongwuye.cn # China Manhua Site to load properly
 # cf.iadsdk.apple.com # Apple certificate validation
 # iadsdk.apple.com # Apple certificate validation
 # supportmetrics.apple.com
-
+# p.typekit.net
+# polka.typekit.com
+ss-prod-an1-notif-25.aws.adobess.com
