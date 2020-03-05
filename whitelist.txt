@@ -15,7 +15,7 @@ cdn.jsdelivr.net # JS CDN
 maxcdn.bootstrapcdn.com # CDN
 s.pinimg.com # Pinterest to function properly
 mh1.zhengdongwuye.cn # China Manhua Site to load properly
-web.livefyre.com # Adobe on-demand service
+# web.livefyre.com # Adobe on-demand service
 # settings.data.microsoft.com # Microsoft service link
 # ocsp.apple.com # Apple certificate validation
 # cf.iadsdk.apple.com # Apple certificate validation
