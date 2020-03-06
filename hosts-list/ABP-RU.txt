@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Thu, 05 Mar 2020 00:49:33 +0800
+# Last converted - Sat, 07 Mar 2020 01:52:46 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1383,7 +1383,6 @@
 0.0.0.0 kredit.beregu.ru
 0.0.0.0 kriloff.ru
 0.0.0.0 kritka.kz
-0.0.0.0 krutilka.net
 0.0.0.0 krutilki.ru
 0.0.0.0 kupitraff.ru
 0.0.0.0 l2top.ru
@@ -4782,6 +4781,7 @@
 0.0.0.0 krasisa.info
 0.0.0.0 kreepo.com
 0.0.0.0 kremaga.ru
+0.0.0.0 krutilka.net
 0.0.0.0 kryukoto.ru
 0.0.0.0 ksdnf.com
 0.0.0.0 kshop.biz
@@ -6595,6 +6595,7 @@
 0.0.0.0 skidka50.net
 0.0.0.0 skidl.ru
 0.0.0.0 skiles.link
+0.0.0.0 skwstat.ru
 0.0.0.0 skyad1.ru
 0.0.0.0 skyad5.ru
 0.0.0.0 skyadsvideo1.ru
@@ -6690,6 +6691,7 @@
 0.0.0.0 spotsniper.ru
 0.0.0.0 spraydoses.xyz
 0.0.0.0 sputnikads.ru
+0.0.0.0 spylees.com
 0.0.0.0 sqa41.ru
 0.0.0.0 sqjda.com
 0.0.0.0 srkft.com
