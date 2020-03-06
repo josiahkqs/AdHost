@@ -1,9 +1,10 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Thu, 05 Mar 2020 00:49:33 +0800
+# Last converted - Sat, 07 Mar 2020 01:52:47 +0800
 #
 
+0.0.0.0 mc.admetrica.ru
 0.0.0.0 hybrid.ai
 0.0.0.0 shopnetic.com
 0.0.0.0 e-contenta.com
@@ -4915,6 +4916,7 @@
 0.0.0.0 analytics-tracker.thescore.com
 0.0.0.0 app.roximity.com
 0.0.0.0 dc.webtrends.com
+0.0.0.0 rosenberg.appmetrica.webvisor.com
 0.0.0.0 api.oneaudience.com
 0.0.0.0 api.gameofwhales.com
 0.0.0.0 geoplugin.net
