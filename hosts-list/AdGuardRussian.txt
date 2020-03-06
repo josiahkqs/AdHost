@@ -1,9 +1,13 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Thu, 05 Mar 2020 00:49:33 +0800
+# Last converted - Sat, 07 Mar 2020 01:52:46 +0800
 #
 
+0.0.0.0 igtdovf.pro
+0.0.0.0 ijdjvaa.pro
+0.0.0.0 ec2-44-233-143-239.us-west-2.compute.amazonaws.com$document
+0.0.0.0 meatthe.ru
 0.0.0.0 oc734yaw3w.rest
 0.0.0.0 reu5uut0.top
 0.0.0.0 ssdbkv4qtq.xyz
@@ -3724,6 +3728,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 rekl.brawlstars-app.ru
 0.0.0.0 ads-delivery.gameforge.com
 0.0.0.0 unisound.cdnvideo.ru
 0.0.0.0 pp.muzofon-online.com
@@ -3837,7 +3842,6 @@
 0.0.0.0 star.manystars.ru
 0.0.0.0 statistic.imgpay.ru
 0.0.0.0 stats.imgpay.ru
-0.0.0.0 stepan-fe.go.mail.ru
 0.0.0.0 t.sexycontent.net
 0.0.0.0 t.xtubetv.net
 0.0.0.0 tan.pridnestrovie.com
