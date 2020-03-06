@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Thu, 05 Mar 2020 00:49:36 +0800
+# Last converted - Sat, 07 Mar 2020 01:52:48 +0800
 #
 
 0.0.0.0 0emm.com
@@ -286,6 +286,7 @@
 0.0.0.0 b2c.com
 0.0.0.0 babator.com
 0.0.0.0 bam-x.com
+0.0.0.0 bamgrid.com
 0.0.0.0 baptisttop1000.com
 0.0.0.0 baremetrics.com
 0.0.0.0 barilliance.net
@@ -1515,6 +1516,7 @@
 0.0.0.0 nuloox.com
 0.0.0.0 numerino.cz
 0.0.0.0 nyctrl32.com
+0.0.0.0 nyltx.com
 0.0.0.0 nytlog.com
 0.0.0.0 o-s.io
 0.0.0.0 observerapp.com
@@ -1562,6 +1564,7 @@
 0.0.0.0 optimahub.com
 0.0.0.0 optimix.asia
 0.0.0.0 optimizely.com
+0.0.0.0 optimizelydata.com
 0.0.0.0 optimost.com
 0.0.0.0 optin-machine.com
 0.0.0.0 optorb.com
@@ -5686,6 +5689,7 @@
 0.0.0.0 logs.dashlane.com
 0.0.0.0 logs.gaana.com
 0.0.0.0 logs.hotstar.com
+0.0.0.0 logx.optimizely.com
 0.0.0.0 lslmetrics.djlmgdigital.com
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 marketing.dropbox.com
@@ -6185,6 +6189,8 @@
 0.0.0.0 cmp.techadvisor.co.uk
 0.0.0.0 cmp.techhive.com
 0.0.0.0 commsvc.stern.de
+0.0.0.0 consent.api.osano.com
+0.0.0.0 consent.inm.ie
 0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 gazette-news-gb.gazette-news.co.uk
 0.0.0.0 glasgowtimes-gb.glasgowtimes.co.uk
@@ -6400,6 +6406,7 @@
 0.0.0.0 c.t-online.de
 0.0.0.0 cc.zeit.de
 0.0.0.0 cct2.o2online.de
+0.0.0.0 cmp.channelpartner.de
 0.0.0.0 count.merian.de
 0.0.0.0 count.rtl.de
 0.0.0.0 count.spiegel.de
