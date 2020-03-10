@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 09 Mar 2020 13:45:45 +0800
+# Last converted - Tue, 10 Mar 2020 09:07:15 +0800
 #
 
 0.0.0.0 0emm.com
@@ -286,7 +286,6 @@
 0.0.0.0 b2c.com
 0.0.0.0 babator.com
 0.0.0.0 bam-x.com
-0.0.0.0 bamgrid.com
 0.0.0.0 baptisttop1000.com
 0.0.0.0 baremetrics.com
 0.0.0.0 barilliance.net
