@@ -15,6 +15,3 @@ cdn.jsdelivr.net # JS CDN
 maxcdn.bootstrapcdn.com # CDN
 s.pinimg.com # Pinterest to function properly
 mh1.zhengdongwuye.cn # China Manhua Site to load properly
-fyre.co # Streaming (Adobe)
-behanceproduction.fyre.co
-behanceproduction.bootstrap.fyre.co
