@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 10 Mar 2020 09:07:15 +0800
+# Last converted - Sat, 14 Mar 2020 23:11:07 +0800
 #
 
 0.0.0.0 0emm.com
@@ -28,6 +28,7 @@
 0.0.0.0 24log.com
 0.0.0.0 2cnt.net
 0.0.0.0 2o7.net
+0.0.0.0 2smt6mfgo.de
 0.0.0.0 33across.com
 0.0.0.0 360i.com
 0.0.0.0 360tag.com
@@ -251,6 +252,7 @@
 0.0.0.0 atgsvcs.com
 0.0.0.0 athenainstitute.biz
 0.0.0.0 atoshonetwork.com
+0.0.0.0 atp.io
 0.0.0.0 atticwicket.com
 0.0.0.0 attracta.com
 0.0.0.0 attributionapp.com
@@ -1024,6 +1026,7 @@
 0.0.0.0 hivps.xyz
 0.0.0.0 hlserve.com
 0.0.0.0 hmstats.com
+0.0.0.0 honeybadger.io
 0.0.0.0 hoood.info
 0.0.0.0 hopurl.org
 0.0.0.0 hospitality-optimizer.com
@@ -1344,6 +1347,7 @@
 0.0.0.0 mdotlabs.com
 0.0.0.0 mdxapi.io
 0.0.0.0 measure.ly
+0.0.0.0 measured.com
 0.0.0.0 measuremap.com
 0.0.0.0 measurementapi.com
 0.0.0.0 meatballsandads.com
@@ -1675,6 +1679,7 @@
 0.0.0.0 pro6e.com
 0.0.0.0 proclivitysystems.com
 0.0.0.0 profilesnitch.com
+0.0.0.0 programmatictrader.com
 0.0.0.0 projectsunblock.com
 0.0.0.0 promotionengine.com
 0.0.0.0 proofpoint.com
@@ -2938,6 +2943,7 @@
 0.0.0.0 bagbeam.com
 0.0.0.0 balancebreath.com
 0.0.0.0 bandborder.com
+0.0.0.0 baskettexture.com
 0.0.0.0 breakfastboat.com
 0.0.0.0 broadcastbed.com
 0.0.0.0 broaddoor.com
@@ -2971,6 +2977,7 @@
 0.0.0.0 desiredirt.com
 0.0.0.0 detectdiscovery.com
 0.0.0.0 diplomahawaii.com
+0.0.0.0 distinctday.com
 0.0.0.0 dq95d35.com
 0.0.0.0 drydrum.com
 0.0.0.0 ejyymghi.com
@@ -4025,7 +4032,6 @@
 0.0.0.0 affiliates.minglematch.com
 0.0.0.0 affiliates.purevpn.com
 0.0.0.0 akatracking.esearchvision.com
-0.0.0.0 aksb-a.akamaihd.net
 0.0.0.0 alexandria.marfeelcdn.com
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amplify.outbrain.com
@@ -4080,6 +4086,7 @@
 0.0.0.0 analytics.matchbin.com
 0.0.0.0 analytics.midwesternmac.com
 0.0.0.0 analytics.mlstatic.com
+0.0.0.0 analytics.myfidevs.io
 0.0.0.0 analytics.myfinance.com
 0.0.0.0 analytics.newscred.com
 0.0.0.0 analytics.onlyonlinemarketing.com
@@ -4146,6 +4153,7 @@
 0.0.0.0 b.bedop.com
 0.0.0.0 bab.frb.io
 0.0.0.0 backstage.funnelenvy.com
+0.0.0.0 bacon.section.io
 0.0.0.0 barium.cheezdev.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bc.marfeelcache.com
@@ -4193,6 +4201,7 @@
 0.0.0.0 canvas-ping.conduit-data.com
 0.0.0.0 canvas-usage-v2.conduit-data.com
 0.0.0.0 capture.condenastdigital.com
+0.0.0.0 capture.trackjs.com
 0.0.0.0 carl.pubsvs.com
 0.0.0.0 caspionlog.appspot.com
 0.0.0.0 cc.swiftype.com
@@ -4376,7 +4385,6 @@
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 doug1izaerwt3.cloudfront.net
-0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 dt1pxsve3tgas.cloudfront.net
 0.0.0.0 du4rq1xqh3i1k.cloudfront.net
 0.0.0.0 du8783wkf05yr.cloudfront.net
@@ -4524,6 +4532,7 @@
 0.0.0.0 loggingapi.spingo.com
 0.0.0.0 loglady.skypicker.com
 0.0.0.0 logs-api.shoprunner.com
+0.0.0.0 logs.datadoghq.com
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.vmixcore.com
@@ -4569,7 +4578,6 @@
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 newsanalytics.com.au
 0.0.0.0 newsletters.nationalgeographic.com
-0.0.0.0 ninja.akamaized.net
 0.0.0.0 ninja.onap.io
 0.0.0.0 nol.yahoo.com
 0.0.0.0 nova.dice.net
@@ -4652,7 +4660,6 @@
 0.0.0.0 px.owneriq.net
 0.0.0.0 px.spiceworks.com
 0.0.0.0 px.topspin.net
-0.0.0.0 pxlgnpgecom-a.akamaihd.net
 0.0.0.0 qubitanalytics.appspot.com
 0.0.0.0 r.mail.ru
 0.0.0.0 r.msn.com
@@ -4673,6 +4680,7 @@
 0.0.0.0 rs.sinajs.cn
 0.0.0.0 rss.tmgrup.com.tr
 0.0.0.0 rtt.campanja.com
+0.0.0.0 rum.conde.io
 0.0.0.0 rum.nccgroup-webperf.com
 0.0.0.0 rum.uptime.com
 0.0.0.0 rva.outbrain.com
@@ -4977,8 +4985,21 @@
 0.0.0.0 wstat.wibiya.com
 0.0.0.0 x.weather.com
 0.0.0.0 zdlogs.sphereup.com
+0.0.0.0 aksb-a.akamaihd.net
+0.0.0.0 ds-aksb-a.akamaihd.net
+0.0.0.0 e77lmzbqou0n-a.akamaihd.net
+0.0.0.0 ninja.akamaized.net
+0.0.0.0 pxlgnpgecom-a.akamaihd.net
+0.0.0.0 rndntpmgnj-a.akamaihd.net
+0.0.0.0 sgphctileh-a.akamaihd.net
+0.0.0.0 uhytajrtpo-a.akamaihd.net
 0.0.0.0 zvsuhljiha-a.akamaihd.net
 0.0.0.0 clarium.global.ssl.fastly.net
+0.0.0.0 dfapvmql-q.global.ssl.fastly.net
+0.0.0.0 nsg.symantec.com
+0.0.0.0 sealserver.trustwave.com
+0.0.0.0 websecurity.norton.com
+0.0.0.0 widgets.trustedshops.com
 0.0.0.0 connatix.com
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 analytics.gameforge.de
@@ -5024,6 +5045,7 @@
 0.0.0.0 omniture.eaeurope.eu
 0.0.0.0 orbidder.otto.de
 0.0.0.0 px.staticfiles.at
+0.0.0.0 quiz.stroeermediabrands.de
 0.0.0.0 retrack.q-divisioncdn.de
 0.0.0.0 stat.clichehosting.de
 0.0.0.0 stat4.edev.at
@@ -5183,6 +5205,7 @@
 0.0.0.0 trckr.nordiskemedier.dk
 0.0.0.0 ubt.berlingskemedia.net
 0.0.0.0 analytics.belgacom.be
+0.0.0.0 atconnect.npo.nl
 0.0.0.0 cookies.reedbusiness.nl
 0.0.0.0 hottraffic.nl
 0.0.0.0 statistics.rbi-nl.com
@@ -5521,6 +5544,7 @@
 0.0.0.0 co.hltv.org
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-medium.lightstep.com
+0.0.0.0 collector-px0py5pczn.octopart.com
 0.0.0.0 collector.fiverr.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.ksax.com
@@ -5556,6 +5580,7 @@
 0.0.0.0 dl.meliacloud.com
 0.0.0.0 dmp.marketgid.com
 0.0.0.0 dmtracking2.alibaba.com
+0.0.0.0 dp.shoprunner.com
 0.0.0.0 dw.cnet.com
 0.0.0.0 dwh-tracking.it.auth0.com
 0.0.0.0 edmunds.com$ping
@@ -5578,6 +5603,7 @@
 0.0.0.0 events.avantisvideo.com
 0.0.0.0 events.godaddy.com
 0.0.0.0 events.jora.com
+0.0.0.0 events.practo.com
 0.0.0.0 events.privy.com
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
@@ -6020,6 +6046,7 @@
 0.0.0.0 surveys.cnet.com
 0.0.0.0 t-ak.hulu.com
 0.0.0.0 t.9gag.com
+0.0.0.0 t.allmodern.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.birchlane.com
 0.0.0.0 t.blinkist.com
@@ -6028,10 +6055,12 @@
 0.0.0.0 t.eharmony.com
 0.0.0.0 t.freelancer.com
 0.0.0.0 t.indeed.com
+0.0.0.0 t.jossandmain.com
 0.0.0.0 t.kck.st
 0.0.0.0 t.paypal.com
 0.0.0.0 t.perigold.com
 0.0.0.0 t.regionsjob.com
+0.0.0.0 t.wayfair.ca
 0.0.0.0 t.wayfair.co.uk
 0.0.0.0 t.wayfair.com
 0.0.0.0 t.wizaly.com
@@ -6052,6 +6081,8 @@
 0.0.0.0 timestrends.timesnow.tv
 0.0.0.0 tk.kargo.com
 0.0.0.0 tkpi.delta.com
+0.0.0.0 tms.eharmony.ca
+0.0.0.0 tms.eharmony.co.uk
 0.0.0.0 tnla.thenewslens.com
 0.0.0.0 tongji.meizu.com
 0.0.0.0 tools.ranker.com
@@ -6493,12 +6524,14 @@
 0.0.0.0 analytics.allovoisins.com
 0.0.0.0 buf.lemonde.fr
 0.0.0.0 c0011.boursorama.com
+0.0.0.0 cdn5.nextinpact.com
 0.0.0.0 cfcn.allocine.net
 0.0.0.0 clk.boulanger.com
 0.0.0.0 compteur.developpez.com
 0.0.0.0 dm.commentcamarche.net
 0.0.0.0 dm.journaldunet.com
 0.0.0.0 dm.linternaute.com
+0.0.0.0 edmi.nextinpact.com
 0.0.0.0 elr.sfr.fr
 0.0.0.0 eultech.fnac.com
 0.0.0.0 events.guesttoguest.com
