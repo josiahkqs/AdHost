@@ -1,9 +1,12 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Tue, 10 Mar 2020 09:07:12 +0800
+# Last converted - Sat, 14 Mar 2020 23:11:05 +0800
 #
 
+0.0.0.0 analytics.vodgc.net
+0.0.0.0 youborafds01.com
+0.0.0.0 statsy.net
 0.0.0.0 mc.admetrica.ru
 0.0.0.0 hybrid.ai
 0.0.0.0 shopnetic.com
@@ -160,7 +163,6 @@
 0.0.0.0 trl.upperbooking.com
 0.0.0.0 getback.ch
 0.0.0.0 meapk.com
-0.0.0.0 group-ib.ru
 0.0.0.0 vidapi.expepp.de
 0.0.0.0 builfico.de
 0.0.0.0 s24-analytics.com
@@ -3295,6 +3297,9 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 e2e.mashable.com
+0.0.0.0 static.klaviyo.com
+0.0.0.0 stats-dev.brid.tv
 0.0.0.0 videostats.kakao.com
 0.0.0.0 stat.tiara.daum.net
 0.0.0.0 webid.ad.daum.net
@@ -4815,6 +4820,9 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 adj.st
+0.0.0.0 sq.requestads.com
+0.0.0.0 insight.ucweb.com
+0.0.0.0 gjapplog.ucweb.com
 0.0.0.0 stat.meitudata.com
 0.0.0.0 collect.media.jio.com
 0.0.0.0 log.apk.v-mate.mobi
