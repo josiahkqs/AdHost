@@ -1,9 +1,12 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Tue, 10 Mar 2020 09:07:06 +0800
+# Last converted - Sat, 14 Mar 2020 23:10:58 +0800
 #
 
+0.0.0.0 djsn888.com
+0.0.0.0 ahqlx.top
+0.0.0.0 ycjisa.cn
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -507,6 +510,7 @@
 0.0.0.0 alifixed.cn
 0.0.0.0 alimama.alicdn.com
 0.0.0.0 alimb.top
+0.0.0.0 alimc1.top
 0.0.0.0 aliqqjd.cn
 0.0.0.0 alisinak.com
 0.0.0.0 alitianxia168.com
@@ -2727,7 +2731,6 @@
 0.0.0.0 baifen.music.baidu.com
 0.0.0.0 besc.baidustatic.com
 0.0.0.0 biz.gexing.com
-0.0.0.0 biz.weibo.com
 0.0.0.0 bk9gun.vpser.net
 0.0.0.0 boardx.huanqiu.com
 0.0.0.0 btn.onlylady.com
@@ -2786,6 +2789,7 @@
 0.0.0.0 fd173.cn
 0.0.0.0 fdc.my0511.com
 0.0.0.0 ff.meikanguo.com
+0.0.0.0 free-cdn.oss-cn-shanghai.aliyuncs.com
 0.0.0.0 fun.ynet.com
 0.0.0.0 g.hsw.cn
 0.0.0.0 g.lznews.cn
@@ -3157,6 +3161,7 @@
 0.0.0.0 a3.jandan.net
 0.0.0.0 aa.gushiwen.org
 0.0.0.0 aa.ideng.com
+0.0.0.0 aa.ninze.com
 0.0.0.0 aa.xiangxiangmf.com
 0.0.0.0 aa808.com
 0.0.0.0 ab.cnbanbao.com
@@ -3887,6 +3892,10 @@
 0.0.0.0 runkao.net
 0.0.0.0 stunninglover.com
 0.0.0.0 cryptaloot.pro
+0.0.0.0 zzcgw.cn
+0.0.0.0 lemaite.cn
+0.0.0.0 ahunui.cn
+0.0.0.0 youshouge513.cn
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3961,6 +3970,7 @@
 0.0.0.0 360zuowen.net
 0.0.0.0 365syt.cn
 0.0.0.0 365yigou.cn
+0.0.0.0 36ia2.cn
 0.0.0.0 38ursg.cn
 0.0.0.0 3ql1pb.cn
 0.0.0.0 3s1xk.cn
@@ -4095,6 +4105,7 @@
 0.0.0.0 aganj.com
 0.0.0.0 agurl.top
 0.0.0.0 ahinang.cn
+0.0.0.0 ahinin.cn
 0.0.0.0 ahuac.com
 0.0.0.0 ahw3.com
 0.0.0.0 aibangzs.com
@@ -4110,6 +4121,7 @@
 0.0.0.0 ajiez.com
 0.0.0.0 ajkdg3.xyz
 0.0.0.0 alitx963.com
+0.0.0.0 aliyoo999.com
 0.0.0.0 alksdh.com
 0.0.0.0 allluck.cn
 0.0.0.0 alryo.cn
@@ -4164,6 +4176,7 @@
 0.0.0.0 bhuak.com
 0.0.0.0 bhyddc.com
 0.0.0.0 bianxianwu.com
+0.0.0.0 bibi91.com
 0.0.0.0 biboi.cn
 0.0.0.0 biluzhang.cn
 0.0.0.0 bingdiantao.com
@@ -4226,7 +4239,6 @@
 0.0.0.0 cdhenfan.com
 0.0.0.0 cdiah.com
 0.0.0.0 cdjkngs.cn
-0.0.0.0 cdn.m.okdd.net
 0.0.0.0 cdntlz.cn
 0.0.0.0 cdouj.com
 0.0.0.0 cdqjmc.com
@@ -4455,6 +4467,7 @@
 0.0.0.0 feipaihehuoren.cn
 0.0.0.0 fenbengpan.cn
 0.0.0.0 ffanq.com
+0.0.0.0 ffg34fg.78zw.com
 0.0.0.0 ffychb.com
 0.0.0.0 fgaon.com
 0.0.0.0 fgzba.com
@@ -4554,6 +4567,7 @@
 0.0.0.0 gobali.cn
 0.0.0.0 gongfanglong.cn
 0.0.0.0 googlespider1.cn
+0.0.0.0 gotooback.com
 0.0.0.0 gou1zhe.com
 0.0.0.0 goulanmeng.cn
 0.0.0.0 gringrin.cn
@@ -4666,6 +4680,7 @@
 0.0.0.0 hondajd.cn
 0.0.0.0 hongshikai.com
 0.0.0.0 hongyangbg.com
+0.0.0.0 houanjijuxie.cn
 0.0.0.0 how5.cn
 0.0.0.0 hp-china.biz
 0.0.0.0 hpzyl.com
@@ -4771,11 +4786,13 @@
 0.0.0.0 jh99s.cn
 0.0.0.0 jhbrc.xyz
 0.0.0.0 jhf2e.cn
+0.0.0.0 jhgff23az.biqugetv.com
 0.0.0.0 jia-huan.cn
 0.0.0.0 jiangchunli.cn
 0.0.0.0 jiaofulin.cn
 0.0.0.0 jiaqingli.cn
 0.0.0.0 jiayi2019.top
+0.0.0.0 jiazihao.cn
 0.0.0.0 jieyixiu.com
 0.0.0.0 jifeidandar.com
 0.0.0.0 jiguangyi.com.cn
@@ -4820,6 +4837,7 @@
 0.0.0.0 juyzr.com
 0.0.0.0 jvyigg.biquge.lu
 0.0.0.0 jvyigg.biqumo.com
+0.0.0.0 jvyigg.zbzw.la
 0.0.0.0 jwhfn.cn
 0.0.0.0 jwiyr.com
 0.0.0.0 jx.cn
@@ -4831,6 +4849,7 @@
 0.0.0.0 jxyufa.com
 0.0.0.0 jyhwt.cn
 0.0.0.0 jyjhkz.com
+0.0.0.0 jytjw.com
 0.0.0.0 jzntxs.com
 0.0.0.0 k2n0f.cn
 0.0.0.0 k5ai3c.cn
@@ -4967,6 +4986,7 @@
 0.0.0.0 m4ztka.cn
 0.0.0.0 m652a.cn
 0.0.0.0 m72r.cn
+0.0.0.0 maka.im
 0.0.0.0 mamaailmjz.cn
 0.0.0.0 mammina.cn
 0.0.0.0 mao1.jsnovel.com
@@ -5109,6 +5129,7 @@
 0.0.0.0 once88.cn
 0.0.0.0 onlyshow.top
 0.0.0.0 onsiteline.vip
+0.0.0.0 onsiterope.com
 0.0.0.0 oomyv.com
 0.0.0.0 opengam.com
 0.0.0.0 opqsr.com
@@ -5262,6 +5283,8 @@
 0.0.0.0 scqajt.cn
 0.0.0.0 sczhilong.cn
 0.0.0.0 sdabfw.cn
+0.0.0.0 sdadxz.xyz
+0.0.0.0 sdaexz.xyz
 0.0.0.0 sdahxz.xyz
 0.0.0.0 sdaiv.com
 0.0.0.0 sdajxz.xyz
@@ -5416,6 +5439,7 @@
 0.0.0.0 tymsyx.com
 0.0.0.0 tyrghj.cn
 0.0.0.0 tyyjzs.cn
+0.0.0.0 u2c8.cn
 0.0.0.0 u372q.cn
 0.0.0.0 u7qy3e.cn
 0.0.0.0 ubaii.com
@@ -5506,6 +5530,7 @@
 0.0.0.0 webkooo.com
 0.0.0.0 weboser.com
 0.0.0.0 wechatpu.com
+0.0.0.0 weiguanwang888.com
 0.0.0.0 weikefanli.com
 0.0.0.0 weimeicar.cn
 0.0.0.0 weiziqiang.top
@@ -5586,6 +5611,7 @@
 0.0.0.0 xingtaiju.cn
 0.0.0.0 xinterface.cn
 0.0.0.0 xinuocp666.com
+0.0.0.0 xionghaobm.cn
 0.0.0.0 xjtxcj.com
 0.0.0.0 xk0x.cn
 0.0.0.0 xkanf.com
@@ -5669,6 +5695,7 @@
 0.0.0.0 yiyuantian.com
 0.0.0.0 yizhijin.cn
 0.0.0.0 yjiaj.com
+0.0.0.0 yljmeishi.cn
 0.0.0.0 ymmdpk.cn
 0.0.0.0 ynbzxh.com
 0.0.0.0 yndushi.cn
