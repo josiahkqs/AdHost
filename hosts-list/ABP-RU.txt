@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Tue, 10 Mar 2020 09:07:12 +0800
+# Last converted - Sat, 14 Mar 2020 23:11:04 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -341,6 +341,7 @@
 0.0.0.0 adv679854.ru
 0.0.0.0 adv758968.ru
 0.0.0.0 adv859672.ru
+0.0.0.0 allsmi.ru.com
 0.0.0.0 artluch.ru
 0.0.0.0 astaninki2.com
 0.0.0.0 astdn.ru
@@ -358,6 +359,7 @@
 0.0.0.0 club-sale.ru
 0.0.0.0 clubrelaxxxx.com
 0.0.0.0 contactsin.mobi
+0.0.0.0 crazynews.ru.com
 0.0.0.0 devochki.cz
 0.0.0.0 electbloger.com
 0.0.0.0 electblogers.com
@@ -411,6 +413,7 @@
 0.0.0.0 smicenter.ru
 0.0.0.0 supersmi.cf
 0.0.0.0 supersmi.ga
+0.0.0.0 supersmi.gq
 0.0.0.0 survey.gemius.com.ua
 0.0.0.0 sysenvfiles.net
 0.0.0.0 test-studio.ru
@@ -2557,6 +2560,7 @@
 0.0.0.0 alloffs.ru
 0.0.0.0 allowac.com
 0.0.0.0 allroll.biz
+0.0.0.0 allsmi.ru.com
 0.0.0.0 allstat-pp.ru
 0.0.0.0 allstat.site
 0.0.0.0 alltizer.ru
@@ -2634,6 +2638,7 @@
 0.0.0.0 apsukho.ru
 0.0.0.0 aptashark.club
 0.0.0.0 aptexof.ru
+0.0.0.0 apucdt.com
 0.0.0.0 apycdn.com
 0.0.0.0 apypxl.com
 0.0.0.0 apytrc.com
@@ -2767,6 +2772,7 @@
 0.0.0.0 bannersvideo.com
 0.0.0.0 bannuncio.com
 0.0.0.0 banquant.com
+0.0.0.0 baon-shop.ru
 0.0.0.0 bara-banner.com
 0.0.0.0 barabanimira.ru
 0.0.0.0 barbarisnews.ru
@@ -2816,9 +2822,11 @@
 0.0.0.0 bdbdqdxkdb.com
 0.0.0.0 bdbdqexkdb.com
 0.0.0.0 bdbdqfdkdb.com
+0.0.0.0 bdbdqfkibb.com
 0.0.0.0 bdbdqfxkdb.com
 0.0.0.0 bdbdqidkdb.com
 0.0.0.0 bdbdqixkdb.com
+0.0.0.0 bdbdqixkib.com
 0.0.0.0 bdbdqkkibb.com
 0.0.0.0 bdbdqkxkdb.com
 0.0.0.0 bdbdqndkdb.com
@@ -2829,6 +2837,7 @@
 0.0.0.0 bdbdqsxkdb.com
 0.0.0.0 bdbdqxdkdb.com
 0.0.0.0 bdbdqxkibb.com
+0.0.0.0 bdbdqxxkib.com
 0.0.0.0 bddd4a5dc610be077891.date
 0.0.0.0 bdzhhjnml.pw
 0.0.0.0 bearsandfish.com
@@ -3325,6 +3334,7 @@
 0.0.0.0 cranberrypalette.xyz
 0.0.0.0 crapka.ru
 0.0.0.0 crateac.com
+0.0.0.0 crazynews.ru.com
 0.0.0.0 credishe.com
 0.0.0.0 creofive.com
 0.0.0.0 creofun.com
@@ -4467,6 +4477,7 @@
 0.0.0.0 inrd.ru
 0.0.0.0 installs.pro
 0.0.0.0 instreamatic.com
+0.0.0.0 inswebt.com
 0.0.0.0 int-news.info
 0.0.0.0 integralniy.ru
 0.0.0.0 intelligencehost.net
@@ -4857,6 +4868,7 @@
 0.0.0.0 lc2ads.ru
 0.0.0.0 lcads.ru
 0.0.0.0 leadadvert.ru
+0.0.0.0 leadgidads.ru
 0.0.0.0 leadmob.ru
 0.0.0.0 leads.black
 0.0.0.0 leads.su
@@ -6268,6 +6280,7 @@
 0.0.0.0 rew43h2.ru
 0.0.0.0 rewalt.ru
 0.0.0.0 rewdinghes.com
+0.0.0.0 rgqxbf.com
 0.0.0.0 rich-adv-code.net
 0.0.0.0 richthof.com
 0.0.0.0 ridniy.in.ua
@@ -6706,6 +6719,7 @@
 0.0.0.0 srv43.ru
 0.0.0.0 ssd7.ru
 0.0.0.0 ssliivuqpm.ru
+0.0.0.0 ssso.ru
 0.0.0.0 ssvim.com
 0.0.0.0 sszru.ru
 0.0.0.0 st-wp.ru
@@ -6774,6 +6788,7 @@
 0.0.0.0 superrstar.services
 0.0.0.0 supersmi.cf
 0.0.0.0 supersmi.ga
+0.0.0.0 supersmi.gq
 0.0.0.0 supertura.com
 0.0.0.0 supinatio.ru
 0.0.0.0 sutgof.ru
@@ -7488,8 +7503,10 @@
 0.0.0.0 vwijf.com
 0.0.0.0 vxbykr.ru
 0.0.0.0 vymapa.info
+0.0.0.0 vzclick.com
 0.0.0.0 vztfc.com
 0.0.0.0 vzuxy.com
+0.0.0.0 vzvkok.info
 0.0.0.0 w-llke.ru
 0.0.0.0 w-lobo.com
 0.0.0.0 w-lofo.com
