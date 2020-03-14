@@ -1,9 +1,21 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sat, 07 Mar 2020 01:52:46 +0800
+# Last converted - Sat, 14 Mar 2020 23:11:05 +0800
 #
 
+0.0.0.0 codezp1.com
+0.0.0.0 ubar-pro4.ru
+0.0.0.0 offergate.pro
+0.0.0.0 vqd51a5.biz.ua
+0.0.0.0 bubblevard.com
+0.0.0.0 newmedia.live
+0.0.0.0 ucurtatus.com
+0.0.0.0 bmgo.life
+0.0.0.0 vornz.com
+0.0.0.0 actpx.com
+0.0.0.0 gigbc.net
+0.0.0.0 fegortius.com
 0.0.0.0 igtdovf.pro
 0.0.0.0 ijdjvaa.pro
 0.0.0.0 ec2-44-233-143-239.us-west-2.compute.amazonaws.com$document
