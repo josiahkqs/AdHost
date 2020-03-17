@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sat, 14 Mar 2020 23:11:07 +0800
+# Last converted - Tue, 17 Mar 2020 09:22:57 +0800
 #
 
 0.0.0.0 0emm.com
@@ -457,6 +457,7 @@
 0.0.0.0 cintnetworks.com
 0.0.0.0 circular-counters.com
 0.0.0.0 ck-cdn.com
+0.0.0.0 clarity.ms
 0.0.0.0 claritytag.com
 0.0.0.0 clarivoy.com
 0.0.0.0 cleananalytics.com
@@ -1175,6 +1176,7 @@
 0.0.0.0 jdoqocy.com
 0.0.0.0 jirafe.com
 0.0.0.0 jixie.io
+0.0.0.0 journity.com
 0.0.0.0 jscounter.com
 0.0.0.0 jsonip.com
 0.0.0.0 jstracker.com
@@ -2943,6 +2945,7 @@
 0.0.0.0 bagbeam.com
 0.0.0.0 balancebreath.com
 0.0.0.0 bandborder.com
+0.0.0.0 basketballbelieve.com
 0.0.0.0 baskettexture.com
 0.0.0.0 breakfastboat.com
 0.0.0.0 broadcastbed.com
@@ -3047,19 +3050,25 @@
 0.0.0.0 puffypurpose.com
 0.0.0.0 quaintcan.com
 0.0.0.0 quietknowledge.com
+0.0.0.0 quizzicalzephyr.com
 0.0.0.0 raintwig.com
 0.0.0.0 raresummer.com
 0.0.0.0 readymoon.com
 0.0.0.0 realizerecess.com
 0.0.0.0 realizevacation.com
+0.0.0.0 repeatsweater.com
 0.0.0.0 resonantbrush.com
+0.0.0.0 rhetoricalloss.com
 0.0.0.0 richstring.com
 0.0.0.0 ringplayground.com
 0.0.0.0 ritzykey.com
 0.0.0.0 roofrelation.com
+0.0.0.0 rusticprice.com
 0.0.0.0 savoryorange.com
+0.0.0.0 scientificshirt.com
 0.0.0.0 scintillatingspace.com
 0.0.0.0 scrubswim.com
+0.0.0.0 secretturtle.com
 0.0.0.0 selectivesummer.com
 0.0.0.0 selfishsea.com
 0.0.0.0 separatesilver.com
@@ -3071,14 +3080,17 @@
 0.0.0.0 shyseed.com
 0.0.0.0 sicksmash.com
 0.0.0.0 smashsurprise.com
+0.0.0.0 somberscarecrow.com
 0.0.0.0 sombersurprise.com
 0.0.0.0 sortsummer.com
+0.0.0.0 spellsalsa.com
 0.0.0.0 spiffymachine.com
 0.0.0.0 spottednoise.com
 0.0.0.0 spuriousbase.com
 0.0.0.0 spurioussteam.com
 0.0.0.0 squeakzinc.com
 0.0.0.0 squirrelhands.com
+0.0.0.0 staleshow.com
 0.0.0.0 steadfastsound.com
 0.0.0.0 steepsquirrel.com
 0.0.0.0 stiffstem.com
@@ -4611,6 +4623,7 @@
 0.0.0.0 ping-dot-acp-magento.appspot.com
 0.0.0.0 ping.dozuki.com
 0.0.0.0 ping.hellobar.com
+0.0.0.0 ping.idocdn.com
 0.0.0.0 ping.smyte.com
 0.0.0.0 pings.conviva.com
 0.0.0.0 pings.vidpulse.com
@@ -5322,6 +5335,7 @@
 0.0.0.0 hitserver.ibope.com.br
 0.0.0.0 nctrk.abmail.com.br
 0.0.0.0 track.e7r.com.br
+0.0.0.0 track.noddus.com
 0.0.0.0 trk.absuite.com.br
 0.0.0.0 webstats.sapo.pt
 0.0.0.0 profiling.avandor.com
