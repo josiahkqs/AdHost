@@ -1,9 +1,12 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sat, 14 Mar 2020 23:11:05 +0800
+# Last converted - Tue, 17 Mar 2020 09:22:54 +0800
 #
 
+0.0.0.0 adwels.ru
+0.0.0.0 xshop3.ru
+0.0.0.0 gxxcbj.com
 0.0.0.0 codezp1.com
 0.0.0.0 ubar-pro4.ru
 0.0.0.0 offergate.pro
