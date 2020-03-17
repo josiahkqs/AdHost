@@ -1,9 +1,14 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sat, 14 Mar 2020 23:11:05 +0800
+# Last converted - Tue, 17 Mar 2020 09:22:54 +0800
 #
 
+0.0.0.0 collectfasttracks.com
+0.0.0.0 realizerecess.com
+0.0.0.0 pixel.advertising.com
+0.0.0.0 id5-sync.com
+0.0.0.0 simonsignal.com
 0.0.0.0 analytics.vodgc.net
 0.0.0.0 youborafds01.com
 0.0.0.0 statsy.net
@@ -3297,8 +3302,8 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 e2e.mashable.com
-0.0.0.0 static.klaviyo.com
 0.0.0.0 stats-dev.brid.tv
 0.0.0.0 videostats.kakao.com
 0.0.0.0 stat.tiara.daum.net
