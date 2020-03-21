@@ -1,9 +1,16 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 17 Mar 2020 09:22:54 +0800
+# Last converted - Sun, 22 Mar 2020 00:54:21 +0800
 #
 
+0.0.0.0 wpnjrm.com
+0.0.0.0 jd01estvpr.club
+0.0.0.0 trafficdok.com
+0.0.0.0 wwsphj.com
+0.0.0.0 shpovaw8wu.ru.com
+0.0.0.0 abeets.ru
+0.0.0.0 viadata.store
 0.0.0.0 adwels.ru
 0.0.0.0 xshop3.ru
 0.0.0.0 gxxcbj.com
@@ -1372,7 +1379,6 @@
 0.0.0.0 exchange.newsnet.in.ua
 0.0.0.0 exchangenews.ru
 0.0.0.0 excluzive.net
-0.0.0.0 exdynsrv.com
 0.0.0.0 exo.kiev.ua
 0.0.0.0 exoticads.com
 0.0.0.0 expert.ruab.ru
@@ -3443,7 +3449,6 @@
 0.0.0.0 viewclc.com
 0.0.0.0 viewrtb.com
 0.0.0.0 vifog.com
-0.0.0.0 viglink.com
 0.0.0.0 viille2.com
 0.0.0.0 vijune.com
 0.0.0.0 vimart16.com
@@ -4015,7 +4020,6 @@
 0.0.0.0 0fsq1fgipb.ru
 0.0.0.0 go2.se9oieidu7t.ru
 0.0.0.0 blpovgiri0eei.ru
-0.0.0.0 ad.mail.ru
 0.0.0.0 handiest-logic.com
 0.0.0.0 moist-thunderstorm.com
 0.0.0.0 licked-alphabet.eu
