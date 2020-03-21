@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 17 Mar 2020 09:22:57 +0800
+# Last converted - Sun, 22 Mar 2020 00:54:23 +0800
 #
 
 0.0.0.0 0emm.com
@@ -124,7 +124,6 @@
 0.0.0.0 admetric.io
 0.0.0.0 admitad.com
 0.0.0.0 admother.com
-0.0.0.0 adobedtm.com
 0.0.0.0 adobetag.com
 0.0.0.0 adoftheyear.com
 0.0.0.0 adoric-om.com
@@ -1589,6 +1588,7 @@
 0.0.0.0 overstat.com
 0.0.0.0 owlanalytics.io
 0.0.0.0 ownpage.fr
+0.0.0.0 ox-bio.com
 0.0.0.0 oxidy.com
 0.0.0.0 p-td.com
 0.0.0.0 p.raasnet.com
@@ -2537,6 +2537,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 ztsrv.com
+0.0.0.0 zuzab.com
 0.0.0.0 0x1f4b0.com
 0.0.0.0 185.165.169.108
 0.0.0.0 185.193.38.148
@@ -3904,12 +3905,14 @@
 0.0.0.0 mokuz.ru
 0.0.0.0 musiccounter.ru
 0.0.0.0 mystat-in.net
+0.0.0.0 mytopf.com
 0.0.0.0 opentracking.ru
 0.0.0.0 pladform.ru
 0.0.0.0 pmbox.biz
 0.0.0.0 proext.com
 0.0.0.0 quick-counter.net
 0.0.0.0 r24-tech.com
+0.0.0.0 relap.io
 0.0.0.0 retag.xyz
 0.0.0.0 rnet.plus
 0.0.0.0 ru.net
@@ -4550,6 +4553,7 @@
 0.0.0.0 logs.vmixcore.com
 0.0.0.0 loxodo-analytics.ext.nile.works
 0.0.0.0 lt.tritondigital.com
+0.0.0.0 lucid.mjhassoc.com
 0.0.0.0 lunametrics.wpengine.netdna-cdn.com
 0.0.0.0 m.addthisedge.com
 0.0.0.0 m.trb.com
@@ -4563,6 +4567,7 @@
 0.0.0.0 mcs.delvenetworks.com
 0.0.0.0 mediametrics.mpsa.com
 0.0.0.0 metering.pagesuite.com
+0.0.0.0 metric.ipv6test.net
 0.0.0.0 metric.nwsource.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics.api.drift.com
@@ -4623,7 +4628,6 @@
 0.0.0.0 ping-dot-acp-magento.appspot.com
 0.0.0.0 ping.dozuki.com
 0.0.0.0 ping.hellobar.com
-0.0.0.0 ping.idocdn.com
 0.0.0.0 ping.smyte.com
 0.0.0.0 pings.conviva.com
 0.0.0.0 pings.vidpulse.com
@@ -4785,6 +4789,7 @@
 0.0.0.0 su.addthis.com
 0.0.0.0 survey.interquest.com
 0.0.0.0 surveywall-api.survata.com
+0.0.0.0 svc.dynamics.com
 0.0.0.0 sync.adap.tv
 0.0.0.0 sync.outbrain.com
 0.0.0.0 systemmonitoring.badgeville.com
@@ -5365,6 +5370,7 @@
 0.0.0.0 error.videonow.ru
 0.0.0.0 g4p.redtram.com
 0.0.0.0 hubrus.com
+0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 mediator.mail.ru
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 montblanc.rambler.ru
@@ -5879,6 +5885,7 @@
 0.0.0.0 servedby.o2.co.uk
 0.0.0.0 servicetick.com
 0.0.0.0 session-tracker.badcreditloans.com
+0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sidebar.issuu.com
 0.0.0.0 sitelife.ehow.com
 0.0.0.0 slipstream.skyscanner.net
@@ -6080,6 +6087,7 @@
 0.0.0.0 t.wizaly.com
 0.0.0.0 t2.hulu.com
 0.0.0.0 t2.huluim.com
+0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 taglocker.target.com
 0.0.0.0 tags.msnbc.com
 0.0.0.0 tags.news.com.au
@@ -6228,6 +6236,7 @@
 0.0.0.0 cmp.greenbot.com
 0.0.0.0 cmp.macworld.co.uk
 0.0.0.0 cmp.macworld.com
+0.0.0.0 cmp.osano.com
 0.0.0.0 cmp.pcworld.co.nz
 0.0.0.0 cmp.pcworld.com
 0.0.0.0 cmp.pcworld.idg.com.au
@@ -6237,6 +6246,7 @@
 0.0.0.0 consent.api.osano.com
 0.0.0.0 consent.inm.ie
 0.0.0.0 eurogamer-uk.eurogamer.net
+0.0.0.0 fuse.forbes.com
 0.0.0.0 gazette-news-gb.gazette-news.co.uk
 0.0.0.0 glasgowtimes-gb.glasgowtimes.co.uk
 0.0.0.0 greenocktelegraph-gb.greenocktelegraph.co.uk
