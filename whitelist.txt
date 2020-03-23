@@ -19,3 +19,4 @@ nrdp.nccp.netflix.com # Netflix
 amzn.to # Amazon short link
 www.msftconnecttest.com # Skype Connection test
 browser.pipe.aria.microsoft.com # CMS Login
+mobile.pipe.aria.microsoft.com # CMS Login
