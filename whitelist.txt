@@ -18,4 +18,3 @@ mh1.zhengdongwuye.cn # China Manhua Site to load properly
 nrdp.nccp.netflix.com # Netflix
 amzn.to # Amazon short link
 www.msftconnecttest.com # Skype Connection test
-www.marketo.com # WT
