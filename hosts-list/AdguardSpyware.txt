@@ -1,9 +1,11 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sun, 22 Mar 2020 00:54:21 +0800
+# Last converted - Wed, 25 Mar 2020 00:02:25 +0800
 #
 
+0.0.0.0 stats.datawrapper.de
+0.0.0.0 track.adabra.com
 0.0.0.0 reindaks.com
 0.0.0.0 go.rcvlinks.com
 0.0.0.0 monu.delivery
@@ -742,7 +744,6 @@
 0.0.0.0 btttag.com
 0.0.0.0 bubblestat.com
 0.0.0.0 bugherd.com
-0.0.0.0 bugsnag.com
 0.0.0.0 burstbeacon.com
 0.0.0.0 burt.io
 0.0.0.0 bux1le001.com
@@ -3305,6 +3306,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 e2e.mashable.com
 0.0.0.0 stats-dev.brid.tv
