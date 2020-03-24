@@ -1,9 +1,14 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sun, 22 Mar 2020 00:54:21 +0800
+# Last converted - Wed, 25 Mar 2020 00:02:25 +0800
 #
 
+0.0.0.0 ngjzmt.com
+0.0.0.0 cybugim4bdzqhwl.ru
+0.0.0.0 arcadianis.pro
+0.0.0.0 as62wl63346.rest
+0.0.0.0 janndfsc.pro
 0.0.0.0 wpnjrm.com
 0.0.0.0 jd01estvpr.club
 0.0.0.0 trafficdok.com
