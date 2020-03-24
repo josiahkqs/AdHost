@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sun, 22 Mar 2020 00:54:23 +0800
+# Last converted - Wed, 25 Mar 2020 00:02:32 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1247,7 +1247,6 @@
 0.0.0.0 leadsius.com
 0.0.0.0 leadsmonitor.io
 0.0.0.0 leadsrx.com
-0.0.0.0 leanlab.co
 0.0.0.0 leanplum.com
 0.0.0.0 legolas-media.com
 0.0.0.0 leokross.com
@@ -4504,6 +4503,7 @@
 0.0.0.0 insights.plista.com
 0.0.0.0 insights.sitesearch360.com
 0.0.0.0 insitez.blob.core.windows.net
+0.0.0.0 invite.leanlab.co
 0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 ipapi.tmbi.com
 0.0.0.0 irqs.ioam.de
@@ -6245,6 +6245,7 @@
 0.0.0.0 commsvc.stern.de
 0.0.0.0 consent.api.osano.com
 0.0.0.0 consent.inm.ie
+0.0.0.0 ep00.epimg.net
 0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 fuse.forbes.com
 0.0.0.0 gazette-news-gb.gazette-news.co.uk
