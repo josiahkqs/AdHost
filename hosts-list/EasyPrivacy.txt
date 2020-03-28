@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sat, 28 Mar 2020 09:10:25 +0800
+# Last converted - Sun, 29 Mar 2020 02:17:31 +0800
 #
 
 0.0.0.0 0emm.com
@@ -636,6 +636,7 @@
 0.0.0.0 deep.bi
 0.0.0.0 deepattention.com
 0.0.0.0 deepchannel.com
+0.0.0.0 defacto-analytics.net
 0.0.0.0 dejavu.mlapps.com
 0.0.0.0 demandbase.com
 0.0.0.0 demdex.net
@@ -1381,6 +1382,7 @@
 0.0.0.0 mixpanel.com
 0.0.0.0 mkt3261.com
 0.0.0.0 mkt51.net
+0.0.0.0 mkt6333.com
 0.0.0.0 mkt941.com
 0.0.0.0 mktoresp.com
 0.0.0.0 ml-attr.com
@@ -1410,6 +1412,7 @@
 0.0.0.0 mouseflow.com
 0.0.0.0 mousestats.com
 0.0.0.0 mousetrace.com
+0.0.0.0 movable-ink-397.com
 0.0.0.0 movable-ink-6710.com
 0.0.0.0 mparticle.com
 0.0.0.0 mpianalytics.com
@@ -1542,6 +1545,7 @@
 0.0.0.0 omkt.co
 0.0.0.0 omniconvert.com
 0.0.0.0 omtrdc.net
+0.0.0.0 omtvxcle.com
 0.0.0.0 onaudience.com
 0.0.0.0 ondu.ru
 0.0.0.0 onecount.net
@@ -1797,6 +1801,7 @@
 0.0.0.0 retargettracker.com
 0.0.0.0 retentionscience.com
 0.0.0.0 rettica.com
+0.0.0.0 returnpath.net
 0.0.0.0 reussissonsensemble.fr
 0.0.0.0 revdn.net
 0.0.0.0 revenuepilot.com
@@ -2410,6 +2415,7 @@
 0.0.0.0 waust.at
 0.0.0.0 wbdx.fr
 0.0.0.0 wbtrk.net
+0.0.0.0 wc4.net
 0.0.0.0 wdfl.co
 0.0.0.0 we-stats.com
 0.0.0.0 web-boosting.net
@@ -3013,6 +3019,7 @@
 0.0.0.0 horsenectar.com
 0.0.0.0 immensehoney.com
 0.0.0.0 importedincrease.com
+0.0.0.0 importedinsect.com
 0.0.0.0 innocentinvention.com
 0.0.0.0 inquisitiveinvention.com
 0.0.0.0 intelligentscissors.com
@@ -4047,6 +4054,7 @@
 0.0.0.0 affiliates.minglematch.com
 0.0.0.0 affiliates.purevpn.com
 0.0.0.0 akatracking.esearchvision.com
+0.0.0.0 aktion.esprit-club.com
 0.0.0.0 alexandria.marfeelcdn.com
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amplify.outbrain.com
@@ -4256,6 +4264,7 @@
 0.0.0.0 collector.roistat.com
 0.0.0.0 collector.sspinc.io
 0.0.0.0 comet.ibsrv.net
+0.0.0.0 comms.thewhiskyexchange.com
 0.0.0.0 control.cityofcairns.com
 0.0.0.0 conversions.genieventures.co.uk
 0.0.0.0 convsgmp.taboola.com
@@ -4445,6 +4454,7 @@
 0.0.0.0 eventtracker.videostrip.com
 0.0.0.0 evt.collarity.com
 0.0.0.0 evt.izooto.com
+0.0.0.0 exacttarget.com
 0.0.0.0 experience.contextly.com
 0.0.0.0 fast.appcues.com
 0.0.0.0 filament-stats.herokuapp.com
@@ -4526,7 +4536,11 @@
 0.0.0.0 leadvision.dotmailer.co.uk
 0.0.0.0 licensing.bitmovin.com
 0.0.0.0 lift.acquia.com
+0.0.0.0 link.cosmopolitan.com
 0.0.0.0 link.informer.com
+0.0.0.0 link.messaging.usnews.com
+0.0.0.0 link.myjewishpage.com
+0.0.0.0 link.realself.com
 0.0.0.0 links.voyeurweb.com
 0.0.0.0 livecounter.theyosh.nl
 0.0.0.0 livestats.kaltura.com
@@ -4553,6 +4567,7 @@
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.vmixcore.com
+0.0.0.0 lore.circulate.com
 0.0.0.0 loxodo-analytics.ext.nile.works
 0.0.0.0 lt.tritondigital.com
 0.0.0.0 lucid.mjhassoc.com
@@ -4613,6 +4628,7 @@
 0.0.0.0 orts.wixawin.com
 0.0.0.0 p.adbrn.com
 0.0.0.0 p.delivery.net
+0.0.0.0 p.eyebuydirect-cmr.net
 0.0.0.0 p.travelsmarter.net
 0.0.0.0 p.yotpo.com
 0.0.0.0 pages-stats.rbl.ms
@@ -5587,6 +5603,7 @@
 0.0.0.0 counter.theconversation.edu.au
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 cpt.itv.com
+0.0.0.0 customeriomail.codecademy.com
 0.0.0.0 d1.abtshield.com
 0.0.0.0 da.virginmedia.com
 0.0.0.0 data.mic.com
@@ -5713,6 +5730,7 @@
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 lh.secure.yahoo.com
 0.0.0.0 lilb2.shutterstock.com
+0.0.0.0 link2.strawberrynet.com
 0.0.0.0 linkpuls.idg.no
 0.0.0.0 loc.rediff.com
 0.0.0.0 localads-statistics.maps.me
@@ -5739,6 +5757,7 @@
 0.0.0.0 logs.hotstar.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lslmetrics.djlmgdigital.com
+0.0.0.0 mailing.enews.extremetech.com
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.kalahari.net
@@ -6032,6 +6051,7 @@
 0.0.0.0 stats.clear-media.com
 0.0.0.0 stats.digg.com
 0.0.0.0 stats.dnaindia.com
+0.0.0.0 stats.extremetech.com
 0.0.0.0 stats.eyeviewdigital.com
 0.0.0.0 stats.fs.com
 0.0.0.0 stats.harpercollins.com
