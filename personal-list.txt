@@ -383,3 +383,4 @@
 0.0.0.0 vast.adxoo.com # Possible Ads
 0.0.0.0 ss-prod-an1-notif-25.aws.adobess.com # Adobe Tracker
 0.0.0.0 apps.mzstatic.com.edgekey.net # Unsure, possible ads
+0.0.0.0 trahes.site # Possible Ads / Phishing
