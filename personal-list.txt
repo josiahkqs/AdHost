@@ -387,3 +387,4 @@
 0.0.0.0 wowjogsot.com # Phishing 
 0.0.0.0 jwpltx.com # Ads
 0.0.0.0 cawsodpet.club # Ads
+0.0.0.0 coweatsup.com # Ads
