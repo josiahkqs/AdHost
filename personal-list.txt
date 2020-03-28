@@ -386,3 +386,4 @@
 0.0.0.0 trahes.site # Possible Ads / Phishing
 0.0.0.0 wowjogsot.com # Phishing 
 0.0.0.0 jwpltx.com # Ads
+0.0.0.0 cawsodpet.club # Ads
