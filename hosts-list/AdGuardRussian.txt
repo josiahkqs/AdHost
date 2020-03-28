@@ -1,10 +1,14 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Wed, 25 Mar 2020 00:02:25 +0800
+# Last converted - Sat, 28 Mar 2020 09:10:23 +0800
 #
 
+0.0.0.0 nzhfk.com
+0.0.0.0 thevtk.com
+0.0.0.0 susfvjh.pro
 0.0.0.0 ngjzmt.com
+0.0.0.0 adversting.riamedia.com.ua
 0.0.0.0 cybugim4bdzqhwl.ru
 0.0.0.0 arcadianis.pro
 0.0.0.0 as62wl63346.rest
@@ -276,7 +280,6 @@
 0.0.0.0 prelstar.ru
 0.0.0.0 dytupr.com
 0.0.0.0 r5jpkacq.ru
-0.0.0.0 adprofits.ru
 0.0.0.0 sminewsnet.ru
 0.0.0.0 sveklon.com
 0.0.0.0 oblivinfo.ru
@@ -3753,6 +3756,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 bc.infoblog.today
 0.0.0.0 rekl.brawlstars-app.ru
 0.0.0.0 ads-delivery.gameforge.com
 0.0.0.0 unisound.cdnvideo.ru
