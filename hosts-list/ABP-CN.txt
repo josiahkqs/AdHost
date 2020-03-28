@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Wed, 25 Mar 2020 00:02:20 +0800
+# Last converted - Sat, 28 Mar 2020 09:10:18 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -131,6 +131,7 @@
 0.0.0.0 1x3x.com
 0.0.0.0 201071.com
 0.0.0.0 2012ui.com
+0.0.0.0 2018haoyunlai.com
 0.0.0.0 2048hd.space
 0.0.0.0 210.65.10.32
 0.0.0.0 211.103.159.32
@@ -334,6 +335,7 @@
 0.0.0.0 810251.com
 0.0.0.0 813690.top
 0.0.0.0 81c.cn
+0.0.0.0 820rd.com
 0.0.0.0 825145.com
 0.0.0.0 827649.com
 0.0.0.0 8368661.com
@@ -623,6 +625,7 @@
 0.0.0.0 bosiwangzi.cn
 0.0.0.0 boyueguoji.com
 0.0.0.0 bozhihua.com
+0.0.0.0 bozhixiang.top
 0.0.0.0 bp776.com
 0.0.0.0 breezily168.com
 0.0.0.0 bs777.net
@@ -1031,6 +1034,7 @@
 0.0.0.0 ghosttty.cn
 0.0.0.0 gjghy.com
 0.0.0.0 glasszz.com
+0.0.0.0 glrcy.cn
 0.0.0.0 gm682.com
 0.0.0.0 goge365-baidu.com
 0.0.0.0 gohappy.com.tw
@@ -1290,6 +1294,7 @@
 0.0.0.0 jiekc.com
 0.0.0.0 jimeilm.com
 0.0.0.0 jindu179.com
+0.0.0.0 jinfengit.com
 0.0.0.0 jingezhao.cn
 0.0.0.0 jinglongtang.cn
 0.0.0.0 jinshasi.cn
@@ -1442,6 +1447,7 @@
 0.0.0.0 lanxiangji.com
 0.0.0.0 laobei.top
 0.0.0.0 laolinow.com
+0.0.0.0 laoxier365.com
 0.0.0.0 lashou1000.com
 0.0.0.0 last2.cn
 0.0.0.0 lc1b2.cn
@@ -1457,6 +1463,7 @@
 0.0.0.0 letaoxiaochi.com
 0.0.0.0 leturich.org
 0.0.0.0 leturich.org
+0.0.0.0 lexyhome.com
 0.0.0.0 lezai.com
 0.0.0.0 leztc.com
 0.0.0.0 lfhnkp.com
@@ -1869,6 +1876,7 @@
 0.0.0.0 scfrwo.cn
 0.0.0.0 sciencelolb.com
 0.0.0.0 scize.com
+0.0.0.0 scjcgj.top
 0.0.0.0 sclizhong.com
 0.0.0.0 scriptcc.cc
 0.0.0.0 scw0.com
@@ -2317,6 +2325,7 @@
 0.0.0.0 xiaxuanfu.com
 0.0.0.0 xibei70.com
 0.0.0.0 xidexableact.cn
+0.0.0.0 xigeweb.com
 0.0.0.0 xihashuale.com
 0.0.0.0 xijinfa.com
 0.0.0.0 xilele.com
@@ -2698,7 +2707,6 @@
 0.0.0.0 adadmin.house365.com
 0.0.0.0 add.freeimg8.com
 0.0.0.0 adf.dahe.cn
-0.0.0.0 adhome.1fangchan.com
 0.0.0.0 adm.265g.com
 0.0.0.0 adm.52swine.com
 0.0.0.0 adm.6park.com
@@ -2883,6 +2891,7 @@
 0.0.0.0 market.duowan.com
 0.0.0.0 mini.hao123.com
 0.0.0.0 miniye.xjts.cn
+0.0.0.0 mm.nwell.net
 0.0.0.0 money.qz828.com
 0.0.0.0 mp3.haogeba.com
 0.0.0.0 myad.toocle.com
@@ -2969,10 +2978,8 @@
 0.0.0.0 zkrdy.com
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
-0.0.0.0 mm.nwell.net
 0.0.0.0 immedlinkum.info
 0.0.0.0 xayah.date
-0.0.0.0 cc.xwscg.com
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
 0.0.0.0 1.01fy.cn
@@ -3096,7 +3103,6 @@
 0.0.0.0 a.thn21.com
 0.0.0.0 a.tiyuxiu.com
 0.0.0.0 a.tvsou.com
-0.0.0.0 a.umilu.com
 0.0.0.0 a.wanzhuang.com
 0.0.0.0 a.wifi33.com
 0.0.0.0 a.xixiyishu.com
@@ -3143,6 +3149,7 @@
 0.0.0.0 api.557400.com
 0.0.0.0 as1.m.hao123.com
 0.0.0.0 as1.wenku.baidu.com
+0.0.0.0 axzav.cn
 0.0.0.0 b.kouke5.com
 0.0.0.0 b.unjs.com
 0.0.0.0 b1.51scw.net
@@ -3166,7 +3173,9 @@
 0.0.0.0 bd1.99danji.com
 0.0.0.0 bd1.dopa.com
 0.0.0.0 bd1.flfgw.cn
+0.0.0.0 bd1.jinbaozy.com
 0.0.0.0 bd1.pipaw.com
+0.0.0.0 bd1.qcjslm.com
 0.0.0.0 bd1.sosg.net
 0.0.0.0 bd1.szhk.com
 0.0.0.0 bd1.xiby.cn
@@ -3217,6 +3226,7 @@
 0.0.0.0 cby521.cn
 0.0.0.0 cby521.com
 0.0.0.0 cc.xiaodapei.com
+0.0.0.0 cc.xwscg.com
 0.0.0.0 cdn1.tvzhe.com
 0.0.0.0 cee1.iteye.com
 0.0.0.0 cfff.net
@@ -3348,6 +3358,7 @@
 0.0.0.0 img1.yulu99.com
 0.0.0.0 img16.diyifanwen.com
 0.0.0.0 ios.426g.com
+0.0.0.0 ishuoshuo.com
 0.0.0.0 iy.com.cn
 0.0.0.0 j.baminw.cn
 0.0.0.0 j.diangon.com
@@ -3365,6 +3376,7 @@
 0.0.0.0 jiliw.com
 0.0.0.0 jinghuazhijia.com
 0.0.0.0 jinhonghao.cn
+0.0.0.0 jintonghua.com
 0.0.0.0 jiyan.net
 0.0.0.0 jke1.jianke.com
 0.0.0.0 js.23yy.com
@@ -3446,6 +3458,7 @@
 0.0.0.0 o1.jyjyj.cn
 0.0.0.0 oicchina.com
 0.0.0.0 okkkk.com
+0.0.0.0 owusxlr.cn
 0.0.0.0 p1.zhongyoo.com
 0.0.0.0 p1.zhumengwl.com
 0.0.0.0 pb.okk123.com
@@ -3454,6 +3467,7 @@
 0.0.0.0 pingshu365.xyz
 0.0.0.0 pjcn.org
 0.0.0.0 pkk1.zuimeiniwo.com
+0.0.0.0 ps868.xyz
 0.0.0.0 psywed.com
 0.0.0.0 ptw.la
 0.0.0.0 q1.yyxwzx.com
@@ -3561,9 +3575,9 @@
 0.0.0.0 ys.muhoujiemi.com
 0.0.0.0 ysx8.vip
 0.0.0.0 ysxywj.com
+0.0.0.0 ytelc.com
 0.0.0.0 yunzuowen.com
 0.0.0.0 yx1.managershare.com
-0.0.0.0 yy.jintonghua.com
 0.0.0.0 yy1.fwccw.com
 0.0.0.0 z1.chezhuzhinan.com
 0.0.0.0 z1.cyla.cn
@@ -3703,9 +3717,6 @@
 0.0.0.0 runkao.net
 0.0.0.0 stunninglover.com
 0.0.0.0 cryptaloot.pro
-0.0.0.0 xm223.cn
-0.0.0.0 rbtjkx.cn
-0.0.0.0 0323wqpioutyuencsamxsd.xyz
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3716,6 +3727,7 @@
 0.0.0.0 0309fuweopermncvbnazdf.xyz
 0.0.0.0 0316dieroxiemzfjwmapk.xyz
 0.0.0.0 03196688.com
+0.0.0.0 0323wqpioutyuencsamxsd.xyz
 0.0.0.0 0532ci.com.cn
 0.0.0.0 0551zgz.com
 0.0.0.0 05q9n.cn
@@ -3813,6 +3825,7 @@
 0.0.0.0 58scx.com
 0.0.0.0 58xmgys.com
 0.0.0.0 5dydk.com
+0.0.0.0 5hytr.xyz
 0.0.0.0 5kmm.top
 0.0.0.0 5mbd2.com
 0.0.0.0 5pb266.com
@@ -4009,6 +4022,7 @@
 0.0.0.0 bmfwwz.top
 0.0.0.0 bmgan.com
 0.0.0.0 bmuju.com
+0.0.0.0 bnetds.cn
 0.0.0.0 bninc2.cn
 0.0.0.0 bnzxc.xyz
 0.0.0.0 bobotune.com
@@ -5079,6 +5093,7 @@
 0.0.0.0 qzylyp.com
 0.0.0.0 raeqqe.cn
 0.0.0.0 rbign.cn
+0.0.0.0 rbtjkx.cn
 0.0.0.0 rbywg.com
 0.0.0.0 rcaiu.com
 0.0.0.0 rcynoe.cn
@@ -5367,6 +5382,7 @@
 0.0.0.0 weboser.com
 0.0.0.0 wechatpu.com
 0.0.0.0 weiguanwang888.com
+0.0.0.0 weiiii.com
 0.0.0.0 weikefanli.com
 0.0.0.0 weimeicar.cn
 0.0.0.0 weiziqiang.top
@@ -5431,6 +5447,7 @@
 0.0.0.0 xdunv.com
 0.0.0.0 xdyszx.com
 0.0.0.0 xeihy.com
+0.0.0.0 xfya3.cn
 0.0.0.0 xfytjx.cn
 0.0.0.0 xhaiu.com
 0.0.0.0 xhct66.com
@@ -5455,6 +5472,7 @@
 0.0.0.0 xkqpco.com
 0.0.0.0 xkunn.com
 0.0.0.0 xlhm88.cn
+0.0.0.0 xm223.cn
 0.0.0.0 xmcxz.com
 0.0.0.0 xmgdfb.cn
 0.0.0.0 xmgysweb.com
@@ -5510,6 +5528,7 @@
 0.0.0.0 yetaiguang.cn
 0.0.0.0 yexfes.com
 0.0.0.0 yfano.com
+0.0.0.0 yg10x.cn
 0.0.0.0 ygblogtag.cn
 0.0.0.0 ygqczh.com
 0.0.0.0 yguap.com
@@ -5545,6 +5564,7 @@
 0.0.0.0 ynzby.cn
 0.0.0.0 yo34b.cn
 0.0.0.0 yoiur.com
+0.0.0.0 yokebao.com
 0.0.0.0 youshouge513.cn
 0.0.0.0 youtui456.com
 0.0.0.0 youweiprint.com
