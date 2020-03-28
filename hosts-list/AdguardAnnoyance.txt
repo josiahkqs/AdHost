@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Wed, 25 Mar 2020 00:02:25 +0800
+# Last converted - Sat, 28 Mar 2020 09:10:23 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -14,6 +14,7 @@
 0.0.0.0 sortsummer.com
 0.0.0.0 puffypull.com
 0.0.0.0 copperchickens.com
+0.0.0.0 ttauri.toptenreviews.com
 0.0.0.0 tracker.convead.io
 0.0.0.0 oil.axelspringer.com
 0.0.0.0 consent.cmp.oath.com
@@ -92,6 +93,7 @@
 0.0.0.0 easyfeeed.com
 0.0.0.0 vinuser5.biz
 0.0.0.0 ss.6ib.ru
+0.0.0.0 wertendium.com
 0.0.0.0 bagirastyle.ru
 0.0.0.0 meladonicum.com
 0.0.0.0 alerts.hungama.com
@@ -361,3 +363,4 @@
 0.0.0.0 sge-chat.skorpik.ru
 0.0.0.0 widgets.coingecko.com
 0.0.0.0 informer.minfin.com.ua
+0.0.0.0 cdnjs.buymeacoffee.com
