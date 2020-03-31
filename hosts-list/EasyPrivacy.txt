@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sun, 29 Mar 2020 02:17:31 +0800
+# Last converted - Tue, 31 Mar 2020 17:55:18 +0800
 #
 
 0.0.0.0 0emm.com
@@ -85,6 +85,7 @@
 0.0.0.0 acexedge.com
 0.0.0.0 acint.net
 0.0.0.0 acq.io
+0.0.0.0 acsbap.com
 0.0.0.0 active-trk7.com
 0.0.0.0 activeconversion.com
 0.0.0.0 activemeter.com
@@ -868,6 +869,7 @@
 0.0.0.0 foundry42.com
 0.0.0.0 fout.jp
 0.0.0.0 fpctraffic2.com
+0.0.0.0 fpjs.io
 0.0.0.0 fprnt.com
 0.0.0.0 fqsecure.com
 0.0.0.0 fqtag.com
@@ -4423,9 +4425,11 @@
 0.0.0.0 dymlo6ffhj97l.cloudfront.net
 0.0.0.0 dzmxze7hxwn6b.cloudfront.net
 0.0.0.0 ebay.northernhost.com
+0.0.0.0 ecomm.events
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 edge.bredg.com
 0.0.0.0 edge.sqweb.com
+0.0.0.0 engage.wixapps.net
 0.0.0.0 epl.paypal-communication.com
 0.0.0.0 errors.snackly.co
 0.0.0.0 et.grabnetworks.com
@@ -4506,6 +4510,7 @@
 0.0.0.0 imp.affiliator.com
 0.0.0.0 imp.clickability.com
 0.0.0.0 imp.constantcontact.com
+0.0.0.0 imp.pvnsolutions.com
 0.0.0.0 impress.vcita.com
 0.0.0.0 imprvdosrv.com
 0.0.0.0 infinityid.condenastdigital.com
@@ -5033,6 +5038,7 @@
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 dfapvmql-q.global.ssl.fastly.net
 0.0.0.0 nsg.symantec.com
+0.0.0.0 seal.godaddy.com
 0.0.0.0 sealserver.trustwave.com
 0.0.0.0 websecurity.norton.com
 0.0.0.0 widgets.trustedshops.com
@@ -6286,6 +6292,7 @@
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 sthelensstar-gb.sthelensstar.co.uk
 0.0.0.0 swindonadvertiser-gb.swindonadvertiser.co.uk
+0.0.0.0 theargus-gb.theargus.co.uk
 0.0.0.0 thenational-gb.thenational.scot
 0.0.0.0 ttauri.laptopmag.com
 0.0.0.0 ttauri.livescience.com
