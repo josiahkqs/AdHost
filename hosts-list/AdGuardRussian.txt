@@ -1,9 +1,14 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sat, 28 Mar 2020 09:10:23 +0800
+# Last converted - Tue, 31 Mar 2020 17:55:15 +0800
 #
 
+0.0.0.0 xg2o402yyy.ru
+0.0.0.0 nzafj0fqsy.rest
+0.0.0.0 oldrrb.bid
+0.0.0.0 yanabmw.ru
+0.0.0.0 welldanius.com
 0.0.0.0 nzhfk.com
 0.0.0.0 thevtk.com
 0.0.0.0 susfvjh.pro
@@ -3756,6 +3761,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 vast4.kinogo.by
 0.0.0.0 bc.infoblog.today
 0.0.0.0 rekl.brawlstars-app.ru
 0.0.0.0 ads-delivery.gameforge.com
@@ -3773,7 +3779,6 @@
 0.0.0.0 a.kidstaff.net
 0.0.0.0 d1uw69x4c2zrim.cloudfront.net
 0.0.0.0 d10g3hyu3zeg91.cloudfront.net
-0.0.0.0 tizer2.kinogo.by
 0.0.0.0 stat.moonwalk.co
 0.0.0.0 info.kinoclub77.ru
 0.0.0.0 an.blogis.org
