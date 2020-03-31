@@ -1,11 +1,10 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Sun, 29 Mar 2020 02:16:26 +0800
+# Last converted - Tue, 31 Mar 2020 17:55:11 +0800
 #
 
-0.0.0.0 fuguilm.com
-0.0.0.0 jianpian.vip
+0.0.0.0 shshuoshu.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -984,6 +983,7 @@
 0.0.0.0 ft76531.com
 0.0.0.0 fthcz.com
 0.0.0.0 fu68.com
+0.0.0.0 fuguilm.com
 0.0.0.0 fujianryt.com
 0.0.0.0 fuxunb.com
 0.0.0.0 fv99.com
@@ -1290,6 +1290,7 @@
 0.0.0.0 jianjiaovip.vip
 0.0.0.0 jiankang13.com
 0.0.0.0 jianmei123.com
+0.0.0.0 jianpian.vip
 0.0.0.0 jianyousj.com
 0.0.0.0 jiasdart.cn
 0.0.0.0 jiehantai.com
@@ -1729,6 +1730,7 @@
 0.0.0.0 pingping888.com
 0.0.0.0 pjshw.cn
 0.0.0.0 pjtymy.cn
+0.0.0.0 pk965.com
 0.0.0.0 pnhfc.com
 0.0.0.0 pnxs.com
 0.0.0.0 pofang.com
@@ -2184,6 +2186,7 @@
 0.0.0.0 video231.oss-cn-beijing.aliyuncs.com
 0.0.0.0 videondun.com
 0.0.0.0 visadd.com
+0.0.0.0 vivituii.com
 0.0.0.0 vlion.cn
 0.0.0.0 vmjjzk.cn
 0.0.0.0 vnnv777.cn
@@ -2976,13 +2979,13 @@
 0.0.0.0 yt-adp.ws.126.net
 0.0.0.0 yunbofangbt.com
 0.0.0.0 yxdd.com
+0.0.0.0 yybx.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 z.nowscore.com
 0.0.0.0 zkrdy.com
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
 0.0.0.0 immedlinkum.info
 0.0.0.0 xayah.date
-0.0.0.0 a.quangushi.com
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
 0.0.0.0 1.01fy.cn
@@ -3101,6 +3104,7 @@
 0.0.0.0 a.oh100.com
 0.0.0.0 a.qinghua5.com
 0.0.0.0 a.qsjiajiao.com
+0.0.0.0 a.quangushi.com
 0.0.0.0 a.rensheng5.com
 0.0.0.0 a.shenchuang.com
 0.0.0.0 a.thn21.com
@@ -3720,6 +3724,7 @@
 0.0.0.0 runkao.net
 0.0.0.0 stunninglover.com
 0.0.0.0 cryptaloot.pro
+0.0.0.0 yfxixi.com
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3813,6 +3818,7 @@
 0.0.0.0 4excel.cn
 0.0.0.0 4py3oe.cn
 0.0.0.0 4qn1k.cn
+0.0.0.0 4s5n.cn
 0.0.0.0 4x9te.cn
 0.0.0.0 4z5o27.cn
 0.0.0.0 519397.com
@@ -3938,6 +3944,7 @@
 0.0.0.0 ahinang.cn
 0.0.0.0 ahinin.cn
 0.0.0.0 ahuac.com
+0.0.0.0 ahunai.cn
 0.0.0.0 ahunui.cn
 0.0.0.0 ahw3.com
 0.0.0.0 aibangzs.com
@@ -4057,6 +4064,7 @@
 0.0.0.0 caiji.wiki
 0.0.0.0 cailawyer.cn
 0.0.0.0 caiwanhui.top
+0.0.0.0 caiziwuyou.com
 0.0.0.0 calculated.cn
 0.0.0.0 car156.net
 0.0.0.0 casbanlly.com
@@ -4088,6 +4096,7 @@
 0.0.0.0 cghc87.cn
 0.0.0.0 cgoiiq.com
 0.0.0.0 cgoul.com
+0.0.0.0 cgtueid.cn
 0.0.0.0 cgxxmy.com
 0.0.0.0 changhehengqi.com
 0.0.0.0 chaojilamei.cn
@@ -4198,6 +4207,7 @@
 0.0.0.0 dbwmjj.com
 0.0.0.0 dcaij.com
 0.0.0.0 dceni.com
+0.0.0.0 dcnqcql.cn
 0.0.0.0 dctykq.cn
 0.0.0.0 dcuom.com
 0.0.0.0 ddanq.com
@@ -4231,6 +4241,7 @@
 0.0.0.0 dmpsj.cn
 0.0.0.0 dn189.com
 0.0.0.0 dnfeu.com
+0.0.0.0 dodomo.info
 0.0.0.0 doowe.cn
 0.0.0.0 doryhome.com
 0.0.0.0 dqgpb.com
@@ -5531,6 +5542,7 @@
 0.0.0.0 yetaiguang.cn
 0.0.0.0 yexfes.com
 0.0.0.0 yfano.com
+0.0.0.0 yfyoyo.com
 0.0.0.0 yg10x.cn
 0.0.0.0 ygblogtag.cn
 0.0.0.0 ygqczh.com
@@ -5647,6 +5659,7 @@
 0.0.0.0 zhuyuanp.top
 0.0.0.0 zhywyl.cn
 0.0.0.0 zizcy.com
+0.0.0.0 zizidi.com
 0.0.0.0 zjhrondo.cn
 0.0.0.0 zjkdaikuan.com
 0.0.0.0 zjksgl.com
@@ -5707,6 +5720,21 @@
 0.0.0.0 tianjin4.com
 0.0.0.0 hy-dy.cn
 0.0.0.0 liveappgirl.net
+0.0.0.0 lady177.com
+0.0.0.0 a1714.com
+0.0.0.0 2481e.com
+0.0.0.0 693836.com
+0.0.0.0 baidu-jxf.co
+0.0.0.0 0937js.com
+0.0.0.0 e5yx.com
+0.0.0.0 2481e.com
+0.0.0.0 sa669.com
+0.0.0.0 22588888.com
+0.0.0.0 pv4b.com
+0.0.0.0 yunsennet.com
+0.0.0.0 h6295.com
+0.0.0.0 xdh0808.com
+0.0.0.0 magnetdog.net
 0.0.0.0 69lm.com.cn
 0.0.0.0 qhdfxkj.com
 0.0.0.0 shxqeps.com
