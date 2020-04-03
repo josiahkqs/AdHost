@@ -1,9 +1,18 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 31 Mar 2020 17:55:15 +0800
+# Last converted - Fri, 03 Apr 2020 22:07:30 +0800
 #
 
+0.0.0.0 hbhook.com
+0.0.0.0 torren.eu
+0.0.0.0 svekolasg.pro
+0.0.0.0 adtraf.pro
+0.0.0.0 wwclickserv.club
+0.0.0.0 wwopenclick.space
+0.0.0.0 sghmho.com
+0.0.0.0 epushclick.com
+0.0.0.0 pushebrod.com
 0.0.0.0 xg2o402yyy.ru
 0.0.0.0 nzafj0fqsy.rest
 0.0.0.0 oldrrb.bid
@@ -3761,6 +3770,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 firm.bidtizadd.ru
 0.0.0.0 vast4.kinogo.by
 0.0.0.0 bc.infoblog.today
 0.0.0.0 rekl.brawlstars-app.ru
