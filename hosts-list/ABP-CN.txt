@@ -1,10 +1,14 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Tue, 31 Mar 2020 17:55:11 +0800
+# Last converted - Fri, 03 Apr 2020 22:07:27 +0800
 #
 
-0.0.0.0 shshuoshu.com
+0.0.0.0 9596yy.com
+0.0.0.0 hebkb.cn
+0.0.0.0 ymima360.com
+0.0.0.0 yese115.com
+0.0.0.0 kanfaxing.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -1918,6 +1922,7 @@
 0.0.0.0 shouwangba.cn
 0.0.0.0 shouyouyou.com
 0.0.0.0 show.kc.taotaosou.com
+0.0.0.0 shshuoshu.com
 0.0.0.0 shucaihangjia.com
 0.0.0.0 shuihulu.com
 0.0.0.0 shujuwu.com
@@ -2342,6 +2347,7 @@
 0.0.0.0 xingyaoapi.com
 0.0.0.0 xinji2.com
 0.0.0.0 xinlongrubber.com
+0.0.0.0 xinray.net
 0.0.0.0 xinyijiasc.cn
 0.0.0.0 xiongdong.com
 0.0.0.0 xiongyin.com
@@ -2370,6 +2376,7 @@
 0.0.0.0 xn--fjqz50cv5q3so.online
 0.0.0.0 xn--mtso8sj6menhyil.online
 0.0.0.0 xn--tst552fo5s.xyz
+0.0.0.0 xn--wcsy74a6d835f5lf.com
 0.0.0.0 xn--wxt79hbyb675a.online
 0.0.0.0 xn--wxtr9fwyxk9c.site
 0.0.0.0 xn--wxtr9fwyxk9c.top
@@ -2986,6 +2993,8 @@
 0.0.0.0 ztyumn.ifeng.com
 0.0.0.0 immedlinkum.info
 0.0.0.0 xayah.date
+0.0.0.0 wm.szdushi.com.cn
+0.0.0.0 ppfjlk1.5tps.vip
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
 0.0.0.0 1.01fy.cn
@@ -3364,6 +3373,7 @@
 0.0.0.0 img1.qqwangming6.com
 0.0.0.0 img1.yulu99.com
 0.0.0.0 img16.diyifanwen.com
+0.0.0.0 img50.pingguolv.com
 0.0.0.0 ios.426g.com
 0.0.0.0 ishuoshuo.com
 0.0.0.0 iy.com.cn
@@ -3512,6 +3522,7 @@
 0.0.0.0 sh996.dftoutiao.com
 0.0.0.0 shili.downxia.com
 0.0.0.0 sjbaiduadv1.redou.com
+0.0.0.0 sp.dnqc.com
 0.0.0.0 ss.ting55.com
 0.0.0.0 ssb.ah499.com
 0.0.0.0 star-media.cn
@@ -3724,7 +3735,9 @@
 0.0.0.0 runkao.net
 0.0.0.0 stunninglover.com
 0.0.0.0 cryptaloot.pro
-0.0.0.0 yfxixi.com
+0.0.0.0 0530hz.cn
+0.0.0.0 tfg8.com
+0.0.0.0 z97g.cn
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3736,6 +3749,7 @@
 0.0.0.0 0316dieroxiemzfjwmapk.xyz
 0.0.0.0 03196688.com
 0.0.0.0 0323wqpioutyuencsamxsd.xyz
+0.0.0.0 0330vsdgdwer.xyz
 0.0.0.0 0532ci.com.cn
 0.0.0.0 0551zgz.com
 0.0.0.0 05q9n.cn
@@ -3993,12 +4007,14 @@
 0.0.0.0 baitaoidc.com
 0.0.0.0 baiyangzs.com
 0.0.0.0 baolutongwuye.cn
+0.0.0.0 baomeidiaosu.cn
 0.0.0.0 bapkt.com
 0.0.0.0 barnfps.com
 0.0.0.0 bbba8.com
 0.0.0.0 bbbr8.com
 0.0.0.0 bbbx.xyz
 0.0.0.0 bbeyay41026.cn
+0.0.0.0 bbvdd.com
 0.0.0.0 bbvjs.com
 0.0.0.0 bchur.com
 0.0.0.0 bcunr.com
@@ -4751,6 +4767,7 @@
 0.0.0.0 ksylsh.cn
 0.0.0.0 kteyz.com
 0.0.0.0 ktzte.cn
+0.0.0.0 kuaidibiaoju.com
 0.0.0.0 kuaipaobiaoju.com
 0.0.0.0 kuaituisss.com
 0.0.0.0 kueofwt.cn
@@ -5167,6 +5184,7 @@
 0.0.0.0 sfanf.com
 0.0.0.0 sguac.com
 0.0.0.0 sgzs999.com
+0.0.0.0 shaque.vip
 0.0.0.0 she-ke.cn
 0.0.0.0 shenbimall.com
 0.0.0.0 shengchaopiao.cn
@@ -5542,6 +5560,7 @@
 0.0.0.0 yetaiguang.cn
 0.0.0.0 yexfes.com
 0.0.0.0 yfano.com
+0.0.0.0 yfxixi.com
 0.0.0.0 yfyoyo.com
 0.0.0.0 yg10x.cn
 0.0.0.0 ygblogtag.cn
@@ -5694,6 +5713,7 @@
 0.0.0.0 zxhymh.com
 0.0.0.0 zxin131.cn
 0.0.0.0 zxjjzx.com
+0.0.0.0 zxzhengxin.com
 0.0.0.0 zywhjd.com
 0.0.0.0 zyxwpj.com
 0.0.0.0 zzalkk.com
@@ -5720,21 +5740,20 @@
 0.0.0.0 tianjin4.com
 0.0.0.0 hy-dy.cn
 0.0.0.0 liveappgirl.net
-0.0.0.0 lady177.com
-0.0.0.0 a1714.com
+0.0.0.0 0937js.com
+0.0.0.0 22588888.com
 0.0.0.0 2481e.com
 0.0.0.0 693836.com
+0.0.0.0 a1714.com
 0.0.0.0 baidu-jxf.co
-0.0.0.0 0937js.com
 0.0.0.0 e5yx.com
-0.0.0.0 2481e.com
-0.0.0.0 sa669.com
-0.0.0.0 22588888.com
-0.0.0.0 pv4b.com
-0.0.0.0 yunsennet.com
 0.0.0.0 h6295.com
-0.0.0.0 xdh0808.com
+0.0.0.0 lady177.com
 0.0.0.0 magnetdog.net
+0.0.0.0 pv4b.com
+0.0.0.0 sa669.com
+0.0.0.0 xdh0808.com
+0.0.0.0 yunsennet.com
 0.0.0.0 69lm.com.cn
 0.0.0.0 qhdfxkj.com
 0.0.0.0 shxqeps.com
