@@ -19,3 +19,4 @@ nrdp.nccp.netflix.com # Netflix
 amzn.to # Amazon short link
 www.msftconnecttest.com # Skype Connection test
 rebrandly.com # Rebrand shorterner
+d33wubrfki0l68.cloudfront.net # Gov CDN
