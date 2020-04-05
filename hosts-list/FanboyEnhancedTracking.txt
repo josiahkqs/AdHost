@@ -1,7 +1,7 @@
 # FanboyEnhancedTracking
 #
 # Converted from - https://www.fanboy.co.nz/enhancedstats.txt
-# Last converted - Thu, 30 Jan 2020 18:11:56 +0800
+# Last converted - Mon, 06 Apr 2020 07:48:02 +0800
 #
 
 0.0.0.0 cointent.com
@@ -14,6 +14,7 @@
 0.0.0.0 piano-media.com
 0.0.0.0 poool.fr
 0.0.0.0 ppjol.net
+0.0.0.0 revprotect.com
 0.0.0.0 sovrnlabs.net
 0.0.0.0 subscriptiongenius.com
 0.0.0.0 syncronex.com
