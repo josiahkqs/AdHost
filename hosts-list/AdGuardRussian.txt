@@ -1,9 +1,17 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 03 Apr 2020 22:07:30 +0800
+# Last converted - Mon, 06 Apr 2020 07:47:58 +0800
 #
 
+0.0.0.0 ivnsssc.pro
+0.0.0.0 smiinformeri.online
+0.0.0.0 vir70n.news
+0.0.0.0 admitad-connect.com
+0.0.0.0 utimg.ru
+0.0.0.0 banners.adfox.ru
+0.0.0.0 banners.adfox.net
+0.0.0.0 hdbcode.com
 0.0.0.0 hbhook.com
 0.0.0.0 torren.eu
 0.0.0.0 svekolasg.pro
@@ -1916,7 +1924,6 @@
 0.0.0.0 kolendrin.ru
 0.0.0.0 kolet.pro
 0.0.0.0 kolezeynews.ru
-0.0.0.0 komok.com
 0.0.0.0 kont-news.com
 0.0.0.0 kontenka.ru
 0.0.0.0 kontera.com
