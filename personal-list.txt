@@ -388,3 +388,8 @@
 0.0.0.0 jwpltx.com # Ads
 0.0.0.0 cawsodpet.club # Ads
 0.0.0.0 coweatsup.com # Ads
+0.0.0.0 aritcametu.com # Malware Accomplic
+0.0.0.0 saztirulo.com # Malware Accomplic
+0.0.0.0 ercoyintu.com # Malware Accomplic
+0.0.0.0 turiqeri.com # Malware Accomplic
+0.0.0.0 istepuleto.com # Malware Accomplic
