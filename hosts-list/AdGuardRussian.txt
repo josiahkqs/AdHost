@@ -1,9 +1,10 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Mon, 06 Apr 2020 07:47:58 +0800
+# Last converted - Wed, 08 Apr 2020 16:37:13 +0800
 #
 
+0.0.0.0 sravniali.ru
 0.0.0.0 ivnsssc.pro
 0.0.0.0 smiinformeri.online
 0.0.0.0 vir70n.news
