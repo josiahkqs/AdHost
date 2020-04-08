@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Mon, 06 Apr 2020 07:47:55 +0800
+# Last converted - Wed, 08 Apr 2020 16:37:10 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -344,6 +344,7 @@
 0.0.0.0 85tgw.com
 0.0.0.0 85un.com
 0.0.0.0 860010.com
+0.0.0.0 88-baidu.com
 0.0.0.0 8800271.com.cn
 0.0.0.0 88818122.cn
 0.0.0.0 8881919.cc
@@ -674,6 +675,7 @@
 0.0.0.0 cfboo.com
 0.0.0.0 cferw.com
 0.0.0.0 cfqpxzx.com
+0.0.0.0 cfredh.cn
 0.0.0.0 cg2017.com
 0.0.0.0 cgskqg.com
 0.0.0.0 chadegongxiao.com
@@ -1669,6 +1671,7 @@
 0.0.0.0 nmqbg.com
 0.0.0.0 nnedbx.com
 0.0.0.0 nngft.com
+0.0.0.0 noahos.cn
 0.0.0.0 noberlmall.com
 0.0.0.0 nongsalei.com
 0.0.0.0 nord-raum.com
@@ -2959,6 +2962,7 @@
 0.0.0.0 synacast.com
 0.0.0.0 tcjy66.cc
 0.0.0.0 tf.360.cn
+0.0.0.0 theta.sogoucdn.com
 0.0.0.0 tk.504pk.com
 0.0.0.0 tp.sgcn.com
 0.0.0.0 trafficjam.cn
@@ -3543,6 +3547,7 @@
 0.0.0.0 trebleperfect.com
 0.0.0.0 tt123.eastday.com
 0.0.0.0 tu.zx110.org
+0.0.0.0 u.zuoyesou.com
 0.0.0.0 u1.2048sj.com
 0.0.0.0 u1.20q.cn
 0.0.0.0 u1.61sou.com
@@ -3827,6 +3832,7 @@
 0.0.0.0 3ql1pb.cn
 0.0.0.0 3s1xk.cn
 0.0.0.0 3vn52l.cn
+0.0.0.0 40ic.cn
 0.0.0.0 42rca.cn
 0.0.0.0 47dx0c.cn
 0.0.0.0 47n209.com
@@ -5722,6 +5728,7 @@
 0.0.0.0 zwsteel.cn
 0.0.0.0 zwychain.cn
 0.0.0.0 zx-jsp.com
+0.0.0.0 zxglpj.cn
 0.0.0.0 zxhymh.com
 0.0.0.0 zxin131.cn
 0.0.0.0 zxjjzx.com
