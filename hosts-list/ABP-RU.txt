@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Mon, 06 Apr 2020 07:47:58 +0800
+# Last converted - Wed, 08 Apr 2020 16:37:13 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -3414,6 +3414,7 @@
 0.0.0.0 d.igra-prestoloff.cx
 0.0.0.0 d0wnloads.ru
 0.0.0.0 d1776dc25a.com
+0.0.0.0 d18g6t7whf8ejf.cloudfront.net
 0.0.0.0 d1af165twk0zgn.cloudfront.net
 0.0.0.0 d1f5rbi95y1icu.cloudfront.net
 0.0.0.0 d1p7elpjrt6qav.cloudfront.net
@@ -3509,6 +3510,7 @@
 0.0.0.0 devilclicks.com
 0.0.0.0 devoknet.ru
 0.0.0.0 devrik.ru
+0.0.0.0 devtizer.ru
 0.0.0.0 dewife.ru
 0.0.0.0 df09rp0cm6rp6.cloudfront.net
 0.0.0.0 dfebr.com
@@ -4131,6 +4133,7 @@
 0.0.0.0 gmachinteh.space
 0.0.0.0 gmachinteh.website
 0.0.0.0 gmelvi.ru
+0.0.0.0 gmoshk.com
 0.0.0.0 gnogle.ru
 0.0.0.0 gnuliga.ru
 0.0.0.0 go.adjika.net
@@ -4558,6 +4561,7 @@
 0.0.0.0 ivances.com
 0.0.0.0 ivanie.com
 0.0.0.0 ivantat.com
+0.0.0.0 ivnsssc.pro
 0.0.0.0 ivsiveg.ru
 0.0.0.0 ivwolo.ru
 0.0.0.0 iwanttobe.pro
@@ -6708,6 +6712,7 @@
 0.0.0.0 socola.ru
 0.0.0.0 sof32dsso.ru
 0.0.0.0 soft-pays.ru
+0.0.0.0 soghqcf.pro
 0.0.0.0 soilebol.com
 0.0.0.0 soknm.com
 0.0.0.0 solanog.com
@@ -7989,6 +7994,7 @@
 0.0.0.0 zvkzl.com
 0.0.0.0 zvonok.mapakids.net
 0.0.0.0 zwmms11941.ru
+0.0.0.0 zworld-news.com
 0.0.0.0 zwvwh.us
 0.0.0.0 zxpxt.space
 0.0.0.0 zxrtn.com
