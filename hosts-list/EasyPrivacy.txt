@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 06 Apr 2020 07:48:01 +0800
+# Last converted - Wed, 08 Apr 2020 16:37:15 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1377,6 +1377,7 @@
 0.0.0.0 metricsdirect.com
 0.0.0.0 mezzobit.com
 0.0.0.0 mfadsrvr.com
+0.0.0.0 miadates.com
 0.0.0.0 mialbj6.com
 0.0.0.0 micpn.com
 0.0.0.0 midas-i.com
@@ -3759,6 +3760,7 @@
 0.0.0.0 smartnews-ads.com
 0.0.0.0 socdm.com
 0.0.0.0 speee-ad.jp
+0.0.0.0 team-rec.jp
 0.0.0.0 tgknt.com
 0.0.0.0 trackfeed.com
 0.0.0.0 triver.jp
@@ -5314,6 +5316,7 @@
 0.0.0.0 tracks.arubamediamarketing.it
 0.0.0.0 tracy.sadv.dadapro.com
 0.0.0.0 vppst.iltrovatore.it
+0.0.0.0 a.o2u.jp
 0.0.0.0 ad-beacon-v01.uliza.jp
 0.0.0.0 analysis.shinobi.jp
 0.0.0.0 analytics.liveact.cri-mw.jp
