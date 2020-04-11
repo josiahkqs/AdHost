@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Wed, 08 Apr 2020 16:37:13 +0800
+# Last converted - Sun, 12 Apr 2020 01:07:37 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -647,6 +647,7 @@
 0.0.0.0 krasota-zdorovie.com
 0.0.0.0 krutor.eu.org
 0.0.0.0 laynews.ru
+0.0.0.0 lentapronews.com
 0.0.0.0 lesnews.ru
 0.0.0.0 lifebloggersz.ru
 0.0.0.0 lifenewblog.ru
@@ -3223,6 +3224,7 @@
 0.0.0.0 cleverjump.org
 0.0.0.0 clhko.top
 0.0.0.0 clickads.name
+0.0.0.0 clickbaza.com
 0.0.0.0 clickcashmoney.com
 0.0.0.0 clickiocdn.com
 0.0.0.0 clickiocdna.com
@@ -3931,6 +3933,7 @@
 0.0.0.0 fiyifo.com
 0.0.0.0 fizpk.club
 0.0.0.0 fjjuo.com
+0.0.0.0 fkeg9d6jew.ru.com
 0.0.0.0 fkehg.com
 0.0.0.0 fkhkjhj.biz
 0.0.0.0 fkr63eryj6sp4.ru
@@ -4179,6 +4182,7 @@
 0.0.0.0 gorgasal.co
 0.0.0.0 gorod.tunt.lv
 0.0.0.0 gosj9ichlf.tech
+0.0.0.0 got.by
 0.0.0.0 gotogirlzzz.com
 0.0.0.0 gotoredr.com
 0.0.0.0 gotriki.com
@@ -5562,6 +5566,7 @@
 0.0.0.0 nevernevergiveyouup.ru
 0.0.0.0 new4.me
 0.0.0.0 newadplus.ru
+0.0.0.0 newales.ru
 0.0.0.0 newanons.ru
 0.0.0.0 newisnews.info
 0.0.0.0 newlixica.com
@@ -5734,6 +5739,7 @@
 0.0.0.0 odtoxup.ru
 0.0.0.0 odtpmadfx5.space
 0.0.0.0 oeode.com
+0.0.0.0 oeopl2y96q.ru.com
 0.0.0.0 ofenop.ru
 0.0.0.0 offer.megabait.ru
 0.0.0.0 offmaxbond.com
@@ -6756,6 +6762,7 @@
 0.0.0.0 spylees.com
 0.0.0.0 sqa41.ru
 0.0.0.0 sqjda.com
+0.0.0.0 sravniali.ru
 0.0.0.0 srkft.com
 0.0.0.0 srtzq.com
 0.0.0.0 srv43.ru
@@ -7078,6 +7085,7 @@
 0.0.0.0 tmska.com
 0.0.0.0 tmstrack.com
 0.0.0.0 tn.mybb.ru
+0.0.0.0 tneduf.com
 0.0.0.0 tnevota.ru
 0.0.0.0 to330.com
 0.0.0.0 todayad.ru
@@ -7767,6 +7775,7 @@
 0.0.0.0 xfktm.com
 0.0.0.0 xfncv.com
 0.0.0.0 xfnvb.biz
+0.0.0.0 xicoef.com
 0.0.0.0 xiepl.com
 0.0.0.0 xiss.ru
 0.0.0.0 xiuuh.com
@@ -8257,6 +8266,7 @@
 0.0.0.0 krutor.eu.org
 0.0.0.0 laynews.ru
 0.0.0.0 lentainform.com
+0.0.0.0 lentapronews.com
 0.0.0.0 lesnews.ru
 0.0.0.0 lifebloggersz.ru
 0.0.0.0 lifenewblog.ru
@@ -8623,6 +8633,7 @@
 0.0.0.0 coads.akipress.org
 0.0.0.0 cookreactor.com
 0.0.0.0 d2wl3qmk54t3ha.cloudfront.net
+0.0.0.0 dante.vl.ru
 0.0.0.0 delivery.bannerd.ru
 0.0.0.0 dfs.digitalaccess.ru
 0.0.0.0 f.mega-porno.tv
@@ -8674,7 +8685,6 @@
 0.0.0.0 oyy.l2anons.ws
 0.0.0.0 oyye.bhf.su
 0.0.0.0 panicnews.ru
-0.0.0.0 pcpro100-info.naydex.net
 0.0.0.0 pics-money.ru
 0.0.0.0 platon.kz
 0.0.0.0 pojrem.ru
