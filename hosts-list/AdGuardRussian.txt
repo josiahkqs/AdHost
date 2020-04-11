@@ -1,9 +1,17 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Wed, 08 Apr 2020 16:37:13 +0800
+# Last converted - Sun, 12 Apr 2020 01:07:39 +0800
 #
 
+0.0.0.0 click.zmctrack.net$document
+0.0.0.0 masddf.pro
+0.0.0.0 goodcode.me
+0.0.0.0 3mfm7jef91.ru
+0.0.0.0 mahidevrat.com
+0.0.0.0 sarimsol.com
+0.0.0.0 denlorian.com
+0.0.0.0 nzixhx.com
 0.0.0.0 sravniali.ru
 0.0.0.0 ivnsssc.pro
 0.0.0.0 smiinformeri.online
@@ -937,7 +945,6 @@
 0.0.0.0 bestnews.biz
 0.0.0.0 bestnewsforbest.com
 0.0.0.0 besttochka.ru
-0.0.0.0 bet-at-home.com
 0.0.0.0 beta.mediafort.ru
 0.0.0.0 betimogolef.com
 0.0.0.0 bf41f552ceb9a150ee17.date
@@ -3965,6 +3972,7 @@
 0.0.0.0 topruistory.ru$document
 0.0.0.0 toprustory.ru$document
 0.0.0.0 bux4gm.ru
+0.0.0.0 frank-casino.rocks
 0.0.0.0 spec.pitomec.ru
 0.0.0.0 a.fileplaneta.com
 0.0.0.0 a.navi-gaming.com
