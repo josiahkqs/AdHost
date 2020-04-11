@@ -21,8 +21,4 @@ www.msftconnecttest.com # Skype Connection test
 rebrandly.com # Rebrand shorterner
 d33wubrfki0l68.cloudfront.net # Gov CDN
 deliveroo.com.sg # Food Delivery
-www.surveygizmo.com 
-
-# ocsp.apple.com
-# g.symcd.com
-# mesu.apple.com
+www.surveygizmo.com
