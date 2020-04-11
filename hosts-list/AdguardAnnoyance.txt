@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Wed, 08 Apr 2020 16:37:13 +0800
+# Last converted - Sun, 12 Apr 2020 01:07:39 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -11,6 +11,7 @@
 0.0.0.0 wb.whatsbroadcast.com
 0.0.0.0 lindenhurstsneads.doyondeville.com
 0.0.0.0 willseyvillefingerville.polaccafaison.com
+0.0.0.0 sp.desmoinesregister.com
 0.0.0.0 sortsummer.com
 0.0.0.0 puffypull.com
 0.0.0.0 copperchickens.com
@@ -90,7 +91,11 @@
 0.0.0.0 pushofferpro.com
 0.0.0.0 leechiza.net
 0.0.0.0 pushtora.com
+0.0.0.0 web.webpushs.com
+0.0.0.0 device-api.indigitall.com
 0.0.0.0 easyfeeed.com
+0.0.0.0 traneranium.com
+0.0.0.0 esterlonder.com
 0.0.0.0 vinuser5.biz
 0.0.0.0 ss.6ib.ru
 0.0.0.0 n1goserch.com
@@ -250,6 +255,7 @@
 0.0.0.0 cleverpush.com
 0.0.0.0 pushaya.com
 0.0.0.0 push.esputnik.com
+0.0.0.0 trendentrium.com
 0.0.0.0 neutralen.nl
 0.0.0.0 xhamsterpremium.com
 0.0.0.0 shop.kicker.de
