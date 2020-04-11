@@ -1,9 +1,11 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Wed, 08 Apr 2020 16:37:10 +0800
+# Last converted - Sun, 12 Apr 2020 01:07:34 +0800
 #
 
+0.0.0.0 hljyjm.cn
+0.0.0.0 2526game.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -2452,6 +2454,7 @@
 0.0.0.0 ye3.com
 0.0.0.0 yenlm.com
 0.0.0.0 yese115.com
+0.0.0.0 yese161.com
 0.0.0.0 yeyajipp.com
 0.0.0.0 yezijizhang.com
 0.0.0.0 yezilm.com
@@ -3748,6 +3751,8 @@
 0.0.0.0 runkao.net
 0.0.0.0 stunninglover.com
 0.0.0.0 cryptaloot.pro
+0.0.0.0 125331.top
+0.0.0.0 shjrwh.cn
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3814,6 +3819,7 @@
 0.0.0.0 2gvuukm1lm.com
 0.0.0.0 2hqd0b.cn
 0.0.0.0 2ktd0.cn
+0.0.0.0 2l1f.cn
 0.0.0.0 2p1ih.cn
 0.0.0.0 2r3485.cn
 0.0.0.0 2scjbg.com
@@ -3897,6 +3903,7 @@
 0.0.0.0 733xs.top
 0.0.0.0 73cm.com
 0.0.0.0 74p030.cn
+0.0.0.0 74vc.cn
 0.0.0.0 757g7g.cn
 0.0.0.0 76xs.com
 0.0.0.0 7ef4d.cn
@@ -3951,6 +3958,7 @@
 0.0.0.0 abeij.com
 0.0.0.0 abfirst.cn
 0.0.0.0 abie10.top
+0.0.0.0 abie11.top
 0.0.0.0 abie9.top
 0.0.0.0 abuse8.com
 0.0.0.0 acaog.com
@@ -4062,6 +4070,7 @@
 0.0.0.0 bmfwwz.top
 0.0.0.0 bmgan.com
 0.0.0.0 bmuju.com
+0.0.0.0 bndbddt.top
 0.0.0.0 bnetds.cn
 0.0.0.0 bninc2.cn
 0.0.0.0 bnzxc.xyz
@@ -5221,6 +5230,7 @@
 0.0.0.0 sixgen.cn
 0.0.0.0 sjaidu.com
 0.0.0.0 sjczsc.com
+0.0.0.0 sjljz.cn
 0.0.0.0 sjuqc.com
 0.0.0.0 skyttt.com
 0.0.0.0 slivercommander.cn
@@ -5332,6 +5342,7 @@
 0.0.0.0 tuadong.com
 0.0.0.0 tukexiu.com
 0.0.0.0 tuoxintrade.cn
+0.0.0.0 twodogegg.cn
 0.0.0.0 txstatic.cn
 0.0.0.0 txtxr.com
 0.0.0.0 txwhds.com.cn
@@ -5371,6 +5382,7 @@
 0.0.0.0 uzyid.cn
 0.0.0.0 v3iy0h.cn
 0.0.0.0 v44i.cn
+0.0.0.0 vasb.cn
 0.0.0.0 vb4rvq.cn
 0.0.0.0 vbaiu.com
 0.0.0.0 vbanm.com
@@ -5680,6 +5692,7 @@
 0.0.0.0 zgsxhx.com
 0.0.0.0 zgwlbjy.cn
 0.0.0.0 zhamm.cn
+0.0.0.0 zhanjiangletian.com
 0.0.0.0 zhengzhoupengbo.com
 0.0.0.0 zhfyws.com
 0.0.0.0 zhide-edu.cn
