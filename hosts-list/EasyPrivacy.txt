@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Wed, 08 Apr 2020 16:37:15 +0800
+# Last converted - Sun, 12 Apr 2020 01:07:42 +0800
 #
 
 0.0.0.0 0emm.com
@@ -517,6 +517,7 @@
 0.0.0.0 cogmatch.net
 0.0.0.0 cognativex.com
 0.0.0.0 cognitivematch.com
+0.0.0.0 cohesionapps.com
 0.0.0.0 collarity.com
 0.0.0.0 collecting.click
 0.0.0.0 collserve.com
@@ -525,6 +526,7 @@
 0.0.0.0 company-target.com
 0.0.0.0 compteur.cc
 0.0.0.0 conductrics.com
+0.0.0.0 conduze.com
 0.0.0.0 config.parsely.com
 0.0.0.0 confirmational.com
 0.0.0.0 confirmit.com
@@ -929,6 +931,7 @@
 0.0.0.0 geoplugin.net
 0.0.0.0 georiot.com
 0.0.0.0 geotargetly-1a441.appspot.com
+0.0.0.0 getambassador.com
 0.0.0.0 getbackstory.com
 0.0.0.0 getblueshift.com
 0.0.0.0 getclicky.com
@@ -5629,6 +5632,7 @@
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 cpt.itv.com
 0.0.0.0 customeriomail.codecademy.com
+0.0.0.0 d.ghostery.com
 0.0.0.0 d1.abtshield.com
 0.0.0.0 da.virginmedia.com
 0.0.0.0 data.mic.com
@@ -5702,6 +5706,7 @@
 0.0.0.0 geo.hltv.org
 0.0.0.0 geo.homepage-web.com
 0.0.0.0 geo.metronews.ca
+0.0.0.0 geo.nbcsports.com
 0.0.0.0 geo.play.it
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geobeacon.ign.com
@@ -5755,6 +5760,7 @@
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 lh.secure.yahoo.com
 0.0.0.0 lilb2.shutterstock.com
+0.0.0.0 link.kogan.com
 0.0.0.0 link2.strawberrynet.com
 0.0.0.0 linkpuls.idg.no
 0.0.0.0 loc.rediff.com
