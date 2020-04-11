@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Wed, 08 Apr 2020 16:37:13 +0800
+# Last converted - Sun, 12 Apr 2020 01:07:40 +0800
 #
 
 0.0.0.0 lk.vectoranalytics.ru
@@ -3313,6 +3313,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 rrss.abc.es
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 spxl.socy.es
 0.0.0.0 telemetry.tradingview.com
