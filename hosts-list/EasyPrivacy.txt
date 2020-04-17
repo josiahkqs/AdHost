@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sun, 12 Apr 2020 01:07:42 +0800
+# Last converted - Fri, 17 Apr 2020 17:41:15 +0800
 #
 
 0.0.0.0 0emm.com
@@ -923,6 +923,7 @@
 0.0.0.0 gemius.pl
 0.0.0.0 geni.us
 0.0.0.0 genieesspv.jp
+0.0.0.0 geo-targetly.com
 0.0.0.0 geobytes.com
 0.0.0.0 geoedge.be
 0.0.0.0 geoip-db.com
@@ -1819,6 +1820,7 @@
 0.0.0.0 revenuescience.com
 0.0.0.0 revenuewire.net
 0.0.0.0 revjet.com
+0.0.0.0 revoffers.com
 0.0.0.0 revolvermaps.com
 0.0.0.0 revsw.net
 0.0.0.0 rewardtv.com
@@ -2226,6 +2228,7 @@
 0.0.0.0 track2.me
 0.0.0.0 trackalyzer.com
 0.0.0.0 trackbar.info
+0.0.0.0 trackcb.com
 0.0.0.0 trackcdn.com
 0.0.0.0 trackcmp.net
 0.0.0.0 trackconsole.com
@@ -2279,6 +2282,7 @@
 0.0.0.0 triggeredmessaging.com
 0.0.0.0 triggertag.gorillanation.com
 0.0.0.0 triggit.com
+0.0.0.0 trilogyed.com
 0.0.0.0 triptease.io
 0.0.0.0 triptease.net
 0.0.0.0 trkjmp.com
@@ -2961,6 +2965,7 @@
 0.0.0.0 automaticside.com
 0.0.0.0 awzbijw.com
 0.0.0.0 axiomaticalley.com
+0.0.0.0 ayc0zsm69431gfebd.info
 0.0.0.0 bagbeam.com
 0.0.0.0 balancebreath.com
 0.0.0.0 bandborder.com
@@ -3069,6 +3074,7 @@
 0.0.0.0 puffyloss.com
 0.0.0.0 puffypull.com
 0.0.0.0 puffypurpose.com
+0.0.0.0 q20jqurls0y7gk8.info
 0.0.0.0 quaintcan.com
 0.0.0.0 quietknowledge.com
 0.0.0.0 quizzicalzephyr.com
@@ -3085,6 +3091,7 @@
 0.0.0.0 ritzykey.com
 0.0.0.0 roofrelation.com
 0.0.0.0 rusticprice.com
+0.0.0.0 ruthlessdegree.com
 0.0.0.0 savoryorange.com
 0.0.0.0 scientificshirt.com
 0.0.0.0 scintillatingscissors.com
@@ -4563,6 +4570,7 @@
 0.0.0.0 link.myjewishpage.com
 0.0.0.0 link.realself.com
 0.0.0.0 links.voyeurweb.com
+0.0.0.0 literally-analytics.appspot.com
 0.0.0.0 livecounter.theyosh.nl
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 log.aimtell.com
@@ -4656,6 +4664,7 @@
 0.0.0.0 pagesense-collect.zoho.com
 0.0.0.0 pagesocket.glam.com
 0.0.0.0 partner.cynapse.com
+0.0.0.0 partner.permutive.app
 0.0.0.0 partners.etoro.com
 0.0.0.0 passport.pfn.bz
 0.0.0.0 pebed.dm.gg
@@ -4790,6 +4799,7 @@
 0.0.0.0 stats.datahjaelp.net
 0.0.0.0 stats.dice.com
 0.0.0.0 stats.edicy.com
+0.0.0.0 stats.fomo.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.geegain.com
 0.0.0.0 stats.gifs.com
@@ -5063,6 +5073,7 @@
 0.0.0.0 websecurity.norton.com
 0.0.0.0 widgets.trustedshops.com
 0.0.0.0 connatix.com
+0.0.0.0 analytics.audionow.de
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 analytics.gameforge.de
 0.0.0.0 analytics.loop-cloud.de
@@ -6300,6 +6311,7 @@
 0.0.0.0 commsvc.stern.de
 0.0.0.0 consent.api.osano.com
 0.0.0.0 consent.inm.ie
+0.0.0.0 eg-p2.eurogamer.net
 0.0.0.0 ep00.epimg.net
 0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 fuse.forbes.com
@@ -6327,8 +6339,10 @@
 0.0.0.0 swindonadvertiser-gb.swindonadvertiser.co.uk
 0.0.0.0 theargus-gb.theargus.co.uk
 0.0.0.0 thenational-gb.thenational.scot
+0.0.0.0 ttauri.creativebloq.com
 0.0.0.0 ttauri.laptopmag.com
 0.0.0.0 ttauri.livescience.com
+0.0.0.0 ttauri.loudersound.com
 0.0.0.0 ttauri.tomsguide.com
 0.0.0.0 ttauri.tomshardware.com
 0.0.0.0 ttauri.whathifi.com
