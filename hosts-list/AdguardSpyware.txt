@@ -1,9 +1,16 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sun, 12 Apr 2020 01:07:40 +0800
+# Last converted - Fri, 17 Apr 2020 17:41:13 +0800
 #
 
+0.0.0.0 apn.c.appier.net
+0.0.0.0 doorbrazil.com
+0.0.0.0 dmzls.safe-installation.com
+0.0.0.0 pixel.safe-installation.com
+0.0.0.0 troubledtail.com
+0.0.0.0 spellsalsa.com
+0.0.0.0 hits-i.iubenda.com
 0.0.0.0 lk.vectoranalytics.ru
 0.0.0.0 track.ilonofficial.com
 0.0.0.0 track.saygames.io
@@ -133,7 +140,6 @@
 0.0.0.0 admon.pro
 0.0.0.0 stats.mos.ru
 0.0.0.0 px.staticfiles.at
-0.0.0.0 vast.videocdn.tv
 0.0.0.0 wapempire.com
 0.0.0.0 chali.info
 0.0.0.0 ulogin-stats.ru
@@ -1121,7 +1127,6 @@
 0.0.0.0 engine64.com
 0.0.0.0 enhance.com
 0.0.0.0 enquisite.com
-0.0.0.0 ensighten.com
 0.0.0.0 enticelabs.com
 0.0.0.0 eperfectdata.com
 0.0.0.0 epilot.com
@@ -3313,6 +3318,10 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 tracker.unbxdapi.com
+0.0.0.0 d21gpk1vhmjuf5.cloudfront.net
+0.0.0.0 spkrth.scw.systems
+0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 rrss.abc.es
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 spxl.socy.es
@@ -4841,6 +4850,7 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 adj.st
+0.0.0.0 byteoversea.com
 0.0.0.0 sq.requestads.com
 0.0.0.0 insight.ucweb.com
 0.0.0.0 gjapplog.ucweb.com
