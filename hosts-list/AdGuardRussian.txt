@@ -1,9 +1,19 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sun, 12 Apr 2020 01:07:39 +0800
+# Last converted - Fri, 17 Apr 2020 17:41:13 +0800
 #
 
+0.0.0.0 vast.videocdn.tv
+0.0.0.0 ackhoo.com
+0.0.0.0 gadgettest.ru
+0.0.0.0 portakamus.com
+0.0.0.0 tekaners.com
+0.0.0.0 helvetinus.com
+0.0.0.0 jmpmedia.club
+0.0.0.0 jaskolski.biz
+0.0.0.0 basenews7.com$document
+0.0.0.0 bestdealfor1.life$document
 0.0.0.0 click.zmctrack.net$document
 0.0.0.0 masddf.pro
 0.0.0.0 goodcode.me
@@ -3785,6 +3795,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 nov.evmenov37.ru
 0.0.0.0 firm.bidtizadd.ru
 0.0.0.0 vast4.kinogo.by
 0.0.0.0 bc.infoblog.today
