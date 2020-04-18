@@ -1,9 +1,10 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 17 Apr 2020 17:41:13 +0800
+# Last converted - Sat, 18 Apr 2020 23:08:17 +0800
 #
 
+0.0.0.0 6esfc37938pur4.com
 0.0.0.0 vast.videocdn.tv
 0.0.0.0 ackhoo.com
 0.0.0.0 gadgettest.ru
