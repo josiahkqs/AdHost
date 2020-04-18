@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Fri, 17 Apr 2020 17:41:13 +0800
+# Last converted - Sat, 18 Apr 2020 23:08:17 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -2562,6 +2562,7 @@
 0.0.0.0 aliexpresskupit.ru
 0.0.0.0 alifenix.ru
 0.0.0.0 aliscaton.com
+0.0.0.0 alitarget.ru
 0.0.0.0 alitems.com
 0.0.0.0 all1ions.ru
 0.0.0.0 allbouttruth.info
@@ -2624,6 +2625,7 @@
 0.0.0.0 antbadani.club
 0.0.0.0 antiadd.com
 0.0.0.0 antibronhit.ru
+0.0.0.0 anuts.ru
 0.0.0.0 aoodw.top
 0.0.0.0 apearmark.online
 0.0.0.0 api-adver.ru
@@ -5878,6 +5880,7 @@
 0.0.0.0 oxruse.info
 0.0.0.0 oxtavul.info
 0.0.0.0 oxtkt.top
+0.0.0.0 oys234w0zq.com
 0.0.0.0 oyy.ru
 0.0.0.0 ozdau.top
 0.0.0.0 ozhila.ru
@@ -7820,6 +7823,7 @@
 0.0.0.0 xrb3w.ru
 0.0.0.0 xs-tds.com
 0.0.0.0 xshop1.ru
+0.0.0.0 xshop2.ru
 0.0.0.0 xshop3.ru
 0.0.0.0 xstat.me
 0.0.0.0 xtkl7.ru
