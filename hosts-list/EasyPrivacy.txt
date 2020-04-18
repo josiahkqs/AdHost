@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 17 Apr 2020 17:41:15 +0800
+# Last converted - Sat, 18 Apr 2020 23:08:19 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1549,6 +1549,7 @@
 0.0.0.0 ojrq.net
 0.0.0.0 okt.to
 0.0.0.0 oktopost.com
+0.0.0.0 omappapi.com
 0.0.0.0 omarsys.com
 0.0.0.0 omeda.com
 0.0.0.0 ometria.com
@@ -3053,7 +3054,9 @@
 0.0.0.0 lumberamount.com
 0.0.0.0 lumpylumber.com
 0.0.0.0 magnetairport.com
+0.0.0.0 massivemark.com
 0.0.0.0 meatydime.com
+0.0.0.0 movemeal.com
 0.0.0.0 mowfruit.com
 0.0.0.0 mundanepollution.com
 0.0.0.0 neighborlywatch.com
@@ -4691,6 +4694,7 @@
 0.0.0.0 pixel.fanbridge.com
 0.0.0.0 pixel.glimr.io
 0.0.0.0 pixel.newscred.com
+0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.roymorgan.com
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.solvemedia.com
@@ -6325,6 +6329,7 @@
 0.0.0.0 keighleynews-gb.keighleynews.co.uk
 0.0.0.0 mdn.neowin.net
 0.0.0.0 mmm.carbuyer.co.uk
+0.0.0.0 mms.blick.ch
 0.0.0.0 mms.gocomics.com
 0.0.0.0 orionis.techradar.com
 0.0.0.0 rps-p2.rockpapershotgun.com
