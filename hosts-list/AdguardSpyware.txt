@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Fri, 17 Apr 2020 17:41:13 +0800
+# Last converted - Sat, 18 Apr 2020 23:08:17 +0800
 #
 
 0.0.0.0 apn.c.appier.net
@@ -4850,7 +4850,6 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 adj.st
-0.0.0.0 byteoversea.com
 0.0.0.0 sq.requestads.com
 0.0.0.0 insight.ucweb.com
 0.0.0.0 gjapplog.ucweb.com
