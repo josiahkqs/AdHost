@@ -1,9 +1,11 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Sat, 18 Apr 2020 23:05:36 +0800
+# Last converted - Tue, 21 Apr 2020 18:38:25 +0800
 #
 
+0.0.0.0 b96bcea4.cc
+0.0.0.0 shoujigushi.net
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -1729,6 +1731,7 @@
 0.0.0.0 p3tt.com
 0.0.0.0 p74.cc
 0.0.0.0 pababy.cn
+0.0.0.0 padspms.com
 0.0.0.0 pagechoice.net
 0.0.0.0 panel-cn.com
 0.0.0.0 papa999.xyz
@@ -1741,6 +1744,7 @@
 0.0.0.0 pedailyu.com
 0.0.0.0 penggua.com.cn
 0.0.0.0 penxiangge.com
+0.0.0.0 pg88cdn.com
 0.0.0.0 picsinfog.com
 0.0.0.0 pingping888.com
 0.0.0.0 pjshw.cn
@@ -1935,6 +1939,7 @@
 0.0.0.0 show.kc.taotaosou.com
 0.0.0.0 shshuoshu.com
 0.0.0.0 shucaihangjia.com
+0.0.0.0 shuccn.com
 0.0.0.0 shuihulu.com
 0.0.0.0 shujuwu.com
 0.0.0.0 shushijiameng123.com
@@ -3760,7 +3765,6 @@
 0.0.0.0 runkao.net
 0.0.0.0 stunninglover.com
 0.0.0.0 cryptaloot.pro
-0.0.0.0 abie25.top
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3972,6 +3976,7 @@
 0.0.0.0 abfirst.cn
 0.0.0.0 abie10.top
 0.0.0.0 abie11.top
+0.0.0.0 abie25.top
 0.0.0.0 abie9.top
 0.0.0.0 abuse8.com
 0.0.0.0 acaog.com
@@ -5694,6 +5699,7 @@
 0.0.0.0 yyshow.top
 0.0.0.0 z3uk6.cn
 0.0.0.0 z41vm.cn
+0.0.0.0 z65j.cn
 0.0.0.0 z97g.cn
 0.0.0.0 zabxb.com
 0.0.0.0 zanghaihua.org
