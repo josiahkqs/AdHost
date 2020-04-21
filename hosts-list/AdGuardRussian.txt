@@ -1,9 +1,13 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sat, 18 Apr 2020 23:08:17 +0800
+# Last converted - Tue, 21 Apr 2020 18:38:31 +0800
 #
 
+0.0.0.0 zusbzr.com
+0.0.0.0 phwten.com
+0.0.0.0 newales.ru
+0.0.0.0 icbwyfg.pro
 0.0.0.0 6esfc37938pur4.com
 0.0.0.0 vast.videocdn.tv
 0.0.0.0 ackhoo.com
@@ -213,7 +217,6 @@
 0.0.0.0 frsuli.com
 0.0.0.0 info.invistionik.ru
 0.0.0.0 rgqxbf.com
-0.0.0.0 octclck.xyz
 0.0.0.0 ogclick.com
 0.0.0.0 1klink.ru
 0.0.0.0 purpulium.com
@@ -1776,11 +1779,9 @@
 0.0.0.0 inextlink.com
 0.0.0.0 inf.wqa.ru
 0.0.0.0 inferalton.com
-0.0.0.0 info-dvd.ru
 0.0.0.0 info1park.ru
 0.0.0.0 info33.info
 0.0.0.0 infocentro.ru
-0.0.0.0 infoclub.info
 0.0.0.0 infomir.pw
 0.0.0.0 informers.openmedia.com.ua
 0.0.0.0 informers.ukr.net
