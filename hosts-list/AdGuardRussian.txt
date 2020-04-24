@@ -1,9 +1,15 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 21 Apr 2020 18:38:31 +0800
+# Last converted - Fri, 24 Apr 2020 21:54:19 +0800
 #
 
+0.0.0.0 veminoi.ru
+0.0.0.0 browser1.ru
+0.0.0.0 ddxmgy.com
+0.0.0.0 ad.zima.kg
+0.0.0.0 8c9cz5kp0o.com
+0.0.0.0 9haa5i5j2hw10u.com
 0.0.0.0 zusbzr.com
 0.0.0.0 phwten.com
 0.0.0.0 newales.ru
@@ -2071,7 +2077,6 @@
 0.0.0.0 llladiez.click
 0.0.0.0 lmymere.info
 0.0.0.0 loader-tor.ru
-0.0.0.0 loader.adrelayer.com
 0.0.0.0 loadmoney.ru
 0.0.0.0 log2.ru
 0.0.0.0 logethy.com
@@ -3797,6 +3802,8 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 d31nb97nd8ha11.cloudfront.net
+0.0.0.0 advast.sibnet.ru
 0.0.0.0 nov.evmenov37.ru
 0.0.0.0 firm.bidtizadd.ru
 0.0.0.0 vast4.kinogo.by
