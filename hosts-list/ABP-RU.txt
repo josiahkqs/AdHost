@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Tue, 21 Apr 2020 18:38:30 +0800
+# Last converted - Fri, 24 Apr 2020 21:54:18 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -956,7 +956,6 @@
 0.0.0.0 zodiac-game.info
 0.0.0.0 zpppstop.ru
 0.0.0.0 zqwjpxow7boc.ru
-0.0.0.0 живи-просто.рф
 0.0.0.0 changeip.name
 0.0.0.0 chickenkiller.com
 0.0.0.0 itsaol.com
@@ -1326,6 +1325,7 @@
 0.0.0.0 hit-sales.ru
 0.0.0.0 hit.gemius.pl
 0.0.0.0 hitlist.ru
+0.0.0.0 hmwk.ru
 0.0.0.0 holder.com.ua
 0.0.0.0 homework.ru
 0.0.0.0 homrus.net
@@ -1403,6 +1403,7 @@
 0.0.0.0 lenty.ru
 0.0.0.0 letitbit-porno.com
 0.0.0.0 letitsoft.com
+0.0.0.0 letscheckyourgeo.com
 0.0.0.0 lexlivinow.com
 0.0.0.0 lexprofit.net
 0.0.0.0 lexprofit.ru
@@ -2249,6 +2250,7 @@
 0.0.0.0 9e5e93766e4.com
 0.0.0.0 9ed195d07dfaa063.com
 0.0.0.0 9f865e199bd942.com
+0.0.0.0 9haa5i5j2hw10u.com
 0.0.0.0 9lt1f7.ru
 0.0.0.0 9m7dj4bb.site
 0.0.0.0 9mjnolloowrj.ru
@@ -3373,6 +3375,7 @@
 0.0.0.0 crimpy-baboon.eu
 0.0.0.0 crispmedia.ru
 0.0.0.0 crmsibcpa.ru
+0.0.0.0 crocmedia.ru
 0.0.0.0 crpoy.com
 0.0.0.0 crtbmf.life
 0.0.0.0 crtgmf.life
@@ -3490,6 +3493,7 @@
 0.0.0.0 ddbfd4e491c5.com
 0.0.0.0 dddevki4u.com
 0.0.0.0 ddomb.com
+0.0.0.0 ddxmgy.com
 0.0.0.0 dealsplus.ru
 0.0.0.0 deammer.ru
 0.0.0.0 decajo.ru
@@ -3502,6 +3506,7 @@
 0.0.0.0 deepsteelsky.com
 0.0.0.0 defiques.com
 0.0.0.0 defiru.com
+0.0.0.0 defundium.com
 0.0.0.0 delivery.promo.ge
 0.0.0.0 delo-teh.ru
 0.0.0.0 delta.mediafort.ru
@@ -4303,6 +4308,7 @@
 0.0.0.0 heelwork.com
 0.0.0.0 helicoooper.com
 0.0.0.0 helth-guarantee.ru
+0.0.0.0 helvetinus.com
 0.0.0.0 henerun.com
 0.0.0.0 heprenhan.com
 0.0.0.0 hepsithert.ru
@@ -6962,6 +6968,7 @@
 0.0.0.0 tedpasit.com
 0.0.0.0 tedpasit.net
 0.0.0.0 tehranvd.pw
+0.0.0.0 tekaners.com
 0.0.0.0 telacrered.ru
 0.0.0.0 televisionbomb.com
 0.0.0.0 temphilltop.net
@@ -7704,6 +7711,7 @@
 0.0.0.0 wis-his.com
 0.0.0.0 wisertb.com
 0.0.0.0 wisoky.biz
+0.0.0.0 wisokykulas.bid
 0.0.0.0 witherty.ru
 0.0.0.0 withnewswearebest.com
 0.0.0.0 witthethim.com
@@ -7818,6 +7826,7 @@
 0.0.0.0 xltraff.net
 0.0.0.0 xmediaserve.com
 0.0.0.0 xn-----7kcnh2ac3afebiffxijf2d6a5e.xn--p1ai
+0.0.0.0 xn----ctblib1bagjll.xn--p1ai
 0.0.0.0 xn----etbhjdhwegjlz.xn--p1ai
 0.0.0.0 xooplo.com
 0.0.0.0 xoor.ru
@@ -8041,7 +8050,6 @@
 0.0.0.0 zyanechi.ru
 0.0.0.0 zyhi.info
 0.0.0.0 zz2017.ru
-0.0.0.0 укроп-петрушка-огурцы.рф
 0.0.0.0 eroox.ru
 0.0.0.0 extract.zz.mu
 0.0.0.0 getout.besaba.com
@@ -8621,7 +8629,6 @@
 0.0.0.0 zodiac-game.info
 0.0.0.0 zpppstop.ru
 0.0.0.0 zqwjpxow7boc.ru
-0.0.0.0 живи-просто.рф
 0.0.0.0 17reg.ru
 0.0.0.0 1bshop.ru
 0.0.0.0 1plus1tv.tv
@@ -8771,7 +8778,6 @@
 0.0.0.0 zadrb.zadrottv.ru
 0.0.0.0 zen-test.yandex.ru
 0.0.0.0 zzsites.ru
-0.0.0.0 шпаргалки.com
 0.0.0.0 banners.mail.ru
 0.0.0.0 showbiz.mail.ru
 0.0.0.0 vkbutton.com
