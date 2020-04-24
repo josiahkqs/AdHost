@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 21 Apr 2020 18:38:37 +0800
+# Last converted - Fri, 24 Apr 2020 21:54:22 +0800
 #
 
 0.0.0.0 0emm.com
@@ -928,6 +928,7 @@
 0.0.0.0 geobytes.com
 0.0.0.0 geoedge.be
 0.0.0.0 geoip-db.com
+0.0.0.0 geoip-js.com
 0.0.0.0 geojs.io
 0.0.0.0 geolid.com
 0.0.0.0 geoplugin.net
@@ -1157,6 +1158,7 @@
 0.0.0.0 ipinfo.info
 0.0.0.0 ipinfodb.com
 0.0.0.0 ipinyou.com.cn
+0.0.0.0 iplist.cc
 0.0.0.0 iplocationtools.com
 0.0.0.0 ipro.com
 0.0.0.0 iproanalytics.com
@@ -3775,6 +3777,7 @@
 0.0.0.0 smartnews-ads.com
 0.0.0.0 socdm.com
 0.0.0.0 speee-ad.jp
+0.0.0.0 taxel.jp
 0.0.0.0 team-rec.jp
 0.0.0.0 tgknt.com
 0.0.0.0 trackfeed.com
@@ -4238,6 +4241,7 @@
 0.0.0.0 bitdash-reporting.appspot.com
 0.0.0.0 bizsolutions.strands.com
 0.0.0.0 blip.bizrate.com
+0.0.0.0 bmrg.reflected.net
 0.0.0.0 bonsai.internetbrands.com
 0.0.0.0 brain.foresee.com
 0.0.0.0 bright.bncnt.com
@@ -5074,6 +5078,7 @@
 0.0.0.0 zvsuhljiha-a.akamaihd.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 dfapvmql-q.global.ssl.fastly.net
+0.0.0.0 howsmyssl.com
 0.0.0.0 nsg.symantec.com
 0.0.0.0 seal.godaddy.com
 0.0.0.0 seal.verisign.com
@@ -5127,7 +5132,6 @@
 0.0.0.0 omniture.eaeurope.eu
 0.0.0.0 orbidder.otto.de
 0.0.0.0 px.staticfiles.at
-0.0.0.0 quiz.stroeermediabrands.de
 0.0.0.0 retrack.q-divisioncdn.de
 0.0.0.0 stat.clichehosting.de
 0.0.0.0 stat4.edev.at
@@ -5707,6 +5711,7 @@
 0.0.0.0 fathom.hakibenita.com
 0.0.0.0 felitb.rightinthebox.com
 0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 fp.measure.office.com
 0.0.0.0 fresh.techdirt.com
 0.0.0.0 frog.wix.com
 0.0.0.0 funn.graphiq.com
@@ -5749,7 +5754,6 @@
 0.0.0.0 geoip.viamichelin.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 glassmoni.researchgate.net
-0.0.0.0 glean.pop6.com
 0.0.0.0 gmonitor.aliimg.com
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.theregister.com
