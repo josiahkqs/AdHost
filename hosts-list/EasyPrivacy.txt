@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 24 Apr 2020 21:54:22 +0800
+# Last converted - Mon, 27 Apr 2020 23:38:36 +0800
 #
 
 0.0.0.0 0emm.com
@@ -163,6 +163,7 @@
 0.0.0.0 affinesystems.com
 0.0.0.0 affinitymatrix.com
 0.0.0.0 affistats.com
+0.0.0.0 afftrack.pro
 0.0.0.0 africal.info
 0.0.0.0 afsanalytics.com
 0.0.0.0 agentanalytics.com
@@ -230,6 +231,7 @@
 0.0.0.0 apollofind.com
 0.0.0.0 appboycdn.com
 0.0.0.0 appn.center
+0.0.0.0 appsflyer.com
 0.0.0.0 aprtn.com
 0.0.0.0 aprtx.com
 0.0.0.0 apsislead.com
@@ -721,6 +723,7 @@
 0.0.0.0 easycounter.com
 0.0.0.0 easyhitcounters.com
 0.0.0.0 easyresearch.se
+0.0.0.0 eb4us.com
 0.0.0.0 ebtrk1.com
 0.0.0.0 ec-track.com
 0.0.0.0 eclampsialemontree.net
@@ -814,6 +817,7 @@
 0.0.0.0 eyein.com
 0.0.0.0 eyereturn.com
 0.0.0.0 ezec.co.uk
+0.0.0.0 ezodn.com
 0.0.0.0 ezytrack.com
 0.0.0.0 f92j5.com
 0.0.0.0 fabricww.com
@@ -1093,6 +1097,7 @@
 0.0.0.0 index.ru
 0.0.0.0 indexstats.com
 0.0.0.0 indextools.com
+0.0.0.0 indicative.com
 0.0.0.0 indicia.com
 0.0.0.0 individuad.net
 0.0.0.0 ineedhits.com
@@ -1730,6 +1735,7 @@
 0.0.0.0 purevideo.com
 0.0.0.0 putags.com
 0.0.0.0 px-cloud.net
+0.0.0.0 pxaction.com
 0.0.0.0 pxchk.net
 0.0.0.0 pxf.io
 0.0.0.0 pxi.pub
@@ -1745,6 +1751,7 @@
 0.0.0.0 qoijertneio.com
 0.0.0.0 qsstats.com
 0.0.0.0 quadran.eu
+0.0.0.0 qualaroo.com
 0.0.0.0 quantcount.com
 0.0.0.0 quantummetric.com
 0.0.0.0 quartic.pl
@@ -2123,6 +2130,7 @@
 0.0.0.0 submitnet.net
 0.0.0.0 subtraxion.com
 0.0.0.0 successfultogether.co.uk
+0.0.0.0 sugodeku.com
 0.0.0.0 summerhamster.com
 0.0.0.0 summitemarketinganalytics.com
 0.0.0.0 sumo.com
@@ -2469,6 +2477,7 @@
 0.0.0.0 webstats4u.com
 0.0.0.0 webtraffic.se
 0.0.0.0 webtrafficagents.com
+0.0.0.0 webtrafficsource.com
 0.0.0.0 webtraffiq.com
 0.0.0.0 webtraxs.com
 0.0.0.0 webtrekk-asia.net
@@ -3752,6 +3761,7 @@
 0.0.0.0 iid-network.jp
 0.0.0.0 im-apps.net
 0.0.0.0 iogous.com
+0.0.0.0 kaizenplatform.net
 0.0.0.0 keyword-match.com
 0.0.0.0 kir.jp
 0.0.0.0 letro.jp
@@ -4102,6 +4112,7 @@
 0.0.0.0 analytics-scripts.cablelabs.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.30m.com
+0.0.0.0 analytics.agoda.com
 0.0.0.0 analytics.amakings.com
 0.0.0.0 analytics.anvato.net
 0.0.0.0 analytics.apnewsregistry.com
@@ -4237,6 +4248,7 @@
 0.0.0.0 beacon2.indieclicktv.com
 0.0.0.0 beacons.brandads.net
 0.0.0.0 beacons.mediamelon.com
+0.0.0.0 bento.agoda.com
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bitdash-reporting.appspot.com
 0.0.0.0 bizsolutions.strands.com
@@ -4397,6 +4409,7 @@
 0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d39yds8oe4n4jq.cloudfront.net
 0.0.0.0 d3a2okcloueqyx.cloudfront.net
+0.0.0.0 d3cgm8py10hi0z.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
 0.0.0.0 d3iouejux1os58.cloudfront.net
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
@@ -4757,6 +4770,7 @@
 0.0.0.0 rss.tmgrup.com.tr
 0.0.0.0 rtt.campanja.com
 0.0.0.0 rum.conde.io
+0.0.0.0 rum.minutemediaservices.com
 0.0.0.0 rum.nccgroup-webperf.com
 0.0.0.0 rum.uptime.com
 0.0.0.0 rva.outbrain.com
@@ -5192,6 +5206,7 @@
 0.0.0.0 cdn-analytics.ladmedia.fr
 0.0.0.0 collect.adback.co
 0.0.0.0 compteur.websiteout.net
+0.0.0.0 core.unit-sense.net
 0.0.0.0 e.funnymel.com
 0.0.0.0 email-reflex.com
 0.0.0.0 events.sk.ht
@@ -5210,6 +5225,7 @@
 0.0.0.0 tag.goldenbees.fr
 0.0.0.0 tag.leadplace.fr
 0.0.0.0 testcddc.atclouddev.net
+0.0.0.0 tim.nextinpact.com
 0.0.0.0 tmgr.ccmbg.com
 0.0.0.0 track.byzon.swelen.net
 0.0.0.0 track.kyoads.com
@@ -5317,6 +5333,7 @@
 0.0.0.0 evnt.iol.it
 0.0.0.0 fb_servpub-a.akamaihd.net
 0.0.0.0 fcstats.altervista.org
+0.0.0.0 heymatic.com
 0.0.0.0 instore.pagomeno.it
 0.0.0.0 livestats.matrix.it
 0.0.0.0 log.superweb.ws
@@ -5741,6 +5758,8 @@
 0.0.0.0 geoip.boredpanda.com
 0.0.0.0 geoip.cleveland.com
 0.0.0.0 geoip.gulflive.com
+0.0.0.0 geoip.hmageo.com
+0.0.0.0 geoip.ifunny.co
 0.0.0.0 geoip.inquirer.net
 0.0.0.0 geoip.lehighvalleylive.com
 0.0.0.0 geoip.masslive.com
@@ -5952,6 +5971,7 @@
 0.0.0.0 sa.bbc.co.uk
 0.0.0.0 sa.squareup.com
 0.0.0.0 sa135.macworld.co.uk
+0.0.0.0 sa135.wsbtv.com
 0.0.0.0 sana.newsinc.com.s3.amazonaws.com
 0.0.0.0 sayac.hurriyettv.com
 0.0.0.0 sc.cc.com
@@ -6147,6 +6167,7 @@
 0.0.0.0 t.9gag.com
 0.0.0.0 t.allmodern.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 t.av.st
 0.0.0.0 t.birchlane.com
 0.0.0.0 t.blinkist.com
 0.0.0.0 t.cinemablend.com
@@ -6826,6 +6847,7 @@
 0.0.0.0 beacon.itmedia.jp
 0.0.0.0 cgi.tbs.co.jp
 0.0.0.0 count.upc.rakuten.co.jp
+0.0.0.0 event.notifier.rakuten.co.jp
 0.0.0.0 ln.ameba.jp
 0.0.0.0 log.suumo.jp
 0.0.0.0 measure.ameblo.jp
@@ -6833,6 +6855,7 @@
 0.0.0.0 mtc.nhk.or.jp
 0.0.0.0 pvtag.yahoo.co.jp
 0.0.0.0 pw.gigazine.net
+0.0.0.0 rat.rakuten.co.jp
 0.0.0.0 rdsig.yahoo.co.jp
 0.0.0.0 scis.tbs.co.jp
 0.0.0.0 sy.amebame.com
