@@ -393,3 +393,5 @@
 0.0.0.0 ercoyintu.com # Malware Accomplic
 0.0.0.0 turiqeri.com # Malware Accomplic
 0.0.0.0 istepuleto.com # Malware Accomplic
+0.0.0.0 c3.sdkclickurl.com # Scam
+
