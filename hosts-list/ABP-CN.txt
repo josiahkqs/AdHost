@@ -1,10 +1,9 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Fri, 24 Apr 2020 21:54:15 +0800
+# Last converted - Mon, 27 Apr 2020 23:38:28 +0800
 #
 
-0.0.0.0 bd1.it028.net.cn
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -587,6 +586,7 @@
 0.0.0.0 bazhigu.com
 0.0.0.0 bbdsdy.com
 0.0.0.0 bccyyc.com
+0.0.0.0 bd1.it028.net.cn
 0.0.0.0 bd1.ningboseo0574.com
 0.0.0.0 bdpuaw.com
 0.0.0.0 bdtongfei.cn
@@ -2472,6 +2472,7 @@
 0.0.0.0 yenlm.com
 0.0.0.0 yese115.com
 0.0.0.0 yese161.com
+0.0.0.0 yese236.com
 0.0.0.0 yeyajipp.com
 0.0.0.0 yezijizhang.com
 0.0.0.0 yezilm.com
@@ -2532,6 +2533,7 @@
 0.0.0.0 yqcy988.com
 0.0.0.0 yqw88.com
 0.0.0.0 yrzyks.cn
+0.0.0.0 ys2000.cdn.bcebos.com
 0.0.0.0 ysdhe.com
 0.0.0.0 ysgsq.cn
 0.0.0.0 ysjwj.com
@@ -3225,6 +3227,7 @@
 0.0.0.0 bd1.szhk.com
 0.0.0.0 bd1.xiby.cn
 0.0.0.0 bd1.yidu.cc
+0.0.0.0 bd100.010lm.com
 0.0.0.0 bd11.nipic.com
 0.0.0.0 bd3.chuiyue.com
 0.0.0.0 bdad.gaotie.net
@@ -3771,9 +3774,9 @@
 0.0.0.0 runkao.net
 0.0.0.0 stunninglover.com
 0.0.0.0 cryptaloot.pro
-0.0.0.0 sxljldh.top
-0.0.0.0 bjtengda.cn
-0.0.0.0 uauwkfk.cn
+0.0.0.0 0420zvnmljgfdsa.xyz
+0.0.0.0 kantv.pub
+0.0.0.0 zhenglianabang.vip
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -4094,6 +4097,7 @@
 0.0.0.0 bjhengdiao.com
 0.0.0.0 bjhuhangjy.com
 0.0.0.0 bjqftcty.com
+0.0.0.0 bjtengda.cn
 0.0.0.0 bjygfd.com
 0.0.0.0 bjzcbx.com
 0.0.0.0 bkzisok.cn
@@ -4536,6 +4540,7 @@
 0.0.0.0 haomaojin.com
 0.0.0.0 haoxianyangrouye.com
 0.0.0.0 haoxinq.top
+0.0.0.0 hasiad.cn
 0.0.0.0 hatbiz.cn
 0.0.0.0 hawbfa.com
 0.0.0.0 hbaog.com
@@ -4621,6 +4626,7 @@
 0.0.0.0 htjsk.com
 0.0.0.0 huayange.com
 0.0.0.0 huayi65.com
+0.0.0.0 hueekqx.cn
 0.0.0.0 huician.cn
 0.0.0.0 huigoushop.com
 0.0.0.0 huixingcheng.cn
@@ -5318,6 +5324,7 @@
 0.0.0.0 sxjkc.cn
 0.0.0.0 sxjxhg.com
 0.0.0.0 sxlczj.cn
+0.0.0.0 sxljldh.top
 0.0.0.0 sxmdxy.com
 0.0.0.0 sxmutan.com
 0.0.0.0 sxtyhl.top
@@ -5400,6 +5407,7 @@
 0.0.0.0 u2c8.cn
 0.0.0.0 u372q.cn
 0.0.0.0 u7qy3e.cn
+0.0.0.0 uauwkfk.cn
 0.0.0.0 ubaii.com
 0.0.0.0 uc4a.cn
 0.0.0.0 ucaii.com
