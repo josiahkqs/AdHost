@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Fri, 24 Apr 2020 21:54:18 +0800
+# Last converted - Mon, 27 Apr 2020 23:38:32 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -94,6 +94,7 @@
 0.0.0.0 pushofferpro.com
 0.0.0.0 leechiza.net
 0.0.0.0 pushtora.com
+0.0.0.0 sereendipit.com
 0.0.0.0 pushkintop.ru
 0.0.0.0 amfeed.ru
 0.0.0.0 bosspush.com
@@ -383,6 +384,7 @@
 0.0.0.0 renderer.qmerce.com
 0.0.0.0 civey.com
 0.0.0.0 widgets.opinary.com
+0.0.0.0 app.mycountrytalks.org
 0.0.0.0 insticator.com
 0.0.0.0 web.tolstoycomments.com
 0.0.0.0 corover.mobi
