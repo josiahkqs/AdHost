@@ -1,9 +1,13 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Fri, 24 Apr 2020 21:54:19 +0800
+# Last converted - Fri, 01 May 2020 00:18:33 +0800
 #
 
+0.0.0.0 blok.link
+0.0.0.0 cicero-mit.com
+0.0.0.0 taxel.jp
+0.0.0.0 awseukpi.whisbi.com
 0.0.0.0 contentsquare.net
 0.0.0.0 sys.refocus.ru
 0.0.0.0 center.io
@@ -2958,7 +2962,6 @@
 0.0.0.0 wemfbox.ch
 0.0.0.0 whackedmedia.com
 0.0.0.0 whatismyip.win
-0.0.0.0 whisbi.com
 0.0.0.0 whitepixel.com
 0.0.0.0 whoaremyfriends.com
 0.0.0.0 whoaremyfriends.net
@@ -3058,6 +3061,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 hypnoticwound.com
 0.0.0.0 samestretch.com
 0.0.0.0 acidpigs.com
 0.0.0.0 farshake.com
@@ -3319,6 +3323,9 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 spt.performgroup.com
+0.0.0.0 track.analitycs.net
+0.0.0.0 stats.popupmaker.com
 0.0.0.0 hstats.hepsiburada.com
 0.0.0.0 tracker.unbxdapi.com
 0.0.0.0 d21gpk1vhmjuf5.cloudfront.net
