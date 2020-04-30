@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Mon, 27 Apr 2020 23:38:32 +0800
+# Last converted - Fri, 01 May 2020 00:18:33 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -2850,6 +2850,7 @@
 0.0.0.0 bdbdqidkdb.com
 0.0.0.0 bdbdqixkdb.com
 0.0.0.0 bdbdqixkib.com
+0.0.0.0 bdbdqkdkdb.com
 0.0.0.0 bdbdqkkibb.com
 0.0.0.0 bdbdqkxkdb.com
 0.0.0.0 bdbdqndkdb.com
@@ -5372,6 +5373,7 @@
 0.0.0.0 mobile-click.biz
 0.0.0.0 mobiledirectors.com
 0.0.0.0 mobiloba.com
+0.0.0.0 mobiloza.com
 0.0.0.0 mobioffers.ru
 0.0.0.0 mobirollcom.ru
 0.0.0.0 mobirollru.com
@@ -5919,6 +5921,7 @@
 0.0.0.0 pandre10.ru
 0.0.0.0 paningheck.ru
 0.0.0.0 panksnotdead.ru
+0.0.0.0 papatyrodum.com
 0.0.0.0 parabit.ru
 0.0.0.0 parafiliya.ru
 0.0.0.0 paramedjo.com
@@ -8785,7 +8788,6 @@
 0.0.0.0 showbiz.mail.ru
 0.0.0.0 vkbutton.com
 0.0.0.0 vkmus.com
-0.0.0.0 zenadservices.net
 0.0.0.0 be.vtomske.ru
 0.0.0.0 gardnet.tomsk.ru
 0.0.0.0 kompstar.tomsk.ru
