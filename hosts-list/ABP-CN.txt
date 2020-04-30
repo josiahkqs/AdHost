@@ -1,9 +1,13 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Mon, 27 Apr 2020 23:38:28 +0800
+# Last converted - Fri, 01 May 2020 00:18:25 +0800
 #
 
+0.0.0.0 safe555.xyz
+0.0.0.0 tnarzc.com
+0.0.0.0 365339.top
+0.0.0.0 jjhaolin.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -92,9 +96,11 @@
 0.0.0.0 139.159.32.82
 0.0.0.0 139.196.166.21
 0.0.0.0 139site.com
+0.0.0.0 13wn.com
 0.0.0.0 13wnjs.com
 0.0.0.0 1515788.net
 0.0.0.0 154.83.113.19
+0.0.0.0 156.247.99.219
 0.0.0.0 162.209.213.66
 0.0.0.0 164.155.185.254
 0.0.0.0 1680go.com
@@ -672,6 +678,7 @@
 0.0.0.0 cc599.com
 0.0.0.0 ccbaihehq.com
 0.0.0.0 cccccd.com
+0.0.0.0 cctg.cc
 0.0.0.0 cctyly.com
 0.0.0.0 cd-best.cn
 0.0.0.0 cdlinli.com
@@ -695,6 +702,7 @@
 0.0.0.0 che0.com
 0.0.0.0 chebse.com
 0.0.0.0 chehuanjie.com
+0.0.0.0 chenghangtech.com
 0.0.0.0 chengruide.com
 0.0.0.0 chengzhao95511.com
 0.0.0.0 chenyanjiao.cn
@@ -1245,6 +1253,7 @@
 0.0.0.0 ihualun.com
 0.0.0.0 il8r.com
 0.0.0.0 ilepai.com
+0.0.0.0 ilinxi.cc
 0.0.0.0 ilovechenyuqian.xyz
 0.0.0.0 image.qndown.com
 0.0.0.0 img1122.com
@@ -1795,7 +1804,6 @@
 0.0.0.0 qidou.com
 0.0.0.0 qigemm.com
 0.0.0.0 qilashou.com
-0.0.0.0 qingqu.la
 0.0.0.0 qinqiaotrade.com
 0.0.0.0 qipskd.cn
 0.0.0.0 qiqivv.com
@@ -3774,9 +3782,7 @@
 0.0.0.0 runkao.net
 0.0.0.0 stunninglover.com
 0.0.0.0 cryptaloot.pro
-0.0.0.0 0420zvnmljgfdsa.xyz
-0.0.0.0 kantv.pub
-0.0.0.0 zhenglianabang.vip
+0.0.0.0 abie13.top
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3789,6 +3795,7 @@
 0.0.0.0 03196688.com
 0.0.0.0 0323wqpioutyuencsamxsd.xyz
 0.0.0.0 0330vsdgdwer.xyz
+0.0.0.0 0420zvnmljgfdsa.xyz
 0.0.0.0 0530hz.cn
 0.0.0.0 0532ci.com.cn
 0.0.0.0 0551zgz.com
@@ -3863,6 +3870,7 @@
 0.0.0.0 3ql1pb.cn
 0.0.0.0 3s1xk.cn
 0.0.0.0 3vn52l.cn
+0.0.0.0 3y0h.cn
 0.0.0.0 40ic.cn
 0.0.0.0 42rca.cn
 0.0.0.0 45le.cn
@@ -4386,6 +4394,7 @@
 0.0.0.0 fcuit.com
 0.0.0.0 fcunq.com
 0.0.0.0 fdaoo.com
+0.0.0.0 fdbpnqh.cn
 0.0.0.0 fdoun.com
 0.0.0.0 feifish66.com
 0.0.0.0 feipaihehuoren.cn
@@ -4805,6 +4814,7 @@
 0.0.0.0 kakappp.com
 0.0.0.0 kanghuaixin.cn
 0.0.0.0 kanjiaqun.cn
+0.0.0.0 kantv.pub
 0.0.0.0 kbstyn.com
 0.0.0.0 kcenu.com
 0.0.0.0 kchaq.com
@@ -4889,6 +4899,7 @@
 0.0.0.0 lifuzhubao.com
 0.0.0.0 lihongdou.cn
 0.0.0.0 lijie1010.top
+0.0.0.0 lilithgame.info
 0.0.0.0 linghangshouji.com
 0.0.0.0 linwukui.cn
 0.0.0.0 linyankm.cn
@@ -5072,6 +5083,7 @@
 0.0.0.0 oiwjcsh001.top
 0.0.0.0 oiwjcsh010.top
 0.0.0.0 oiwjcsh011.top
+0.0.0.0 oiwjcsh012.top
 0.0.0.0 ojues.com
 0.0.0.0 okshishi.com
 0.0.0.0 okuis.com
@@ -5446,6 +5458,7 @@
 0.0.0.0 vbieu.com
 0.0.0.0 vbinu.com
 0.0.0.0 vbnm888.com
+0.0.0.0 vbrfwaf.cn
 0.0.0.0 vcaif.com
 0.0.0.0 vchim.com
 0.0.0.0 vchiy.com
@@ -5645,9 +5658,11 @@
 0.0.0.0 ycypzx.cn
 0.0.0.0 ydfz.org
 0.0.0.0 ydouu.com
+0.0.0.0 ydziox.cn
 0.0.0.0 yetaiguang.cn
 0.0.0.0 yexfes.com
 0.0.0.0 yfano.com
+0.0.0.0 yfubi.com
 0.0.0.0 yfxixi.com
 0.0.0.0 yfyoyo.com
 0.0.0.0 yg10x.cn
@@ -5753,6 +5768,7 @@
 0.0.0.0 zgwlbjy.cn
 0.0.0.0 zhamm.cn
 0.0.0.0 zhanjiangletian.com
+0.0.0.0 zhenglianabang.vip
 0.0.0.0 zhengzhoupengbo.com
 0.0.0.0 zhfyws.com
 0.0.0.0 zhide-edu.cn
