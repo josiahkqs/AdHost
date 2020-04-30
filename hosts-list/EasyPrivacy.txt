@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 27 Apr 2020 23:38:36 +0800
+# Last converted - Fri, 01 May 2020 00:18:37 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1691,6 +1691,7 @@
 0.0.0.0 popsample.com
 0.0.0.0 popt.in
 0.0.0.0 populr.me
+0.0.0.0 popupmaker.com
 0.0.0.0 porngraph.com
 0.0.0.0 portfold.com
 0.0.0.0 posst.co
@@ -3658,6 +3659,7 @@
 0.0.0.0 stat.www.fi
 0.0.0.0 vihtori-analytics.fi
 0.0.0.0 linkwi.se
+0.0.0.0 analyti.io
 0.0.0.0 enter-system.com
 0.0.0.0 erate.co.il
 0.0.0.0 fortvision.com
@@ -3869,6 +3871,7 @@
 0.0.0.0 denakop.com
 0.0.0.0 engageya.com
 0.0.0.0 marktest.pt
+0.0.0.0 orquideassp.com
 0.0.0.0 percycle.com
 0.0.0.0 rdstation.com.br
 0.0.0.0 sambaads.com
@@ -4204,6 +4207,7 @@
 0.0.0.0 api.wipmania.com
 0.0.0.0 app.link
 0.0.0.0 apple.www.letv.com
+0.0.0.0 argos.citruserve.com
 0.0.0.0 ariane.abtasty.com
 0.0.0.0 aserve.directorym.com
 0.0.0.0 attributiontrackingga.googlecode.com
@@ -5382,6 +5386,7 @@
 0.0.0.0 sstats.mora.jp
 0.0.0.0 sync.shinobi.jp
 0.0.0.0 t.adlpo.com
+0.0.0.0 t.felmat.net
 0.0.0.0 torimochi.line-apps.com
 0.0.0.0 track.thebase.in
 0.0.0.0 userdive.com
@@ -5561,6 +5566,7 @@
 0.0.0.0 analytics.mindjolt.com
 0.0.0.0 analytics.mouthshut.com
 0.0.0.0 analytics.ngfiles.com
+0.0.0.0 analytics.nike.com
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics.productreview.com.au
@@ -6911,6 +6917,7 @@
 0.0.0.0 ad7.bigmir.net
 0.0.0.0 analytics.carambatv.ru
 0.0.0.0 counter.drom.ru
+0.0.0.0 counter.sibnet.ru
 0.0.0.0 data.glamour.ru
 0.0.0.0 dot-stat.radikal.ru
 0.0.0.0 kiks.auto.ru
