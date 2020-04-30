@@ -1,11 +1,19 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Mon, 27 Apr 2020 23:38:33 +0800
+# Last converted - Fri, 01 May 2020 00:18:33 +0800
 #
 
+0.0.0.0 unzpc.com
+0.0.0.0 ahaclub.ru
+0.0.0.0 chsrkred.com
+0.0.0.0 q0yxfvuo32.ru
+0.0.0.0 bezelbuzz13.live$document
+0.0.0.0 almasatten.com
+0.0.0.0 wimyrea.ru
 0.0.0.0 bcnewltd.club
 0.0.0.0 veminoi.ru
+0.0.0.0 disp-x.space
 0.0.0.0 papatyrodum.com
 0.0.0.0 browser1.ru
 0.0.0.0 ddxmgy.com
