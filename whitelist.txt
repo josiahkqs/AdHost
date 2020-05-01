@@ -22,3 +22,5 @@ rebrandly.com # Rebrand shorterner
 d33wubrfki0l68.cloudfront.net # Gov CDN
 deliveroo.com.sg # Food Delivery
 www.surveygizmo.com
+rotdubboy.com
+prd.jwpltx.com
