@@ -1,13 +1,9 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Fri, 01 May 2020 00:18:25 +0800
+# Last converted - Fri, 01 May 2020 17:21:18 +0800
 #
 
-0.0.0.0 safe555.xyz
-0.0.0.0 tnarzc.com
-0.0.0.0 365339.top
-0.0.0.0 jjhaolin.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -190,6 +186,7 @@
 0.0.0.0 361315.cc
 0.0.0.0 36500.com
 0.0.0.0 36500.net
+0.0.0.0 365339.top
 0.0.0.0 365bibi.com
 0.0.0.0 365che.cc
 0.0.0.0 365safego.com
@@ -1334,6 +1331,7 @@
 0.0.0.0 jixing8.com
 0.0.0.0 jixing8.net
 0.0.0.0 jiyou2014.com
+0.0.0.0 jjhaolin.com
 0.0.0.0 jjxgly.com
 0.0.0.0 jjz666.cn
 0.0.0.0 jk939.com
@@ -1896,6 +1894,7 @@
 0.0.0.0 sadobo.com
 0.0.0.0 saf588.com
 0.0.0.0 safe524.xyz
+0.0.0.0 safe555.xyz
 0.0.0.0 saferwet.com
 0.0.0.0 saitef.cn
 0.0.0.0 sales-frontier.com
@@ -2105,6 +2104,7 @@
 0.0.0.0 tjqonline.cn
 0.0.0.0 tjys88.com
 0.0.0.0 tkd777.cn
+0.0.0.0 tnarzc.com
 0.0.0.0 tngmn.com
 0.0.0.0 to8to.com
 0.0.0.0 togo666.com
@@ -3033,6 +3033,7 @@
 0.0.0.0 ztyumn.ifeng.com
 0.0.0.0 immedlinkum.info
 0.0.0.0 xayah.date
+0.0.0.0 ac1.pingpingw.com
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
 0.0.0.0 1.01fy.cn
@@ -3780,9 +3781,12 @@
 0.0.0.0 yi71.com.cn
 0.0.0.0 okx7.site
 0.0.0.0 runkao.net
+0.0.0.0 watakaw133.xyz
 0.0.0.0 stunninglover.com
 0.0.0.0 cryptaloot.pro
-0.0.0.0 abie13.top
+0.0.0.0 hnxahz.com
+0.0.0.0 gdsoq.com
+0.0.0.0 qivsod.com
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3999,6 +4003,7 @@
 0.0.0.0 abie10.top
 0.0.0.0 abie11.top
 0.0.0.0 abie12.top
+0.0.0.0 abie13.top
 0.0.0.0 abie25.top
 0.0.0.0 abie9.top
 0.0.0.0 abuse8.com
