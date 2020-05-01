@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Fri, 01 May 2020 00:18:33 +0800
+# Last converted - Fri, 01 May 2020 17:21:23 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1485,6 +1485,7 @@
 0.0.0.0 moogle.ru
 0.0.0.0 moviecash.ru
 0.0.0.0 moyka66.ru
+0.0.0.0 mp3bars.com
 0.0.0.0 multiclick.ru
 0.0.0.0 multonly.ru
 0.0.0.0 musictraffic.ru
@@ -2582,6 +2583,7 @@
 0.0.0.0 allstat-pp.ru
 0.0.0.0 allstat.site
 0.0.0.0 alltizer.ru
+0.0.0.0 almasatten.com
 0.0.0.0 almazde.ru
 0.0.0.0 almosto.com
 0.0.0.0 alshp1.ru
@@ -6182,6 +6184,7 @@
 0.0.0.0 pzlzv.com
 0.0.0.0 pzoifaum.info
 0.0.0.0 pzyfh.top
+0.0.0.0 q0yxfvuo32.ru
 0.0.0.0 q8bfdpoknn.ru
 0.0.0.0 qaadv.com
 0.0.0.0 qakhpthc.info
