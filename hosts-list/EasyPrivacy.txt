@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 01 May 2020 00:18:37 +0800
+# Last converted - Fri, 01 May 2020 17:21:27 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1920,6 +1920,7 @@
 0.0.0.0 searchfeed.com
 0.0.0.0 searchignite.com
 0.0.0.0 searchplow.com
+0.0.0.0 secureanalytic.com
 0.0.0.0 securepaths.com
 0.0.0.0 securitytrfx.com
 0.0.0.0 sedotracker.com
@@ -3067,6 +3068,7 @@
 0.0.0.0 lumberamount.com
 0.0.0.0 lumpylumber.com
 0.0.0.0 magnetairport.com
+0.0.0.0 markedmeasure.com
 0.0.0.0 massivemark.com
 0.0.0.0 meatydime.com
 0.0.0.0 movemeal.com
@@ -6334,12 +6336,16 @@
 0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
 0.0.0.0 cmp.arnnet.com.au
 0.0.0.0 cmp.cio.com.au
+0.0.0.0 cmp.cio.com
 0.0.0.0 cmp.cmo.com.au
 0.0.0.0 cmp.computerworld.com.au
 0.0.0.0 cmp.cso.com.au
 0.0.0.0 cmp.csoonline.com
 0.0.0.0 cmp.digitalartsonline.co.uk
 0.0.0.0 cmp.greenbot.com
+0.0.0.0 cmp.idginsiderpro.com
+0.0.0.0 cmp.infoworld.com
+0.0.0.0 cmp.javaworld.com
 0.0.0.0 cmp.macworld.co.uk
 0.0.0.0 cmp.macworld.com
 0.0.0.0 cmp.osano.com
@@ -6348,6 +6354,7 @@
 0.0.0.0 cmp.pcworld.idg.com.au
 0.0.0.0 cmp.tech426.com
 0.0.0.0 cmp.techadvisor.co.uk
+0.0.0.0 cmp.techconnect.com
 0.0.0.0 cmp.techhive.com
 0.0.0.0 commsvc.stern.de
 0.0.0.0 consent.api.osano.com
