@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 01 May 2020 17:21:27 +0800
+# Last converted - Mon, 04 May 2020 16:12:01 +0800
 #
 
 0.0.0.0 0emm.com
@@ -3014,6 +3014,7 @@
 0.0.0.0 cubchannel.com
 0.0.0.0 culturedcrayon.com
 0.0.0.0 damdoor.com
+0.0.0.0 dampdock.com
 0.0.0.0 decisivedrawer.com
 0.0.0.0 delegatediscussion.com
 0.0.0.0 desiredirt.com
@@ -3495,6 +3496,7 @@
 0.0.0.0 fogl1onf.com
 0.0.0.0 galaxiemedia.fr
 0.0.0.0 geocompteur.com
+0.0.0.0 geovisite.ovh
 0.0.0.0 goutee.top
 0.0.0.0 graphinsider.com
 0.0.0.0 hunkal.com
@@ -3507,6 +3509,7 @@
 0.0.0.0 mastertag.effiliation.com
 0.0.0.0 mb-srv.com
 0.0.0.0 megast.at
+0.0.0.0 megavisites.com
 0.0.0.0 mmtro.com
 0.0.0.0 netvigie.com
 0.0.0.0 organicfruitapps.com
@@ -3572,7 +3575,6 @@
 0.0.0.0 i-mobile.co.jp
 0.0.0.0 ipinyou.com
 0.0.0.0 irs09.com
-0.0.0.0 iteye.com
 0.0.0.0 jiankongbao.com
 0.0.0.0 lndata.com
 0.0.0.0 logly.co.jp
@@ -3712,6 +3714,7 @@
 0.0.0.0 ntlab.org
 0.0.0.0 pagerankfree.com
 0.0.0.0 shinystat.it
+0.0.0.0 sibautomation.com
 0.0.0.0 specialstat.com
 0.0.0.0 statistiche-free.com
 0.0.0.0 statistiche.it
@@ -4429,6 +4432,7 @@
 0.0.0.0 d3s7ggfq1s6jlj.cloudfront.net
 0.0.0.0 d3sbxpiag177w8.cloudfront.net
 0.0.0.0 d3tglifpd8whs6.cloudfront.net
+0.0.0.0 d3uvwl4wtkgzo1.cloudfront.net
 0.0.0.0 d4ax0r5detcsu.cloudfront.net
 0.0.0.0 d6jkenny8w8yo.cloudfront.net
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
@@ -5583,6 +5587,7 @@
 0.0.0.0 analytics.teespring.com
 0.0.0.0 analytics.thegedsection.com
 0.0.0.0 analytics.thenest.com
+0.0.0.0 analytics.theneweuropean.co.uk
 0.0.0.0 analytics.thenewslens.com
 0.0.0.0 analytics.thetab.com
 0.0.0.0 analytics.tradedoubler.com
@@ -6264,6 +6269,7 @@
 0.0.0.0 tracking.battleon.com
 0.0.0.0 tracking.carsales.com.au
 0.0.0.0 tracking.chacha.com
+0.0.0.0 tracking.christianpost.com
 0.0.0.0 tracking.conduit.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.eurosport.com
