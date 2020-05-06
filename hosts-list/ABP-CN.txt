@@ -1,9 +1,10 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Mon, 04 May 2020 16:11:49 +0800
+# Last converted - Thu, 07 May 2020 01:24:03 +0800
 #
 
+0.0.0.0 avtiaozhuan.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -1755,6 +1756,7 @@
 0.0.0.0 penggua.com.cn
 0.0.0.0 penxiangge.com
 0.0.0.0 pg88cdn.com
+0.0.0.0 phvmax.com
 0.0.0.0 picsinfog.com
 0.0.0.0 pingping888.com
 0.0.0.0 pjshw.cn
@@ -1837,6 +1839,7 @@
 0.0.0.0 quandangdang.net
 0.0.0.0 quansj.cn
 0.0.0.0 qubilou.com
+0.0.0.0 qubo94.com
 0.0.0.0 qucaigg.com
 0.0.0.0 queene.cn
 0.0.0.0 quw18.com
@@ -2312,6 +2315,7 @@
 0.0.0.0 wuyekanba.com
 0.0.0.0 wvstatic.cn
 0.0.0.0 wwlolbs.com
+0.0.0.0 www-sina-cn-com.com
 0.0.0.0 wxbdfm.com
 0.0.0.0 wxs666.cn
 0.0.0.0 wxstatic.cn
@@ -2832,6 +2836,7 @@
 0.0.0.0 d13jhr4vol1304.cloudfront.net
 0.0.0.0 d2.sina.com.cn
 0.0.0.0 d3.sina.com.cn
+0.0.0.0 d3mr7y154d2qg5.cloudfront.net
 0.0.0.0 d4.sina.com.cn
 0.0.0.0 d5.sina.com.cn
 0.0.0.0 da.mgtv.com
@@ -3035,6 +3040,7 @@
 0.0.0.0 ztyumn.ifeng.com
 0.0.0.0 immedlinkum.info
 0.0.0.0 xayah.date
+0.0.0.0 a1.aichagu.com
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
 0.0.0.0 1.01fy.cn
@@ -3787,9 +3793,7 @@
 0.0.0.0 stunninglover.com
 0.0.0.0 watakaw133.xyz
 0.0.0.0 cryptaloot.pro
-0.0.0.0 497761.top
-0.0.0.0 qwesgwg.cn
-0.0.0.0 xenjswd.cn
+0.0.0.0 netfix8.info
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3802,6 +3806,7 @@
 0.0.0.0 03196688.com
 0.0.0.0 0323wqpioutyuencsamxsd.xyz
 0.0.0.0 0330vsdgdwer.xyz
+0.0.0.0 0413fsiuhwem.xyz
 0.0.0.0 0420zvnmljgfdsa.xyz
 0.0.0.0 0530hz.cn
 0.0.0.0 0532ci.com.cn
@@ -3885,6 +3890,7 @@
 0.0.0.0 47dx0c.cn
 0.0.0.0 47n209.com
 0.0.0.0 482hb.cn
+0.0.0.0 497761.top
 0.0.0.0 49lkc.cn
 0.0.0.0 4a3zf.cn
 0.0.0.0 4df5ef.xyz
@@ -3980,6 +3986,7 @@
 0.0.0.0 8v61j.cn
 0.0.0.0 8v7wg.com
 0.0.0.0 91byy.cn
+0.0.0.0 91cy.top
 0.0.0.0 922x7c.cn
 0.0.0.0 958so.cn
 0.0.0.0 979067.com
@@ -5216,6 +5223,7 @@
 0.0.0.0 quanjiapp.cn
 0.0.0.0 quldu.com
 0.0.0.0 quyejianzhan.tech
+0.0.0.0 qwesgwg.cn
 0.0.0.0 qxyu.top
 0.0.0.0 qyttl.cn
 0.0.0.0 qzbxfs.com
@@ -5591,6 +5599,7 @@
 0.0.0.0 xdunv.com
 0.0.0.0 xdyszx.com
 0.0.0.0 xeihy.com
+0.0.0.0 xenjswd.cn
 0.0.0.0 xfya3.cn
 0.0.0.0 xfytjx.cn
 0.0.0.0 xhaiu.com
