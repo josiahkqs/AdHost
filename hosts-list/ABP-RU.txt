@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Mon, 04 May 2020 16:11:56 +0800
+# Last converted - Thu, 07 May 2020 01:24:17 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -3268,6 +3268,7 @@
 0.0.0.0 club-vulkano.com
 0.0.0.0 clubleads.ru
 0.0.0.0 clunder.net
+0.0.0.0 clusterslice.com
 0.0.0.0 clyilp.com
 0.0.0.0 cmoneba.ru
 0.0.0.0 cms-skin.com
@@ -5690,6 +5691,7 @@
 0.0.0.0 novbrom.com
 0.0.0.0 novfox2.com
 0.0.0.0 novinkifilmov.com
+0.0.0.0 novinkiki.ru
 0.0.0.0 novosti10.ru
 0.0.0.0 novosti3.ru
 0.0.0.0 novosticenter.ru
@@ -8039,6 +8041,7 @@
 0.0.0.0 zopodta.ru
 0.0.0.0 zozoter.ru
 0.0.0.0 zpcode1.com
+0.0.0.0 zpcode2.com
 0.0.0.0 zqclick.net
 0.0.0.0 zqizn.com
 0.0.0.0 zrcir.com
