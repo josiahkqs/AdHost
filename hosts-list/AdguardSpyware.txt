@@ -1,9 +1,10 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Thu, 07 May 2020 01:24:18 +0800
+# Last converted - Sat, 09 May 2020 15:22:31 +0800
 #
 
+0.0.0.0 px-cloud.net
 0.0.0.0 tr.infopanel.jp
 0.0.0.0 blok.link
 0.0.0.0 cicero-mit.com
