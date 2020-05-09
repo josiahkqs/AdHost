@@ -1,9 +1,14 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Thu, 07 May 2020 01:24:18 +0800
+# Last converted - Sat, 09 May 2020 15:22:31 +0800
 #
 
+0.0.0.0 jux9ms4vc7.ru
+0.0.0.0 rtscix.com
+0.0.0.0 toxy9ikenenxtf0f.com
+0.0.0.0 ddb0c3b17298fd1.com
+0.0.0.0 ailpielei.com
 0.0.0.0 unzpc.com
 0.0.0.0 ahaclub.ru
 0.0.0.0 chsrkred.com
@@ -798,7 +803,6 @@
 0.0.0.0 alienradar.ru
 0.0.0.0 aliexpress-internet.ru
 0.0.0.0 aliexpresskupit.ru
-0.0.0.0 alimama.cn
 0.0.0.0 aliru1.ru
 0.0.0.0 aliru2.ru
 0.0.0.0 aliru3.ru
