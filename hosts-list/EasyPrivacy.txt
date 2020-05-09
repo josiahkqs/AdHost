@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Thu, 07 May 2020 01:24:20 +0800
+# Last converted - Sat, 09 May 2020 15:22:34 +0800
 #
 
 0.0.0.0 0emm.com
@@ -4387,6 +4387,7 @@
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1qpxk1wfeh8v1.cloudfront.net
 0.0.0.0 d1r27qvpjiaqj3.cloudfront.net
+0.0.0.0 d1r2sy6oc0ariq.cloudfront.net
 0.0.0.0 d1r55yzuc1b1bw.cloudfront.net
 0.0.0.0 d1rgnfh960lz2b.cloudfront.net
 0.0.0.0 d1ros97qkrwjf5.cloudfront.net
@@ -6385,6 +6386,7 @@
 0.0.0.0 mmm.carbuyer.co.uk
 0.0.0.0 mms.blick.ch
 0.0.0.0 mms.gocomics.com
+0.0.0.0 mms.itpro.co.uk
 0.0.0.0 orionis.techradar.com
 0.0.0.0 rps-p2.rockpapershotgun.com
 0.0.0.0 rps-uk.rockpapershotgun.com
