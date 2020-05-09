@@ -1,10 +1,10 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Thu, 07 May 2020 01:24:03 +0800
+# Last converted - Sat, 09 May 2020 15:22:28 +0800
 #
 
-0.0.0.0 avtiaozhuan.com
+0.0.0.0 199.231.214.62
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -97,6 +97,8 @@
 0.0.0.0 13wnjs.com
 0.0.0.0 1515788.net
 0.0.0.0 154.83.113.19
+0.0.0.0 156.247.120.15
+0.0.0.0 156.247.120.31
 0.0.0.0 156.247.99.219
 0.0.0.0 162.209.213.66
 0.0.0.0 164.155.185.254
@@ -431,6 +433,7 @@
 0.0.0.0 a7shun.com
 0.0.0.0 a907907.com
 0.0.0.0 a9377j.com
+0.0.0.0 aaaf.info
 0.0.0.0 aazcio.cn
 0.0.0.0 abctcqq.top
 0.0.0.0 acasys88.cn
@@ -554,6 +557,7 @@
 0.0.0.0 audit8.com
 0.0.0.0 auspiciousvp.com
 0.0.0.0 av8d.net
+0.0.0.0 avtiaozhuan.com
 0.0.0.0 awifi.cn
 0.0.0.0 awkjs.com
 0.0.0.0 axhxa.com
@@ -1131,6 +1135,7 @@
 0.0.0.0 hauchi.com.tw
 0.0.0.0 hbalx.cn
 0.0.0.0 hbguohua.com
+0.0.0.0 hbguzhenyuan.com
 0.0.0.0 hbhnwy.com
 0.0.0.0 hbhtbn.com
 0.0.0.0 hblinwei.com
@@ -2239,6 +2244,7 @@
 0.0.0.0 w3989.com
 0.0.0.0 w4pma.cn
 0.0.0.0 w65p.com
+0.0.0.0 wa11ace.net
 0.0.0.0 wacc888.com
 0.0.0.0 waihui518.com
 0.0.0.0 walibao.com
@@ -3038,9 +3044,9 @@
 0.0.0.0 zkrdy.com
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
+0.0.0.0 ssp.kdnet.net
 0.0.0.0 immedlinkum.info
 0.0.0.0 xayah.date
-0.0.0.0 a1.aichagu.com
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
 0.0.0.0 1.01fy.cn
@@ -3079,6 +3085,7 @@
 0.0.0.0 1.sj33.net
 0.0.0.0 1.snzfj.net
 0.0.0.0 1.soufy.cn
+0.0.0.0 1.tecbbs.com
 0.0.0.0 1.ttxs123.net
 0.0.0.0 1.uc129.com
 0.0.0.0 1.ufc123.com
@@ -3177,6 +3184,7 @@
 0.0.0.0 a1.0s.net.cn
 0.0.0.0 a1.99933.cn
 0.0.0.0 a1.99966.cn
+0.0.0.0 a1.aichagu.com
 0.0.0.0 a1.bestopview.com
 0.0.0.0 a1.bookapka.com
 0.0.0.0 a1.firefoxchina.cn
@@ -3316,6 +3324,7 @@
 0.0.0.0 ctc.weather.com.cn
 0.0.0.0 d.ab126.com
 0.0.0.0 d.dgzj.com
+0.0.0.0 d.ziyuanm.com
 0.0.0.0 d1.5h.com
 0.0.0.0 d1.handdiy.com
 0.0.0.0 d1.zhuangxiu6.com
@@ -3793,7 +3802,7 @@
 0.0.0.0 stunninglover.com
 0.0.0.0 watakaw133.xyz
 0.0.0.0 cryptaloot.pro
-0.0.0.0 netfix8.info
+0.0.0.0 56space.com
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3865,6 +3874,7 @@
 0.0.0.0 2ktd0.cn
 0.0.0.0 2l1f.cn
 0.0.0.0 2p1ih.cn
+0.0.0.0 2q5p.cn
 0.0.0.0 2r3485.cn
 0.0.0.0 2scjbg.com
 0.0.0.0 2shoushi.com
@@ -4024,6 +4034,7 @@
 0.0.0.0 achig.com
 0.0.0.0 actingidekex.cn
 0.0.0.0 adaog.com
+0.0.0.0 adhdsb.cn
 0.0.0.0 admddc.com
 0.0.0.0 aduic.com
 0.0.0.0 aercxy.com
@@ -4312,12 +4323,14 @@
 0.0.0.0 dctykq.cn
 0.0.0.0 dcuom.com
 0.0.0.0 ddanq.com
+0.0.0.0 dddyun.com
 0.0.0.0 ddg1277.com
 0.0.0.0 ddhuangchao.com
 0.0.0.0 ddpxhq.cn
 0.0.0.0 de093o.cn
 0.0.0.0 dengfenzhang.cn
 0.0.0.0 dependablewood.com
+0.0.0.0 deskt.cn
 0.0.0.0 deyidesign.com
 0.0.0.0 dezfu.com
 0.0.0.0 dgaoz.com
@@ -4374,6 +4387,7 @@
 0.0.0.0 ei4f.cn
 0.0.0.0 ejeenews.com
 0.0.0.0 ejiur.com
+0.0.0.0 ejsehjv.cn
 0.0.0.0 ejwmc.cn
 0.0.0.0 eloer.cn
 0.0.0.0 elvx.top
@@ -4848,6 +4862,7 @@
 0.0.0.0 kg962.cn
 0.0.0.0 kguaq.com
 0.0.0.0 khuoy.com
+0.0.0.0 kid9.info
 0.0.0.0 kjdw.com.cn
 0.0.0.0 kjfhe.com
 0.0.0.0 kjhfy.com
@@ -4937,6 +4952,7 @@
 0.0.0.0 louisan.cn
 0.0.0.0 lousivency.com.cn
 0.0.0.0 lpaoz.com
+0.0.0.0 lq.booktxt.net
 0.0.0.0 lq1.abcxs.com
 0.0.0.0 lqmohun.com
 0.0.0.0 lr96.top
@@ -5043,6 +5059,7 @@
 0.0.0.0 ndusa.cn
 0.0.0.0 neijh.com
 0.0.0.0 nernv.com
+0.0.0.0 netfix8.info
 0.0.0.0 netko0o.com
 0.0.0.0 newknowledge.cn
 0.0.0.0 nfkos.com
@@ -5103,6 +5120,7 @@
 0.0.0.0 oiwjcsh010.top
 0.0.0.0 oiwjcsh011.top
 0.0.0.0 oiwjcsh012.top
+0.0.0.0 oiwjcsh013.top
 0.0.0.0 ojues.com
 0.0.0.0 okshishi.com
 0.0.0.0 okuis.com
@@ -5249,6 +5267,7 @@
 0.0.0.0 rishenglaw.cn
 0.0.0.0 rjiau.com
 0.0.0.0 rl972.cn
+0.0.0.0 rmqmxwb.cn
 0.0.0.0 rmwdn.com
 0.0.0.0 romgv.com
 0.0.0.0 rongnews.com
@@ -5354,6 +5373,7 @@
 0.0.0.0 svfwer.top
 0.0.0.0 swhgd.com
 0.0.0.0 swq48b.cn
+0.0.0.0 sxhwscj.cn
 0.0.0.0 sxjkc.cn
 0.0.0.0 sxjxhg.com
 0.0.0.0 sxlczj.cn
@@ -5636,6 +5656,7 @@
 0.0.0.0 xn--2qux23confgml.club
 0.0.0.0 xn--4gqvdz18f.xyz
 0.0.0.0 xn--i6qs37am6iwyqffc.com
+0.0.0.0 xn--i7qt52bvsr0u0a.cc
 0.0.0.0 xn--mtsr39cnql.video
 0.0.0.0 xn--wxtr44c.video
 0.0.0.0 xn--wxtr9fwyxk9c.art
