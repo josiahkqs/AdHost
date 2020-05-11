@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sat, 09 May 2020 15:22:34 +0800
+# Last converted - Mon, 11 May 2020 14:58:50 +0800
 #
 
 0.0.0.0 0emm.com
@@ -5667,7 +5667,6 @@
 0.0.0.0 cnt.nicemix.com
 0.0.0.0 cnt.nuvid.com
 0.0.0.0 cnt.vivatube.com
-0.0.0.0 co.hltv.org
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector-px0py5pczn.octopart.com
@@ -5764,7 +5763,6 @@
 0.0.0.0 gcpdata.telegraph.co.uk
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.battle.net
-0.0.0.0 geo.hltv.org
 0.0.0.0 geo.homepage-web.com
 0.0.0.0 geo.metronews.ca
 0.0.0.0 geo.nbcsports.com
