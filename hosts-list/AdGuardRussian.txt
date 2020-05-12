@@ -1,9 +1,12 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sat, 09 May 2020 15:22:31 +0800
+# Last converted - Tue, 12 May 2020 18:45:22 +0800
 #
 
+0.0.0.0 big-hunter.com
+0.0.0.0 bctwe.com
+0.0.0.0 playframe.ru
 0.0.0.0 jux9ms4vc7.ru
 0.0.0.0 rtscix.com
 0.0.0.0 toxy9ikenenxtf0f.com
