@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 11 May 2020 14:58:50 +0800
+# Last converted - Tue, 12 May 2020 18:45:24 +0800
 #
 
 0.0.0.0 0emm.com
@@ -3018,6 +3018,7 @@
 0.0.0.0 culturedcrayon.com
 0.0.0.0 damdoor.com
 0.0.0.0 dampdock.com
+0.0.0.0 dapperdiscussion.com
 0.0.0.0 decisivedrawer.com
 0.0.0.0 delegatediscussion.com
 0.0.0.0 desiredirt.com
