@@ -1,12 +1,10 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Tue, 12 May 2020 18:45:19 +0800
+# Last converted - Fri, 15 May 2020 20:20:53 +0800
 #
 
-0.0.0.0 mingboxieye.com
-0.0.0.0 njcn888.com
-0.0.0.0 abie14.top
+0.0.0.0 longdidi.top
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -45,6 +43,7 @@
 0.0.0.0 0xiaoshuo.com
 0.0.0.0 0xxd.com
 0.0.0.0 1000dy.com
+0.0.0.0 1002.men
 0.0.0.0 100cpc.com
 0.0.0.0 100fenlm.com
 0.0.0.0 103.249.111.179
@@ -439,6 +438,7 @@
 0.0.0.0 aaaf.info
 0.0.0.0 aazcio.cn
 0.0.0.0 abctcqq.top
+0.0.0.0 abie14.top
 0.0.0.0 acasys88.cn
 0.0.0.0 acgbase.com
 0.0.0.0 achicih.gitee.io
@@ -695,6 +695,7 @@
 0.0.0.0 cfqpxzx.com
 0.0.0.0 cfredh.cn
 0.0.0.0 cg2017.com
+0.0.0.0 cgiale.com
 0.0.0.0 cgskqg.com
 0.0.0.0 chadegongxiao.com
 0.0.0.0 championmachinery-cn.com
@@ -1610,6 +1611,7 @@
 0.0.0.0 mieyisi.com
 0.0.0.0 min1319.com
 0.0.0.0 mindopu.com
+0.0.0.0 mingboxieye.com
 0.0.0.0 mingxianshanghang.cn
 0.0.0.0 mingysh.com
 0.0.0.0 mjx123.com
@@ -1679,6 +1681,7 @@
 0.0.0.0 niuxgame77.com
 0.0.0.0 niuza.com
 0.0.0.0 niwota.com
+0.0.0.0 njcn888.com
 0.0.0.0 njdijiani.com
 0.0.0.0 njfsk.com
 0.0.0.0 njjrlf.com
@@ -2160,6 +2163,7 @@
 0.0.0.0 txkjad.com
 0.0.0.0 txt2017.com
 0.0.0.0 txt2019.cc
+0.0.0.0 txzs168.net
 0.0.0.0 ty229.com
 0.0.0.0 tylll.com
 0.0.0.0 tz-dsp.com
@@ -2317,6 +2321,7 @@
 0.0.0.0 wu65.com
 0.0.0.0 wudang05.com
 0.0.0.0 wuhufengze.com.cn
+0.0.0.0 wuseng.net
 0.0.0.0 wushuangjiexi.top
 0.0.0.0 wuwaii.com
 0.0.0.0 wuweiqx.com
@@ -2486,6 +2491,7 @@
 0.0.0.0 yaoxiaoli.com
 0.0.0.0 yaoyl.com
 0.0.0.0 yatemy.cn
+0.0.0.0 ycfgnau.cn
 0.0.0.0 ychml.com
 0.0.0.0 ychun03.com
 0.0.0.0 ycjisa.cn
@@ -3807,15 +3813,7 @@
 0.0.0.0 stunninglover.com
 0.0.0.0 watakaw133.xyz
 0.0.0.0 cryptaloot.pro
-0.0.0.0 0511qsfhknvz.xyz
-0.0.0.0 hcprzx.cn
-0.0.0.0 ali2a.xyz
-0.0.0.0 uvmqpum.cn
-0.0.0.0 seuukkd.cn
-0.0.0.0 oiwjcsh015.top
-0.0.0.0 kexwdvj.cn
-0.0.0.0 shiguangyx.cn
-0.0.0.0 innvitor.com
+0.0.0.0 17ys.top
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3830,6 +3828,7 @@
 0.0.0.0 0330vsdgdwer.xyz
 0.0.0.0 0413fsiuhwem.xyz
 0.0.0.0 0420zvnmljgfdsa.xyz
+0.0.0.0 0511qsfhknvz.xyz
 0.0.0.0 0530hz.cn
 0.0.0.0 0532ci.com.cn
 0.0.0.0 0551zgz.com
@@ -4076,6 +4075,7 @@
 0.0.0.0 aiyyu.com
 0.0.0.0 ajiez.com
 0.0.0.0 ajkdg3.xyz
+0.0.0.0 ali2a.xyz
 0.0.0.0 alitx963.com
 0.0.0.0 aliyoo999.com
 0.0.0.0 alksdh.com
@@ -4233,6 +4233,7 @@
 0.0.0.0 chgdf.cn
 0.0.0.0 china-waters.com.cn
 0.0.0.0 chinaairs.cn
+0.0.0.0 chinachooses.com
 0.0.0.0 chinaqirun.cn
 0.0.0.0 chinaweian.com
 0.0.0.0 chinawms.cn
@@ -4611,6 +4612,7 @@
 0.0.0.0 hchg89.cn
 0.0.0.0 hchig.com
 0.0.0.0 hchik.com
+0.0.0.0 hcprzx.cn
 0.0.0.0 hdfdm.com
 0.0.0.0 hdminfeng.com
 0.0.0.0 hdswgc.com
@@ -4740,6 +4742,7 @@
 0.0.0.0 inccnd.com
 0.0.0.0 increased.cn
 0.0.0.0 infvb.com
+0.0.0.0 innvitor.com
 0.0.0.0 internerl.com
 0.0.0.0 intxt.cn
 0.0.0.0 ipchinatelecom.com
@@ -4870,6 +4873,7 @@
 0.0.0.0 kdzbg.xyz
 0.0.0.0 ketaoke.com
 0.0.0.0 kexigia.com
+0.0.0.0 kexwdvj.cn
 0.0.0.0 kfand.com
 0.0.0.0 kfeiu.com
 0.0.0.0 kfuih.cn
@@ -5018,6 +5022,7 @@
 0.0.0.0 mgldzcls.com
 0.0.0.0 mgsue.cn
 0.0.0.0 mgzs.cdn.bcebos.com
+0.0.0.0 mhdnspro.com
 0.0.0.0 mhuos.com
 0.0.0.0 miaiche.cn
 0.0.0.0 miaos11.com
@@ -5136,6 +5141,7 @@
 0.0.0.0 oiwjcsh011.top
 0.0.0.0 oiwjcsh012.top
 0.0.0.0 oiwjcsh013.top
+0.0.0.0 oiwjcsh015.top
 0.0.0.0 ojues.com
 0.0.0.0 okshishi.com
 0.0.0.0 okuis.com
@@ -5324,8 +5330,10 @@
 0.0.0.0 sec-cloud.cn
 0.0.0.0 seerpiu002.com
 0.0.0.0 self-study-service.com.cn
+0.0.0.0 seuukkd.cn
 0.0.0.0 sezvc.com
 0.0.0.0 sfanf.com
+0.0.0.0 sffxcwc.cn
 0.0.0.0 sguac.com
 0.0.0.0 sgzs999.com
 0.0.0.0 shaque.vip
@@ -5336,6 +5344,7 @@
 0.0.0.0 shenyunkeji.com
 0.0.0.0 shffcy.cn
 0.0.0.0 shidailw.com
+0.0.0.0 shiguangyx.cn
 0.0.0.0 shjrwh.cn
 0.0.0.0 shjsxx.com
 0.0.0.0 shlovesea.com
@@ -5501,6 +5510,7 @@
 0.0.0.0 urlet.cn
 0.0.0.0 usty357a.site
 0.0.0.0 uuopp.com
+0.0.0.0 uvmqpum.cn
 0.0.0.0 uxyrl.cn
 0.0.0.0 uzhaj.com
 0.0.0.0 uzyid.cn
@@ -5695,6 +5705,7 @@
 0.0.0.0 xuro006.com
 0.0.0.0 xxkio.com
 0.0.0.0 xxlywl.cn
+0.0.0.0 xywgbms.top
 0.0.0.0 xznykf.org
 0.0.0.0 xztms.com
 0.0.0.0 y05zw.cn
