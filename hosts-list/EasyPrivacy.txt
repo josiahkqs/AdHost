@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 12 May 2020 18:45:24 +0800
+# Last converted - Fri, 15 May 2020 20:21:19 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1569,7 +1569,6 @@
 0.0.0.0 omtvxcle.com
 0.0.0.0 onaudience.com
 0.0.0.0 ondu.ru
-0.0.0.0 onecount.net
 0.0.0.0 onefeed.co.uk
 0.0.0.0 oneimpress.io
 0.0.0.0 onelink-translations.com
@@ -5404,6 +5403,7 @@
 0.0.0.0 userdive.com
 0.0.0.0 webtracker.jp
 0.0.0.0 x9.shinobi.jp
+0.0.0.0 xr.shinobi.jp
 0.0.0.0 log.cizion.com
 0.0.0.0 mtag.mman.kr
 0.0.0.0 performanceplay.co.kr
@@ -5529,7 +5529,6 @@
 0.0.0.0 analytics.yomedia.vn
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-us-iad.amazon.com
-0.0.0.0 abeagle-public.buzzfeed.com
 0.0.0.0 acookie.alibaba.com
 0.0.0.0 activity.frequency.com
 0.0.0.0 activity.homescape.com
@@ -6899,6 +6898,7 @@
 0.0.0.0 track.tiara.daum.net
 0.0.0.0 track.tiara.kakao.com
 0.0.0.0 tracker.cauly.co.kr
+0.0.0.0 uts.auction.co.kr
 0.0.0.0 veta.naver.com
 0.0.0.0 wcs.naver.com
 0.0.0.0 weblog.eseoul.go.kr
