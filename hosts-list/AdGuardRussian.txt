@@ -1,9 +1,28 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 12 May 2020 18:45:22 +0800
+# Last converted - Fri, 15 May 2020 20:21:16 +0800
 #
 
+0.0.0.0 atovub.com
+0.0.0.0 0u48ltm1ok.ru
+0.0.0.0 virnews.club$document
+0.0.0.0 prfctmney.com
+0.0.0.0 knwekg.com
+0.0.0.0 vftbnl.com
+0.0.0.0 patroposalun.pro
+0.0.0.0 wrfiwa.ru
+0.0.0.0 swnmuh.ru
+0.0.0.0 mkkliq.com
+0.0.0.0 ivhnnw.com
+0.0.0.0 cycsfe.com
+0.0.0.0 ozdpxc.com
+0.0.0.0 ublrfs.com
+0.0.0.0 gmoshk.com
+0.0.0.0 txcmjo.com
+0.0.0.0 wtzgaa.com
+0.0.0.0 uzmdfi.com
+0.0.0.0 pdjvsha.pro
 0.0.0.0 big-hunter.com
 0.0.0.0 bctwe.com
 0.0.0.0 playframe.ru
