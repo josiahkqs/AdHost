@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Fri, 15 May 2020 20:21:15 +0800
+# Last converted - Sat, 16 May 2020 19:45:02 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -2074,6 +2074,7 @@
 0.0.0.0 2lycosu.com
 0.0.0.0 2lycosy.com
 0.0.0.0 2rtl.info
+0.0.0.0 2sfygwfxvsxv.info
 0.0.0.0 2sl77o9d.pro
 0.0.0.0 2smell5.info
 0.0.0.0 2tlr.info
@@ -3014,6 +3015,7 @@
 0.0.0.0 braviration.ru
 0.0.0.0 bravo-lea.com
 0.0.0.0 bravo-mejdu.ru
+0.0.0.0 brawlstars-app.ru
 0.0.0.0 brdmin.com
 0.0.0.0 breadwinner.ru
 0.0.0.0 breathetooth.com
@@ -4607,6 +4609,7 @@
 0.0.0.0 iwanttobe.pro
 0.0.0.0 iwantyourpromo.com
 0.0.0.0 iwhha.top
+0.0.0.0 iwqzrm.com
 0.0.0.0 ixlok.com
 0.0.0.0 ixtuseq.info
 0.0.0.0 ixtyted.ru
