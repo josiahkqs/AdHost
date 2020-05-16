@@ -1,10 +1,9 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Fri, 15 May 2020 20:20:53 +0800
+# Last converted - Sat, 16 May 2020 19:44:58 +0800
 #
 
-0.0.0.0 longdidi.top
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -1541,6 +1540,7 @@
 0.0.0.0 log.interest.mix.sina.com.cn
 0.0.0.0 lolmp4.com
 0.0.0.0 long88.app
+0.0.0.0 longdidi.top
 0.0.0.0 loveconer.com
 0.0.0.0 lovestyl.com
 0.0.0.0 lovexia.top
@@ -2294,6 +2294,7 @@
 0.0.0.0 widget.ezprice.com.tw
 0.0.0.0 wikigifth.com
 0.0.0.0 winasdaq.com
+0.0.0.0 windowsxi.com
 0.0.0.0 winvestern.com.cn
 0.0.0.0 wit.qq.com
 0.0.0.0 wjguc.com
@@ -3813,7 +3814,10 @@
 0.0.0.0 stunninglover.com
 0.0.0.0 watakaw133.xyz
 0.0.0.0 cryptaloot.pro
-0.0.0.0 17ys.top
+0.0.0.0 zlfhe8.cn
+0.0.0.0 pyxjwks.com
+0.0.0.0 dzooo.cn
+0.0.0.0 5zi3.top
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3857,6 +3861,7 @@
 0.0.0.0 1494.top
 0.0.0.0 168xiazai.com
 0.0.0.0 17bqg.top
+0.0.0.0 17ys.top
 0.0.0.0 17zheng.cn
 0.0.0.0 183pu.cn
 0.0.0.0 1fv3b.cn
@@ -5069,6 +5074,7 @@
 0.0.0.0 mzclass.club
 0.0.0.0 n0h8g.cn
 0.0.0.0 nabeghlavi.com.cn
+0.0.0.0 nainaimi.top
 0.0.0.0 nanyangqiaoxiang.cn
 0.0.0.0 nashlin.top
 0.0.0.0 nbaob.com
@@ -5474,6 +5480,7 @@
 0.0.0.0 tuadong.com
 0.0.0.0 tukexiu.com
 0.0.0.0 tuoxintrade.cn
+0.0.0.0 tuyizhe.vip
 0.0.0.0 twodogegg.cn
 0.0.0.0 txstatic.cn
 0.0.0.0 txtxr.com
