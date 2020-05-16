@@ -1,9 +1,11 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 15 May 2020 20:21:16 +0800
+# Last converted - Sat, 16 May 2020 19:45:02 +0800
 #
 
+0.0.0.0 umcbbt.com
+0.0.0.0 starikanadstarikan.ru
 0.0.0.0 atovub.com
 0.0.0.0 0u48ltm1ok.ru
 0.0.0.0 virnews.club$document
