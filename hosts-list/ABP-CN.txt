@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Sat, 16 May 2020 19:44:58 +0800
+# Last converted - Sun, 17 May 2020 16:09:48 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -3814,10 +3814,9 @@
 0.0.0.0 stunninglover.com
 0.0.0.0 watakaw133.xyz
 0.0.0.0 cryptaloot.pro
-0.0.0.0 zlfhe8.cn
-0.0.0.0 pyxjwks.com
-0.0.0.0 dzooo.cn
-0.0.0.0 5zi3.top
+0.0.0.0 babalink.top
+0.0.0.0 tabyee.cn
+0.0.0.0 bolili.info
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3955,6 +3954,7 @@
 0.0.0.0 5yv2e.cn
 0.0.0.0 5yw4n.cn
 0.0.0.0 5zi2.top
+0.0.0.0 5zi3.top
 0.0.0.0 605296.com
 0.0.0.0 606w.cn
 0.0.0.0 609623.com
@@ -4395,6 +4395,7 @@
 0.0.0.0 dydyhg.com
 0.0.0.0 dyfzyg.com
 0.0.0.0 dzisou.com
+0.0.0.0 dzooo.cn
 0.0.0.0 dzrenju2.cn
 0.0.0.0 e647ob.cn
 0.0.0.0 e9emh.cn
@@ -5224,6 +5225,7 @@
 0.0.0.0 pxyvb.cn
 0.0.0.0 pyerc.com
 0.0.0.0 pyhuiyu.com
+0.0.0.0 pyxjwks.com
 0.0.0.0 pzhygu.cn
 0.0.0.0 pzuth.cn
 0.0.0.0 pzvlnh.cn
@@ -5873,6 +5875,7 @@
 0.0.0.0 zkfborg.cn
 0.0.0.0 zkwsdf.com
 0.0.0.0 zlauk.cn
+0.0.0.0 zlfhe8.cn
 0.0.0.0 zm-bulu.cn
 0.0.0.0 zmlfk.com
 0.0.0.0 zmyuer.com
