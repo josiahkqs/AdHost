@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Sat, 16 May 2020 19:45:02 +0800
+# Last converted - Sun, 17 May 2020 16:09:51 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -2326,6 +2326,7 @@
 0.0.0.0 actoriends.com
 0.0.0.0 actuanius.com
 0.0.0.0 ad-click.ru
+0.0.0.0 ad-core.ru
 0.0.0.0 ad-tizer.net
 0.0.0.0 ad.ddestiny.ru
 0.0.0.0 ad.gameagregator.com
@@ -2403,6 +2404,7 @@
 0.0.0.0 adproxy2.com
 0.0.0.0 adram.media
 0.0.0.0 adreaction.ru
+0.0.0.0 adretarget.net
 0.0.0.0 adrow.ru
 0.0.0.0 ads-provider.com
 0.0.0.0 ads-upload.gazprom-media.net
@@ -2489,6 +2491,7 @@
 0.0.0.0 advruclick.ru
 0.0.0.0 advrush.com
 0.0.0.0 advtise.net
+0.0.0.0 advtise.ru
 0.0.0.0 advtracker.ru
 0.0.0.0 advvedm.info
 0.0.0.0 advweb.ru
@@ -2729,6 +2732,7 @@
 0.0.0.0 avcyr.com
 0.0.0.0 avdahjhxbg.site
 0.0.0.0 avdego.net
+0.0.0.0 avertise.ru
 0.0.0.0 avmgetdo.ru
 0.0.0.0 avmul.space
 0.0.0.0 avocadoorangecolour.xyz
