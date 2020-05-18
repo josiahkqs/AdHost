@@ -1,12 +1,13 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sat, 16 May 2020 19:45:02 +0800
+# Last converted - Tue, 19 May 2020 01:07:15 +0800
 #
 
 0.0.0.0 agreeabletouch.com
 0.0.0.0 popt.in
 0.0.0.0 px-cloud.net
+0.0.0.0 absorbingprison.com
 0.0.0.0 tr.infopanel.jp
 0.0.0.0 blok.link
 0.0.0.0 cicero-mit.com
@@ -3067,6 +3068,8 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 dapperdiscussion.com
+0.0.0.0 superficialsquare.com
 0.0.0.0 energeticladybug.com
 0.0.0.0 hypnoticwound.com
 0.0.0.0 samestretch.com
