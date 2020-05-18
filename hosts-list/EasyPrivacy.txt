@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 15 May 2020 20:21:19 +0800
+# Last converted - Tue, 19 May 2020 01:07:17 +0800
 #
 
 0.0.0.0 0emm.com
@@ -3748,6 +3748,7 @@
 0.0.0.0 blogranking.net
 0.0.0.0 ca-mpr.jp
 0.0.0.0 cetlog.jp
+0.0.0.0 cheqzone.com
 0.0.0.0 cosmi.io
 0.0.0.0 d-markets.net
 0.0.0.0 d2-apps.net
@@ -3787,6 +3788,7 @@
 0.0.0.0 pagoda56.com
 0.0.0.0 pdmp.jp
 0.0.0.0 polymorphicads.jp
+0.0.0.0 quant.jp
 0.0.0.0 r-ad.ne.jp
 0.0.0.0 rays-counter.com
 0.0.0.0 rentracks.jp
@@ -4538,6 +4540,7 @@
 0.0.0.0 geo.kaloo.ga
 0.0.0.0 geo.kontagent.net
 0.0.0.0 geo.mezr.com
+0.0.0.0 geo.ngtv.io
 0.0.0.0 geo.q5media.net
 0.0.0.0 geobar.ziffdavisinternational.com
 0.0.0.0 geoip.nekudo.com
@@ -5381,6 +5384,7 @@
 0.0.0.0 analytics.liveact.cri-mw.jp
 0.0.0.0 analyzer51.fc2.com
 0.0.0.0 asumi.shinobi.jp
+0.0.0.0 bidder.mediams.mb.softbank.jp
 0.0.0.0 clickanalyzer.jp
 0.0.0.0 counter2.blog.livedoor.com
 0.0.0.0 imgstat.ameba.jp
@@ -5389,6 +5393,7 @@
 0.0.0.0 l.popin.cc
 0.0.0.0 lcs.livedoor.net
 0.0.0.0 log.codemarketing.cloud
+0.0.0.0 log.f-tra.com
 0.0.0.0 log.nordot.jp
 0.0.0.0 omt.shinobi.jp
 0.0.0.0 rcm.shinobi.jp
@@ -5401,6 +5406,7 @@
 0.0.0.0 torimochi.line-apps.com
 0.0.0.0 track.thebase.in
 0.0.0.0 userdive.com
+0.0.0.0 webbc.fivecdm.com
 0.0.0.0 webtracker.jp
 0.0.0.0 x9.shinobi.jp
 0.0.0.0 xr.shinobi.jp
