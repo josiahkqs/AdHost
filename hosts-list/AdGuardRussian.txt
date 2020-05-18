@@ -1,9 +1,10 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sat, 16 May 2020 19:45:02 +0800
+# Last converted - Tue, 19 May 2020 01:07:15 +0800
 #
 
+0.0.0.0 kdkdkd.pro
 0.0.0.0 umcbbt.com
 0.0.0.0 starikanadstarikan.ru
 0.0.0.0 atovub.com
