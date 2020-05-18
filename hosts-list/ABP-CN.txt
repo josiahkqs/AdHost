@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Sun, 17 May 2020 16:09:48 +0800
+# Last converted - Tue, 19 May 2020 01:07:11 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -1540,7 +1540,6 @@
 0.0.0.0 log.interest.mix.sina.com.cn
 0.0.0.0 lolmp4.com
 0.0.0.0 long88.app
-0.0.0.0 longdidi.top
 0.0.0.0 loveconer.com
 0.0.0.0 lovestyl.com
 0.0.0.0 lovexia.top
@@ -2150,6 +2149,7 @@
 0.0.0.0 tuia.cn
 0.0.0.0 tukeai.com
 0.0.0.0 tukj.net
+0.0.0.0 tvbyb04.cn
 0.0.0.0 tvbyb04.com
 0.0.0.0 tvrom.cn
 0.0.0.0 twb98.com
@@ -3814,9 +3814,9 @@
 0.0.0.0 stunninglover.com
 0.0.0.0 watakaw133.xyz
 0.0.0.0 cryptaloot.pro
-0.0.0.0 babalink.top
-0.0.0.0 tabyee.cn
-0.0.0.0 bolili.info
+0.0.0.0 hesepd.cn
+0.0.0.0 0518dfgwert.xyz
+0.0.0.0 monimoni.top
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -4109,6 +4109,8 @@
 0.0.0.0 b0lc.cn
 0.0.0.0 b25ku.cn
 0.0.0.0 b54ah.cn
+0.0.0.0 babalink.net
+0.0.0.0 babalink.top
 0.0.0.0 baful.net
 0.0.0.0 baidu.bxwx666.org
 0.0.0.0 baiduspider1.cn
@@ -4167,6 +4169,7 @@
 0.0.0.0 bodapet.com
 0.0.0.0 bohuaqiche.com
 0.0.0.0 bokanedu.net
+0.0.0.0 bolili.info
 0.0.0.0 book9.net
 0.0.0.0 boomgamescloud-cdn.cn
 0.0.0.0 boweineng.cn
@@ -4325,6 +4328,7 @@
 0.0.0.0 dajean.com
 0.0.0.0 dake.net.cn
 0.0.0.0 damiren.com
+0.0.0.0 danlidanli.net
 0.0.0.0 daokejs.com
 0.0.0.0 dasheducation.cn
 0.0.0.0 daskm.com
@@ -5434,6 +5438,7 @@
 0.0.0.0 szwzjk.cn
 0.0.0.0 szyuke.cn
 0.0.0.0 tabwl.com
+0.0.0.0 tabyee.cn
 0.0.0.0 tajxgs.com
 0.0.0.0 tatahn.com
 0.0.0.0 tbaia.com
