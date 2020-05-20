@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Tue, 19 May 2020 01:07:11 +0800
+# Last converted - Thu, 21 May 2020 00:18:13 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -285,6 +285,7 @@
 0.0.0.0 63kc.com
 0.0.0.0 643226.com
 0.0.0.0 652748.com
+0.0.0.0 65tgh.com
 0.0.0.0 66.212.56.229
 0.0.0.0 6604.org
 0.0.0.0 6612151.cn
@@ -663,6 +664,7 @@
 0.0.0.0 bxjt518.com
 0.0.0.0 bydonline.com
 0.0.0.0 bypbwm.cn
+0.0.0.0 bzbsecs.cn
 0.0.0.0 c.91wan.com
 0.0.0.0 cachesit.com
 0.0.0.0 cadsips.com
@@ -2165,6 +2167,7 @@
 0.0.0.0 txt2019.cc
 0.0.0.0 txzs168.net
 0.0.0.0 ty229.com
+0.0.0.0 tyh887.com
 0.0.0.0 tylll.com
 0.0.0.0 tz-dsp.com
 0.0.0.0 u.801t.com
@@ -3814,9 +3817,8 @@
 0.0.0.0 stunninglover.com
 0.0.0.0 watakaw133.xyz
 0.0.0.0 cryptaloot.pro
-0.0.0.0 hesepd.cn
-0.0.0.0 0518dfgwert.xyz
-0.0.0.0 monimoni.top
+0.0.0.0 yzftqx.cn
+0.0.0.0 dapskja.cn
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3832,6 +3834,7 @@
 0.0.0.0 0413fsiuhwem.xyz
 0.0.0.0 0420zvnmljgfdsa.xyz
 0.0.0.0 0511qsfhknvz.xyz
+0.0.0.0 0518dfgwert.xyz
 0.0.0.0 0530hz.cn
 0.0.0.0 0532ci.com.cn
 0.0.0.0 0551zgz.com
@@ -4563,6 +4566,7 @@
 0.0.0.0 gotooback.com
 0.0.0.0 gou1zhe.com
 0.0.0.0 goulanmeng.cn
+0.0.0.0 gralfusnzpo003.top
 0.0.0.0 gringrin.cn
 0.0.0.0 grjs02.com
 0.0.0.0 grjs06.com
@@ -4640,6 +4644,7 @@
 0.0.0.0 helpinfo.cn
 0.0.0.0 henanlinyu.cn
 0.0.0.0 henduoqian.com
+0.0.0.0 hesepd.cn
 0.0.0.0 heylookhere.top
 0.0.0.0 hfyxdl.com
 0.0.0.0 hgdanbas.cn
@@ -4894,6 +4899,7 @@
 0.0.0.0 kjdw.com.cn
 0.0.0.0 kjfhe.com
 0.0.0.0 kjhfy.com
+0.0.0.0 kkhuhct.cn
 0.0.0.0 kl6636.net
 0.0.0.0 klgzzs.cn
 0.0.0.0 klorn.cn
@@ -5051,6 +5057,7 @@
 0.0.0.0 mmwdwg.cn
 0.0.0.0 mnptinibfbv.com
 0.0.0.0 mobiorg8.com
+0.0.0.0 monimoni.top
 0.0.0.0 morningpiggy.com
 0.0.0.0 moshangflower.cn
 0.0.0.0 mouaa.com
@@ -5695,6 +5702,7 @@
 0.0.0.0 xn--2qux23c9ziyrq.icu
 0.0.0.0 xn--2qux23confgml.club
 0.0.0.0 xn--4gqvdz18f.xyz
+0.0.0.0 xn--ddua45lfy1c.ink
 0.0.0.0 xn--i6qs37am6iwyqffc.com
 0.0.0.0 xn--i7qt52bvsr0u0a.cc
 0.0.0.0 xn--mtsr39cnql.video
