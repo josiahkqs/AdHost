@@ -1,9 +1,11 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Tue, 19 May 2020 01:07:15 +0800
+# Last converted - Thu, 21 May 2020 00:18:17 +0800
 #
 
+0.0.0.0 causecherry.com
+0.0.0.0 squirrelhands.com
 0.0.0.0 agreeabletouch.com
 0.0.0.0 popt.in
 0.0.0.0 px-cloud.net
@@ -253,7 +255,6 @@
 0.0.0.0 rdstation.com
 0.0.0.0 rdstation.com.br
 0.0.0.0 analytic.rocks
-0.0.0.0 ip-api.com
 0.0.0.0 client-api.matchinguu.com
 0.0.0.0 counter.log24.ru
 0.0.0.0 dcmn.com
@@ -1559,7 +1560,6 @@
 0.0.0.0 invoca.solutions
 0.0.0.0 iol.io
 0.0.0.0 ip-adress.com
-0.0.0.0 ip-api.com
 0.0.0.0 ip-label.net
 0.0.0.0 ip2location.com
 0.0.0.0 ip2map.com
@@ -2900,7 +2900,6 @@
 0.0.0.0 web-visor.com
 0.0.0.0 web100kz.com
 0.0.0.0 webalytics.pw
-0.0.0.0 webclicks24.com
 0.0.0.0 webclicktracker.com
 0.0.0.0 webcompteur.com
 0.0.0.0 webcounter.co.za
@@ -4871,6 +4870,11 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 adj.st
+0.0.0.0 api.share.mob.com
+0.0.0.0 m.data.mob.com
+0.0.0.0 bi.manhuaren.com
+0.0.0.0 c.data.mob.com
+0.0.0.0 analytics.datasavannah.com
 0.0.0.0 sq.requestads.com
 0.0.0.0 insight.ucweb.com
 0.0.0.0 gjapplog.ucweb.com
