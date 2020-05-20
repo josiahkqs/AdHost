@@ -1,9 +1,16 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 19 May 2020 01:07:15 +0800
+# Last converted - Thu, 21 May 2020 00:18:17 +0800
 #
 
+0.0.0.0 fermerrekrb.bid
+0.0.0.0 gagelivius.com
+0.0.0.0 brevandolius.com
+0.0.0.0 gentlemenius.com
+0.0.0.0 zezvty.com
+0.0.0.0 csnem.ru
+0.0.0.0 rocketme.top
 0.0.0.0 kdkdkd.pro
 0.0.0.0 umcbbt.com
 0.0.0.0 starikanadstarikan.ru
@@ -3842,6 +3849,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 rek1.gtorrent.org
 0.0.0.0 d31nb97nd8ha11.cloudfront.net
 0.0.0.0 advast.sibnet.ru
 0.0.0.0 nov.evmenov37.ru
