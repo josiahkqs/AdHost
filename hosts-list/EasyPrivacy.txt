@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 19 May 2020 01:07:17 +0800
+# Last converted - Thu, 21 May 2020 00:18:21 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1042,7 +1042,6 @@
 0.0.0.0 hivps.xyz
 0.0.0.0 hlserve.com
 0.0.0.0 hmstats.com
-0.0.0.0 honeybadger.io
 0.0.0.0 hoood.info
 0.0.0.0 hopurl.org
 0.0.0.0 hospitality-optimizer.com
