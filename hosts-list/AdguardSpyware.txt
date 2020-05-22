@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Thu, 21 May 2020 00:18:17 +0800
+# Last converted - Fri, 22 May 2020 14:21:20 +0800
 #
 
 0.0.0.0 causecherry.com
@@ -3332,6 +3332,8 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 horizon.globo.com
+0.0.0.0 horizon-track.globo.com
 0.0.0.0 stats.norton.com
 0.0.0.0 analytics.plaid.com
 0.0.0.0 spt.performgroup.com
