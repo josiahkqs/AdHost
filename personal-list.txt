@@ -396,3 +396,5 @@
 0.0.0.0 istepuleto.com # Malware Accomplic
 0.0.0.0 c3.sdkclickurl.com # Scam
 0.0.0.0 rotdubboy.com # Possible Ads
+0.0.0.0 kenh11.com # Possible Ads
+
