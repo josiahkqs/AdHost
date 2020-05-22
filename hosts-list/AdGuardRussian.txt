@@ -1,9 +1,13 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Thu, 21 May 2020 00:18:17 +0800
+# Last converted - Fri, 22 May 2020 14:21:20 +0800
 #
 
+0.0.0.0 4n1hqmcoms.rest
+0.0.0.0 isodhsd.pro
+0.0.0.0 ojpem.com
+0.0.0.0 8q2g560ynxlkz9rm.in.net
 0.0.0.0 fermerrekrb.bid
 0.0.0.0 gagelivius.com
 0.0.0.0 brevandolius.com
@@ -228,7 +232,6 @@
 0.0.0.0 mobilebanner.ru
 0.0.0.0 woazowup.net
 0.0.0.0 2vaxwkujrfwh.info
-0.0.0.0 qqqwes.com
 0.0.0.0 svekolka.com
 0.0.0.0 bchaser.info
 0.0.0.0 advgalaxy.com
