@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Thu, 21 May 2020 00:18:21 +0800
+# Last converted - Fri, 22 May 2020 14:21:24 +0800
 #
 
 0.0.0.0 0emm.com
@@ -3520,6 +3520,7 @@
 0.0.0.0 pingclock.net
 0.0.0.0 potterpetrey.com
 0.0.0.0 reseau-pub.com
+0.0.0.0 rossel.tech
 0.0.0.0 semiocast.com
 0.0.0.0 sitizy.network
 0.0.0.0 sk1n.fr
