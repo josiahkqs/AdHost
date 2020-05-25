@@ -1,9 +1,15 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 22 May 2020 14:21:20 +0800
+# Last converted - Mon, 25 May 2020 11:15:32 +0800
 #
 
+0.0.0.0 reclame.io
+0.0.0.0 watieb.com
+0.0.0.0 spdfkvk.pro
+0.0.0.0 ckcsuk.com
+0.0.0.0 hbfqcy.com
+0.0.0.0 cosdkaa.pro
 0.0.0.0 4n1hqmcoms.rest
 0.0.0.0 isodhsd.pro
 0.0.0.0 ojpem.com
