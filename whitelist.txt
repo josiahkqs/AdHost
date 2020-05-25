@@ -22,3 +22,8 @@ rebrandly.com # Rebrand shorterner
 d33wubrfki0l68.cloudfront.net # Gov CDN
 deliveroo.com.sg # Food Delivery
 www.surveygizmo.com
+edge-mqtt.facebook.com
+# graph.facebook.com
+# linkedinmobileapp.com
+# bhpz.adj.st
+# q4mn.adj.st
