@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Fri, 22 May 2020 14:21:20 +0800
+# Last converted - Mon, 25 May 2020 11:15:32 +0800
 #
 
 0.0.0.0 causecherry.com
@@ -1172,7 +1172,6 @@
 0.0.0.0 etrigue.com
 0.0.0.0 etyper.com
 0.0.0.0 eu-survey.com
-0.0.0.0 euleriancdn.net
 0.0.0.0 eum-appdynamics.com
 0.0.0.0 euro-pr.eu
 0.0.0.0 euroads.dk
@@ -3296,8 +3295,17 @@
 0.0.0.0 at-o.net
 0.0.0.0 atinternet.com
 0.0.0.0 xiti.com
+0.0.0.0 euleriancdn.net
 0.0.0.0 eulerian.net
-0.0.0.0 eulerian.com
+0.0.0.0 mj23.eulerian.com
+0.0.0.0 eulerian.splendia.com
+0.0.0.0 eulerian.sarenza.com
+0.0.0.0 eulerian.officiel-des-vacances.com
+0.0.0.0 eulerian.mathon.fr
+0.0.0.0 eulerian.madeindesign.com
+0.0.0.0 eulerian.brandalley.fr
+0.0.0.0 eulerian.belambra.fr
+0.0.0.0 eulerian.belambra.be
 0.0.0.0 2o7.net
 0.0.0.0 omtrdc.net
 0.0.0.0 tagcommander.com
@@ -3332,6 +3340,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
 0.0.0.0 horizon.globo.com
 0.0.0.0 horizon-track.globo.com
 0.0.0.0 stats.norton.com
@@ -3379,7 +3388,6 @@
 0.0.0.0 ea.greenweez.com
 0.0.0.0 ea.melijoe.com
 0.0.0.0 yoc.younited-credit.com
-0.0.0.0 eulerian.mathon.fr
 0.0.0.0 vry9.destinia.com
 0.0.0.0 ea.habitat.fr
 0.0.0.0 ea.vente-unique.com
@@ -3412,7 +3420,6 @@
 0.0.0.0 ea.warnerbros.fr
 0.0.0.0 uue2.destinia.ir
 0.0.0.0 vgo.vegaoo.de
-0.0.0.0 eulerian.brandalley.fr
 0.0.0.0 track.effitarget.com
 0.0.0.0 v.oui.sncf
 0.0.0.0 krum.vsct.fr
