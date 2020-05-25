@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Fri, 22 May 2020 14:21:13 +0800
+# Last converted - Mon, 25 May 2020 11:15:28 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -2058,6 +2058,7 @@
 0.0.0.0 szggdw.com
 0.0.0.0 szh6.xyz
 0.0.0.0 szjianxin.net
+0.0.0.0 szpl0.com
 0.0.0.0 szrk3.com
 0.0.0.0 sztbjs.com
 0.0.0.0 szvr.com
@@ -3818,7 +3819,6 @@
 0.0.0.0 stunninglover.com
 0.0.0.0 watakaw133.xyz
 0.0.0.0 cryptaloot.pro
-0.0.0.0 qcsfxv.cn
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3950,6 +3950,7 @@
 0.0.0.0 5kmm.top
 0.0.0.0 5mbd2.com
 0.0.0.0 5pb266.com
+0.0.0.0 5q68n.cn
 0.0.0.0 5q80n.cn
 0.0.0.0 5t4o.cn
 0.0.0.0 5tbiec.cn
@@ -4084,6 +4085,7 @@
 0.0.0.0 ajiez.com
 0.0.0.0 ajkdg3.xyz
 0.0.0.0 ali2a.xyz
+0.0.0.0 ali2d.xyz
 0.0.0.0 alitx963.com
 0.0.0.0 aliyoo999.com
 0.0.0.0 alksdh.com
@@ -5246,6 +5248,7 @@
 0.0.0.0 q671e.cn
 0.0.0.0 qaqact.cn
 0.0.0.0 qcgkd322.vip
+0.0.0.0 qcsfxv.cn
 0.0.0.0 qd836.cn
 0.0.0.0 qdiut.com
 0.0.0.0 qdyazc.com
@@ -5535,6 +5538,7 @@
 0.0.0.0 usty357a.site
 0.0.0.0 uuopp.com
 0.0.0.0 uvmqpum.cn
+0.0.0.0 uwmoghx.cn
 0.0.0.0 uxyrl.cn
 0.0.0.0 uzhaj.com
 0.0.0.0 uzyid.cn
