@@ -1,9 +1,10 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Mon, 25 May 2020 11:15:28 +0800
+# Last converted - Wed, 27 May 2020 23:36:41 +0800
 #
 
+0.0.0.0 xn--2ssq0ktxigkq.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -988,6 +989,7 @@
 0.0.0.0 ff112244.com
 0.0.0.0 ffa9.cn
 0.0.0.0 ffhtek.com
+0.0.0.0 fghlmiaoqrtyfl65ha0ss22k3dqi6lng.com
 0.0.0.0 findqc.com
 0.0.0.0 fjbzjc.com
 0.0.0.0 fjdy.cc
@@ -1136,6 +1138,7 @@
 0.0.0.0 haoqq.me
 0.0.0.0 haosf.com
 0.0.0.0 haoyiwang.net
+0.0.0.0 harahero.top
 0.0.0.0 harridan.cc
 0.0.0.0 hascosafety.com
 0.0.0.0 hauchi.com.tw
@@ -1241,6 +1244,7 @@
 0.0.0.0 i000o.com
 0.0.0.0 i3818.com
 0.0.0.0 i3z.cn
+0.0.0.0 i8ggwm.com
 0.0.0.0 i92xue.com
 0.0.0.0 icast.cn
 0.0.0.0 icemf.com
@@ -2314,6 +2318,7 @@
 0.0.0.0 wojiabaoye.com
 0.0.0.0 wole.us
 0.0.0.0 wowips.com
+0.0.0.0 wowostar.cn
 0.0.0.0 wowoyy.cc
 0.0.0.0 wq42219.com
 0.0.0.0 wqsph.net
@@ -2426,6 +2431,7 @@
 0.0.0.0 xmsqz.com
 0.0.0.0 xmtsyg.com
 0.0.0.0 xmxxwl.com
+0.0.0.0 xn--2qu92fhtx4ff.site
 0.0.0.0 xn--2qu96gouvko1a.com
 0.0.0.0 xn--2quz8f01ak10c.shop
 0.0.0.0 xn--czrshy5v7kb.cc
@@ -3384,6 +3390,7 @@
 0.0.0.0 du1.bbdj.com
 0.0.0.0 dudm.qingsj.cn
 0.0.0.0 dyscb.cn
+0.0.0.0 edu.jiukang.org
 0.0.0.0 ee.shixunwang.net
 0.0.0.0 ejunshi.com
 0.0.0.0 emjs.mkzhan.com
@@ -3819,6 +3826,12 @@
 0.0.0.0 stunninglover.com
 0.0.0.0 watakaw133.xyz
 0.0.0.0 cryptaloot.pro
+0.0.0.0 pbvxtgn.cn
+0.0.0.0 rqvfewi.cn
+0.0.0.0 8yrn.cn
+0.0.0.0 meuevcj.cn
+0.0.0.0 rkssxrh.cn
+0.0.0.0 t3s9j.xyz
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -4047,6 +4060,7 @@
 0.0.0.0 abie11.top
 0.0.0.0 abie12.top
 0.0.0.0 abie13.top
+0.0.0.0 abie15.top
 0.0.0.0 abie25.top
 0.0.0.0 abie9.top
 0.0.0.0 abuse8.com
@@ -4094,6 +4108,7 @@
 0.0.0.0 anmeilai.net
 0.0.0.0 anyysz.com
 0.0.0.0 aomde.com
+0.0.0.0 aoyou2.top
 0.0.0.0 apjiangte.com
 0.0.0.0 apmengxin.com
 0.0.0.0 applequan.com
@@ -4570,6 +4585,7 @@
 0.0.0.0 gou1zhe.com
 0.0.0.0 goulanmeng.cn
 0.0.0.0 gralfusnzpo003.top
+0.0.0.0 gralfusnzpo004.top
 0.0.0.0 gringrin.cn
 0.0.0.0 grjs02.com
 0.0.0.0 grjs06.com
@@ -4932,6 +4948,7 @@
 0.0.0.0 kxhie.com
 0.0.0.0 kyxnz.cn
 0.0.0.0 kz8tr2.cn
+0.0.0.0 l29qi.xyz
 0.0.0.0 l30od.cn
 0.0.0.0 l4elb.cn
 0.0.0.0 l7g4e.cn
@@ -5253,6 +5270,7 @@
 0.0.0.0 qdiut.com
 0.0.0.0 qdyazc.com
 0.0.0.0 qflwh.cn
+0.0.0.0 qfzcxs.cn
 0.0.0.0 qgana.com
 0.0.0.0 qgaot.com
 0.0.0.0 qhdmqzc.cn
@@ -5386,6 +5404,7 @@
 0.0.0.0 sjczsc.com
 0.0.0.0 sjljz.cn
 0.0.0.0 sjuqc.com
+0.0.0.0 sjzxiqu.cn
 0.0.0.0 skyttt.com
 0.0.0.0 slivercommander.cn
 0.0.0.0 slvtx.com
@@ -5768,6 +5787,7 @@
 0.0.0.0 yfyoyo.com
 0.0.0.0 yg10x.cn
 0.0.0.0 ygblogtag.cn
+0.0.0.0 ygiqfnn.cn
 0.0.0.0 ygqczh.com
 0.0.0.0 yguap.com
 0.0.0.0 yicang8.com
