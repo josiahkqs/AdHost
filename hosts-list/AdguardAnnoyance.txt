@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Mon, 25 May 2020 11:15:31 +0800
+# Last converted - Wed, 27 May 2020 23:37:24 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -14,6 +14,8 @@
 0.0.0.0 lindenhurstsneads.doyondeville.com
 0.0.0.0 willseyvillefingerville.polaccafaison.com
 0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
+0.0.0.0 prepareplanes.com
+0.0.0.0 massivemark.com
 0.0.0.0 absorbingprison.com
 0.0.0.0 chesterstandard-gb.chesterstandard.co.uk
 0.0.0.0 sp.desmoinesregister.com
