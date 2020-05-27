@@ -1,9 +1,15 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Mon, 25 May 2020 11:15:32 +0800
+# Last converted - Wed, 27 May 2020 23:37:24 +0800
 #
 
+0.0.0.0 urchinflare.com
+0.0.0.0 glattepush.com
+0.0.0.0 earzow.com
+0.0.0.0 spylees.com
+0.0.0.0 info-megarules.ru
+0.0.0.0 k3node.com
 0.0.0.0 reclame.io
 0.0.0.0 watieb.com
 0.0.0.0 spdfkvk.pro
