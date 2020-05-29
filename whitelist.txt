@@ -23,8 +23,8 @@ d33wubrfki0l68.cloudfront.net # Gov CDN
 deliveroo.com.sg # Food Delivery
 www.surveygizmo.com
 edge-mqtt.facebook.com # Facebook to function properly
+graph.facebook.com # FB mobile app too function properly
 api.pinterest.com # Pinterest app to function properly
-# graph.facebook.com
 # linkedinmobileapp.com
 # bhpz.adj.st
 # q4mn.adj.st
