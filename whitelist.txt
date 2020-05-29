@@ -25,6 +25,4 @@ www.surveygizmo.com
 edge-mqtt.facebook.com # Facebook to function properly
 graph.facebook.com # FB mobile app too function properly
 api.pinterest.com # Pinterest app to function properly
-# linkedinmobileapp.com
-# bhpz.adj.st
-# q4mn.adj.st
+prod-rel-ffc-ccm.oobesaas.adobe.com # Adobe Creative Cloud to function properly
