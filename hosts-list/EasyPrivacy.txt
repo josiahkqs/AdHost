@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Thu, 28 May 2020 10:51:11 +0800
+# Last converted - Sat, 30 May 2020 23:40:29 +0800
 #
 
 0.0.0.0 0emm.com
@@ -230,6 +230,7 @@
 0.0.0.0 apicit.net
 0.0.0.0 apollofind.com
 0.0.0.0 appboycdn.com
+0.0.0.0 appcast.io
 0.0.0.0 appn.center
 0.0.0.0 appsflyer.com
 0.0.0.0 aprtn.com
@@ -2571,6 +2572,8 @@
 0.0.0.0 zroitracker.com
 0.0.0.0 ztsrv.com
 0.0.0.0 zuzab.com
+0.0.0.0 guoshipartners.com
+0.0.0.0 push4site.com
 0.0.0.0 0x1f4b0.com
 0.0.0.0 185.165.169.108
 0.0.0.0 185.193.38.148
@@ -3937,6 +3940,7 @@
 0.0.0.0 mystat-in.net
 0.0.0.0 mytopf.com
 0.0.0.0 opentracking.ru
+0.0.0.0 otclick-adv.ru
 0.0.0.0 pladform.ru
 0.0.0.0 pmbox.biz
 0.0.0.0 proext.com
@@ -5040,7 +5044,6 @@
 0.0.0.0 zdlogs.sphereup.com
 0.0.0.0 go.techtarget.com
 0.0.0.0 trk.techtarget.com
-0.0.0.0 users.techtarget.com
 0.0.0.0 aksb-a.akamaihd.net
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 e77lmzbqou0n-a.akamaihd.net
@@ -5746,7 +5749,6 @@
 0.0.0.0 intg.snapchat.com
 0.0.0.0 ip.breitbart.com
 0.0.0.0 ip.pichunter.com
-0.0.0.0 kg.aws.mashable.com
 0.0.0.0 kinesisproxy.hearstlabs.com
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 lh.secure.yahoo.com
@@ -6738,6 +6740,7 @@
 0.0.0.0 tr.discuss.com.hk
 0.0.0.0 tr.price.com.hk
 0.0.0.0 track.sohu.com
+0.0.0.0 trackjay.cool3c.com
 0.0.0.0 uestat.video.qiyi.com
 0.0.0.0 utrack.hexun.com
 0.0.0.0 vatrack.hinet.net
