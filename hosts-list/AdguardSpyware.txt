@@ -1,9 +1,15 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Thu, 28 May 2020 10:51:09 +0800
+# Last converted - Sat, 30 May 2020 23:40:28 +0800
 #
 
+0.0.0.0 pixel.s3xified.com
+0.0.0.0 collect.feefo.com
+0.0.0.0 js.ptengine.jp
+0.0.0.0 c.tgknt.com
+0.0.0.0 imp.dmm.co.jp
+0.0.0.0 imp.dmm.com
 0.0.0.0 track.edu-info.jp
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 analytics.audioeye.com
@@ -4888,6 +4894,9 @@
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 analysys.cn
 0.0.0.0 logs.supersonic.com
+0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 telemetry.swiftkey.com
+0.0.0.0 touchtype-fluency.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 register.appsflyer.com
 0.0.0.0 events.appsflyer.com
