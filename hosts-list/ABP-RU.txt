@@ -1,7 +1,7 @@
 # ABP-RU
 #
-# Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Thu, 28 May 2020 10:51:08 +0800
+# Converted from - /Users/josiah/Downloads/advblock.txt
+# Last converted - Sat, 30 May 2020 23:50:59 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -1247,6 +1247,7 @@
 0.0.0.0 ex.newsland.com
 0.0.0.0 exaccess.ru
 0.0.0.0 exchange.informer.ua
+0.0.0.0 exdiy.ru
 0.0.0.0 exo.kiev.ua
 0.0.0.0 expert-sib.ru
 0.0.0.0 ext.week.news
@@ -1724,7 +1725,6 @@
 0.0.0.0 sexprice.ru
 0.0.0.0 sexualmastery.ru
 0.0.0.0 sexytal.com
-0.0.0.0 sherlockseries.ru
 0.0.0.0 shopcn.ru
 0.0.0.0 shopik.tv
 0.0.0.0 sib-crm.ru
@@ -2224,6 +2224,7 @@
 0.0.0.0 7out.ru
 0.0.0.0 7tvp18nra2uj3u38.com
 0.0.0.0 7window7.info
+0.0.0.0 7x7br2h1ujdoi391.in.net
 0.0.0.0 800083be77.com
 0.0.0.0 821d5dd22d.com
 0.0.0.0 833xoxo.ru
@@ -2619,6 +2620,7 @@
 0.0.0.0 amperse.info
 0.0.0.0 amuseer.com
 0.0.0.0 amusevar.com
+0.0.0.0 amyc.ru
 0.0.0.0 amzbr.com
 0.0.0.0 amzuu.com
 0.0.0.0 an.media-active.ru
@@ -3555,6 +3557,7 @@
 0.0.0.0 dewife.ru
 0.0.0.0 df09rp0cm6rp6.cloudfront.net
 0.0.0.0 dfebr.com
+0.0.0.0 dffijaiagajbedddccc.ru
 0.0.0.0 dfgbalon.com
 0.0.0.0 dfgqz.com
 0.0.0.0 dfkjsd0.trade
@@ -4128,6 +4131,7 @@
 0.0.0.0 gerbara.com
 0.0.0.0 gerberka.com
 0.0.0.0 gerecning.pro
+0.0.0.0 geroniumal.com
 0.0.0.0 get-ads.ru
 0.0.0.0 get-hit.ru
 0.0.0.0 getbonus.info
