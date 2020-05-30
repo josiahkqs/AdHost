@@ -1,9 +1,11 @@
 # ABP-CN
 #
-# Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Thu, 28 May 2020 10:51:05 +0800
+# Converted from - /Users/josiah/Downloads/easylistchina.txt
+# Last converted - Sat, 30 May 2020 23:49:45 +0800
 #
 
+0.0.0.0 joyvowdig.com
+0.0.0.0 piclick.cn
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -869,6 +871,7 @@
 0.0.0.0 dlkjgjmy.com
 0.0.0.0 dlpifu.com
 0.0.0.0 dlrijiaele.com
+0.0.0.0 dlswzw.cn
 0.0.0.0 dlzjdesign.com
 0.0.0.0 dmqapp.com
 0.0.0.0 dmtrck.com
@@ -1099,6 +1102,7 @@
 0.0.0.0 gutouwang.net
 0.0.0.0 guzijie.top
 0.0.0.0 gw069.com
+0.0.0.0 gwbangshou.com
 0.0.0.0 gwylm.com
 0.0.0.0 gxejgs.com
 0.0.0.0 gxgzyny.com
@@ -3067,8 +3071,10 @@
 0.0.0.0 zkrdy.com
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
+0.0.0.0 xinjscn.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 immedlinkum.info
 0.0.0.0 xayah.date
+0.0.0.0 5.douben8.com
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
 0.0.0.0 1.01fy.cn
@@ -3826,6 +3832,11 @@
 0.0.0.0 stunninglover.com
 0.0.0.0 watakaw133.xyz
 0.0.0.0 cryptaloot.pro
+0.0.0.0 jianzhanxx.me
+0.0.0.0 sachbs.club
+0.0.0.0 kunloveyu.cn
+0.0.0.0 0525pweoruxnj.xyz
+0.0.0.0 ssknweoz.cn
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3932,6 +3943,7 @@
 0.0.0.0 4df5ef.xyz
 0.0.0.0 4ekx.cn
 0.0.0.0 4excel.cn
+0.0.0.0 4ggame8.com
 0.0.0.0 4py3oe.cn
 0.0.0.0 4qn1k.cn
 0.0.0.0 4s5n.cn
@@ -4002,6 +4014,7 @@
 0.0.0.0 7ez4.cn
 0.0.0.0 7gbca.cn
 0.0.0.0 7ia9h.cn
+0.0.0.0 7m0hj.cn
 0.0.0.0 7m307.cn
 0.0.0.0 7n3e8o.com
 0.0.0.0 7x3mh.cn
@@ -4056,6 +4069,7 @@
 0.0.0.0 abie12.top
 0.0.0.0 abie13.top
 0.0.0.0 abie15.top
+0.0.0.0 abie16.top
 0.0.0.0 abie25.top
 0.0.0.0 abie9.top
 0.0.0.0 abuse8.com
@@ -4095,6 +4109,7 @@
 0.0.0.0 ajkdg3.xyz
 0.0.0.0 ali2a.xyz
 0.0.0.0 ali2d.xyz
+0.0.0.0 ali2f.xyz
 0.0.0.0 alitx963.com
 0.0.0.0 aliyoo999.com
 0.0.0.0 alksdh.com
