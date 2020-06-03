@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sat, 30 May 2020 23:40:29 +0800
+# Last converted - Wed, 03 Jun 2020 22:47:38 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1069,6 +1069,7 @@
 0.0.0.0 i401xox.com
 0.0.0.0 iaudienc.com
 0.0.0.0 ib-ibi.com
+0.0.0.0 ibeat-analytics.com
 0.0.0.0 ibpxl.com
 0.0.0.0 ibpxl.net
 0.0.0.0 ic-live.com
@@ -1352,6 +1353,7 @@
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathtag.com
 0.0.0.0 matomo.cloud
+0.0.0.0 matterlytics.com
 0.0.0.0 maxtracker.net
 0.0.0.0 maxymiser.com
 0.0.0.0 maxymiser.net
@@ -1371,6 +1373,7 @@
 0.0.0.0 mediaarmor.com
 0.0.0.0 mediaforgews.com
 0.0.0.0 mediagauge.com
+0.0.0.0 mediaglacier.com
 0.0.0.0 mediametrics.ru
 0.0.0.0 mediaplex.com
 0.0.0.0 mediarithmics.com
@@ -2009,6 +2012,7 @@
 0.0.0.0 smart-dmp.com
 0.0.0.0 smart-ip.net
 0.0.0.0 smart-traffik.com
+0.0.0.0 smartclip-services.com
 0.0.0.0 smartctr.com
 0.0.0.0 smarterhq.io
 0.0.0.0 smarterremarketer.net
@@ -2269,6 +2273,7 @@
 0.0.0.0 tradelab.fr
 0.0.0.0 tradescape.biz
 0.0.0.0 trafex.net
+0.0.0.0 traffer.net
 0.0.0.0 trafficby.net
 0.0.0.0 trafficengine.net
 0.0.0.0 trafficfacts.com
@@ -2572,8 +2577,26 @@
 0.0.0.0 zroitracker.com
 0.0.0.0 ztsrv.com
 0.0.0.0 zuzab.com
+0.0.0.0 breaktime.com.tw
+0.0.0.0 brightedge.com
+0.0.0.0 citrusad.net
+0.0.0.0 clickguardian.app
+0.0.0.0 clickyab.com
+0.0.0.0 franecki.net
 0.0.0.0 guoshipartners.com
+0.0.0.0 hostpush.info
+0.0.0.0 ismatlab.com
+0.0.0.0 iwqzrm.com
+0.0.0.0 klangoo.com
+0.0.0.0 p30rank.ir
+0.0.0.0 ppcprotect.com
 0.0.0.0 push4site.com
+0.0.0.0 ravelin.net
+0.0.0.0 sabavision.com
+0.0.0.0 sealine.pro
+0.0.0.0 simility.com
+0.0.0.0 spideraf.com
+0.0.0.0 vtex.com.br
 0.0.0.0 0x1f4b0.com
 0.0.0.0 185.165.169.108
 0.0.0.0 185.193.38.148
@@ -3812,6 +3835,7 @@
 0.0.0.0 amarfa.ir
 0.0.0.0 persianstat.com
 0.0.0.0 persianstat.ir
+0.0.0.0 rvkcpqz.com
 0.0.0.0 tinystat.ir
 0.0.0.0 webgozar.com
 0.0.0.0 webgozar.ir
@@ -3855,6 +3879,7 @@
 0.0.0.0 orquideassp.com
 0.0.0.0 percycle.com
 0.0.0.0 rdstation.com.br
+0.0.0.0 retargeter.com.br
 0.0.0.0 sambaads.com
 0.0.0.0 tailtarget.com
 0.0.0.0 trugaze.io
@@ -4057,6 +4082,7 @@
 0.0.0.0 uapoisk.net
 0.0.0.0 weblog.com.ua
 0.0.0.0 zmctrack.net
+0.0.0.0 adtimaserver.vn
 0.0.0.0 amcdn.vn
 0.0.0.0 contineljs.com
 0.0.0.0 gostats.vn
@@ -4286,6 +4312,7 @@
 0.0.0.0 collect.usefathom.com
 0.0.0.0 collector-api.99designs.com
 0.0.0.0 collector.automote.co.nz
+0.0.0.0 collector.clareity.net
 0.0.0.0 collector.contentexchange.me
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 collector.roistat.com
@@ -4511,6 +4538,7 @@
 0.0.0.0 glogger.inspcloud.com
 0.0.0.0 go.optifuze.com
 0.0.0.0 go.toutapp.com
+0.0.0.0 go.trouter.skype.com
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 gsp1.baidu.com
 0.0.0.0 gtrk.s3.amazonaws.com
@@ -5042,6 +5070,10 @@
 0.0.0.0 wstat.wibiya.com
 0.0.0.0 x.weather.com
 0.0.0.0 zdlogs.sphereup.com
+0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
+0.0.0.0 ref.dealerinspire.com
+0.0.0.0 risk.clearbit.com
+0.0.0.0 targeting.voxus.tv
 0.0.0.0 go.techtarget.com
 0.0.0.0 trk.techtarget.com
 0.0.0.0 aksb-a.akamaihd.net
@@ -5436,6 +5468,7 @@
 0.0.0.0 stat.sputnik.ru
 0.0.0.0 stat.tvigle.ru
 0.0.0.0 stats.seedr.com
+0.0.0.0 stats.tazeros.com
 0.0.0.0 target.mirtesen.ru
 0.0.0.0 target.smi2.net
 0.0.0.0 target.smi2.ru
@@ -5682,7 +5715,6 @@
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.measure.office.com
 0.0.0.0 fresh.techdirt.com
-0.0.0.0 frog.wix.com
 0.0.0.0 funn.graphiq.com
 0.0.0.0 g.ign.com
 0.0.0.0 g.mashable.com
@@ -5703,6 +5735,7 @@
 0.0.0.0 geo.nbcsports.com
 0.0.0.0 geo.play.it
 0.0.0.0 geo.yahoo.com
+0.0.0.0 geoapi.indiatimes.com
 0.0.0.0 geobeacon.ign.com
 0.0.0.0 geoip-lookup.vice.com
 0.0.0.0 geoip.al.com
