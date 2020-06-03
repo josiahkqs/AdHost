@@ -1,9 +1,25 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sat, 30 May 2020 23:40:27 +0800
+# Last converted - Wed, 03 Jun 2020 22:47:35 +0800
 #
 
+0.0.0.0 lpirha.com
+0.0.0.0 qlnomb.com
+0.0.0.0 tgaqxo.com
+0.0.0.0 earnmore.su
+0.0.0.0 dzubavstal.com
+0.0.0.0 050y9lhe8p.com
+0.0.0.0 5pr1sfzsl9.com
+0.0.0.0 passtechusa.com
+0.0.0.0 vastroll.ru
+0.0.0.0 7x7br2h1ujdoi391.in.net
+0.0.0.0 nukftb.com
+0.0.0.0 socgate.ru
+0.0.0.0 mstngh.com
+0.0.0.0 tr6rfgjix6tlr8bp.info
+0.0.0.0 am-schedule.ru
+0.0.0.0 vsbfwrg.pro
 0.0.0.0 zxsddfs.pro
 0.0.0.0 fxfahn.com
 0.0.0.0 icilfj.com
