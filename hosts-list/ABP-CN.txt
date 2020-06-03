@@ -1,11 +1,9 @@
 # ABP-CN
 #
-# Converted from - /Users/josiah/Downloads/easylistchina.txt
-# Last converted - Sat, 30 May 2020 23:49:45 +0800
+# Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
+# Last converted - Wed, 03 Jun 2020 22:52:20 +0800
 #
 
-0.0.0.0 joyvowdig.com
-0.0.0.0 piclick.cn
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 0082tv.net
@@ -1090,6 +1088,7 @@
 0.0.0.0 gso0.com
 0.0.0.0 gssxb.com
 0.0.0.0 gsycdb.com
+0.0.0.0 gsycl.top
 0.0.0.0 gszbba.cn
 0.0.0.0 gtmucs.cn
 0.0.0.0 guangzizai.com
@@ -1145,6 +1144,7 @@
 0.0.0.0 harridan.cc
 0.0.0.0 hascosafety.com
 0.0.0.0 hauchi.com.tw
+0.0.0.0 hawo.cc
 0.0.0.0 hbalx.cn
 0.0.0.0 hbguohua.com
 0.0.0.0 hbguzhenyuan.com
@@ -1369,6 +1369,7 @@
 0.0.0.0 josipr.com
 0.0.0.0 jossuer.net
 0.0.0.0 joyfuldoors.com
+0.0.0.0 joyvowdig.com
 0.0.0.0 jozee.cn
 0.0.0.0 jqsex.com
 0.0.0.0 jqz9.com
@@ -1574,6 +1575,7 @@
 0.0.0.0 lyaeccn.com
 0.0.0.0 lygshgj.com
 0.0.0.0 lyhdream.com
+0.0.0.0 lyjiuban.com
 0.0.0.0 lylfj.cn
 0.0.0.0 lymstsc.com
 0.0.0.0 lyraik.cn
@@ -1777,6 +1779,7 @@
 0.0.0.0 penxiangge.com
 0.0.0.0 pg88cdn.com
 0.0.0.0 phvmax.com
+0.0.0.0 piclick.cn
 0.0.0.0 picsinfog.com
 0.0.0.0 pingping888.com
 0.0.0.0 pjshw.cn
@@ -2936,7 +2939,6 @@
 0.0.0.0 greenhouseglobal.cn
 0.0.0.0 gt.duowan.com
 0.0.0.0 gt.yy.com
-0.0.0.0 guang.lesports.com
 0.0.0.0 guess.h.qhimg.com
 0.0.0.0 hades.qyer.com
 0.0.0.0 henghost.com
@@ -3058,6 +3060,7 @@
 0.0.0.0 xc.macd.cn
 0.0.0.0 xc.mydrivers.com
 0.0.0.0 xdyjt.com
+0.0.0.0 xinjscn.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 xinzheng8.pw
 0.0.0.0 xs.houyi.baofeng.net
 0.0.0.0 yjhas.net
@@ -3071,10 +3074,9 @@
 0.0.0.0 zkrdy.com
 0.0.0.0 zt2088.com
 0.0.0.0 ztyumn.ifeng.com
-0.0.0.0 xinjscn.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 immedlinkum.info
 0.0.0.0 xayah.date
-0.0.0.0 5.douben8.com
+0.0.0.0 a.91zhongkao.com
 0.0.0.0 003store.com
 0.0.0.0 0512s.com
 0.0.0.0 1.01fy.cn
@@ -3157,6 +3159,7 @@
 0.0.0.0 321.jintang114.org
 0.0.0.0 360640.com
 0.0.0.0 39jz.com
+0.0.0.0 5.douben8.com
 0.0.0.0 51dengshan.cn
 0.0.0.0 51gxqm.com
 0.0.0.0 51yhzp.com
@@ -3659,6 +3662,7 @@
 0.0.0.0 wj.jiancai365.cn
 0.0.0.0 wm.mipcdn.com
 0.0.0.0 wm.szdushi.com.cn
+0.0.0.0 wmeng.feihuadns.com
 0.0.0.0 wneia.iaskhot.com
 0.0.0.0 wr.yiyouliao.com
 0.0.0.0 ws.wenshenxiu.com
@@ -3832,11 +3836,7 @@
 0.0.0.0 stunninglover.com
 0.0.0.0 watakaw133.xyz
 0.0.0.0 cryptaloot.pro
-0.0.0.0 jianzhanxx.me
-0.0.0.0 sachbs.club
-0.0.0.0 kunloveyu.cn
-0.0.0.0 0525pweoruxnj.xyz
-0.0.0.0 ssknweoz.cn
+0.0.0.0 aox7.xyz
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3853,10 +3853,12 @@
 0.0.0.0 0420zvnmljgfdsa.xyz
 0.0.0.0 0511qsfhknvz.xyz
 0.0.0.0 0518dfgwert.xyz
+0.0.0.0 0525pweoruxnj.xyz
 0.0.0.0 0530hz.cn
 0.0.0.0 0532ci.com.cn
 0.0.0.0 0551zgz.com
 0.0.0.0 05q9n.cn
+0.0.0.0 0601chruopjsm.xyz
 0.0.0.0 0755man.cn
 0.0.0.0 07kfh.cn
 0.0.0.0 0851ok.com
@@ -4033,6 +4035,7 @@
 0.0.0.0 8i1xc.cn
 0.0.0.0 8j24h.cn
 0.0.0.0 8ls3n.cn
+0.0.0.0 8mlb.cn
 0.0.0.0 8p30k.cn
 0.0.0.0 8t5vd.cn
 0.0.0.0 8v61j.cn
@@ -4108,6 +4111,7 @@
 0.0.0.0 ajiez.com
 0.0.0.0 ajkdg3.xyz
 0.0.0.0 ali2a.xyz
+0.0.0.0 ali2b.xyz
 0.0.0.0 ali2d.xyz
 0.0.0.0 ali2f.xyz
 0.0.0.0 alitx963.com
@@ -4229,6 +4233,8 @@
 0.0.0.0 calculated.cn
 0.0.0.0 car156.net
 0.0.0.0 casbanlly.com
+0.0.0.0 cathaycentury.com
+0.0.0.0 cavcz.com
 0.0.0.0 cbvjddh.23txt.com
 0.0.0.0 cccab.club
 0.0.0.0 cchfjz.com
@@ -4492,6 +4498,7 @@
 0.0.0.0 fgaon.com
 0.0.0.0 fgzba.com
 0.0.0.0 fhbv.cn
+0.0.0.0 findx2.info
 0.0.0.0 fipipo.cn
 0.0.0.0 fj95560.com
 0.0.0.0 fjhanmei.com
@@ -4502,6 +4509,7 @@
 0.0.0.0 fkikij.cn
 0.0.0.0 fkkse.com
 0.0.0.0 fkogs.com
+0.0.0.0 flzxsqc.vip
 0.0.0.0 fninin.cn
 0.0.0.0 fnxmyx.cn
 0.0.0.0 focuscat.com
@@ -4583,6 +4591,7 @@
 0.0.0.0 globbiz.cn
 0.0.0.0 glpen08.com
 0.0.0.0 glvej.com
+0.0.0.0 gmuqa.cn
 0.0.0.0 gmxyorg.cn
 0.0.0.0 gneusqa.cn
 0.0.0.0 gnmbd.top
@@ -4596,6 +4605,7 @@
 0.0.0.0 goulanmeng.cn
 0.0.0.0 gralfusnzpo003.top
 0.0.0.0 gralfusnzpo004.top
+0.0.0.0 gralfusnzpo006.top
 0.0.0.0 gringrin.cn
 0.0.0.0 grjs02.com
 0.0.0.0 grjs06.com
@@ -4682,6 +4692,7 @@
 0.0.0.0 hguac.com
 0.0.0.0 hguas.com
 0.0.0.0 hhjkl.cc
+0.0.0.0 hhrhl.vip
 0.0.0.0 hhslbz.cn
 0.0.0.0 hiffyl.com
 0.0.0.0 higoo4.com
@@ -4830,6 +4841,7 @@
 0.0.0.0 jhgff23az.biqugetv.com
 0.0.0.0 jia-huan.cn
 0.0.0.0 jiangchunli.cn
+0.0.0.0 jianzhanxx.me
 0.0.0.0 jiaofulin.cn
 0.0.0.0 jiaqingli.cn
 0.0.0.0 jiayi2019.top
@@ -4951,6 +4963,7 @@
 0.0.0.0 kuaipaobiaoju.com
 0.0.0.0 kuaituisss.com
 0.0.0.0 kueofwt.cn
+0.0.0.0 kunloveyu.cn
 0.0.0.0 kuptmf.cn
 0.0.0.0 kvinoo.com
 0.0.0.0 kwjkd.com
@@ -5359,6 +5372,7 @@
 0.0.0.0 rxxdq.cn
 0.0.0.0 s06th.cn
 0.0.0.0 s2mvd.cn
+0.0.0.0 sachbs.club
 0.0.0.0 sanitwealth.com
 0.0.0.0 sbenx.com
 0.0.0.0 sbiim.com
@@ -5428,6 +5442,7 @@
 0.0.0.0 smpdth.cn
 0.0.0.0 smvip8.cn
 0.0.0.0 smxay.com
+0.0.0.0 sobolong.com
 0.0.0.0 softtest.vip
 0.0.0.0 sokoyo-fq.com
 0.0.0.0 sonomoyo.com
@@ -5440,6 +5455,7 @@
 0.0.0.0 sqwscy.com
 0.0.0.0 srrux.com
 0.0.0.0 ssdoi.com
+0.0.0.0 ssknweoz.cn
 0.0.0.0 starlizard.com.cn
 0.0.0.0 statstat888.com
 0.0.0.0 stdst.cn
@@ -5675,6 +5691,7 @@
 0.0.0.0 woyvk.cn
 0.0.0.0 wq19w.cn
 0.0.0.0 wsoue.com
+0.0.0.0 wsvike.cn
 0.0.0.0 wsxxu.com
 0.0.0.0 wszzb.top
 0.0.0.0 wuwuhh.top
