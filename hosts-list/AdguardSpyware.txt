@@ -1,9 +1,12 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sat, 30 May 2020 23:40:28 +0800
+# Last converted - Wed, 03 Jun 2020 22:47:35 +0800
 #
 
+0.0.0.0 propeller-tracking.com
+0.0.0.0 bigmining.com
+0.0.0.0 im-apps.net
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 collect.feefo.com
 0.0.0.0 js.ptengine.jp
@@ -2298,7 +2301,6 @@
 0.0.0.0 reson8.com
 0.0.0.0 responsetap.com
 0.0.0.0 retags.us
-0.0.0.0 retailrocket.ru
 0.0.0.0 retargetly.com
 0.0.0.0 reussissonsensemble.fr
 0.0.0.0 revdn.net
@@ -3085,6 +3087,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 hocgeese.com
 0.0.0.0 dapperdiscussion.com
 0.0.0.0 superficialsquare.com
 0.0.0.0 energeticladybug.com
@@ -4198,7 +4201,6 @@
 0.0.0.0 fairfaxmedia.sharedcount.com
 0.0.0.0 farmer.wego.com
 0.0.0.0 fc.webmasterpro.de
-0.0.0.0 frog.wix.com
 0.0.0.0 geoservice.curse.com
 0.0.0.0 geoip.herewetest.com
 0.0.0.0 geolocation.performgroup.com
