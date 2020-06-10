@@ -1,9 +1,15 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Wed, 03 Jun 2020 22:47:35 +0800
+# Last converted - Wed, 10 Jun 2020 22:12:51 +0800
 #
 
+0.0.0.0 ggtraf.com
+0.0.0.0 securemoney.ru
+0.0.0.0 bigrstr.com
+0.0.0.0 adv.pilseta24.lv
+0.0.0.0 deeppquiz.ru
+0.0.0.0 dynaads.net
 0.0.0.0 lpirha.com
 0.0.0.0 qlnomb.com
 0.0.0.0 tgaqxo.com
@@ -15,6 +21,7 @@
 0.0.0.0 vastroll.ru
 0.0.0.0 7x7br2h1ujdoi391.in.net
 0.0.0.0 nukftb.com
+0.0.0.0 qlnomb.com
 0.0.0.0 socgate.ru
 0.0.0.0 mstngh.com
 0.0.0.0 tr6rfgjix6tlr8bp.info
@@ -3886,6 +3893,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 gorod.tunt.lv
 0.0.0.0 rek1.gtorrent.org
 0.0.0.0 d31nb97nd8ha11.cloudfront.net
 0.0.0.0 advast.sibnet.ru
