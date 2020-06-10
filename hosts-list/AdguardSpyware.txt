@@ -1,9 +1,14 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Wed, 03 Jun 2020 22:47:35 +0800
+# Last converted - Wed, 10 Jun 2020 22:12:52 +0800
 #
 
+0.0.0.0 amunx.de
+0.0.0.0 5baf1288cf.dl8.me
+0.0.0.0 mopinion.com
+0.0.0.0 stat.sm-it.space
+0.0.0.0 appcast.io
 0.0.0.0 propeller-tracking.com
 0.0.0.0 bigmining.com
 0.0.0.0 im-apps.net
@@ -577,7 +582,6 @@
 0.0.0.0 agkn.com
 0.0.0.0 aidata.io
 0.0.0.0 aimediagroup.com
-0.0.0.0 airbrake.io
 0.0.0.0 airpr.com
 0.0.0.0 akanoo.com
 0.0.0.0 akavita.com
@@ -1264,7 +1268,8 @@
 0.0.0.0 flashadengine.com
 0.0.0.0 flashgamestats.com
 0.0.0.0 flcounter.com
-0.0.0.0 flix360.com
+0.0.0.0 t.flix360.com
+0.0.0.0 rt.flix360.com
 0.0.0.0 flixcar.com
 0.0.0.0 flixfacts.co.uk
 0.0.0.0 flixfacts.com
@@ -2048,7 +2053,6 @@
 0.0.0.0 org-dot-com.com
 0.0.0.0 os-data.com
 0.0.0.0 ositracker.com
-0.0.0.0 ospserver.net
 0.0.0.0 osxau.de
 0.0.0.0 otoshiana.com
 0.0.0.0 otracking.com
@@ -3306,6 +3310,12 @@
 0.0.0.0 ws-goguardian.pusher.com
 0.0.0.0 x3-policy-maker.goguardian.com
 0.0.0.0 x3-predictor.goguardian.com
+0.0.0.0 als.baidu.com
+0.0.0.0 afd.baidu.com
+0.0.0.0 wkctj.baidu.com
+0.0.0.0 jpaasne.e.shifen.com
+0.0.0.0 caclick.baidu.com
+0.0.0.0 wkclick.baidu.com
 0.0.0.0 rlog.popin.cc
 0.0.0.0 log.popin.cc
 0.0.0.0 r.popin.cc
@@ -3363,6 +3373,8 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 ttauri.laptopmag.com
+0.0.0.0 d1rszqblq924lq.cloudfront.net
 0.0.0.0 d2o5idwacg3gyw.cloudfront.net
 0.0.0.0 d2e0sxz09bo7k2.cloudfront.net
 0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
@@ -4899,6 +4911,10 @@
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.swiftkey.com
 0.0.0.0 touchtype-fluency.com
+0.0.0.0 analytics.qoqa.ninja
+0.0.0.0 analytics-sprint.qoqa.com
+0.0.0.0 analytics.qoqa.ch
+0.0.0.0 analytics.qoqa.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 register.appsflyer.com
 0.0.0.0 events.appsflyer.com
@@ -5200,3 +5216,4 @@
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 analy.qq.com
+0.0.0.0 rover.ebay.,badfilter
