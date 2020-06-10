@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Wed, 03 Jun 2020 22:47:38 +0800
+# Last converted - Wed, 10 Jun 2020 22:12:54 +0800
 #
 
 0.0.0.0 0emm.com
@@ -139,7 +139,6 @@
 0.0.0.0 adservicemedia.dk
 0.0.0.0 adspsp.com
 0.0.0.0 adsrvx.com
-0.0.0.0 adswizz.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 adtarget.me
 0.0.0.0 adtelligence.de
@@ -330,6 +329,7 @@
 0.0.0.0 bfoleyinteractive.com
 0.0.0.0 bgpng.me
 0.0.0.0 bidr.io
+0.0.0.0 bidsimulator.com
 0.0.0.0 bidswitch.net
 0.0.0.0 bigcattracks.com
 0.0.0.0 bigmir.net
@@ -854,7 +854,6 @@
 0.0.0.0 flashgamestats.com
 0.0.0.0 flashtalking.com
 0.0.0.0 flcounter.com
-0.0.0.0 flix360.com
 0.0.0.0 flixfacts.co.uk
 0.0.0.0 flixsyndication.net
 0.0.0.0 fluencymedia.com
@@ -917,6 +916,7 @@
 0.0.0.0 fusestats.com
 0.0.0.0 fuziontech.net
 0.0.0.0 fyreball.com
+0.0.0.0 gaconnector.com
 0.0.0.0 gameanalytics.com
 0.0.0.0 gammachug.com
 0.0.0.0 gatorleads.co.uk
@@ -956,6 +956,7 @@
 0.0.0.0 gim.co.il
 0.0.0.0 glanceguide.com
 0.0.0.0 glbtracker.com
+0.0.0.0 globalsiteanalytics.com
 0.0.0.0 globalviptraffic.com
 0.0.0.0 globalwebindex.net
 0.0.0.0 globase.com
@@ -1087,6 +1088,7 @@
 0.0.0.0 iljmp.com
 0.0.0.0 illumenix.com
 0.0.0.0 ilogbox.com
+0.0.0.0 imhd.io
 0.0.0.0 immanalytics.com
 0.0.0.0 impactradius-event.com
 0.0.0.0 impcounter.com
@@ -1603,7 +1605,6 @@
 0.0.0.0 os-data.com
 0.0.0.0 osdata.solutions
 0.0.0.0 ositracker.com
-0.0.0.0 ospserver.net
 0.0.0.0 otoshiana.com
 0.0.0.0 otracking.com
 0.0.0.0 ournet-analytics.com
@@ -2492,6 +2493,7 @@
 0.0.0.0 weesh.co.uk
 0.0.0.0 wemfbox.ch
 0.0.0.0 whackedmedia.com
+0.0.0.0 wheredoyoucomefrom.ovh
 0.0.0.0 whitepixel.com
 0.0.0.0 whizstats.com
 0.0.0.0 whoaremyfriends.com
@@ -3255,6 +3257,7 @@
 0.0.0.0 digidip.net
 0.0.0.0 directcounter.de
 0.0.0.0 divolution.com
+0.0.0.0 dl8.me
 0.0.0.0 dreamcounter.de
 0.0.0.0 durocount.com
 0.0.0.0 eanalyzer.de
@@ -4513,6 +4516,7 @@
 0.0.0.0 experience.contextly.com
 0.0.0.0 fast.appcues.com
 0.0.0.0 filament-stats.herokuapp.com
+0.0.0.0 fl.a.ki
 0.0.0.0 flashstats.libsyn.com
 0.0.0.0 fog.pixual.co
 0.0.0.0 fourmtagservices.appspot.com
@@ -4767,6 +4771,7 @@
 0.0.0.0 rlinks.one.in
 0.0.0.0 rs.sinajs.cn
 0.0.0.0 rss.tmgrup.com.tr
+0.0.0.0 rt.flix360.com
 0.0.0.0 rtt.campanja.com
 0.0.0.0 rum.conde.io
 0.0.0.0 rum.minutemediaservices.com
@@ -5047,6 +5052,7 @@
 0.0.0.0 upt.graphiq.com
 0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 usersegment.wpdigital.net
+0.0.0.0 utle.tech426.com
 0.0.0.0 v.shopify.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 videoevents.outbrain.com
@@ -6288,6 +6294,7 @@
 0.0.0.0 watson.live.com
 0.0.0.0 wblt.oui.sncf
 0.0.0.0 web-t.9gag.com
+0.0.0.0 weblog.flyasiana.com
 0.0.0.0 weblog.strawberrynet.com
 0.0.0.0 webstats.thesoul-publishing.com
 0.0.0.0 wla.vivaldi.com
