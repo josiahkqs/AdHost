@@ -1,11 +1,12 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Wed, 03 Jun 2020 22:47:35 +0800
+# Last converted - Wed, 10 Jun 2020 22:12:51 +0800
 #
 
 0.0.0.0 ext-stat.ru
 0.0.0.0 mystatext.ru
+0.0.0.0 engine.findaphd.com
 0.0.0.0 alertme.news
 0.0.0.0 ipepostman.com
 0.0.0.0 wb.whatsbroadcast.com
@@ -24,13 +25,13 @@
 0.0.0.0 puffypull.com
 0.0.0.0 copperchickens.com
 0.0.0.0 ttauri.toptenreviews.com
+0.0.0.0 cookieinfoscript.com
 0.0.0.0 cookie-script.com
 0.0.0.0 tracker.convead.io
 0.0.0.0 oil.axelspringer.com
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 cookielaw.org
 0.0.0.0 cookiebot.com
-0.0.0.0 consent.mz-web.de
 0.0.0.0 consent.dumont.de
 0.0.0.0 metomic.io
 0.0.0.0 privacy-center.org
@@ -42,12 +43,12 @@
 0.0.0.0 r42tag.com
 0.0.0.0 cookieq.com
 0.0.0.0 usercentrics.eu
-0.0.0.0 consent.mz-web.de
 0.0.0.0 cmp.macworld.co.uk
 0.0.0.0 consent.prismamedia.com
 0.0.0.0 rodo.agora.pl
 0.0.0.0 tracking-consent.static.anwb.nl
 0.0.0.0 cc.silktide.com
+0.0.0.0 consent.mz-web.de
 0.0.0.0 2app.lk
 0.0.0.0 br.app.link
 0.0.0.0 popupmaker.com
@@ -388,6 +389,7 @@
 0.0.0.0 gubagootracking.com
 0.0.0.0 cdn.gubagoo.io
 0.0.0.0 toolbar.complex.com
+0.0.0.0 getsitecontrol.com
 0.0.0.0 widgets.hadilive.com
 0.0.0.0 actionbutton.co
 0.0.0.0 holyclock.com
