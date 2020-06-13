@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Wed, 10 Jun 2020 22:28:19 +0800
+# Last converted - Sat, 13 Jun 2020 23:56:59 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -3224,6 +3224,7 @@
 0.0.0.0 china-air.ru
 0.0.0.0 choco-wonka.info
 0.0.0.0 chozashewuphoxeno.space
+0.0.0.0 chsrkred.com
 0.0.0.0 chudoiog.info
 0.0.0.0 cibahdggeeieeichabi.ru
 0.0.0.0 cicleaxis.com
@@ -6529,6 +6530,7 @@
 0.0.0.0 rrolawcats2bsl4b.in.net
 0.0.0.0 rruytrooytr.tk
 0.0.0.0 rsepv.com
+0.0.0.0 rstbtmd.com
 0.0.0.0 rsuuc.com
 0.0.0.0 rt-ns.ru
 0.0.0.0 rt-rrr.ru
@@ -7532,6 +7534,7 @@
 0.0.0.0 vdxybm.biz
 0.0.0.0 veda-consult.ru
 0.0.0.0 vedrun.ru
+0.0.0.0 veezy.one
 0.0.0.0 velimudrperemudril.ru
 0.0.0.0 velopoc.ru
 0.0.0.0 vengovision.ru
@@ -7697,6 +7700,7 @@
 0.0.0.0 vwijf.com
 0.0.0.0 vxbykr.ru
 0.0.0.0 vymapa.info
+0.0.0.0 vyvodyo.ru
 0.0.0.0 vzclick.com
 0.0.0.0 vztfc.com
 0.0.0.0 vzuxy.com
