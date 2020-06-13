@@ -1,9 +1,15 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Wed, 10 Jun 2020 22:12:51 +0800
+# Last converted - Sat, 13 Jun 2020 23:54:37 +0800
 #
 
+0.0.0.0 zismone.ru
+0.0.0.0 promoggaqjkd.ru
+0.0.0.0 rstbtmd.com
+0.0.0.0 uuaauw.com
+0.0.0.0 rrolawcats2bsl4b.in.net
+0.0.0.0 ueopf.com
 0.0.0.0 ggtraf.com
 0.0.0.0 securemoney.ru
 0.0.0.0 bigrstr.com
@@ -3893,6 +3899,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 b.kakoysegodnyaprazdnik.ru
 0.0.0.0 gorod.tunt.lv
 0.0.0.0 rek1.gtorrent.org
 0.0.0.0 d31nb97nd8ha11.cloudfront.net
