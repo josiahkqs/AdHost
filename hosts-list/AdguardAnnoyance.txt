@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Wed, 10 Jun 2020 22:12:51 +0800
+# Last converted - Tue, 16 Jun 2020 15:36:31 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -13,6 +13,7 @@
 0.0.0.0 squirrelhands.com
 0.0.0.0 causecherry.com
 0.0.0.0 hocgeese.com
+0.0.0.0 habitualhumor.com
 0.0.0.0 lindenhurstsneads.doyondeville.com
 0.0.0.0 willseyvillefingerville.polaccafaison.com
 0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
@@ -388,6 +389,8 @@
 0.0.0.0 widgets.livetex.ru
 0.0.0.0 gubagootracking.com
 0.0.0.0 cdn.gubagoo.io
+0.0.0.0 date.cursorinfo.co.il
+0.0.0.0 widget.getyourguide.com
 0.0.0.0 toolbar.complex.com
 0.0.0.0 getsitecontrol.com
 0.0.0.0 widgets.hadilive.com
