@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sat, 13 Jun 2020 23:54:39 +0800
+# Last converted - Tue, 16 Jun 2020 15:36:35 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1894,7 +1894,6 @@
 0.0.0.0 s7target.ru
 0.0.0.0 safe-click.net
 0.0.0.0 sageanalyst.net
-0.0.0.0 sajari.com
 0.0.0.0 salecycle.com
 0.0.0.0 salemove.com
 0.0.0.0 salesgenius.com
@@ -2571,6 +2570,7 @@
 0.0.0.0 zengenti.com
 0.0.0.0 zeotap.com
 0.0.0.0 zesep.com
+0.0.0.0 zeustechnology.com
 0.0.0.0 zoomanalytics.co
 0.0.0.0 zoomflow.com
 0.0.0.0 zoomino.com
@@ -2599,7 +2599,6 @@
 0.0.0.0 sealine.pro
 0.0.0.0 simility.com
 0.0.0.0 spideraf.com
-0.0.0.0 vtex.com.br
 0.0.0.0 0x1f4b0.com
 0.0.0.0 185.165.169.108
 0.0.0.0 185.193.38.148
@@ -5078,6 +5077,7 @@
 0.0.0.0 x.weather.com
 0.0.0.0 zdlogs.sphereup.com
 0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
+0.0.0.0 rc.vtex.com.br
 0.0.0.0 ref.dealerinspire.com
 0.0.0.0 risk.clearbit.com
 0.0.0.0 targeting.voxus.tv
@@ -5314,6 +5314,7 @@
 0.0.0.0 counter.zone.ee
 0.0.0.0 inpref.s3.amazonaws.com
 0.0.0.0 insight.fonecta.fi
+0.0.0.0 tags.op-palvelut.fi
 0.0.0.0 links.boom.ge
 0.0.0.0 analytics.dol.gr
 0.0.0.0 analyticsv2.dol.gr
@@ -5680,6 +5681,7 @@
 0.0.0.0 desb.fkapi.net
 0.0.0.0 desr.fkapi.net
 0.0.0.0 diamond.transfermarkt.de
+0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 dl.meliacloud.com
 0.0.0.0 dmp.marketgid.com
 0.0.0.0 dmtracking2.alibaba.com
