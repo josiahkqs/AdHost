@@ -1,9 +1,12 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Wed, 10 Jun 2020 22:12:52 +0800
+# Last converted - Tue, 16 Jun 2020 15:36:32 +0800
 #
 
+0.0.0.0 ulclick.ru
+0.0.0.0 phoenix-widget.com
+0.0.0.0 collector.getyourguide.com
 0.0.0.0 amunx.de
 0.0.0.0 5baf1288cf.dl8.me
 0.0.0.0 mopinion.com
@@ -523,7 +526,6 @@
 0.0.0.0 activemeter.com
 0.0.0.0 activeprospects.com
 0.0.0.0 actnx.com
-0.0.0.0 actonsoftware.com
 0.0.0.0 acxiom-online.com
 0.0.0.0 ad-score.com
 0.0.0.0 adblade.com
@@ -1587,7 +1589,6 @@
 0.0.0.0 iol.io
 0.0.0.0 ip-adress.com
 0.0.0.0 ip-label.net
-0.0.0.0 ip2location.com
 0.0.0.0 ip2map.com
 0.0.0.0 ip2phrase.com
 0.0.0.0 ipaddresslabs.com
@@ -3091,6 +3092,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 habitualhumor.com
 0.0.0.0 hocgeese.com
 0.0.0.0 dapperdiscussion.com
 0.0.0.0 superficialsquare.com
@@ -3373,6 +3375,8 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 d5etv3akk3gsa.cloudfront.net
+0.0.0.0 tracker.thinkindot.com
 0.0.0.0 ttauri.laptopmag.com
 0.0.0.0 d1rszqblq924lq.cloudfront.net
 0.0.0.0 d2o5idwacg3gyw.cloudfront.net
