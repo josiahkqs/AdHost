@@ -1,11 +1,9 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Sat, 13 Jun 2020 23:56:59 +0800
+# Last converted - Tue, 16 Jun 2020 15:36:28 +0800
 #
 
-0.0.0.0 xn--2qu92fhtx4ff.icu
-0.0.0.0 h41s.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 00880808.com
@@ -116,6 +114,7 @@
 0.0.0.0 1d1px.net
 0.0.0.0 1haosuo.com
 0.0.0.0 1i580.com
+0.0.0.0 1jsskipuf8sd.com
 0.0.0.0 1kmb.cn
 0.0.0.0 1kzh.com
 0.0.0.0 1l1.cc
@@ -188,6 +187,7 @@
 0.0.0.0 3975lm.com
 0.0.0.0 3alian.net
 0.0.0.0 3amall.cn
+0.0.0.0 3c3c3.com
 0.0.0.0 3dwwwgame.com
 0.0.0.0 3g.990.net
 0.0.0.0 3gmtr.com
@@ -596,6 +596,7 @@
 0.0.0.0 cais181.com
 0.0.0.0 caiyifz.com
 0.0.0.0 cangnews.com
+0.0.0.0 caodaye.com
 0.0.0.0 caolvch.com
 0.0.0.0 cardniu.com
 0.0.0.0 caredaily.me
@@ -967,6 +968,7 @@
 0.0.0.0 gzxiongwa.cn
 0.0.0.0 gzxxty168.com
 0.0.0.0 h0o33.cn
+0.0.0.0 h41s.com
 0.0.0.0 h501.cn
 0.0.0.0 h9377c.com
 0.0.0.0 hailuoxiang.com
@@ -1464,6 +1466,7 @@
 0.0.0.0 njcn888.com
 0.0.0.0 njdijiani.com
 0.0.0.0 njfsk.com
+0.0.0.0 njhj.cc
 0.0.0.0 njjrlf.com
 0.0.0.0 njmpacc.com
 0.0.0.0 njq.net
@@ -2097,6 +2100,7 @@
 0.0.0.0 xmshqh.com
 0.0.0.0 xmtsyg.com
 0.0.0.0 xmxxwl.com
+0.0.0.0 xn--2qu92fhtx4ff.icu
 0.0.0.0 xn--2qu92fhtx4ff.site
 0.0.0.0 xn--2qu96gouvko1a.com
 0.0.0.0 xn--2quz8f01ak10c.shop
@@ -3511,6 +3515,7 @@
 0.0.0.0 5x0f.cn
 0.0.0.0 5zi2.top
 0.0.0.0 5zi3.top
+0.0.0.0 5zi5.top
 0.0.0.0 605296.com
 0.0.0.0 606w.cn
 0.0.0.0 609623.com
@@ -3571,6 +3576,7 @@
 0.0.0.0 abie15.top
 0.0.0.0 abie16.top
 0.0.0.0 abie17.top
+0.0.0.0 abie18.top
 0.0.0.0 abie25.top
 0.0.0.0 abie9.top
 0.0.0.0 abuse8.com
@@ -3994,6 +4000,7 @@
 0.0.0.0 gralfusnzpo004.top
 0.0.0.0 gralfusnzpo006.top
 0.0.0.0 gralfusnzpo007.top
+0.0.0.0 gralfusnzpo008.top
 0.0.0.0 grjs02.com
 0.0.0.0 grjs06.com
 0.0.0.0 grtnahd.cn
@@ -4601,12 +4608,14 @@
 0.0.0.0 sffxcwc.cn
 0.0.0.0 sguac.com
 0.0.0.0 shangyingwm.com
+0.0.0.0 shaque.vip
 0.0.0.0 she-ke.cn
 0.0.0.0 shenbimall.com
 0.0.0.0 shengchaopiao.cn
 0.0.0.0 shenhao258.top
 0.0.0.0 shenyunkeji.com
 0.0.0.0 shffcy.cn
+0.0.0.0 shforu.com
 0.0.0.0 shidailw.com
 0.0.0.0 shiguangyx.cn
 0.0.0.0 shjrwh.cn
@@ -4675,7 +4684,6 @@
 0.0.0.0 symae.cn
 0.0.0.0 symag.cn
 0.0.0.0 symah.cn
-0.0.0.0 shaque.vip
 0.0.0.0 syooys.com
 0.0.0.0 sysadult.cn
 0.0.0.0 sysal.cn
@@ -4878,6 +4886,7 @@
 0.0.0.0 xmljx.cn
 0.0.0.0 xmndrx.cn
 0.0.0.0 xmseaside.com
+0.0.0.0 xn--2qu92fhtx4ff.club
 0.0.0.0 xn--2qu92fhtx4ff.ink
 0.0.0.0 xn--2qu92fhtx4ff.ren
 0.0.0.0 xn--2qux23c9ziyrq.icu
@@ -4937,6 +4946,7 @@
 0.0.0.0 yikuaiqian.com.cn
 0.0.0.0 yimai51.cn
 0.0.0.0 yimeize.cn
+0.0.0.0 yingjiawm.com
 0.0.0.0 yinlt.com
 0.0.0.0 yinzantouzi.com
 0.0.0.0 yiqima.xyz
@@ -4946,6 +4956,7 @@
 0.0.0.0 yizhijin.cn
 0.0.0.0 yjiaj.com
 0.0.0.0 yljmeishi.cn
+0.0.0.0 ylkqw.com
 0.0.0.0 ymmdpk.cn
 0.0.0.0 ynbzxh.com
 0.0.0.0 yndushi.cn
