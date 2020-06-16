@@ -27,3 +27,4 @@ graph.facebook.com # FB mobile app too function properly
 api.pinterest.com # Pinterest app to function properly
 prod-rel-ffc-ccm.oobesaas.adobe.com # Adobe Creative Cloud to function properly
 lm.licenses.adobe.com # Adobe
+s3-us-west-2.amazonaws.com # Amazon images CDN
