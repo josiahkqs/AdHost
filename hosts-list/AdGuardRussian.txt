@@ -1,9 +1,15 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 16 Jun 2020 15:36:32 +0800
+# Last converted - Fri, 19 Jun 2020 09:19:43 +0800
 #
 
+0.0.0.0 kvcd7w375h.ru
+0.0.0.0 vzrufh.com
+0.0.0.0 park.realadev.ru
+0.0.0.0 luyfrk.com
+0.0.0.0 tcrybv.com
+0.0.0.0 xguqeh.com
 0.0.0.0 instreamatic.com
 0.0.0.0 ankunding.biz
 0.0.0.0 zismone.ru
@@ -418,7 +424,6 @@
 0.0.0.0 ad.1k3.com
 0.0.0.0 rongeundhis.ru
 0.0.0.0 kira5.ru
-0.0.0.0 ftd.agency
 0.0.0.0 1bfc228b50a902db.com
 0.0.0.0 wellbc6.website
 0.0.0.0 cdn.debitcrebit669.com
@@ -2899,7 +2904,7 @@
 0.0.0.0 redflu.ru
 0.0.0.0 redsquare.rambler.ru
 0.0.0.0 redsurf.ru
-0.0.0.0 redtram.com,empty
+0.0.0.0 redtram.com
 0.0.0.0 redvase.bravenet.com
 0.0.0.0 refbanners.website
 0.0.0.0 refer.ru
