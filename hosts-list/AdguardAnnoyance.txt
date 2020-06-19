@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Tue, 16 Jun 2020 15:36:31 +0800
+# Last converted - Fri, 19 Jun 2020 09:19:42 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -14,6 +14,8 @@
 0.0.0.0 causecherry.com
 0.0.0.0 hocgeese.com
 0.0.0.0 habitualhumor.com
+0.0.0.0 dapperdiscussion.com
+0.0.0.0 curvycry.com
 0.0.0.0 lindenhurstsneads.doyondeville.com
 0.0.0.0 willseyvillefingerville.polaccafaison.com
 0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
@@ -293,6 +295,9 @@
 0.0.0.0 loboclick.com
 0.0.0.0 aristianewr.club
 0.0.0.0 reprocautious.com
+0.0.0.0 vergilimus.com
+0.0.0.0 dlyakleopushey.ru
+0.0.0.0 sendsay.ru
 0.0.0.0 cdn.pushowl.com
 0.0.0.0 neutralen.nl
 0.0.0.0 xhamsterpremium.com
