@@ -1,9 +1,10 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Tue, 16 Jun 2020 15:36:32 +0800
+# Last converted - Fri, 19 Jun 2020 09:19:43 +0800
 #
 
+0.0.0.0 wtag.estlier.net
 0.0.0.0 ulclick.ru
 0.0.0.0 phoenix-widget.com
 0.0.0.0 collector.getyourguide.com
@@ -2830,7 +2831,6 @@
 0.0.0.0 userdmp.com
 0.0.0.0 userlook.com
 0.0.0.0 userneeds.dk
-0.0.0.0 userreport.com
 0.0.0.0 users.51.la
 0.0.0.0 usuarios-online.com
 0.0.0.0 uzrating.com
@@ -3092,6 +3092,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 curvycry.com
 0.0.0.0 habitualhumor.com
 0.0.0.0 hocgeese.com
 0.0.0.0 dapperdiscussion.com
@@ -3375,6 +3376,8 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 d2wlwbnaa4keje.cloudfront.net
+0.0.0.0 api.mediarithmics.com
 0.0.0.0 d5etv3akk3gsa.cloudfront.net
 0.0.0.0 tracker.thinkindot.com
 0.0.0.0 ttauri.laptopmag.com
