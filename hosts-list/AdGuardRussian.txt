@@ -1,9 +1,10 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 19 Jun 2020 09:19:43 +0800
+# Last converted - Thu, 25 Jun 2020 00:08:03 +0800
 #
 
+0.0.0.0 unfeaecmhszmsx.com
 0.0.0.0 kvcd7w375h.ru
 0.0.0.0 vzrufh.com
 0.0.0.0 park.realadev.ru
@@ -1654,7 +1655,6 @@
 0.0.0.0 gearnews.info
 0.0.0.0 gegmanu.info
 0.0.0.0 geotraff.com
-0.0.0.0 geracbv.leohd59.ru
 0.0.0.0 gerberka.com
 0.0.0.0 gerpkshe.com
 0.0.0.0 get-ads.ru
