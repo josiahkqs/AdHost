@@ -1,7 +1,7 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Fri, 19 Jun 2020 09:19:39 +0800
+# Last converted - Thu, 25 Jun 2020 00:07:59 +0800
 #
 
 0.0.0.0 ubmcmm.baidustatic.com
@@ -1080,6 +1080,7 @@
 0.0.0.0 hzlm.cc
 0.0.0.0 hzmiyou.cn
 0.0.0.0 hzxma.com
+0.0.0.0 hzyyhz.cn
 0.0.0.0 i.zhuoyaju.com
 0.0.0.0 i000o.com
 0.0.0.0 i3818.com
@@ -1486,6 +1487,7 @@
 0.0.0.0 nongsalei.com
 0.0.0.0 nord-raum.com
 0.0.0.0 notice.uchome.manyou.com
+0.0.0.0 npvxkna.cn
 0.0.0.0 nr1234.com
 0.0.0.0 nszmz.com
 0.0.0.0 nterbx.com
@@ -1529,7 +1531,6 @@
 0.0.0.0 panel-cn.com
 0.0.0.0 papa999.xyz
 0.0.0.0 pay838.com
-0.0.0.0 pbpb.tv
 0.0.0.0 pcmzn.com
 0.0.0.0 pdsjycm.com
 0.0.0.0 pedailyu.com
@@ -2106,6 +2107,7 @@
 0.0.0.0 xmxxwl.com
 0.0.0.0 xn--2qu92fhtx4ff.icu
 0.0.0.0 xn--2qu92fhtx4ff.site
+0.0.0.0 xn--2qu92fhtx4ff.top
 0.0.0.0 xn--2qu96gouvko1a.com
 0.0.0.0 xn--2quz8f01ak10c.shop
 0.0.0.0 xn--2ssq0ktxigkq.com
@@ -2634,7 +2636,6 @@
 0.0.0.0 puudeng.com.tw
 0.0.0.0 qcvf.ifeng.com
 0.0.0.0 qd.x4399.com
-0.0.0.0 qn.bejson.com
 0.0.0.0 resource.baomihua.com
 0.0.0.0 rh.qq.com
 0.0.0.0 sa.sina.cn
@@ -3156,6 +3157,7 @@
 0.0.0.0 m1.vodjk.com
 0.0.0.0 m1.we556.com
 0.0.0.0 ma1.meishij.net
+0.0.0.0 main.jiukang.org
 0.0.0.0 matwbp.iask.sina.com.cn
 0.0.0.0 mb.gulongbbs.com
 0.0.0.0 mbjb1.girl13.com
@@ -3423,11 +3425,9 @@
 0.0.0.0 runkao.net
 0.0.0.0 stunninglover.com
 0.0.0.0 watakaw133.xyz
-0.0.0.0 cnliken.com
-0.0.0.0 zazkkk.com
-0.0.0.0 soueki.com
-0.0.0.0 shaquevip.oss-cn-zhangjiakou.aliyuncs.com
-0.0.0.0 0615nxbsho.xyz
+0.0.0.0 6789.run
+0.0.0.0 vadioc.cn
+0.0.0.0 myyxapp.com
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3447,6 +3447,7 @@
 0.0.0.0 0530hz.cn
 0.0.0.0 0551zgz.com
 0.0.0.0 0601chruopjsm.xyz
+0.0.0.0 0615nxbsho.xyz
 0.0.0.0 0755man.cn
 0.0.0.0 0851ok.com
 0.0.0.0 0923csfsteibv12.xyz
@@ -3492,6 +3493,7 @@
 0.0.0.0 365yigou.cn
 0.0.0.0 36ia2.cn
 0.0.0.0 3y0h.cn
+0.0.0.0 3ye924.cn
 0.0.0.0 40ic.cn
 0.0.0.0 45le.cn
 0.0.0.0 45xa.cn
@@ -3621,6 +3623,7 @@
 0.0.0.0 ali2b.xyz
 0.0.0.0 ali2d.xyz
 0.0.0.0 ali2f.xyz
+0.0.0.0 alibdl.xyz
 0.0.0.0 alibdn.xyz
 0.0.0.0 aligiao.info
 0.0.0.0 alitx963.com
@@ -3743,6 +3746,7 @@
 0.0.0.0 cepegas.com
 0.0.0.0 cewbeyy.com
 0.0.0.0 ceyiuy.com
+0.0.0.0 cf89.gold
 0.0.0.0 cfdanet.com
 0.0.0.0 cfhijdsb.cn
 0.0.0.0 cgaij.com
@@ -3776,6 +3780,7 @@
 0.0.0.0 cn-3drp.com
 0.0.0.0 cniuv.com
 0.0.0.0 cnlhg.cn
+0.0.0.0 cnliken.com
 0.0.0.0 cnshef.com
 0.0.0.0 cnxmyb.cn
 0.0.0.0 cnyibs.com
@@ -4474,6 +4479,7 @@
 0.0.0.0 osndy.com
 0.0.0.0 osvp2.cn
 0.0.0.0 oulvtrip.com
+0.0.0.0 paerst.cn
 0.0.0.0 panwenjun.top
 0.0.0.0 paochala.net
 0.0.0.0 pbvxtgn.cn
@@ -4569,6 +4575,7 @@
 0.0.0.0 rbywg.com
 0.0.0.0 rcaiu.com
 0.0.0.0 rcynoe.cn
+0.0.0.0 rdance.cn
 0.0.0.0 rdtylx.cn
 0.0.0.0 rdxhrd.com
 0.0.0.0 relaxspace.com.cn
@@ -4621,6 +4628,7 @@
 0.0.0.0 sguac.com
 0.0.0.0 shangyingwm.com
 0.0.0.0 shaque.vip
+0.0.0.0 shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 0.0.0.0 she-ke.cn
 0.0.0.0 shenbimall.com
 0.0.0.0 shengchaopiao.cn
@@ -4660,9 +4668,11 @@
 0.0.0.0 sonsang.cn
 0.0.0.0 sosjyx.com
 0.0.0.0 soso.ws
+0.0.0.0 soueki.com
 0.0.0.0 soyue.cc
 0.0.0.0 spahelani.com
 0.0.0.0 sqa4e.xyz
+0.0.0.0 sqtr1v.com
 0.0.0.0 sqwscy.com
 0.0.0.0 srrux.com
 0.0.0.0 ssdoi.com
@@ -4990,6 +5000,7 @@
 0.0.0.0 yrrsckr.cn
 0.0.0.0 ysjweb.com
 0.0.0.0 ytbnm.cn
+0.0.0.0 ytcard.cn
 0.0.0.0 ytdksb.com
 0.0.0.0 ytmaitian.com
 0.0.0.0 ytmaksim.cn
@@ -5017,6 +5028,7 @@
 0.0.0.0 z97g.cn
 0.0.0.0 zabxb.com
 0.0.0.0 zanghaihua.org
+0.0.0.0 zazkkk.com
 0.0.0.0 zbieo.com
 0.0.0.0 zcand.com
 0.0.0.0 zenwq.com
