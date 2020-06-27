@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Thu, 25 Jun 2020 00:08:07 +0800
+# Last converted - Sun, 28 Jun 2020 00:22:02 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1180,6 +1180,7 @@
 0.0.0.0 ironbeast.io
 0.0.0.0 ist-track.com
 0.0.0.0 istrack.com
+0.0.0.0 ithinkthereforeiam.net
 0.0.0.0 itrac.it
 0.0.0.0 itracker360.com
 0.0.0.0 itrackerpro.com
@@ -5763,6 +5764,7 @@
 0.0.0.0 geoip.silive.com
 0.0.0.0 geoip.syracuse.com
 0.0.0.0 geoip.viamichelin.com
+0.0.0.0 geolocation.forbes.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 gmonitor.aliimg.com
@@ -6346,7 +6348,6 @@
 0.0.0.0 heraldscotland-gb.heraldscotland.com
 0.0.0.0 isgprivacy.cbsi.com
 0.0.0.0 keighleynews-gb.keighleynews.co.uk
-0.0.0.0 mdn.neowin.net
 0.0.0.0 mmm.carbuyer.co.uk
 0.0.0.0 mms.blick.ch
 0.0.0.0 mms.gocomics.com
