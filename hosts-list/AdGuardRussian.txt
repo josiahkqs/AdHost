@@ -1,9 +1,14 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Thu, 25 Jun 2020 00:08:03 +0800
+# Last converted - Sun, 28 Jun 2020 00:21:58 +0800
 #
 
+0.0.0.0 dzrs3yuexz.com
+0.0.0.0 h7fy4ur0in94g016.in.net
+0.0.0.0 giprnh.com
+0.0.0.0 ebjfjdaagjhdchgfacg.ru
+0.0.0.0 wcgthe.com
 0.0.0.0 unfeaecmhszmsx.com
 0.0.0.0 kvcd7w375h.ru
 0.0.0.0 vzrufh.com
