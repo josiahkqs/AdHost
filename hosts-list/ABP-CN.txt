@@ -1,9 +1,10 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Thu, 25 Jun 2020 00:07:59 +0800
+# Last converted - Sun, 28 Jun 2020 00:21:54 +0800
 #
 
+0.0.0.0 jujumuqu123.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 00880808.com
@@ -835,6 +836,7 @@
 0.0.0.0 eyd77s.com
 0.0.0.0 eyouv.cn
 0.0.0.0 ez33.com
+0.0.0.0 ezlian.com
 0.0.0.0 f1190.com
 0.0.0.0 f11w.com
 0.0.0.0 f1zd.com
@@ -1278,6 +1280,7 @@
 0.0.0.0 koukou7.com
 0.0.0.0 kouwku.cn
 0.0.0.0 kqy1.com
+0.0.0.0 ksxcxb.cn
 0.0.0.0 kt220.com
 0.0.0.0 ktunions.com
 0.0.0.0 ktv0311.com
@@ -1520,6 +1523,7 @@
 0.0.0.0 openxt.cn
 0.0.0.0 oq68.com
 0.0.0.0 orchidscape.net
+0.0.0.0 original-empire.com
 0.0.0.0 oumazg.com
 0.0.0.0 overlordtea.cn
 0.0.0.0 oxrm.com
@@ -2247,6 +2251,7 @@
 0.0.0.0 yule8.net
 0.0.0.0 yunfanlm.com
 0.0.0.0 yunmowu.com
+0.0.0.0 yunrong360.com
 0.0.0.0 yunsoka.com
 0.0.0.0 yuu360.com
 0.0.0.0 yuyanbaojie.cn
@@ -3425,9 +3430,8 @@
 0.0.0.0 runkao.net
 0.0.0.0 stunninglover.com
 0.0.0.0 watakaw133.xyz
-0.0.0.0 6789.run
-0.0.0.0 vadioc.cn
-0.0.0.0 myyxapp.com
+0.0.0.0 oycslib.xyz
+0.0.0.0 simarl.com
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3518,6 +3522,7 @@
 0.0.0.0 5dydk.com
 0.0.0.0 5hytr.xyz
 0.0.0.0 5mbd2.com
+0.0.0.0 5p68n.cn
 0.0.0.0 5pb266.com
 0.0.0.0 5q68n.cn
 0.0.0.0 5t4o.cn
@@ -3534,6 +3539,7 @@
 0.0.0.0 66992.top
 0.0.0.0 66993.top
 0.0.0.0 66994.top
+0.0.0.0 6789.run
 0.0.0.0 688ct.com
 0.0.0.0 6945k6.cn
 0.0.0.0 69yll.cn
@@ -3571,6 +3577,7 @@
 0.0.0.0 9pb0h.cn
 0.0.0.0 9y88.com
 0.0.0.0 aa.wenxue6.com
+0.0.0.0 aa13.cloud
 0.0.0.0 aaan.xyz
 0.0.0.0 aaaw.xyz
 0.0.0.0 aabbccddeeffgg.cn
@@ -4085,6 +4092,7 @@
 0.0.0.0 hfyxdl.com
 0.0.0.0 hgdanbas.cn
 0.0.0.0 hguas.com
+0.0.0.0 hhhw.ren
 0.0.0.0 hhjkl.cc
 0.0.0.0 hhslbz.cn
 0.0.0.0 hiffyl.com
@@ -4403,6 +4411,7 @@
 0.0.0.0 mysty.com.cn
 0.0.0.0 myuf6.xyz
 0.0.0.0 myycrw.com
+0.0.0.0 myyxapp.com
 0.0.0.0 mzclass.club
 0.0.0.0 nabeghlavi.com.cn
 0.0.0.0 nainaimi.top
@@ -4632,6 +4641,7 @@
 0.0.0.0 she-ke.cn
 0.0.0.0 shenbimall.com
 0.0.0.0 shengchaopiao.cn
+0.0.0.0 shengdaoyiliao.com
 0.0.0.0 shenhao258.top
 0.0.0.0 shenyunkeji.com
 0.0.0.0 shffcy.cn
@@ -4792,6 +4802,7 @@
 0.0.0.0 uwmoghx.cn
 0.0.0.0 uzyid.cn
 0.0.0.0 v44i.cn
+0.0.0.0 vadioc.cn
 0.0.0.0 vasb.cn
 0.0.0.0 vbanm.com
 0.0.0.0 vbnm888.com
@@ -4890,6 +4901,7 @@
 0.0.0.0 xhera.cn
 0.0.0.0 xiakelea.com
 0.0.0.0 xiangchim0.com
+0.0.0.0 xiangwangdesh.com
 0.0.0.0 xiansenmeng.cn
 0.0.0.0 xieyanmin.com.cn
 0.0.0.0 xindelin.cn
