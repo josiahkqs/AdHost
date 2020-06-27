@@ -1,9 +1,10 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Thu, 25 Jun 2020 00:08:03 +0800
+# Last converted - Sun, 28 Jun 2020 00:21:59 +0800
 #
 
+0.0.0.0 telemetry.swe.quicinc.com
 0.0.0.0 st.onlygip.tech
 0.0.0.0 analysis.fi
 0.0.0.0 tracker.plerdy.com
@@ -3379,6 +3380,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 stats.heyoya.com
 0.0.0.0 tracker.remp.impresa.pt
 0.0.0.0 bl.impresa.pt
 0.0.0.0 d2u1npnnqecmpq.cloudfront.net
