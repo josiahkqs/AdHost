@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Thu, 25 Jun 2020 00:08:02 +0800
+# Last converted - Sun, 28 Jun 2020 00:21:57 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -374,6 +374,7 @@
 0.0.0.0 gamesfortuna.com
 0.0.0.0 gas-saver.org
 0.0.0.0 getbonus.info
+0.0.0.0 glavnyenovosti.ru
 0.0.0.0 goodsbrowser.com
 0.0.0.0 idealmedia.io
 0.0.0.0 joneself.com
@@ -389,13 +390,16 @@
 0.0.0.0 medicineteaser.ru
 0.0.0.0 melbetpyy.host
 0.0.0.0 melbetqmq.host
+0.0.0.0 mfmfsfsfifmsmmssssfsffmmifsfi.online
 0.0.0.0 moi-goroskop.com
 0.0.0.0 my-eromir.net
 0.0.0.0 my-games-online.ru
 0.0.0.0 mycultures.ru
+0.0.0.0 newsfabric.ru
 0.0.0.0 novosti10.ru
 0.0.0.0 novosti3.ru
 0.0.0.0 novosticenter.ru
+0.0.0.0 novostidlyavas.ru.com
 0.0.0.0 panel.gemius.com.ua
 0.0.0.0 pin2me.com
 0.0.0.0 pop.sn00.net
@@ -411,15 +415,20 @@
 0.0.0.0 slivz.com
 0.0.0.0 smi.fm
 0.0.0.0 smi10.ru
+0.0.0.0 smi2020.ru.com
 0.0.0.0 smi2you.ru
+0.0.0.0 smi4u.ru
 0.0.0.0 smicenter.ml
 0.0.0.0 smicenter.ru
+0.0.0.0 smikitchen.ru
+0.0.0.0 superfacts.ru
 0.0.0.0 supersmi.cf
 0.0.0.0 supersmi.ga
 0.0.0.0 supersmi.gq
 0.0.0.0 survey.gemius.com.ua
 0.0.0.0 sysenvfiles.net
 0.0.0.0 test-studio.ru
+0.0.0.0 topsmi.ru.com
 0.0.0.0 tor-file.ru
 0.0.0.0 tor.manytorrents.pro
 0.0.0.0 torr.mediaget.com
@@ -1625,6 +1634,7 @@
 0.0.0.0 promobuster.net
 0.0.0.0 promofor.me
 0.0.0.0 promoloader.com
+0.0.0.0 pronpic.org
 0.0.0.0 propushka.com
 0.0.0.0 prospero.ru
 0.0.0.0 prospertinum.com
@@ -2577,6 +2587,7 @@
 0.0.0.0 alemobile.ru
 0.0.0.0 alemon.ru
 0.0.0.0 alfadart.com
+0.0.0.0 alfasense.com
 0.0.0.0 alfasoft.date
 0.0.0.0 algenib.ru
 0.0.0.0 ali-bestshop.ru
@@ -4198,6 +4209,7 @@
 0.0.0.0 gla4h2wbz4.space
 0.0.0.0 gladra.ru
 0.0.0.0 glammor.ru
+0.0.0.0 glavnyenovosti.ru
 0.0.0.0 glavrich.com
 0.0.0.0 globalsnslp.com
 0.0.0.0 globalteaser.com
@@ -4703,6 +4715,7 @@
 0.0.0.0 jkolp.com
 0.0.0.0 jktexpert.ru
 0.0.0.0 jljnh.top
+0.0.0.0 jlloshis.pro
 0.0.0.0 jloush.pro
 0.0.0.0 jlxzr.top
 0.0.0.0 jlzebszkilcz.ru
@@ -5046,6 +5059,7 @@
 0.0.0.0 lfi9fh.ru
 0.0.0.0 lfony.space
 0.0.0.0 lfovf.space
+0.0.0.0 lgtf.ru
 0.0.0.0 lhvmt5et8vq0.ru
 0.0.0.0 lhzmkyl.biz
 0.0.0.0 librarymedic.com
@@ -5239,6 +5253,7 @@
 0.0.0.0 malictuiar.com
 0.0.0.0 mallplg.com
 0.0.0.0 malokacha.club
+0.0.0.0 mampark.ru
 0.0.0.0 mamypos.com
 0.0.0.0 managedcollapsed.in
 0.0.0.0 manuelu.com
@@ -5382,6 +5397,7 @@
 0.0.0.0 meyonet.ru
 0.0.0.0 mezima.com
 0.0.0.0 mfatallp.com
+0.0.0.0 mfmfsfsfifmsmmssssfsffmmifsfi.online
 0.0.0.0 mforgood.life
 0.0.0.0 mgid.info
 0.0.0.0 mgogo.ru
@@ -5678,6 +5694,7 @@
 0.0.0.0 news24-24.ru
 0.0.0.0 news2you.ru
 0.0.0.0 newsanons.ru
+0.0.0.0 newsfabric.ru
 0.0.0.0 newshowto.info
 0.0.0.0 newskanal.ru
 0.0.0.0 newsmarket.pixarea.ru
@@ -5762,6 +5779,7 @@
 0.0.0.0 novosti10.ru
 0.0.0.0 novosti3.ru
 0.0.0.0 novosticenter.ru
+0.0.0.0 novostidlyavas.ru.com
 0.0.0.0 novostrus.ru
 0.0.0.0 novwolf.com
 0.0.0.0 now09.ru
@@ -6827,7 +6845,9 @@
 0.0.0.0 smartns.cdnvideo.ru
 0.0.0.0 smi.fm
 0.0.0.0 smi10.ru
+0.0.0.0 smi2020.ru.com
 0.0.0.0 smi2you.ru
+0.0.0.0 smi4u.ru
 0.0.0.0 smi6.info
 0.0.0.0 smicenter.ml
 0.0.0.0 smicenter.ru
@@ -6835,8 +6855,10 @@
 0.0.0.0 smiinformer.com
 0.0.0.0 smiinformer1.com
 0.0.0.0 smiinformeri.online
+0.0.0.0 smikitchen.ru
 0.0.0.0 smimarket.com
 0.0.0.0 smitham.org
+0.0.0.0 smklso.com
 0.0.0.0 smonstr.ru
 0.0.0.0 smpbhfiwr.com
 0.0.0.0 smvhv.space
@@ -6961,6 +6983,7 @@
 0.0.0.0 superbestvideo.ru
 0.0.0.0 supercampfire.com
 0.0.0.0 superdigitalsupport.ru
+0.0.0.0 superfacts.ru
 0.0.0.0 superfastcomputer.ru
 0.0.0.0 superfilms.ru
 0.0.0.0 superkinobob.ru
@@ -7253,6 +7276,7 @@
 0.0.0.0 tophin.ru
 0.0.0.0 topisiders.ru
 0.0.0.0 toplaygame.ru
+0.0.0.0 topsmi.ru.com
 0.0.0.0 toraccept.ru
 0.0.0.0 torgdom.biz
 0.0.0.0 torguz.ru
@@ -7951,6 +7975,7 @@
 0.0.0.0 xpbgo.top
 0.0.0.0 xpicw.top
 0.0.0.0 xptvk.com
+0.0.0.0 xq5tf4nfccrb.info
 0.0.0.0 xr-tds.com
 0.0.0.0 xrb3w.ru
 0.0.0.0 xs-tds.com
@@ -8860,6 +8885,7 @@
 0.0.0.0 prom.x-lime.net
 0.0.0.0 qmp3.cc
 0.0.0.0 quazito.com
+0.0.0.0 r.z1.fm
 0.0.0.0 ratke.biz
 0.0.0.0 rd-forum.ru
 0.0.0.0 reactor.cc
