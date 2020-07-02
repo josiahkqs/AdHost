@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Sun, 28 Jun 2020 00:21:58 +0800
+# Last converted - Thu, 02 Jul 2020 11:17:46 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -29,6 +29,10 @@
 0.0.0.0 lindenhurstsneads.doyondeville.com
 0.0.0.0 willseyvillefingerville.polaccafaison.com
 0.0.0.0 ttauri.toptenreviews.com
+0.0.0.0 consent.cookiefirst.com
+0.0.0.0 hs-banner.com
+0.0.0.0 hs-scripts.com
+0.0.0.0 cookiehub.net
 0.0.0.0 cdn.opencmp.net
 0.0.0.0 cookie-switch.viminds.de
 0.0.0.0 cookieinfoscript.com
@@ -109,6 +113,7 @@
 0.0.0.0 pushofferpro.com
 0.0.0.0 leechiza.net
 0.0.0.0 pushtora.com
+0.0.0.0 gerdonarium.com
 0.0.0.0 monstelenius.com
 0.0.0.0 bmfeed.ru
 0.0.0.0 pathfootprint.com
@@ -118,7 +123,6 @@
 0.0.0.0 hrbpark.bid
 0.0.0.0 dolweerum.com
 0.0.0.0 getpush.org
-0.0.0.0 cdn.mp3bars.com
 0.0.0.0 trenrasius.com
 0.0.0.0 aswpsdkus.com
 0.0.0.0 sereendipit.com
@@ -301,6 +305,7 @@
 0.0.0.0 vergilimus.com
 0.0.0.0 dlyakleopushey.ru
 0.0.0.0 sendsay.ru
+0.0.0.0 serumawus.com
 0.0.0.0 cdn.pushowl.com
 0.0.0.0 neutralen.nl
 0.0.0.0 xhamsterpremium.com
