@@ -1,9 +1,18 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Sun, 28 Jun 2020 00:21:59 +0800
+# Last converted - Thu, 02 Jul 2020 11:17:47 +0800
 #
 
+0.0.0.0 datadome.co
+0.0.0.0 mpianalytics.com
+0.0.0.0 realytics.net
+0.0.0.0 eue.d-teknoloji.com.tr
+0.0.0.0 track.thevtk.com
+0.0.0.0 track.mp3vizor.com
+0.0.0.0 track.mp3bars.com
+0.0.0.0 hs-scripts.com
+0.0.0.0 sjsmartcontent.org
 0.0.0.0 telemetry.swe.quicinc.com
 0.0.0.0 st.onlygip.tech
 0.0.0.0 analysis.fi
@@ -1266,7 +1275,6 @@
 0.0.0.0 find-ip-address.org
 0.0.0.0 finderlocator.com
 0.0.0.0 fishhoo.com
-0.0.0.0 fitanalytics.com
 0.0.0.0 fixcounter.com
 0.0.0.0 fixwap.net
 0.0.0.0 flagcounter.com
@@ -3096,6 +3104,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 carpentercomparison.com
 0.0.0.0 curvycry.com
 0.0.0.0 habitualhumor.com
 0.0.0.0 hocgeese.com
@@ -4090,7 +4099,7 @@
 0.0.0.0 metric-agent.i10c.net
 0.0.0.0 az416426.vo.msecnd.net
 0.0.0.0 a.klaviyo.com
-0.0.0.0 t.kctag.net
+0.0.0.0 kctag.net
 0.0.0.0 mpc.nicequest.com
 0.0.0.0 collector-analytics.efigence.com
 0.0.0.0 stat.kununu.cz
