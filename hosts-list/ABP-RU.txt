@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Sun, 28 Jun 2020 00:21:57 +0800
+# Last converted - Thu, 02 Jul 2020 11:17:45 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -396,6 +396,7 @@
 0.0.0.0 my-games-online.ru
 0.0.0.0 mycultures.ru
 0.0.0.0 newsfabric.ru
+0.0.0.0 novosti-online.ga
 0.0.0.0 novosti10.ru
 0.0.0.0 novosti3.ru
 0.0.0.0 novosticenter.ru
@@ -2925,6 +2926,7 @@
 0.0.0.0 bench55.me
 0.0.0.0 bequri.com
 0.0.0.0 berdent.com
+0.0.0.0 bergfi.com
 0.0.0.0 beriche.ru
 0.0.0.0 berle.ru
 0.0.0.0 beroll.ru
@@ -2966,6 +2968,7 @@
 0.0.0.0 bigleads.ru
 0.0.0.0 bigpigcz.club
 0.0.0.0 bigreal.org
+0.0.0.0 bigrstr.com
 0.0.0.0 bigrtrust.ru
 0.0.0.0 bilation.com
 0.0.0.0 bin40.com
@@ -3003,6 +3006,7 @@
 0.0.0.0 bm01qsxpovek.pro
 0.0.0.0 bme9usxpo.tech
 0.0.0.0 bmgo.life
+0.0.0.0 bmrdrct.best
 0.0.0.0 bnjoajn5dfhbbam.ru
 0.0.0.0 bnlif.com
 0.0.0.0 bnrdom.com
@@ -3234,6 +3238,7 @@
 0.0.0.0 cheff77.info
 0.0.0.0 cherryplane.com
 0.0.0.0 chickenfrutty.com
+0.0.0.0 chik.ru
 0.0.0.0 chikhanos.info
 0.0.0.0 china-air.ru
 0.0.0.0 choco-wonka.info
@@ -3606,6 +3611,7 @@
 0.0.0.0 digisets.com
 0.0.0.0 digital-forest.info
 0.0.0.0 digitalbox.ru
+0.0.0.0 digitalcombine.ru
 0.0.0.0 digitaltarget.ru
 0.0.0.0 digitello.agency
 0.0.0.0 dik-news1.club
@@ -3628,6 +3634,7 @@
 0.0.0.0 directtogo.ru
 0.0.0.0 diriba.ru
 0.0.0.0 disklaimer.ru
+0.0.0.0 disp-x.space
 0.0.0.0 disredi.ru
 0.0.0.0 disterme.com
 0.0.0.0 dizzyac.com
@@ -3975,6 +3982,7 @@
 0.0.0.0 fejla.com
 0.0.0.0 fek5erxlnale.top
 0.0.0.0 ferganils.com
+0.0.0.0 fermerrekrb.bid
 0.0.0.0 fetalli.com
 0.0.0.0 fextor.ru
 0.0.0.0 ffdjxcg4agnipwv.ru
@@ -4194,6 +4202,7 @@
 0.0.0.0 gioorrs.pro
 0.0.0.0 giosany.com
 0.0.0.0 giotyo.com
+0.0.0.0 giprnh.com
 0.0.0.0 girkali.ru
 0.0.0.0 girlz42night.biz
 0.0.0.0 gislason.net
@@ -4362,6 +4371,7 @@
 0.0.0.0 hcaepj7devesma.ru
 0.0.0.0 hcowzr7dedquas.ru
 0.0.0.0 hcqnm.us
+0.0.0.0 hd.gg33.top
 0.0.0.0 hd720biz.com
 0.0.0.0 hdacode.com
 0.0.0.0 hdbcode.com
@@ -4533,6 +4543,7 @@
 0.0.0.0 ihlasbe.ru
 0.0.0.0 iholot.ru
 0.0.0.0 ihqht.com
+0.0.0.0 iidfxj.com
 0.0.0.0 ijacgw.com
 0.0.0.0 ijdenha.ru
 0.0.0.0 ijgs5i.ru
@@ -4951,6 +4962,7 @@
 0.0.0.0 kuveres.com
 0.0.0.0 kvihit.com
 0.0.0.0 kvvadrat.net
+0.0.0.0 kwtrdd.com
 0.0.0.0 kxvzsil2.ru
 0.0.0.0 kxye9.gdn
 0.0.0.0 kypivukypi.ru
@@ -5032,6 +5044,7 @@
 0.0.0.0 lekane.net
 0.0.0.0 leleorix.ru
 0.0.0.0 lelerum.ru
+0.0.0.0 lend-rb.bid
 0.0.0.0 lenmit.com
 0.0.0.0 lentouch.info
 0.0.0.0 leofur.ru
@@ -5390,6 +5403,7 @@
 0.0.0.0 meseal.bget.ru
 0.0.0.0 mesopo.ru
 0.0.0.0 message-site.net
+0.0.0.0 messiupal.com
 0.0.0.0 mestmaster.ru
 0.0.0.0 metafakufovu.ru
 0.0.0.0 metaliners.ru
@@ -5776,6 +5790,7 @@
 0.0.0.0 novfox2.com
 0.0.0.0 novinkifilmov.com
 0.0.0.0 novinkiki.ru
+0.0.0.0 novosti-online.ga
 0.0.0.0 novosti10.ru
 0.0.0.0 novosti3.ru
 0.0.0.0 novosticenter.ru
@@ -6567,6 +6582,7 @@
 0.0.0.0 rt-ttt.ru
 0.0.0.0 rtb-media.ru
 0.0.0.0 rtb.com.ru
+0.0.0.0 rtb.mts.ru
 0.0.0.0 rtbads.com
 0.0.0.0 rtbads.info
 0.0.0.0 rtbclick.net
@@ -6740,6 +6756,7 @@
 0.0.0.0 sernow.ru
 0.0.0.0 seroit.ru
 0.0.0.0 serolan.com
+0.0.0.0 serumawus.com
 0.0.0.0 serv.prison-bot.ru
 0.0.0.0 serv7553.ru
 0.0.0.0 servantolog.ru
@@ -7005,6 +7022,7 @@
 0.0.0.0 svegt.com
 0.0.0.0 sveklon.com
 0.0.0.0 svekol.com
+0.0.0.0 svekolasg.pro
 0.0.0.0 svekolnik.com
 0.0.0.0 svitnews.com
 0.0.0.0 svk-native.ru
@@ -7477,6 +7495,7 @@
 0.0.0.0 under-click.ru
 0.0.0.0 undere.com
 0.0.0.0 undrithadat.ru
+0.0.0.0 unfeaecmhszmsx.com
 0.0.0.0 unholyrsounds.in
 0.0.0.0 unikuni.com
 0.0.0.0 uniontraff.com
@@ -7871,6 +7890,7 @@
 0.0.0.0 wmrak.com
 0.0.0.0 wmrfast.com
 0.0.0.0 wmsites.ru
+0.0.0.0 wnpbdan.bid
 0.0.0.0 woazowup.net
 0.0.0.0 wokoq.com
 0.0.0.0 wom8day.ru
