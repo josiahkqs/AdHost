@@ -1,9 +1,18 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sun, 28 Jun 2020 00:21:58 +0800
+# Last converted - Thu, 02 Jul 2020 11:17:46 +0800
 #
 
+0.0.0.0 takidd.site
+0.0.0.0 daklatasvir.su
+0.0.0.0 thevtk.com
+0.0.0.0 mp3vizor.com
+0.0.0.0 mp3bars.com
+0.0.0.0 annrdf.com
+0.0.0.0 yycjho.com
+0.0.0.0 ivnakaa.pro
+0.0.0.0 traficon.pro
 0.0.0.0 dzrs3yuexz.com
 0.0.0.0 h7fy4ur0in94g016.in.net
 0.0.0.0 giprnh.com
@@ -170,7 +179,6 @@
 0.0.0.0 yanabmw.ru
 0.0.0.0 welldanius.com
 0.0.0.0 nzhfk.com
-0.0.0.0 thevtk.com
 0.0.0.0 susfvjh.pro
 0.0.0.0 ngjzmt.com
 0.0.0.0 adversting.riamedia.com.ua
@@ -3911,6 +3919,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 abid.w38store.ru
 0.0.0.0 b.kakoysegodnyaprazdnik.ru
 0.0.0.0 gorod.tunt.lv
 0.0.0.0 rek1.gtorrent.org
@@ -3931,7 +3940,7 @@
 0.0.0.0 embed.tonews.org
 0.0.0.0 ew.politros.com
 0.0.0.0 info.inamo.ru
-0.0.0.0 up.gtorrent.ru
+0.0.0.0 up.gtorrent.org
 0.0.0.0 ad.velomania.ru
 0.0.0.0 a.kidstaff.net
 0.0.0.0 d1uw69x4c2zrim.cloudfront.net
