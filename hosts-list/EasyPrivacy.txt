@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Thu, 02 Jul 2020 11:17:50 +0800
+# Last converted - Mon, 06 Jul 2020 14:38:51 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1975,6 +1975,7 @@
 0.0.0.0 silverpush.co
 0.0.0.0 simonsignal.com
 0.0.0.0 simpleanalytics.io
+0.0.0.0 simpleanalyticscdn.com
 0.0.0.0 simpleheatmaps.com
 0.0.0.0 simplehitcounter.com
 0.0.0.0 simplereach.com
@@ -3774,6 +3775,7 @@
 0.0.0.0 i2i.jp
 0.0.0.0 iid-network.jp
 0.0.0.0 im-apps.net
+0.0.0.0 interactive-circle.jp
 0.0.0.0 iogous.com
 0.0.0.0 kaizenplatform.net
 0.0.0.0 keyword-match.com
@@ -4565,6 +4567,7 @@
 0.0.0.0 hpr.outbrain.com
 0.0.0.0 i.compendium.com
 0.0.0.0 i.viafoura.co
+0.0.0.0 iabusprivacy.pmc.com
 0.0.0.0 ib.adnxs.com
 0.0.0.0 icu.getstorybox.com
 0.0.0.0 imagedoll.com
@@ -4669,6 +4672,7 @@
 0.0.0.0 mmi.bemobile.ua
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 mqs.ioam.de
+0.0.0.0 mtrcs.samba.tv
 0.0.0.0 mts.mansion.com
 0.0.0.0 mv.treehousei.com
 0.0.0.0 myscoop-tracking.googlecode.com
@@ -4706,6 +4710,7 @@
 0.0.0.0 perf.dugout.com
 0.0.0.0 performance.typekit.net
 0.0.0.0 perr.h-cdn.com
+0.0.0.0 perso.aws.arc.pub
 0.0.0.0 petitionermaster.appspot.com
 0.0.0.0 phantom.nudgespot.com
 0.0.0.0 phoenix.untd.com
@@ -4726,6 +4731,7 @@
 0.0.0.0 pixel.fanbridge.com
 0.0.0.0 pixel.glimr.io
 0.0.0.0 pixel.newscred.com
+0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.roymorgan.com
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.solvemedia.com
@@ -4937,6 +4943,7 @@
 0.0.0.0 track.contently.com
 0.0.0.0 track.cordial.io
 0.0.0.0 track.digitalriver.com
+0.0.0.0 track.hubspot.com
 0.0.0.0 track.juno.com
 0.0.0.0 track.leadin.com
 0.0.0.0 track.mailerlite.com
@@ -5083,6 +5090,7 @@
 0.0.0.0 wstat.wibiya.com
 0.0.0.0 x.weather.com
 0.0.0.0 zdlogs.sphereup.com
+0.0.0.0 frog.wix.com$ping
 0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
 0.0.0.0 rc.vtex.com.br
 0.0.0.0 ref.dealerinspire.com
@@ -5506,6 +5514,7 @@
 0.0.0.0 pixel.zumby.io
 0.0.0.0 reachandrich.antevenio.com
 0.0.0.0 stats.miarroba.info
+0.0.0.0 tag.shopping-feed.com
 0.0.0.0 tracker.thinkindot.com
 0.0.0.0 collector.schibsted.io
 0.0.0.0 counter.mtgnewmedia.se
@@ -5675,6 +5684,7 @@
 0.0.0.0 counter.theconversation.edu.au
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 cpt.itv.com
+0.0.0.0 crta.metro.co.uk
 0.0.0.0 customeriomail.codecademy.com
 0.0.0.0 d.ghostery.com
 0.0.0.0 d1.abtshield.com
@@ -5773,7 +5783,6 @@
 0.0.0.0 geoip.syracuse.com
 0.0.0.0 geoip.viamichelin.com
 0.0.0.0 geolocation.forbes.com
-0.0.0.0 gj.mmstat.com
 0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 gmonitor.aliimg.com
 0.0.0.0 gnar.grammarly.com
@@ -5890,7 +5899,6 @@
 0.0.0.0 omniture.stuff.co.nz
 0.0.0.0 omniture.theglobeandmail.com
 0.0.0.0 oms.expedia.com
-0.0.0.0 oneid.mmstat.com
 0.0.0.0 open.mkt1397.com
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimize-stats.voxmedia.com
@@ -5962,11 +5970,13 @@
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rtn.thestar.com
+0.0.0.0 rum.kobo.com
 0.0.0.0 rv.modanisa.com
 0.0.0.0 s.infogram.com
 0.0.0.0 s.youtube.com
 0.0.0.0 sa.bbc.co.uk
 0.0.0.0 sa.squareup.com
+0.0.0.0 sa135.kiro7.com
 0.0.0.0 sa135.macworld.co.uk
 0.0.0.0 sa135.wsbtv.com
 0.0.0.0 sana.newsinc.com.s3.amazonaws.com
@@ -6316,6 +6326,8 @@
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zeus.slader.com
 0.0.0.0 zion.api.cnn.io
+0.0.0.0 gj.mmstat.com
+0.0.0.0 oneid.mmstat.com
 0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
 0.0.0.0 bucksfreepress-gb.bucksfreepress.co.uk
 0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
@@ -6875,6 +6887,7 @@
 0.0.0.0 stats.proff.no
 0.0.0.0 webhit.aftenposten.no
 0.0.0.0 analytics.gazeta.pl
+0.0.0.0 collect.state.centrum24.pl
 0.0.0.0 dot.wp.pl
 0.0.0.0 entryhit.wp.pl
 0.0.0.0 iwa.iplsc.com
