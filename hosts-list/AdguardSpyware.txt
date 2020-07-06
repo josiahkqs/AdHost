@@ -1,9 +1,11 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Thu, 02 Jul 2020 11:17:47 +0800
+# Last converted - Mon, 06 Jul 2020 14:38:48 +0800
 #
 
+0.0.0.0 clarivoy.com
+0.0.0.0 aufp.io
 0.0.0.0 datadome.co
 0.0.0.0 mpianalytics.com
 0.0.0.0 realytics.net
@@ -3389,6 +3391,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 stores-counters.wix.com
 0.0.0.0 stats.heyoya.com
 0.0.0.0 tracker.remp.impresa.pt
 0.0.0.0 bl.impresa.pt
@@ -4843,7 +4846,6 @@
 0.0.0.0 w88.espn.com
 0.0.0.0 wtsdc.uhc.com
 0.0.0.0 xtag.autotrader.com
-0.0.0.0 xtag.kbb.com
 0.0.0.0 zdlogs.sphereup.com
 0.0.0.0 log.musical.ly
 0.0.0.0 log2.musical.ly
