@@ -1,10 +1,21 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Mon, 06 Jul 2020 14:38:48 +0800
+# Last converted - Mon, 13 Jul 2020 12:00:04 +0800
 #
 
 0.0.0.0 takidd.site
+0.0.0.0 1rt0n.news
+0.0.0.0 mp-block.com
+0.0.0.0 superfloooow.com
+0.0.0.0 djhsfka.info
+0.0.0.0 deemnnc2ebecekx.ru
+0.0.0.0 mavenlohi.com
+0.0.0.0 shornunicorn.icu$document
+0.0.0.0 phytotyper.com$document
+0.0.0.0 rtb.trade$document
+0.0.0.0 tend-new.com
+0.0.0.0 iidfxj.com
 0.0.0.0 qakdki.com
 0.0.0.0 franeski.net
 0.0.0.0 z.cdn.trafficlide.com
@@ -3923,6 +3934,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 mnfuk.chfpgcbe.com
 0.0.0.0 abid.w38store.ru
 0.0.0.0 b.kakoysegodnyaprazdnik.ru
 0.0.0.0 gorod.tunt.lv
