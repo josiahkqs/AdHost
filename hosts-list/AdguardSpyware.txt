@@ -1,9 +1,32 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Mon, 06 Jul 2020 14:38:48 +0800
+# Last converted - Mon, 13 Jul 2020 12:00:05 +0800
 #
 
+0.0.0.0 mcs.snssdk.com
+0.0.0.0 i.snssdk.com
+0.0.0.0 log-hl.snssdk.com
+0.0.0.0 ib.snssdk.com
+0.0.0.0 xlog.snssdk.com
+0.0.0.0 log.snssdk.com
+0.0.0.0 tagmanager.alright.network
+0.0.0.0 tattle.api.osano.com
+0.0.0.0 nta1vb6cdlrl.com
+0.0.0.0 js.rush-member.com
+0.0.0.0 js.passaro-de-fogo.biz
+0.0.0.0 js.mediams.mb.softbank.jp
+0.0.0.0 js.monetize-ssp.com
+0.0.0.0 minkatu.com
+0.0.0.0 udkcrj.com
+0.0.0.0 accaii.com
+0.0.0.0 astat.nikkei.com
+0.0.0.0 interactive-circle.jp
+0.0.0.0 stats.streamhub.io
+0.0.0.0 litix.io
+0.0.0.0 cdn.glassboxcdn.com
+0.0.0.0 glassboxdigital.io
+0.0.0.0 p.tinynewsfeed.com
 0.0.0.0 clarivoy.com
 0.0.0.0 aufp.io
 0.0.0.0 datadome.co
@@ -225,7 +248,6 @@
 0.0.0.0 api.cazamba.com
 0.0.0.0 maliva-mcs.byteoversea.com
 0.0.0.0 sgali-mcs.byteoversea.com
-0.0.0.0 mcs.snssdk.com
 0.0.0.0 mcs.byted.org
 0.0.0.0 1dmp.io
 0.0.0.0 wheredoyoucomefrom.ovh
@@ -3106,6 +3128,8 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 overconfidentfood.com
+0.0.0.0 strangesink.com
 0.0.0.0 carpentercomparison.com
 0.0.0.0 curvycry.com
 0.0.0.0 habitualhumor.com
@@ -3391,6 +3415,11 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 beacon.sojern.com
+0.0.0.0 pixel.sojern.com
+0.0.0.0 analytic20.detik.com
+0.0.0.0 rubicon.wellsfargo.com
+0.0.0.0 dj4odketdva9s.cloudfront.net
 0.0.0.0 stores-counters.wix.com
 0.0.0.0 stats.heyoya.com
 0.0.0.0 tracker.remp.impresa.pt
@@ -4851,6 +4880,7 @@
 0.0.0.0 log2.musical.ly
 0.0.0.0 frontier.musical.ly
 0.0.0.0 xlog-va.musical.ly
+0.0.0.0 stats.viqeo.tv
 0.0.0.0 mrtg.emailpartners.net
 0.0.0.0 beam.remp.nv.ua
 0.0.0.0 pjstat.com
@@ -4937,7 +4967,6 @@
 0.0.0.0 logs.supersonic.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.swiftkey.com
-0.0.0.0 touchtype-fluency.com
 0.0.0.0 analytics.qoqa.ninja
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics.qoqa.ch
@@ -4949,6 +4978,11 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
 0.0.0.0 adj.st
+0.0.0.0 register.xmpush.xiaomi.com
+0.0.0.0 tunion-api.m.taobao.com
+0.0.0.0 nbsdk-baichuan.taobao.com
+0.0.0.0 amdc.m.taobao.com
+0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 logsink.zedge.net
 0.0.0.0 consent-manager-events.ogury.io
 0.0.0.0 api.share.mob.com
