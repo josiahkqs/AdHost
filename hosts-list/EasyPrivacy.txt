@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 06 Jul 2020 14:38:51 +0800
+# Last converted - Mon, 13 Jul 2020 12:00:07 +0800
 #
 
 0.0.0.0 0emm.com
@@ -61,6 +61,7 @@
 0.0.0.0 9nl.eu
 0.0.0.0 a-cast.jp
 0.0.0.0 a-counters.com
+0.0.0.0 a-mo.net
 0.0.0.0 a-pagerank.net
 0.0.0.0 a013.com
 0.0.0.0 a4b-tracking.com
@@ -136,7 +137,6 @@
 0.0.0.0 adrizer.com
 0.0.0.0 adrta.com
 0.0.0.0 adsensedetective.com
-0.0.0.0 adservicemedia.dk
 0.0.0.0 adspsp.com
 0.0.0.0 adsrvx.com
 0.0.0.0 adsymptotic.com
@@ -203,6 +203,7 @@
 0.0.0.0 amung.us
 0.0.0.0 amxdt.com
 0.0.0.0 analitits.com
+0.0.0.0 analitycs.net
 0.0.0.0 analoganalytics.com
 0.0.0.0 analysistools.net
 0.0.0.0 analytics-egain.com
@@ -266,6 +267,7 @@
 0.0.0.0 audiencerate.com
 0.0.0.0 audiens.com
 0.0.0.0 audrte.com
+0.0.0.0 aufp.io
 0.0.0.0 authorinsights.com
 0.0.0.0 auto-ping.com
 0.0.0.0 autoaffiliatenetwork.com
@@ -957,6 +959,8 @@
 0.0.0.0 gigcount.com
 0.0.0.0 gim.co.il
 0.0.0.0 glanceguide.com
+0.0.0.0 glassboxcdn.com
+0.0.0.0 glassboxdigital.io
 0.0.0.0 glbtracker.com
 0.0.0.0 globalsiteanalytics.com
 0.0.0.0 globalviptraffic.com
@@ -1047,6 +1051,7 @@
 0.0.0.0 hmstats.com
 0.0.0.0 hoood.info
 0.0.0.0 hopurl.org
+0.0.0.0 horzrb.com
 0.0.0.0 hospitality-optimizer.com
 0.0.0.0 host-tracker.com
 0.0.0.0 hostip.info
@@ -1142,6 +1147,7 @@
 0.0.0.0 intermundomedia.com
 0.0.0.0 interstateanalytics.com
 0.0.0.0 intervigil.com
+0.0.0.0 investingchannel.com
 0.0.0.0 invisioncloudstats.com
 0.0.0.0 invitemedia.com
 0.0.0.0 invoc.us
@@ -1169,6 +1175,7 @@
 0.0.0.0 ipinyou.com.cn
 0.0.0.0 iplist.cc
 0.0.0.0 iplocationtools.com
+0.0.0.0 ipqualityscore.com
 0.0.0.0 ipro.com
 0.0.0.0 iproanalytics.com
 0.0.0.0 iprotrk.com
@@ -1402,6 +1409,7 @@
 0.0.0.0 mieru-ca.com
 0.0.0.0 millioncounter.com
 0.0.0.0 minewhat.com
+0.0.0.0 minkatu.com
 0.0.0.0 mixi.mn
 0.0.0.0 mixpanel.com
 0.0.0.0 mkt3261.com
@@ -1663,6 +1671,7 @@
 0.0.0.0 pingdom.net
 0.0.0.0 pingil.com
 0.0.0.0 pingomatic.com
+0.0.0.0 pinpoll.com
 0.0.0.0 pipfire.com
 0.0.0.0 pippio.com
 0.0.0.0 piwik.pro
@@ -1716,6 +1725,7 @@
 0.0.0.0 proofpositivemedia.com
 0.0.0.0 propeller-tracking.com
 0.0.0.0 provenpixel.com
+0.0.0.0 prprocess.com
 0.0.0.0 prtracker.com
 0.0.0.0 pstats.com
 0.0.0.0 pt-trx.com
@@ -2178,6 +2188,7 @@
 0.0.0.0 tdsrmbl.net
 0.0.0.0 tdstats.com
 0.0.0.0 tealiumiq.com
+0.0.0.0 techlab-cdn.com
 0.0.0.0 tedioustooth.com
 0.0.0.0 telize.com
 0.0.0.0 teljari.is
@@ -2276,6 +2287,7 @@
 0.0.0.0 tradescape.biz
 0.0.0.0 trafex.net
 0.0.0.0 traffer.net
+0.0.0.0 trafficbass.com
 0.0.0.0 trafficby.net
 0.0.0.0 trafficengine.net
 0.0.0.0 trafficfacts.com
@@ -2342,6 +2354,7 @@
 0.0.0.0 ubertags.com
 0.0.0.0 ubertracking.info
 0.0.0.0 uciservice.com
+0.0.0.0 udkcrj.com
 0.0.0.0 ugdturner.com
 0.0.0.0 uhygtf1.com
 0.0.0.0 umbel.com
@@ -2441,6 +2454,7 @@
 0.0.0.0 volantix.com
 0.0.0.0 voodooalerts.com
 0.0.0.0 votistics.com
+0.0.0.0 vprza.com
 0.0.0.0 vtracker.net
 0.0.0.0 w3counter.com
 0.0.0.0 w55c.net
@@ -2492,7 +2506,6 @@
 0.0.0.0 webtrends.com
 0.0.0.0 webtrendslive.com
 0.0.0.0 webtuna.com
-0.0.0.0 weesh.co.uk
 0.0.0.0 wemfbox.ch
 0.0.0.0 whackedmedia.com
 0.0.0.0 wheredoyoucomefrom.ovh
@@ -2583,6 +2596,51 @@
 0.0.0.0 zroitracker.com
 0.0.0.0 ztsrv.com
 0.0.0.0 zuzab.com
+0.0.0.0 accengage.net
+0.0.0.0 actirinius.com
+0.0.0.0 aimtell.com
+0.0.0.0 alertme.news
+0.0.0.0 aswpsdkus.com
+0.0.0.0 bildirt.com
+0.0.0.0 bosspush.com
+0.0.0.0 browserpusher.com
+0.0.0.0 cdn-sitegainer.com
+0.0.0.0 centrpush.com
+0.0.0.0 cleverpush.com
+0.0.0.0 copush.com
+0.0.0.0 cracataum.com
+0.0.0.0 digitalpush.org
+0.0.0.0 feraciumus.com
+0.0.0.0 fkondate.com
+0.0.0.0 foxpush.com
+0.0.0.0 foxpush.net
+0.0.0.0 getpushmonkey.com
+0.0.0.0 getsupernova.com
+0.0.0.0 gravitec.net
+0.0.0.0 heroesdom.com
+0.0.0.0 kattepush.com
+0.0.0.0 master-push.com
+0.0.0.0 master-push.net
+0.0.0.0 misrepush.com
+0.0.0.0 moengage.com
+0.0.0.0 nativesubscribe.pro
+0.0.0.0 notifadz.com
+0.0.0.0 notifpush.com
+0.0.0.0 notify.solutions
+0.0.0.0 olgtex.com
+0.0.0.0 on-push.com
+0.0.0.0 onesignal.com
+0.0.0.0 provesrc.com
+0.0.0.0 psh.one
+0.0.0.0 push-ad.com
+0.0.0.0 push-house.net
+0.0.0.0 pushalert.co
+0.0.0.0 pushengage.com
+0.0.0.0 reprocautious.com
+0.0.0.0 snd.tc
+0.0.0.0 truepush.com
+0.0.0.0 viapush.com
+0.0.0.0 xtremepush.com
 0.0.0.0 breaktime.com.tw
 0.0.0.0 brightedge.com
 0.0.0.0 citrusad.net
@@ -2758,14 +2816,12 @@
 0.0.0.0 g1thub.com
 0.0.0.0 gay-hotvideo.net
 0.0.0.0 gitgrub.pro
-0.0.0.0 gobba.myeffect.net
 0.0.0.0 goldoffer.online
 0.0.0.0 googleanalytcs.com
 0.0.0.0 graftpool.ovh
 0.0.0.0 gramombird.com
 0.0.0.0 greengaming.de
 0.0.0.0 gus.host
-0.0.0.0 gustaver.ddns.net
 0.0.0.0 hallaert.online
 0.0.0.0 hashcoin.co
 0.0.0.0 hashforcash.us
@@ -2780,7 +2836,6 @@
 0.0.0.0 hostingcloud.faith
 0.0.0.0 hostingcloud.party
 0.0.0.0 hostingcloud.racing
-0.0.0.0 hostingcloud.science
 0.0.0.0 igg.biz
 0.0.0.0 igrid.org
 0.0.0.0 ininmacerad.pro
@@ -2883,7 +2938,6 @@
 0.0.0.0 rand.com.ru
 0.0.0.0 reauthenticator.com
 0.0.0.0 reauthenticator.com
-0.0.0.0 renhertfo.com
 0.0.0.0 rocks.io
 0.0.0.0 rtb-seller.com
 0.0.0.0 rtb.connatix.com
@@ -2924,8 +2978,6 @@
 0.0.0.0 tulip18.com
 0.0.0.0 turnsocial.com
 0.0.0.0 unrummaged.com
-0.0.0.0 uoldid.ru
-0.0.0.0 uoldid.ru
 0.0.0.0 usa.cc
 0.0.0.0 vcfs6ip5h6.bid
 0.0.0.0 verifier.live
@@ -2933,7 +2985,6 @@
 0.0.0.0 verresof.com
 0.0.0.0 videoplayer2.xyz
 0.0.0.0 vkcdnservice.com
-0.0.0.0 vuryua.ru
 0.0.0.0 vzhjnorkudcxbiy.com
 0.0.0.0 wasm.stream
 0.0.0.0 wbmwss.beetv.net
@@ -3049,6 +3100,7 @@
 0.0.0.0 greyinstrument.com
 0.0.0.0 guiltlessbasketball.com
 0.0.0.0 gulliblecamp.com
+0.0.0.0 haltingbadge.com
 0.0.0.0 hammerhearing.com
 0.0.0.0 hilariouszinc.com
 0.0.0.0 historicalbeam.com
@@ -3064,6 +3116,7 @@
 0.0.0.0 j93557g.com
 0.0.0.0 jadeitite.com
 0.0.0.0 jamexistence.com
+0.0.0.0 lameletters.com
 0.0.0.0 lamplow.com
 0.0.0.0 laughcloth.com
 0.0.0.0 leaplunchroom.com
@@ -3084,6 +3137,7 @@
 0.0.0.0 neighborlywatch.com
 0.0.0.0 nervoussummer.com
 0.0.0.0 niftyhospital.com
+0.0.0.0 overconfidentfood.com
 0.0.0.0 parcelcreature.com
 0.0.0.0 parsimoniouspolice.com
 0.0.0.0 partplanes.com
@@ -3094,6 +3148,7 @@
 0.0.0.0 photographpan.com
 0.0.0.0 pietexture.com
 0.0.0.0 plantdigestion.com
+0.0.0.0 pleasantpump.com
 0.0.0.0 prepareplanes.com
 0.0.0.0 profusesupport.com
 0.0.0.0 puffyloss.com
@@ -4122,9 +4177,7 @@
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 an.yandex.ru
-0.0.0.0 analytic.pho.fm
 0.0.0.0 analytic.xingcloud.com
-0.0.0.0 analyticapi.pho.fm
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-production.hapyak.com
@@ -4148,7 +4201,6 @@
 0.0.0.0 analytics.cmg.net
 0.0.0.0 analytics.codigo.se
 0.0.0.0 analytics.cohesionapps.com
-0.0.0.0 analytics.conmio.com
 0.0.0.0 analytics.convertlanguage.com
 0.0.0.0 analytics.cynapse.com
 0.0.0.0 analytics.datahc.com
@@ -4479,7 +4531,6 @@
 0.0.0.0 dt1pxsve3tgas.cloudfront.net
 0.0.0.0 du4rq1xqh3i1k.cloudfront.net
 0.0.0.0 du8783wkf05yr.cloudfront.net
-0.0.0.0 dufue2m4sondk.cloudfront.net
 0.0.0.0 duu8lzqdm8tsz.cloudfront.net
 0.0.0.0 dw.cbsi.com
 0.0.0.0 dw.cbsimg.net
@@ -4523,6 +4574,8 @@
 0.0.0.0 exacttarget.com
 0.0.0.0 experience.contextly.com
 0.0.0.0 fast.appcues.com
+0.0.0.0 fcmatch.google.com
+0.0.0.0 fcmatch.youtube.com
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 fl.a.ki
 0.0.0.0 flashstats.libsyn.com
@@ -5072,7 +5125,6 @@
 0.0.0.0 visit.geocities.com
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 vmstats.varrando.com
-0.0.0.0 vtracking.in.com
 0.0.0.0 web1.51.la
 0.0.0.0 webcare.byside.com
 0.0.0.0 weblog.livesport.eu
@@ -5112,6 +5164,7 @@
 0.0.0.0 howsmyssl.com
 0.0.0.0 nsg.symantec.com
 0.0.0.0 seal.godaddy.com
+0.0.0.0 seal.networksolutions.com
 0.0.0.0 seal.verisign.com
 0.0.0.0 sealserver.trustwave.com
 0.0.0.0 websecurity.norton.com
@@ -5121,7 +5174,6 @@
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 analytics.gameforge.de
 0.0.0.0 analytics.loop-cloud.de
-0.0.0.0 analytics.pinpoll.com
 0.0.0.0 analytics.praetor.im
 0.0.0.0 beagle.prod.tda.link
 0.0.0.0 blacktri-a.akamaihd.net
@@ -5646,6 +5698,7 @@
 0.0.0.0 click.aliexpress.com
 0.0.0.0 click.engage.xbox.com
 0.0.0.0 click.oneplus.com
+0.0.0.0 click.sinx.com
 0.0.0.0 click.udimg.com
 0.0.0.0 click2.cafepress.com
 0.0.0.0 clicks.hurriyet.com.tr
@@ -5735,9 +5788,9 @@
 0.0.0.0 evisit.exeter.ac.uk
 0.0.0.0 expbl2ro.xbox.com
 0.0.0.0 expdb2.msn.com
-0.0.0.0 extra.tvmaze.com
 0.0.0.0 f.staticlp.com
 0.0.0.0 fast.forbes.com
+0.0.0.0 fathom.pixeldrain.com
 0.0.0.0 felitb.rightinthebox.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.measure.office.com
@@ -6157,6 +6210,7 @@
 0.0.0.0 stats.uswitch.com
 0.0.0.0 stats.videodelivery.net
 0.0.0.0 stats.visistat.com
+0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.vulture.com
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wwd.com
@@ -6165,7 +6219,6 @@
 0.0.0.0 stats.zmags.com
 0.0.0.0 stats02.topix.com
 0.0.0.0 statstracker.celebrity-gossip.net
-0.0.0.0 stattrack.0catch.com
 0.0.0.0 stbt.coupons.com
 0.0.0.0 sugar.gameforge.com
 0.0.0.0 surveys.cnet.com
@@ -6322,6 +6375,7 @@
 0.0.0.0 ws.yellowpages.ca
 0.0.0.0 wstats.e-wok.tv
 0.0.0.0 wtk.db.com
+0.0.0.0 xtrack.capetown.gov.za
 0.0.0.0 ynuf.alibaba.com
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zeus.slader.com
@@ -6644,7 +6698,6 @@
 0.0.0.0 track.express.de
 0.0.0.0 track.mopo.de
 0.0.0.0 trackerstatistik.init-ag.de
-0.0.0.0 tracking.beilagen-prospekte.de
 0.0.0.0 tracking.finanzen.net
 0.0.0.0 tracking.hrs.de
 0.0.0.0 tracking.krone.at
