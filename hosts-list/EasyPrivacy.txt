@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Mon, 13 Jul 2020 12:00:07 +0800
+# Last converted - Tue, 14 Jul 2020 16:00:44 +0800
 #
 
 0.0.0.0 0emm.com
@@ -926,6 +926,7 @@
 0.0.0.0 gatorleads.co.uk
 0.0.0.0 gaug.es
 0.0.0.0 gbotvisit.com
+0.0.0.0 gc.zgo.at
 0.0.0.0 gear5.me
 0.0.0.0 geistm.com
 0.0.0.0 gemius.pl
@@ -972,6 +973,7 @@
 0.0.0.0 go-mpulse.net
 0.0.0.0 go2link.net
 0.0.0.0 goadservices.com
+0.0.0.0 goatcounter.com
 0.0.0.0 godhat.com
 0.0.0.0 goingup.com
 0.0.0.0 goldstats.com
@@ -1063,6 +1065,7 @@
 0.0.0.0 hs-analytics.net
 0.0.0.0 hsadspixel.net
 0.0.0.0 hscta.net
+0.0.0.0 htlbid.com
 0.0.0.0 hubvisor.io
 0.0.0.0 hudb.pl
 0.0.0.0 humanclick.com
@@ -1699,6 +1702,7 @@
 0.0.0.0 pointillist.com
 0.0.0.0 pointomatic.com
 0.0.0.0 polarcdn-pentos.com
+0.0.0.0 polarcdn-terrax.com
 0.0.0.0 popsample.com
 0.0.0.0 popt.in
 0.0.0.0 populr.me
@@ -2618,6 +2622,7 @@
 0.0.0.0 getsupernova.com
 0.0.0.0 gravitec.net
 0.0.0.0 heroesdom.com
+0.0.0.0 jeeng.com
 0.0.0.0 kattepush.com
 0.0.0.0 master-push.com
 0.0.0.0 master-push.net
@@ -4428,6 +4433,7 @@
 0.0.0.0 d10gj7yjsfriaj.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d11a2fzhgzqe7i.cloudfront.net
+0.0.0.0 d15kdpgjg3unno.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d16xpr36wrmcmk.cloudfront.net
@@ -5879,7 +5885,6 @@
 0.0.0.0 log.newsvine.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 log.prezi.com
-0.0.0.0 log.quora.com
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.wat.tv
 0.0.0.0 log.webnovel.com
@@ -6974,6 +6979,7 @@
 0.0.0.0 kiks.auto.ru
 0.0.0.0 link.subscribe.ru
 0.0.0.0 log.ren.tv
+0.0.0.0 pixels.boxberry.ru
 0.0.0.0 radar.imgsmail.ru
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 stat.api.2gis.ru
