@@ -1,10 +1,17 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Tue, 14 Jul 2020 16:00:27 +0800
+# Last converted - Fri, 17 Jul 2020 12:18:31 +0800
 #
 
 0.0.0.0 takidd.site
+0.0.0.0 bigbonga.com
+0.0.0.0 fbcctf.com
+0.0.0.0 kopterka.ru
+0.0.0.0 rutad.ru
+0.0.0.0 fbpopr.com
+0.0.0.0 o3lqkuk5vq.ru
+0.0.0.0 etqigt.com
 0.0.0.0 pt0zhwhc26.ru
 0.0.0.0 1rt0n.news
 0.0.0.0 mp-block.com
@@ -3935,6 +3942,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 d2dc2sk4vkh2xn.cloudfront.net
 0.0.0.0 mnfuk.chfpgcbe.com
 0.0.0.0 abid.w38store.ru
 0.0.0.0 b.kakoysegodnyaprazdnik.ru
