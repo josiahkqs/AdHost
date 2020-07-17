@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Tue, 14 Jul 2020 16:00:44 +0800
+# Last converted - Fri, 17 Jul 2020 12:18:37 +0800
 #
 
 0.0.0.0 0emm.com
@@ -1167,6 +1167,7 @@
 0.0.0.0 ipaddresslabs.com
 0.0.0.0 ipapi.co
 0.0.0.0 ipcatch.com
+0.0.0.0 ipdata.co
 0.0.0.0 iper2.com
 0.0.0.0 iperceptions.com
 0.0.0.0 ipfingerprint.com
@@ -1835,7 +1836,6 @@
 0.0.0.0 report-uri.io
 0.0.0.0 res-x.com
 0.0.0.0 research-tool.com
-0.0.0.0 researchnow.co.uk
 0.0.0.0 reson8.com
 0.0.0.0 responsetap.com
 0.0.0.0 resulticks.com
@@ -2613,11 +2613,14 @@
 0.0.0.0 cleverpush.com
 0.0.0.0 copush.com
 0.0.0.0 cracataum.com
+0.0.0.0 danorenius.com
 0.0.0.0 digitalpush.org
+0.0.0.0 edrone.me
 0.0.0.0 feraciumus.com
 0.0.0.0 fkondate.com
 0.0.0.0 foxpush.com
 0.0.0.0 foxpush.net
+0.0.0.0 getback.ch
 0.0.0.0 getpushmonkey.com
 0.0.0.0 getsupernova.com
 0.0.0.0 gravitec.net
@@ -2628,6 +2631,7 @@
 0.0.0.0 master-push.net
 0.0.0.0 misrepush.com
 0.0.0.0 moengage.com
+0.0.0.0 najva.com
 0.0.0.0 nativesubscribe.pro
 0.0.0.0 notifadz.com
 0.0.0.0 notifpush.com
@@ -3048,6 +3052,7 @@
 0.0.0.0 butterburst.com
 0.0.0.0 calculatorstatement.com
 0.0.0.0 callousbrake.com
+0.0.0.0 calmcactus.com
 0.0.0.0 cannontwin.com
 0.0.0.0 capriciouscorn.com
 0.0.0.0 capsquirrel.com
@@ -3092,6 +3097,7 @@
 0.0.0.0 fatcoil.com
 0.0.0.0 faultycanvas.com
 0.0.0.0 fearfulflag.com
+0.0.0.0 firstfrogs.com
 0.0.0.0 flakyfeast.com
 0.0.0.0 flockflame.com
 0.0.0.0 forecasttiger.com
@@ -4262,6 +4268,7 @@
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.tout.com
 0.0.0.0 analytics.tribeca.vidavee.com
+0.0.0.0 analytics.unibuddy.co
 0.0.0.0 analytics.urx.io
 0.0.0.0 analytics.vanillaforums.com
 0.0.0.0 analytics.vendemore.com
@@ -6022,7 +6029,6 @@
 0.0.0.0 retargeting.vistaprint.com
 0.0.0.0 revsci.tvguide.com
 0.0.0.0 rok.com.com
-0.0.0.0 roll.bankofamerica.com
 0.0.0.0 rs.mail.ru
 0.0.0.0 rt.prnewswire.com
 0.0.0.0 rta.dailymail.co.uk
