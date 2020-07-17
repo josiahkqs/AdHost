@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Tue, 14 Jul 2020 16:00:26 +0800
+# Last converted - Fri, 17 Jul 2020 12:18:30 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -417,6 +417,7 @@
 0.0.0.0 smi.fm
 0.0.0.0 smi10.ru
 0.0.0.0 smi2020.ru.com
+0.0.0.0 smi2020.ru
 0.0.0.0 smi2you.ru
 0.0.0.0 smi4u.ru
 0.0.0.0 smicenter.ml
@@ -2018,6 +2019,7 @@
 0.0.0.0 11torrent.ru
 0.0.0.0 11wishes.com
 0.0.0.0 123retr312.ru
+0.0.0.0 123torrent.ru
 0.0.0.0 125p3ns43.biz.ua
 0.0.0.0 12cpm.com
 0.0.0.0 12ffa915d500a.com
@@ -2094,6 +2096,7 @@
 0.0.0.0 2f106934890be9372e52.date
 0.0.0.0 2f3f6a0f63ef7b84f265.date
 0.0.0.0 2f61jupxdpv.space
+0.0.0.0 2gwzdkjrtb.ru
 0.0.0.0 2i829cwhe9gq.ru
 0.0.0.0 2lycosu.com
 0.0.0.0 2lycosy.com
@@ -2671,6 +2674,7 @@
 0.0.0.0 antibronhit.ru
 0.0.0.0 anuts.ru
 0.0.0.0 aoodw.top
+0.0.0.0 aoycwla4enxzvkh.ru
 0.0.0.0 apearmark.online
 0.0.0.0 api-adver.ru
 0.0.0.0 api-keks.com
@@ -3973,6 +3977,7 @@
 0.0.0.0 fbbvjxh3fcjqiyk.ru
 0.0.0.0 fbcctf.com
 0.0.0.0 fbfa8babbbe.com
+0.0.0.0 fbpopr.com
 0.0.0.0 fbvkcdn.club
 0.0.0.0 fcdedghcjiieggafade.ru
 0.0.0.0 fceneme.ru
@@ -4300,6 +4305,7 @@
 0.0.0.0 gorod.tunt.lv
 0.0.0.0 gosj9ichlf.tech
 0.0.0.0 got.by
+0.0.0.0 goto2031.ru
 0.0.0.0 gotogirlzzz.com
 0.0.0.0 gotoredr.com
 0.0.0.0 gotriki.com
@@ -4362,6 +4368,7 @@
 0.0.0.0 h1summer.com
 0.0.0.0 h31135kjn6ajywtrupze.com
 0.0.0.0 h3a.t.r.vpath.net
+0.0.0.0 h7fy4ur0in94g016.in.net
 0.0.0.0 ha9.ru
 0.0.0.0 hablababla.club
 0.0.0.0 hadoman.net
@@ -4807,6 +4814,7 @@
 0.0.0.0 jxrhjcb.biz
 0.0.0.0 jxxgg.top
 0.0.0.0 jyhfuqoh.info
+0.0.0.0 jzonie.com
 0.0.0.0 jzqce.com
 0.0.0.0 k3dqv.ru
 0.0.0.0 k3node.com
@@ -5237,7 +5245,6 @@
 0.0.0.0 luxupadvb.com
 0.0.0.0 luxupcdna.com
 0.0.0.0 luxupcdnb.com
-0.0.0.0 luxupcdnc.com
 0.0.0.0 lvkwz.com
 0.0.0.0 lvuic.com
 0.0.0.0 lwzbk.com
@@ -6340,6 +6347,7 @@
 0.0.0.0 qbann.ru
 0.0.0.0 qcjam.top
 0.0.0.0 qcvdwtpnit.ru
+0.0.0.0 qerdome.com
 0.0.0.0 qergh.top
 0.0.0.0 qerrex.ru
 0.0.0.0 qertu.ru
@@ -6656,6 +6664,7 @@
 0.0.0.0 rustds.click
 0.0.0.0 rustds1.click
 0.0.0.0 rustiz.ru
+0.0.0.0 rutad.ru
 0.0.0.0 rutarget.ru
 0.0.0.0 rutorad.ru
 0.0.0.0 rutorads.com
@@ -6902,6 +6911,7 @@
 0.0.0.0 smi.fm
 0.0.0.0 smi10.ru
 0.0.0.0 smi2020.ru.com
+0.0.0.0 smi2020.ru
 0.0.0.0 smi2you.ru
 0.0.0.0 smi4u.ru
 0.0.0.0 smi6.info
@@ -7180,6 +7190,7 @@
 0.0.0.0 tf.mybb.ru
 0.0.0.0 tg.mybb.ru
 0.0.0.0 tg2016.net
+0.0.0.0 tgaqxo.com
 0.0.0.0 tgb.hsmedia.ru
 0.0.0.0 tgearheads.com
 0.0.0.0 tggay.top
@@ -7858,6 +7869,7 @@
 0.0.0.0 webmine.cz
 0.0.0.0 webminerpool.com
 0.0.0.0 webmining.co
+0.0.0.0 webpinp.com
 0.0.0.0 webrotator.net
 0.0.0.0 webrotator.org
 0.0.0.0 webstudia1.ru
@@ -7961,6 +7973,7 @@
 0.0.0.0 wshosting.ru
 0.0.0.0 wssdoo.com
 0.0.0.0 wsvay.com
+0.0.0.0 wtdome.com
 0.0.0.0 wtoredir.com
 0.0.0.0 wts-rotator.com
 0.0.0.0 wtzgaa.com
@@ -9000,6 +9013,7 @@
 0.0.0.0 zzsites.ru
 0.0.0.0 banners.mail.ru
 0.0.0.0 showbiz.mail.ru
+0.0.0.0 ccdnss.com
 0.0.0.0 vkbutton.com
 0.0.0.0 vkmus.com
 0.0.0.0 be.vtomske.ru
