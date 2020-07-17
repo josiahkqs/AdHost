@@ -29,3 +29,4 @@ prod-rel-ffc-ccm.oobesaas.adobe.com # Adobe Creative Cloud to function properly
 lm.licenses.adobe.com # Adobe
 s3-us-west-2.amazonaws.com # Amazon images CDN
 forms.gle # Google Forms
+b-api.facebook.com # FB 
