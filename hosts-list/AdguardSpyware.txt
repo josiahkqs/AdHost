@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Tue, 14 Jul 2020 16:00:27 +0800
+# Last converted - Fri, 17 Jul 2020 12:18:31 +0800
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -17,7 +17,7 @@
 0.0.0.0 nta1vb6cdlrl.com
 0.0.0.0 js.rush-member.com
 0.0.0.0 js.passaro-de-fogo.biz
-0.0.0.0 js.mediams.mb.softbank.jp
+0.0.0.0 mediams.mb.softbank.jp
 0.0.0.0 js.monetize-ssp.com
 0.0.0.0 minkatu.com
 0.0.0.0 udkcrj.com
