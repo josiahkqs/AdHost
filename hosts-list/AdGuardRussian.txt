@@ -1,10 +1,13 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Fri, 17 Jul 2020 12:18:31 +0800
+# Last converted - Sun, 19 Jul 2020 08:52:40 +0800
 #
 
 0.0.0.0 takidd.site
+0.0.0.0 traf2me.ru
+0.0.0.0 vifzod.com
+0.0.0.0 qbhyczr5hw.ru
 0.0.0.0 bigbonga.com
 0.0.0.0 fbcctf.com
 0.0.0.0 kopterka.ru
