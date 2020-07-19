@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 17 Jul 2020 12:18:37 +0800
+# Last converted - Sun, 19 Jul 2020 08:52:42 +0800
 #
 
 0.0.0.0 0emm.com
@@ -3229,6 +3229,7 @@
 0.0.0.0 thirdrespect.com
 0.0.0.0 thirstytwig.com
 0.0.0.0 ticklesign.com
+0.0.0.0 toecircle.com
 0.0.0.0 tranquilside.com
 0.0.0.0 troubledtail.com
 0.0.0.0 typicalairplane.com
@@ -5589,6 +5590,7 @@
 0.0.0.0 st.tmgrup.com.tr
 0.0.0.0 informers.sinoptik.ua
 0.0.0.0 analytics.yomedia.vn
+0.0.0.0 tracking.aita.gov.vn
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
@@ -5807,6 +5809,7 @@
 0.0.0.0 felitb.rightinthebox.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.measure.office.com
+0.0.0.0 fpa-events.arstechnica.com
 0.0.0.0 fresh.techdirt.com
 0.0.0.0 funn.graphiq.com
 0.0.0.0 g.ign.com
