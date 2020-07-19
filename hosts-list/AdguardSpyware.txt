@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Fri, 17 Jul 2020 12:18:31 +0800
+# Last converted - Sun, 19 Jul 2020 08:52:40 +0800
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -4973,6 +4973,9 @@
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics.qoqa.ch
 0.0.0.0 analytics.qoqa.com
+0.0.0.0 gcdsdk.appsflyer.com
+0.0.0.0 statsgoogle.appsflyer.com
+0.0.0.0 impression.appsflyer.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 register.appsflyer.com
 0.0.0.0 events.appsflyer.com
