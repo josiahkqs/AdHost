@@ -1,10 +1,23 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sun, 19 Jul 2020 08:52:40 +0800
+# Last converted - Fri, 24 Jul 2020 09:54:11 +0800
 #
 
 0.0.0.0 takidd.site
+0.0.0.0 dwbogv.com
+0.0.0.0 striglusor.com
+0.0.0.0 marketplacepro.ru
+0.0.0.0 rifflingo.com
+0.0.0.0 uymjbn.com
+0.0.0.0 iulftx.com
+0.0.0.0 eqmx04n5s0.ru
+0.0.0.0 yhhbtavgpuo.com
+0.0.0.0 nklrfqgz.com
+0.0.0.0 qerusgreyt.com
+0.0.0.0 fast-hunter.com
+0.0.0.0 bukolii.ru
+0.0.0.0 west.click
 0.0.0.0 traf2me.ru
 0.0.0.0 vifzod.com
 0.0.0.0 qbhyczr5hw.ru
