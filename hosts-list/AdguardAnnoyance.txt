@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Sun, 19 Jul 2020 08:52:40 +0800
+# Last converted - Fri, 24 Jul 2020 09:54:10 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -11,6 +11,10 @@
 0.0.0.0 ipepostman.com
 0.0.0.0 wb.whatsbroadcast.com
 0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
+0.0.0.0 enviousshape.com
+0.0.0.0 calmcactus.com
+0.0.0.0 cannontwin.com
+0.0.0.0 sinceresubstance.com
 0.0.0.0 overconfidentfood.com
 0.0.0.0 strangesink.com
 0.0.0.0 honorableland.com
@@ -48,6 +52,7 @@
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 cookielaw.org
 0.0.0.0 cookiebot.com
+0.0.0.0 gdpr-wrapper.privacymanager.io
 0.0.0.0 consent.trustarc.com
 0.0.0.0 consent.dumont.de
 0.0.0.0 metomic.io
@@ -61,6 +66,7 @@
 0.0.0.0 usercentrics.eu
 0.0.0.0 consensu.org
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
+0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 cmp.macworld.co.uk
 0.0.0.0 consent.prismamedia.com
 0.0.0.0 rodo.agora.pl
@@ -121,6 +127,7 @@
 0.0.0.0 pushofferpro.com
 0.0.0.0 leechiza.net
 0.0.0.0 pushtora.com
+0.0.0.0 dgpcdn.org
 0.0.0.0 gerdonarium.com
 0.0.0.0 monstelenius.com
 0.0.0.0 bmfeed.ru
@@ -292,6 +299,7 @@
 0.0.0.0 panaur.com
 0.0.0.0 push.connect.digital
 0.0.0.0 esputnik.com
+0.0.0.0 secure.esputnik.com.ua
 0.0.0.0 push.esputnik.com.ua
 0.0.0.0 push.expert
 0.0.0.0 push.world
@@ -315,6 +323,7 @@
 0.0.0.0 sendsay.ru
 0.0.0.0 serumawus.com
 0.0.0.0 webpush.hackers.com
+0.0.0.0 cdn.webpush.jp
 0.0.0.0 cdn.pushowl.com
 0.0.0.0 neutralen.nl
 0.0.0.0 xhamsterpremium.com
