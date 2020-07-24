@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Sun, 19 Jul 2020 08:52:42 +0800
+# Last converted - Fri, 24 Jul 2020 09:54:14 +0800
 #
 
 0.0.0.0 0emm.com
@@ -238,6 +238,7 @@
 0.0.0.0 apsislead.com
 0.0.0.0 apxy.io
 0.0.0.0 aqtracker.com
+0.0.0.0 aralego.net
 0.0.0.0 arcadeweb.com
 0.0.0.0 arena-quantum.co.uk
 0.0.0.0 arianelab.com
@@ -890,6 +891,7 @@
 0.0.0.0 free-website-hit-counters.com
 0.0.0.0 free-website-statistics.com
 0.0.0.0 freebloghitcounter.com
+0.0.0.0 freecounter.ovh
 0.0.0.0 freecountercode.com
 0.0.0.0 freecounterstat.com
 0.0.0.0 freegeoip.app
@@ -980,6 +982,7 @@
 0.0.0.0 goneviral.com
 0.0.0.0 goodcounter.org
 0.0.0.0 googleadservices.com
+0.0.0.0 googleoptimize.com
 0.0.0.0 googlerank.info
 0.0.0.0 googletagmanager.com
 0.0.0.0 gooo.al
@@ -1196,6 +1199,7 @@
 0.0.0.0 itracker360.com
 0.0.0.0 itrackerpro.com
 0.0.0.0 itracmediav4.com
+0.0.0.0 itrustzone.site
 0.0.0.0 ivcbrasil.org.br
 0.0.0.0 ivstracker.net
 0.0.0.0 ivwbox.de
@@ -1685,6 +1689,7 @@
 0.0.0.0 pixelinteractivemedia.com
 0.0.0.0 pixelpop.co
 0.0.0.0 pixelrevenue.com
+0.0.0.0 pixfuture.com
 0.0.0.0 pizzaandads.com
 0.0.0.0 pjatr.com
 0.0.0.0 pjtra.com
@@ -1900,6 +1905,7 @@
 0.0.0.0 rtrk.com
 0.0.0.0 ru4.com
 0.0.0.0 rumanalytics.com
+0.0.0.0 rumble.com$ping
 0.0.0.0 rumpelstiltskinhead.com
 0.0.0.0 runtnc.net
 0.0.0.0 rztrkr.com
@@ -2207,6 +2213,7 @@
 0.0.0.0 tetoolbox.com
 0.0.0.0 tgdaudience.com
 0.0.0.0 tglyr.co
+0.0.0.0 tgtag.io
 0.0.0.0 theadex.com
 0.0.0.0 theagency.com
 0.0.0.0 thebestlinks.com
@@ -2296,6 +2303,7 @@
 0.0.0.0 trafficengine.net
 0.0.0.0 trafficfacts.com
 0.0.0.0 trafficfuel.com
+0.0.0.0 trafficguard.ai
 0.0.0.0 trafficjoint.com
 0.0.0.0 trafficregenerator.com
 0.0.0.0 traffikcntr.com
@@ -3083,6 +3091,7 @@
 0.0.0.0 desiredirt.com
 0.0.0.0 detectdiscovery.com
 0.0.0.0 diplomahawaii.com
+0.0.0.0 discreetfield.com
 0.0.0.0 distinctday.com
 0.0.0.0 dq95d35.com
 0.0.0.0 drydrum.com
@@ -3121,6 +3130,7 @@
 0.0.0.0 immensehoney.com
 0.0.0.0 importedincrease.com
 0.0.0.0 importedinsect.com
+0.0.0.0 impulsejewel.com
 0.0.0.0 innocentinvention.com
 0.0.0.0 inquisitiveinvention.com
 0.0.0.0 intelligentscissors.com
@@ -3135,6 +3145,7 @@
 0.0.0.0 lizardslaugh.com
 0.0.0.0 lorenzourban.com
 0.0.0.0 loudlunch.com
+0.0.0.0 lovelydrum.com
 0.0.0.0 lowlocket.com
 0.0.0.0 lumberamount.com
 0.0.0.0 lumpylumber.com
@@ -3189,6 +3200,7 @@
 0.0.0.0 scintillatingscissors.com
 0.0.0.0 scintillatingspace.com
 0.0.0.0 scrubswim.com
+0.0.0.0 seatsmoke.com
 0.0.0.0 secretturtle.com
 0.0.0.0 selectivesummer.com
 0.0.0.0 selfishsea.com
@@ -3200,7 +3212,9 @@
 0.0.0.0 shockingship.com
 0.0.0.0 shyseed.com
 0.0.0.0 sicksmash.com
+0.0.0.0 sinceresubstance.com
 0.0.0.0 smashsurprise.com
+0.0.0.0 smoggystation.com
 0.0.0.0 somberscarecrow.com
 0.0.0.0 sombersurprise.com
 0.0.0.0 sortsummer.com
@@ -3239,6 +3253,7 @@
 0.0.0.0 unbecominghall.com
 0.0.0.0 unequalbrake.com
 0.0.0.0 untidyrice.com
+0.0.0.0 verseballs.com
 0.0.0.0 womanear.com
 0.0.0.0 zlp6s.pw
 0.0.0.0 123-counter.de
@@ -4632,6 +4647,7 @@
 0.0.0.0 hm.baidu.com
 0.0.0.0 hop.clickbank.net
 0.0.0.0 hpr.outbrain.com
+0.0.0.0 hspbotdetection.azurewebsites.net
 0.0.0.0 i.compendium.com
 0.0.0.0 i.viafoura.co
 0.0.0.0 iabusprivacy.pmc.com
@@ -5152,6 +5168,7 @@
 0.0.0.0 widget.quantcast.com
 0.0.0.0 win.staticstuff.net
 0.0.0.0 ws.audioeye.com
+0.0.0.0 ws.sharethis.com
 0.0.0.0 wss.maven.io
 0.0.0.0 wstat.wibiya.com
 0.0.0.0 x.weather.com
@@ -5326,6 +5343,7 @@
 0.0.0.0 atanx.alicdn.com
 0.0.0.0 beacon.sina.com.cn
 0.0.0.0 bzclk.baidu.com
+0.0.0.0 c.holmesmind.com
 0.0.0.0 cdn.hiido.cn
 0.0.0.0 click.bokecc.com
 0.0.0.0 click.taobao.com
@@ -5660,6 +5678,7 @@
 0.0.0.0 analytics.thenewslens.com
 0.0.0.0 analytics.thetab.com
 0.0.0.0 analytics.tradedoubler.com
+0.0.0.0 analytics.twentytwowords.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.upworthy.com
 0.0.0.0 analytics.us.archive.org
@@ -5674,6 +5693,7 @@
 0.0.0.0 atlas.astrology.com
 0.0.0.0 atrack.allposters.com
 0.0.0.0 atrack.art.com
+0.0.0.0 ats.alot.com
 0.0.0.0 audit.macworld.co.uk
 0.0.0.0 audit.pcadvisor.co.uk
 0.0.0.0 b.imwx.com
@@ -5707,6 +5727,7 @@
 0.0.0.0 cem.hotelsapi.io
 0.0.0.0 chkpt.zdnet.com
 0.0.0.0 cl.expedia.com
+0.0.0.0 clancy.spiceworks.com
 0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clck.yandex.com
 0.0.0.0 clck.yandex.ru
@@ -6321,6 +6342,7 @@
 0.0.0.0 tracker.shopclues.com
 0.0.0.0 tracker.uprinting.com
 0.0.0.0 tracker.wordstream.com
+0.0.0.0 tracking.alarabiya.net
 0.0.0.0 tracking.ancestry.com
 0.0.0.0 tracking.batanga.com
 0.0.0.0 tracking.battleon.com
@@ -7001,6 +7023,7 @@
 0.0.0.0 tracker.tiu.ru
 0.0.0.0 yast.rutube.ru
 0.0.0.0 tracker.azet.sk
+0.0.0.0 analytics.bolavip.com
 0.0.0.0 analytics.infobae.com
 0.0.0.0 analytics.redlink.com.ar
 0.0.0.0 audiencies.ccma.cat
@@ -7018,6 +7041,7 @@
 0.0.0.0 fusion.bonniertidskrifter.se
 0.0.0.0 gx.idg.se
 0.0.0.0 stat.nyheter24.se
+0.0.0.0 scribe.wongnai.com
 0.0.0.0 ta.sanook.com
 0.0.0.0 c.gazetevatan.com
 0.0.0.0 d.haberler.com
@@ -7026,5 +7050,6 @@
 0.0.0.0 counter.ukr.net
 0.0.0.0 hit.meta.ua
 0.0.0.0 target.ukr.net
+0.0.0.0 log.ttbc-hcm.gov.vn
 0.0.0.0 logsbin.dantri.com.vn
 0.0.0.0 ktracker.kumparan.com
