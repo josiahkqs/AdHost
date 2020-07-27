@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist.to/easylist/easyprivacy.txt
-# Last converted - Fri, 24 Jul 2020 09:54:14 +0800
+# Last converted - Mon, 27 Jul 2020 17:07:17 +0800
 #
 
 0.0.0.0 0emm.com
@@ -223,6 +223,7 @@
 0.0.0.0 anrdoezrs.net
 0.0.0.0 answerscloud.com
 0.0.0.0 anti-cheat.info
+0.0.0.0 antiblock.info
 0.0.0.0 ape78cn2.com
 0.0.0.0 apexstats.com
 0.0.0.0 apextag.com
@@ -235,6 +236,7 @@
 0.0.0.0 appsflyer.com
 0.0.0.0 aprtn.com
 0.0.0.0 aprtx.com
+0.0.0.0 apsis1.com
 0.0.0.0 apsislead.com
 0.0.0.0 apxy.io
 0.0.0.0 aqtracker.com
@@ -443,6 +445,7 @@
 0.0.0.0 cdn-net.com
 0.0.0.0 cdnanalytics.xyz
 0.0.0.0 cdnmaster.com
+0.0.0.0 cdnopw.com
 0.0.0.0 cdntrf.com
 0.0.0.0 cedexis.com
 0.0.0.0 cedexis.net
@@ -629,6 +632,7 @@
 0.0.0.0 datacaciques.com
 0.0.0.0 datacoral.com
 0.0.0.0 datacoral.io
+0.0.0.0 datacygnal.io
 0.0.0.0 datadoghq-browser-agent.com
 0.0.0.0 datafeedfile.com
 0.0.0.0 datam.com
@@ -1108,6 +1112,7 @@
 0.0.0.0 impcounter.com
 0.0.0.0 imrtrack.com
 0.0.0.0 imrworldwide.com
+0.0.0.0 imtwjwoasak.com
 0.0.0.0 inboxtag.com
 0.0.0.0 incentivesnetwork.net
 0.0.0.0 index.ru
@@ -1224,6 +1229,7 @@
 0.0.0.0 justuno.com
 0.0.0.0 jwmstats.com
 0.0.0.0 k-analytix.com
+0.0.0.0 k3node.com
 0.0.0.0 kameleoon.com
 0.0.0.0 kameleoon.eu
 0.0.0.0 kampyle.com
@@ -1250,6 +1256,7 @@
 0.0.0.0 knowlead.io
 0.0.0.0 knowledgevine.net
 0.0.0.0 koddi.com
+0.0.0.0 kokos.click
 0.0.0.0 komtrack.com
 0.0.0.0 kontagent.net
 0.0.0.0 kopsil.com
@@ -1695,6 +1702,7 @@
 0.0.0.0 pjtra.com
 0.0.0.0 placemypixel.com
 0.0.0.0 platformpanda.com
+0.0.0.0 plausible.io
 0.0.0.0 plecki.com
 0.0.0.0 pleisty.com
 0.0.0.0 plexop.com
@@ -2216,6 +2224,7 @@
 0.0.0.0 tgtag.io
 0.0.0.0 theadex.com
 0.0.0.0 theagency.com
+0.0.0.0 theardent.group
 0.0.0.0 thebestlinks.com
 0.0.0.0 thebrighttag.com
 0.0.0.0 thecounter.com
@@ -2436,6 +2445,7 @@
 0.0.0.0 visibility-stats.com
 0.0.0.0 visibli.com
 0.0.0.0 visioncriticalpanels.com
+0.0.0.0 visionsage.com
 0.0.0.0 visistat.com
 0.0.0.0 visitor-analytics.io
 0.0.0.0 visitor-analytics.net
@@ -2595,7 +2605,6 @@
 0.0.0.0 zdtag.com
 0.0.0.0 zedwhyex.com
 0.0.0.0 zeerat.com
-0.0.0.0 zengenti.com
 0.0.0.0 zeotap.com
 0.0.0.0 zesep.com
 0.0.0.0 zeustechnology.com
@@ -2624,7 +2633,9 @@
 0.0.0.0 danorenius.com
 0.0.0.0 digitalpush.org
 0.0.0.0 edrone.me
+0.0.0.0 feedify.net
 0.0.0.0 feraciumus.com
+0.0.0.0 fernomius.com
 0.0.0.0 fkondate.com
 0.0.0.0 foxpush.com
 0.0.0.0 foxpush.net
@@ -2633,12 +2644,14 @@
 0.0.0.0 getsupernova.com
 0.0.0.0 gravitec.net
 0.0.0.0 heroesdom.com
+0.0.0.0 highfalutinhoney.com
 0.0.0.0 jeeng.com
 0.0.0.0 kattepush.com
 0.0.0.0 master-push.com
 0.0.0.0 master-push.net
 0.0.0.0 misrepush.com
 0.0.0.0 moengage.com
+0.0.0.0 mp3vizor.com
 0.0.0.0 najva.com
 0.0.0.0 nativesubscribe.pro
 0.0.0.0 notifadz.com
@@ -2652,11 +2665,21 @@
 0.0.0.0 push-ad.com
 0.0.0.0 push-house.net
 0.0.0.0 pushalert.co
+0.0.0.0 pushbird.com
+0.0.0.0 pushbullet.com
 0.0.0.0 pushengage.com
+0.0.0.0 pushex.io
+0.0.0.0 pushify.com
+0.0.0.0 pushwoosh.com
 0.0.0.0 reprocautious.com
+0.0.0.0 sendpulse.com
+0.0.0.0 shroughtened.com
 0.0.0.0 snd.tc
 0.0.0.0 truepush.com
+0.0.0.0 urbanairship.com
 0.0.0.0 viapush.com
+0.0.0.0 wwclickserv.club
+0.0.0.0 wwclicktm.club
 0.0.0.0 xtremepush.com
 0.0.0.0 breaktime.com.tw
 0.0.0.0 brightedge.com
@@ -3213,6 +3236,7 @@
 0.0.0.0 shyseed.com
 0.0.0.0 sicksmash.com
 0.0.0.0 sinceresubstance.com
+0.0.0.0 smallbeginner.com
 0.0.0.0 smashsurprise.com
 0.0.0.0 smoggystation.com
 0.0.0.0 somberscarecrow.com
@@ -3748,7 +3772,6 @@
 0.0.0.0 leiki.com
 0.0.0.0 m-brain.fi
 0.0.0.0 netmonitor.fi
-0.0.0.0 reactandshare.com
 0.0.0.0 stat.www.fi
 0.0.0.0 vihtori-analytics.fi
 0.0.0.0 linkwi.se
@@ -4300,6 +4323,7 @@
 0.0.0.0 analyze.full-marke.com
 0.0.0.0 ape-tagit.timeinc.net
 0.0.0.0 api.wipmania.com
+0.0.0.0 app.launchdarkly.com
 0.0.0.0 app.link
 0.0.0.0 apple.www.letv.com
 0.0.0.0 argos.citruserve.com
@@ -4411,7 +4435,6 @@
 0.0.0.0 comms.thewhiskyexchange.com
 0.0.0.0 control.cityofcairns.com
 0.0.0.0 conversions.genieventures.co.uk
-0.0.0.0 convsgmp.taboola.com
 0.0.0.0 cookies.livepartners.com
 0.0.0.0 cookietracker.cloudapp.net
 0.0.0.0 cookiex.ngd.yahoo.com
@@ -4775,7 +4798,6 @@
 0.0.0.0 om.rogersmedia.com
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 open.delivery.net
-0.0.0.0 opps.taboola.com
 0.0.0.0 optimizely.appspot.com
 0.0.0.0 orts.wixawin.com
 0.0.0.0 p.adbrn.com
@@ -4944,6 +4966,7 @@
 0.0.0.0 stats.smartclip.net
 0.0.0.0 stats.topofblogs.com
 0.0.0.0 stats.twistage.com
+0.0.0.0 stats.varrando.com
 0.0.0.0 stats.viddler.com
 0.0.0.0 stats.webs.com
 0.0.0.0 stats.webstarts.com
@@ -4984,6 +5007,7 @@
 0.0.0.0 t.raptorsmartadvisor.com
 0.0.0.0 t.sgc.io
 0.0.0.0 t.sharethis.com
+0.0.0.0 t.signalayer.com
 0.0.0.0 t.smile.eu
 0.0.0.0 t2.t2b.click
 0.0.0.0 tag.aticdn.net
@@ -5146,7 +5170,6 @@
 0.0.0.0 uid.mavencoalition.io
 0.0.0.0 uim.tifbs.net
 0.0.0.0 upt.graphiq.com
-0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 utle.tech426.com
 0.0.0.0 v.shopify.com
@@ -5163,7 +5186,6 @@
 0.0.0.0 webstats.motigo.com
 0.0.0.0 webstats.thaindian.com
 0.0.0.0 webtracker.apicasystem.com
-0.0.0.0 wf.taboola.com
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.quantcast.com
 0.0.0.0 win.staticstuff.net
@@ -5173,6 +5195,11 @@
 0.0.0.0 wstat.wibiya.com
 0.0.0.0 x.weather.com
 0.0.0.0 zdlogs.sphereup.com
+0.0.0.0 convsgmp.taboola.com
+0.0.0.0 la-sync.taboola.com
+0.0.0.0 opps.taboola.com
+0.0.0.0 urc.taboolasyndication.com
+0.0.0.0 wf.taboola.com
 0.0.0.0 frog.wix.com$ping
 0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
 0.0.0.0 rc.vtex.com.br
@@ -5198,7 +5225,9 @@
 0.0.0.0 seal.networksolutions.com
 0.0.0.0 seal.verisign.com
 0.0.0.0 sealserver.trustwave.com
+0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 websecurity.norton.com
+0.0.0.0 widget.trustpilot.com
 0.0.0.0 widgets.trustedshops.com
 0.0.0.0 connatix.com
 0.0.0.0 analytics.audionow.de
@@ -5539,6 +5568,7 @@
 0.0.0.0 a.tovarro.com
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 banstat.nadavi.net
+0.0.0.0 browser-updater.yandex.net
 0.0.0.0 c.bigmir.net
 0.0.0.0 cnstats.cdev.eu
 0.0.0.0 cnt.logoslovo.ru
@@ -5574,6 +5604,7 @@
 0.0.0.0 stat.rum.cdnvideo.ru
 0.0.0.0 stat.sputnik.ru
 0.0.0.0 stat.tvigle.ru
+0.0.0.0 stats.embedcdn.cc
 0.0.0.0 stats.seedr.com
 0.0.0.0 stats.tazeros.com
 0.0.0.0 target.mirtesen.ru
@@ -5609,6 +5640,7 @@
 0.0.0.0 informers.sinoptik.ua
 0.0.0.0 analytics.yomedia.vn
 0.0.0.0 tracking.aita.gov.vn
+0.0.0.0 a2-eng.spankbang.com
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
@@ -5852,7 +5884,6 @@
 0.0.0.0 geo.nbcsports.com
 0.0.0.0 geo.play.it
 0.0.0.0 geo.yahoo.com
-0.0.0.0 geoapi.indiatimes.com
 0.0.0.0 geobeacon.ign.com
 0.0.0.0 geoip-lookup.vice.com
 0.0.0.0 geoip.al.com
@@ -5993,6 +6024,7 @@
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 origin-tracking.trulia.com
 0.0.0.0 origin.chron.com
+0.0.0.0 p2-eng.spankbang.com
 0.0.0.0 page-events-ustats.udemy.com
 0.0.0.0 pageinfo.motorsport.com
 0.0.0.0 partners.badongo.com
@@ -6314,7 +6346,6 @@
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.netzero.net
 0.0.0.0 track.ning.com
-0.0.0.0 track.pushbullet.com
 0.0.0.0 track.rediff.com
 0.0.0.0 track.searchiq.co
 0.0.0.0 track.slideshare.net
@@ -6907,6 +6938,7 @@
 0.0.0.0 stats.fd.nl
 0.0.0.0 webstatistieken.xs4all.nl
 0.0.0.0 analytics.sanoma.fi
+0.0.0.0 data.reactandshare.com
 0.0.0.0 events.il.fi
 0.0.0.0 stat.mtv3.fi
 0.0.0.0 bravo.israelweather.co.il
@@ -7002,6 +7034,7 @@
 0.0.0.0 tracker.publico.pt
 0.0.0.0 urchin.estadao.com.br
 0.0.0.0 ad7.bigmir.net
+0.0.0.0 affilate.hh.ru
 0.0.0.0 analytics.carambatv.ru
 0.0.0.0 counter.drom.ru
 0.0.0.0 counter.sibnet.ru
