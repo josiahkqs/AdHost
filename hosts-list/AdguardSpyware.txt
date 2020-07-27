@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Fri, 24 Jul 2020 09:54:11 +0800
+# Last converted - Mon, 27 Jul 2020 17:07:13 +0800
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -10,6 +10,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 adwstats.com
+0.0.0.0 smallbeginner.com
 0.0.0.0 omappapi.com
 0.0.0.0 beget.com
 0.0.0.0 pulsar.xlisting.jp
@@ -3134,6 +3136,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 plainplayground.com
 0.0.0.0 enviousshape.com
 0.0.0.0 calmcactus.com
 0.0.0.0 sinceresubstance.com
@@ -3424,6 +3427,9 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 event.prod.bidr.io
+0.0.0.0 webed.dm-event.net
+0.0.0.0 smetrics.nfl.com
 0.0.0.0 log000.goo.ne.jp
 0.0.0.0 bwb101.goo.ne.jp
 0.0.0.0 beacon.sojern.com
