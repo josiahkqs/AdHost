@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Fri, 24 Jul 2020 09:54:10 +0800
+# Last converted - Sun, 02 Aug 2020 12:17:37 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -127,6 +127,7 @@
 0.0.0.0 pushofferpro.com
 0.0.0.0 leechiza.net
 0.0.0.0 pushtora.com
+0.0.0.0 corported.com
 0.0.0.0 dgpcdn.org
 0.0.0.0 gerdonarium.com
 0.0.0.0 monstelenius.com
@@ -140,7 +141,6 @@
 0.0.0.0 getpush.org
 0.0.0.0 trenrasius.com
 0.0.0.0 aswpsdkus.com
-0.0.0.0 sereendipit.com
 0.0.0.0 pushkintop.ru
 0.0.0.0 amfeed.ru
 0.0.0.0 bosspush.com
@@ -186,7 +186,6 @@
 0.0.0.0 feraciumus.com
 0.0.0.0 select5.realpush.network
 0.0.0.0 tranqulitius.com
-0.0.0.0 quaruzon.com
 0.0.0.0 deltaction.com
 0.0.0.0 trenchenious.com
 0.0.0.0 tempersonic.com
@@ -336,6 +335,7 @@
 0.0.0.0 booster.webtradecenter.com
 0.0.0.0 widgets.digitalmediacommunications.com
 0.0.0.0 chat.sociomile.com
+0.0.0.0 chat.amplify.ai
 0.0.0.0 uberlaw.ru
 0.0.0.0 api.visitor.chat
 0.0.0.0 whisbi.com
@@ -402,7 +402,7 @@
 0.0.0.0 api.venyoo.ru
 0.0.0.0 cdn.callbackhunter.com
 0.0.0.0 cdn.krible.com
-0.0.0.0 chat.chatra.io
+0.0.0.0 chatra.io
 0.0.0.0 cleversite.ru
 0.0.0.0 code.blablateka.com
 0.0.0.0 consultsystems.ru
