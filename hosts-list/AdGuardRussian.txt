@@ -1,11 +1,26 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Mon, 27 Jul 2020 17:07:13 +0800
+# Last converted - Sun, 02 Aug 2020 12:17:38 +0800
 #
 
 0.0.0.0 takidd.site
+0.0.0.0 ipiech.com
+0.0.0.0 netflopin.com
+0.0.0.0 kataprius.com
+0.0.0.0 quaruzon.com
+0.0.0.0 kataprius.com
+0.0.0.0 ejhijgfghbeeidddadb.ru
+0.0.0.0 ghhioew.pro
+0.0.0.0 storage.onlinetv.media
+0.0.0.0 sereendipit.com
+0.0.0.0 sdmot.ru
+0.0.0.0 qfhzki.com
+0.0.0.0 ovnbnsf.pro
+0.0.0.0 talkmego.com
+0.0.0.0 erandex.com
 0.0.0.0 woryuc.com
+0.0.0.0 exobafrgdf.com
 0.0.0.0 ynyy83za4i.ru
 0.0.0.0 inpiza.com
 0.0.0.0 s6mf2ru8h1.ru
