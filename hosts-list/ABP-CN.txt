@@ -1,9 +1,11 @@
 # ABP-CN
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last converted - Sun, 02 Aug 2020 12:17:32 +0800
+# Last converted - Wed, 05 Aug 2020 23:35:40 +0800
 #
 
+0.0.0.0 jinxiuzhilv.com
+0.0.0.0 mi82ltk3veb7.com
 0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 0024aaaa.com
 0.0.0.0 00880808.com
@@ -1599,7 +1601,6 @@
 0.0.0.0 qbj8.com
 0.0.0.0 qbyy010.com
 0.0.0.0 qclcdn.cn
-0.0.0.0 qcupup.com
 0.0.0.0 qdchunyu.com
 0.0.0.0 qdsfzz.cn
 0.0.0.0 qdxrhg.com
@@ -2312,6 +2313,7 @@
 0.0.0.0 yy32.com
 0.0.0.0 yy58ju.com
 0.0.0.0 yyp17.com
+0.0.0.0 yyy6999.com
 0.0.0.0 yyylg.cn
 0.0.0.0 yzaosite.com
 0.0.0.0 yzh360.com
@@ -2957,6 +2959,7 @@
 0.0.0.0 bd100.010lm.com
 0.0.0.0 bd11.nipic.com
 0.0.0.0 bd3.chuiyue.com
+0.0.0.0 bd888.qizuang.com
 0.0.0.0 bdad.gaotie.net
 0.0.0.0 bdasd.chdbook.cn
 0.0.0.0 bdasd.chinabig.com.cn
@@ -3375,8 +3378,10 @@
 0.0.0.0 yunzuowen.com
 0.0.0.0 yx1.managershare.com
 0.0.0.0 yy1.fwccw.com
+0.0.0.0 z.tudouxy01.com
 0.0.0.0 z1.chezhuzhinan.com
 0.0.0.0 z1.cyla.cn
+0.0.0.0 z1.o8h7d.cn
 0.0.0.0 z1hihu.xmcimg.com
 0.0.0.0 zg.mmyuer.com
 0.0.0.0 zhihu.xmcimg.com
@@ -3487,6 +3492,10 @@
 0.0.0.0 runkao.net
 0.0.0.0 stunninglover.com
 0.0.0.0 watakaw133.xyz
+0.0.0.0 mytehui.cn
+0.0.0.0 sivide.cn
+0.0.0.0 sxehny.cn
+0.0.0.0 btbalex.cn
 0.0.0.0 01w47q.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
@@ -3510,6 +3519,7 @@
 0.0.0.0 0629ohfsx.xyz
 0.0.0.0 0706hjkv.xyz
 0.0.0.0 0713bzksl.xyz
+0.0.0.0 0727vjdl.xyz
 0.0.0.0 0755man.cn
 0.0.0.0 0851ok.com
 0.0.0.0 0923csfsteibv12.xyz
@@ -3596,7 +3606,6 @@
 0.0.0.0 605296.com
 0.0.0.0 606w.cn
 0.0.0.0 609623.com
-0.0.0.0 63xs.com:8016
 0.0.0.0 64ri.cn
 0.0.0.0 64si.com
 0.0.0.0 66992.top
@@ -3992,6 +4001,7 @@
 0.0.0.0 edumsys.com
 0.0.0.0 edysn.cn
 0.0.0.0 eeer.ren
+0.0.0.0 egesckx.cn
 0.0.0.0 ei4f.cn
 0.0.0.0 ejee.xyz
 0.0.0.0 ejeenews.com
@@ -4042,6 +4052,7 @@
 0.0.0.0 fjshxzyyxgs.cn
 0.0.0.0 fjtzjy.com
 0.0.0.0 fkkse.com
+0.0.0.0 fnwll.cn
 0.0.0.0 fnxmyx.cn
 0.0.0.0 focuscat.com
 0.0.0.0 foshou.pw
@@ -4416,6 +4427,7 @@
 0.0.0.0 l5wt3.cn
 0.0.0.0 laiye315.top
 0.0.0.0 lalaaal.cn
+0.0.0.0 lalaxit.cn
 0.0.0.0 laojiayoufang.com
 0.0.0.0 lawumi.cn
 0.0.0.0 lchar.com
@@ -4693,6 +4705,7 @@
 0.0.0.0 qlssbq.cn
 0.0.0.0 qmlcdlo.cn
 0.0.0.0 qneit.com
+0.0.0.0 qnpov.cn
 0.0.0.0 qqdashabi.top
 0.0.0.0 qqiat.com
 0.0.0.0 qrdqbe.cn
@@ -5029,6 +5042,7 @@
 0.0.0.0 wsvike.cn
 0.0.0.0 wsxxu.com
 0.0.0.0 wszzb.top
+0.0.0.0 wtnjupl.cn
 0.0.0.0 wuwuhh.top
 0.0.0.0 wuyanauto.com
 0.0.0.0 wuylp.com
@@ -5080,6 +5094,7 @@
 0.0.0.0 xmljx.cn
 0.0.0.0 xmndrx.cn
 0.0.0.0 xmseaside.com
+0.0.0.0 xmstcw.cn
 0.0.0.0 xn--2qu92fhtx4ff.club
 0.0.0.0 xn--2qu92fhtx4ff.gold
 0.0.0.0 xn--2qu92fhtx4ff.ink
@@ -5172,6 +5187,7 @@
 0.0.0.0 ynzby.cn
 0.0.0.0 yo34b.cn
 0.0.0.0 yokebao.com
+0.0.0.0 yoobest.cn
 0.0.0.0 youkete.cn
 0.0.0.0 youshouge513.cn
 0.0.0.0 youtui456.com
