@@ -1,7 +1,7 @@
 # AdguardAnnoyance
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/14.txt
-# Last converted - Sun, 02 Aug 2020 12:17:37 +0800
+# Last converted - Wed, 05 Aug 2020 23:35:43 +0800
 #
 
 0.0.0.0 ext-stat.ru
@@ -11,6 +11,7 @@
 0.0.0.0 ipepostman.com
 0.0.0.0 wb.whatsbroadcast.com
 0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
+0.0.0.0 additionant.com
 0.0.0.0 enviousshape.com
 0.0.0.0 calmcactus.com
 0.0.0.0 cannontwin.com
