@@ -1,11 +1,27 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Sun, 02 Aug 2020 12:17:38 +0800
+# Last converted - Wed, 05 Aug 2020 23:35:44 +0800
 #
 
 0.0.0.0 takidd.site
+0.0.0.0 eaenjwd1cmftxjk.ru
+0.0.0.0 gretavilis.com
+0.0.0.0 ttudsdf.pro
+0.0.0.0 tamerliqus.com
+0.0.0.0 wsbnk.com
+0.0.0.0 betsonsport.ru
+0.0.0.0 inoprosport.su
+0.0.0.0 g52bxi1v1w.com
+0.0.0.0 q5e40b17ii.ru
+0.0.0.0 y8z.org
+0.0.0.0 adward.agency
+0.0.0.0 budvawshes.ru
 0.0.0.0 ipiech.com
+0.0.0.0 bek5qstfnr.club
+0.0.0.0 newscode.online
+0.0.0.0 infocode.tech
+0.0.0.0 informer.link
 0.0.0.0 netflopin.com
 0.0.0.0 kataprius.com
 0.0.0.0 quaruzon.com
@@ -1924,7 +1940,6 @@
 0.0.0.0 iframepay.com
 0.0.0.0 igetsend.ru
 0.0.0.0 ignitna.info
-0.0.0.0 ignorelist.com
 0.0.0.0 igoistochka.ru
 0.0.0.0 igraplus.com
 0.0.0.0 igrayvmeste.ru
