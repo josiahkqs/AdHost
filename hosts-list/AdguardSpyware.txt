@@ -1,7 +1,7 @@
 # AdguardSpyware
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/3.txt
-# Last converted - Wed, 05 Aug 2020 23:35:44 +0800
+# Last converted - Fri, 07 Aug 2020 02:30:26 +0800
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 pxf.io
 0.0.0.0 eba-amadeus.netdna-ssl.com
 0.0.0.0 c.tvpixel.com
 0.0.0.0 ga-analytics.com
