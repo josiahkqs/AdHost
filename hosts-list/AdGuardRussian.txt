@@ -1,10 +1,16 @@
 # AdGuardRussian
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last converted - Wed, 05 Aug 2020 23:35:44 +0800
+# Last converted - Fri, 07 Aug 2020 02:30:24 +0800
 #
 
 0.0.0.0 takidd.site
+0.0.0.0 sehtjv.com
+0.0.0.0 budaicius.com
+0.0.0.0 badamareus.com
+0.0.0.0 honeenatrus.com
+0.0.0.0 95thalj5.ru
+0.0.0.0 haderilovas.com
 0.0.0.0 eaenjwd1cmftxjk.ru
 0.0.0.0 gretavilis.com
 0.0.0.0 ttudsdf.pro
@@ -3994,6 +4000,7 @@
 0.0.0.0 хельга.рф
 0.0.0.0 эхх.рф
 0.0.0.0 cpm.wargaming.net
+0.0.0.0 ad.erkiss.club
 0.0.0.0 d2dc2sk4vkh2xn.cloudfront.net
 0.0.0.0 mnfuk.chfpgcbe.com
 0.0.0.0 abid.w38store.ru
