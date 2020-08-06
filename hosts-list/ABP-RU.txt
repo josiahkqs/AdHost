@@ -1,7 +1,7 @@
 # ABP-RU
 #
 # Converted from - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last converted - Wed, 05 Aug 2020 23:35:43 +0800
+# Last converted - Fri, 07 Aug 2020 02:30:17 +0800
 #
 
 0.0.0.0 torrentum.ru
@@ -2100,6 +2100,7 @@
 0.0.0.0 2f61jupxdpv.space
 0.0.0.0 2gwzdkjrtb.ru
 0.0.0.0 2i829cwhe9gq.ru
+0.0.0.0 2iviminiontds.ru
 0.0.0.0 2lycosu.com
 0.0.0.0 2lycosy.com
 0.0.0.0 2rtl.info
@@ -7174,6 +7175,7 @@
 0.0.0.0 td9tgaersp.site
 0.0.0.0 tdeug.com
 0.0.0.0 tdkino.com
+0.0.0.0 tds-minionhelp.ru
 0.0.0.0 tds.io
 0.0.0.0 tdsantcrazy.ru
 0.0.0.0 tdsrmbl.net
