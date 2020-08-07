@@ -23,7 +23,6 @@ d33wubrfki0l68.cloudfront.net # Gov CDN
 deliveroo.com.sg # Food Delivery
 www.surveygizmo.com
 edge-mqtt.facebook.com # Facebook to function properly
-graph.facebook.com # FB mobile app to function properly
 api.pinterest.com # Pinterest app to function properly
 prod-rel-ffc-ccm.oobesaas.adobe.com # Adobe Creative Cloud to function properly
 lm.licenses.adobe.com # Adobe
@@ -31,5 +30,5 @@ s3-us-west-2.amazonaws.com # Amazon images CDN
 forms.gle # Google Forms
 b-graph.facebook.com # FB Pages Manager to function properly
 xp.apple.com # Apple Cert
-dmqdd6hw24ucf.cloudfront.net # AmazonVideo (maybe)
+dmqdd6hw24ucf.cloudfront.net # AmazonVideo
 
