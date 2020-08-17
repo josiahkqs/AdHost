@@ -2,36 +2,8 @@
 
 // Add our lists.
 $lists = array(
-
-	// ABP China
-	'ABP-CN' => 'https://easylist-downloads.adblockplus.org/easylistchina.txt',
-
-	// ABP Russia
-	'ABP-RU' => 'https://easylist-downloads.adblockplus.org/advblock.txt',
-
-	// Adguard Annoyance
-	'AdguardAnnoyance' => 'https://filters.adtidy.org/extension/chromium/filters/14.txt',
-
-	// AdGuard Russian
-	'AdGuardRussian' => 'https://filters.adtidy.org/extension/chromium/filters/1.txt',
-
-	// AdGuard Spyware
-	'AdguardSpyware' => 'https://filters.adtidy.org/extension/chromium/filters/3.txt',
-
-	// Disconnect Malvertising
-	'DisconnectMalvertising' => 'https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt',
-
-	// Easylist Privacy
-	'EasyPrivacy' => 'https://easylist.to/easylist/easyprivacy.txt',
-	
-	// Fanboy Enhanced Tracking
-	'FanboyEnhancedTracking' => 'https://www.fanboy.co.nz/enhancedstats.txt',
-
 	// Spam404
-	'Spam404' => 'https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt',
-
-	// xinggsf
-	'xinggsf' => 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt'
+	'Name' => 'URL',
 
 );
 
