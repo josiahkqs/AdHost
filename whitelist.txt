@@ -31,6 +31,3 @@ forms.gle # Google Forms
 b-graph.facebook.com # FB Pages Manager to function properly
 xp.apple.com # Apple Cert
 dmqdd6hw24ucf.cloudfront.net # AmazonVideo
-<!-- eum.instana.io # JS instance to load for Church Online Platform -->
-<!-- eum-us-west-2.instana.io # JS instance to load for Church Online Platform -->
-
