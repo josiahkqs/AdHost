@@ -34,4 +34,4 @@ dmqdd6hw24ucf.cloudfront.net # AmazonVideo
 eum.instana.io # JS instance to load for Church Online Platform
 eum-us-west-2.instana.io # JS instance to load for Church Online Platform
 forms.office.com # Microsoft Forms
-
+browser.pipe.aria.microsoft.com # Microsoft Mail
